@@ -6,10 +6,28 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>25 September, 2019</title>
+      <link>https://cloudchangelog.com/released/2019-09-25/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/released/2019-09-25/</guid>
+      <description> GCP Atom bank accelerates transformation with Google Cloud  </description>
+    </item>
+    
+    <item>
+      <title>24 September, 2019</title>
+      <link>https://cloudchangelog.com/released/2019-09-24/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/released/2019-09-24/</guid>
+      <description> AWS Introducing Batch Mode Processing for Amazon Comprehend Medical AWS AWS DataSync News – S3 Storage Class Support and Much More AWS Cloud-Powered, Next-Generation Banking Oracle NVIDIA, Docker, and GPU Cloud on Oracle Linux 7 GCP USAA and Google Cloud work together to speed auto claims Azure 12 TB VMs, Expanded SAP partnership on Blockchain, Azure Monitor for SAP Solutions Azure New Azure Blueprint enables SWIFT CSP compliance on Azure Azure Introducing cost-effective increment snapshots of Azure managed disks in preview   </description>
+    </item>
     
     <item>
       <title>23 September, 2019</title>
