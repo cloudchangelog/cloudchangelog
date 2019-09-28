@@ -6,10 +6,19 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>27 September, 2019</title>
+      <link>https://cloudchangelog.com/released/2019-09-27/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/released/2019-09-27/</guid>
+      <description> GCP 6 strategies for scaling your serverless applications GCP Data warehouse migration challenges and how to meet them GCP PNB: Investing in Malaysia’s future with APIs GCP How to deploy a Windows container on Google Kubernetes Engine  </description>
+    </item>
     
     <item>
       <title>26 September, 2019</title>
