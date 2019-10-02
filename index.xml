@@ -6,10 +6,19 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>01 October, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/10/01/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/10/01/</guid>
+      <description> GCP What’s the weather like? Using Colab to get more out of BigQuery GCP Extending Stackdriver Logging across clouds and providers with new BindPlane integration GCP Optimize your Google Cloud environment with new AI-based recommenders GCP Announcing updates to AutoML Vision Edge, AutoML Video, and Video Intelligence API  </description>
+    </item>
     
     <item>
       <title>30 September, 2019</title>
