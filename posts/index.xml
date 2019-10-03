@@ -6,10 +6,19 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>03 October, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/10/03/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/10/03/</guid>
+      <description> GCP Take time for discovery and assessment—and consider a partner—for a successful cloud migration GCP How to manage BigQuery flat-rate slots within a project GCP 4 steps to stop data exfiltration with Google Cloud Azure The key to a data-driven culture: Timely insights  </description>
+    </item>
     
     <item>
       <title>02 October, 2019</title>
