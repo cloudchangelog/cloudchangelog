@@ -6,10 +6,19 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>04 October, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/10/04/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/10/04/</guid>
+      <description> GCP Transitioning a typical engineering ops team into an SRE powerhouse GCP Last month today: GCP in September GCP Black Knight and the quest to conquer an ecosystem of partners, developers, and customers with Apigee  </description>
+    </item>
     
     <item>
       <title>03 October, 2019</title>
