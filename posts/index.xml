@@ -6,10 +6,23 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>08 October, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/10/08/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/10/08/</guid>
+      <description> EC2 High Memory Update – New 18 TB and 24 TB Instances
+03:31 PM &amp;#8226; AWS Amazon EC2 Bare Metal Launch
+ Introducing Azure Spring Cloud: fully managed service for Spring Boot microservices
+07:00 AM &amp;#8226; Azure Announcements
+  </description>
+    </item>
     
     <item>
       <title>07 October, 2019</title>
