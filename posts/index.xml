@@ -18,7 +18,12 @@
       
       <guid>https://cloudchangelog.com/posts/2019/10/11/</guid>
       <description> Compute Engine or Kubernetes Engine? New trainings teach you the basics of architecting on Google Cloud
-04:00 PM &amp;#8226; GCP Compute Engine Containers &amp;amp; Kubernetes  </description>
+04:00 PM &amp;#8226; GCP Compute Engine Containers &amp;amp; Kubernetes
+ Orchestrate Amazon Redshift-Based ETL workflows with AWS Step Functions and AWS Glue
+08:38 PM &amp;#8226; AWS Amazon Redshift Analytics
+ Integrating Security with DevOps on Oracle Cloud (Part 2 of 5) 
+07:53 PM &amp;#8226; Oracle Oracle Cloud Infrastructure Security
+  </description>
     </item>
     
     <item>
@@ -36,6 +41,16 @@
  Leveraging Cognitive Services to simplify inventory tracking
 09:00 AM &amp;#8226; Azure Cognitive Services Artificial Intelligence
  Now Available: Bare Metal Arm-Based EC2 Instances</description>
+    </item>
+    
+    <item>
+      <title>09 October, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/10/09/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/10/09/</guid>
+      <description> Running Java applications on Amazon EC2 A1 instances with Amazon Corretto
+05:50 PM &amp;#8226; AWS Amazon Corretto Amazon EC2  </description>
     </item>
     
     <item>
@@ -77,13 +92,13 @@
       <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2019/10/04/</guid>
-      <description> Transitioning a typical engineering ops team into an SRE powerhouse
+      <description>Transitioning a typical engineering ops team into an SRE powerhouse
 02:00 PM &amp;#8226; GCP DevOps &amp;amp; SRE Management Tools
  Last month today: GCP in September
 02:00 PM &amp;#8226; GCP
  Black Knight and the quest to conquer an ecosystem of partners, developers, and customers with Apigee
 02:00 PM &amp;#8226; GCP Apigee Financial Services
-  </description>
+ Update: Issue affecting HashiCorp Terraform resource deletions after the VPC Improvements to AWS Lambda</description>
     </item>
     
     <item>
@@ -156,7 +171,7 @@
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2019/09/27/</guid>
-      <description> 6 strategies for scaling your serverless applications
+      <description>6 strategies for scaling your serverless applications
 04:00 PM &amp;#8226; GCP Application Development Serverless
  Data warehouse migration challenges and how to meet them
 04:00 PM &amp;#8226; GCP Data Analytics
@@ -164,7 +179,7 @@
 04:00 PM &amp;#8226; GCP Apigee Financial Services
  How to deploy a Windows container on Google Kubernetes Engine
 04:00 PM &amp;#8226; GCP Containers &amp;amp; Kubernetes
-  </description>
+ Analyze Google Analytics data using Upsolver, Amazon Athena, and Amazon QuickSight</description>
     </item>
     
     <item>
@@ -189,7 +204,7 @@
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2019/09/24/</guid>
-      <description> Introducing Batch Mode Processing for Amazon Comprehend Medical
+      <description>Introducing Batch Mode Processing for Amazon Comprehend Medical
 11:07 PM &amp;#8226; AWS Amazon Comprehend Artificial Intelligence
  AWS DataSync News – S3 Storage Class Support and Much More
 11:07 PM &amp;#8226; AWS Amazon Simple Storage Services (S3) AWS DataSync
@@ -197,7 +212,7 @@
 09:27 PM &amp;#8226; AWS Financial Services Launch
  NVIDIA, Docker, and GPU Cloud on Oracle Linux 7
 04:00 PM &amp;#8226; Oracle Developer Tools Solutions
-  </description>
+ Visualizing Sensor Data in Amazon QuickSight</description>
     </item>
     
     <item>
@@ -207,7 +222,10 @@
       
       <guid>https://cloudchangelog.com/posts/2019/09/23/</guid>
       <description> Announcing Oracle Cloud Infrastructure Plugins for HashiCorp Vault
-06:12 PM &amp;#8226; Oracle Product News Security  </description>
+06:12 PM &amp;#8226; Oracle Product News Security
+ Automating notifications when AMI permissions change
+04:55 PM &amp;#8226; AWS Amazon EC2 AWS Lambda
+  </description>
     </item>
     
     <item>
@@ -216,8 +234,13 @@
       <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2019/09/20/</guid>
-      <description> Now Available – EC2 Instances (G4) with NVIDIA T4 Tensor Core GPUs
-04:17 PM &amp;#8226; AWS Amazon EC2 Launch  </description>
+      <description>Now Available – EC2 Instances (G4) with NVIDIA T4 Tensor Core GPUs
+04:17 PM &amp;#8226; AWS Amazon EC2 Launch
+ Upgrade your resume with the AWS Certified Big Data — Specialty Certification
+11:47 PM &amp;#8226; AWS Analytics AWS Big Data
+ Integrating an Inferencing Pipeline with NVIDIA DeepStream and the G4 Instance Family
+06:21 PM &amp;#8226; AWS
+ Secure your Amazon EMR cluster from unintentional network exposure with Block Public Access configuration</description>
     </item>
     
     <item>
@@ -226,13 +249,15 @@
       <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2019/09/18/</guid>
-      <description> New – Step Functions Support for Dynamic Parallelism
+      <description>New – Step Functions Support for Dynamic Parallelism
 07:55 PM &amp;#8226; AWS Application Services AWS Step Functions
  A10 Networks Enables Application Workloads in Oracle Cloud 
 01:00 PM &amp;#8226; Oracle Partners Solutions
  Adlib Software and Oracle Cloud Supercharge Customer Onboarding
 07:00 AM &amp;#8226; Oracle Customer Stories
-  </description>
+ Automating your lift-and-shift migration at no cost with CloudEndure Migration
+05:33 PM &amp;#8226; AWS Amazon EC2 CloudEndure Migration
+ Architecting multiple microservices behind a single domain with Amazon API Gateway</description>
     </item>
     
     <item>
@@ -267,16 +292,39 @@
     </item>
     
     <item>
+      <title>13 September, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/09/13/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/09/13/</guid>
+      <description> Federate Amazon QuickSight access with Okta
+04:09 PM &amp;#8226; AWS Amazon QuickSight Analytics  </description>
+    </item>
+    
+    <item>
+      <title>12 September, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/09/12/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/09/12/</guid>
+      <description> Using new vCPU-based On-Demand Instance limits with Amazon EC2
+04:30 PM &amp;#8226; AWS Amazon EC2  </description>
+    </item>
+    
+    <item>
       <title>11 September, 2019</title>
       <link>https://cloudchangelog.com/posts/2019/09/11/</link>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2019/09/11/</guid>
-      <description> Learn about AWS Services &amp;amp; Solutions – September AWS Online Tech Talks
+      <description>Learn about AWS Services &amp;amp; Solutions – September AWS Online Tech Talks
 09:15 PM &amp;#8226; AWS Amazon CloudFront Amazon DocumentDB
  Learn From Your VPC Flow Logs With Additional Meta-Data
 08:57 PM &amp;#8226; AWS Amazon VPC Launch
-  </description>
+ Create advanced insights using Level Aware Aggregations in Amazon QuickSight
+09:45 PM &amp;#8226; AWS Amazon QuickSight Analytics
+ Running AWS Infrastructure On Premises with AWS Outposts
+04:02 PM &amp;#8226; AWS AWS Outposts Compute</description>
     </item>
     
     <item>
@@ -290,13 +338,29 @@
     </item>
     
     <item>
+      <title>06 September, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/09/06/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/09/06/</guid>
+      <description> Implement perimeter security in Amazon EMR using Apache Knox
+11:28 PM &amp;#8226; AWS Amazon EMR Analytics
+ Sharing automated blueprints for Amazon ECS continuous delivery using AWS Service Catalog
+04:46 PM &amp;#8226; AWS Amazon EC2 Amazon Elastic Container Service
+  </description>
+    </item>
+    
+    <item>
       <title>05 September, 2019</title>
       <link>https://cloudchangelog.com/posts/2019/09/05/</link>
       <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2019/09/05/</guid>
       <description> Introducing the Newest AWS Heroes – September 2019
-06:17 PM &amp;#8226; AWS AWS Community Heroes  </description>
+06:17 PM &amp;#8226; AWS AWS Community Heroes
+ Run Spark applications with Docker using Amazon EMR 6.0.0 (Beta)
+09:42 PM &amp;#8226; AWS Amazon EMR Analytics
+  </description>
     </item>
     
     <item>
@@ -306,7 +370,22 @@
       
       <guid>https://cloudchangelog.com/posts/2019/09/04/</guid>
       <description> Optimize Storage Cost with Reduced Pricing for Amazon EFS Infrequent Access
-07:40 PM &amp;#8226; AWS Amazon Elastic File System (EFS) Launch  </description>
+07:40 PM &amp;#8226; AWS Amazon Elastic File System (EFS) Launch
+ Optimizing NGINX load balancing on Amazon EC2 A1 instances
+05:34 PM &amp;#8226; AWS Amazon EC2 Compute
+ Building and testing polyglot applications using AWS CodeBuild
+05:28 PM &amp;#8226; AWS AWS CodeBuild AWS CodePipeline
+  </description>
+    </item>
+    
+    <item>
+      <title>03 September, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/09/03/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/09/03/</guid>
+      <description> Announcing improved VPC networking for AWS Lambda functions
+06:48 PM &amp;#8226; AWS Amazon VPC AWS Lambda  </description>
     </item>
     
     <item>
@@ -316,7 +395,22 @@
       
       <guid>https://cloudchangelog.com/posts/2019/08/30/</guid>
       <description> Operational Insights for Containers and Containerized Applications
-07:32 PM &amp;#8226; AWS Amazon CloudWatch Launch  </description>
+07:32 PM &amp;#8226; AWS Amazon CloudWatch Launch
+ Extract Oracle OLTP data in real time with GoldenGate and query from Amazon Athena
+06:02 PM &amp;#8226; AWS Amazon Athena Amazon Managed Streaming for Apache Kafka
+ Deploying GitOps with Weave Flux and Amazon EKS
+04:46 PM &amp;#8226; AWS Amazon EC2 Container Registry Amazon Elastic Kubernetes Service
+  </description>
+    </item>
+    
+    <item>
+      <title>29 August, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/08/29/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/08/29/</guid>
+      <description> Automate Amazon Redshift cluster creation using AWS CloudFormation
+07:27 PM &amp;#8226; AWS Amazon Redshift AWS Big Data  </description>
     </item>
     
     <item>
@@ -359,7 +453,12 @@
       
       <guid>https://cloudchangelog.com/posts/2019/08/21/</guid>
       <description> Amazon Forecast – Now Generally Available
-10:07 PM &amp;#8226; AWS Amazon Forecast Artificial Intelligence  </description>
+10:07 PM &amp;#8226; AWS Amazon Forecast Artificial Intelligence
+ How to migrate a large data warehouse from IBM Netezza to Amazon Redshift with no downtime
+06:21 PM &amp;#8226; AWS Amazon Redshift Analytics
+ Perform biomedical informatics without a database using MIMIC-III data and Amazon Athena
+12:23 AM &amp;#8226; AWS Amazon Athena Analytics
+  </description>
     </item>
     
     <item>
@@ -369,7 +468,260 @@
       
       <guid>https://cloudchangelog.com/posts/2019/08/16/</guid>
       <description> Amazon Prime Day 2019 – Powered by AWS
-07:53 PM &amp;#8226; AWS Launch News  </description>
+07:53 PM &amp;#8226; AWS Launch News
+ Discover metadata with AWS Lake Formation: Part 2
+08:52 PM &amp;#8226; AWS AWS Big Data AWS Lake Formation
+  </description>
+    </item>
+    
+    <item>
+      <title>15 August, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/08/15/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/08/15/</guid>
+      <description> Discovering metadata with AWS Lake Formation: Part 1
+04:44 PM &amp;#8226; AWS AWS Big Data AWS Lake Formation  </description>
+    </item>
+    
+    <item>
+      <title>13 August, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/08/13/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/08/13/</guid>
+      <description> Introducing the capacity-optimized allocation strategy for Amazon EC2 Spot Instances
+01:25 AM &amp;#8226; AWS Amazon EC2 Auto Scaling  </description>
+    </item>
+    
+    <item>
+      <title>12 August, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/08/12/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/08/12/</guid>
+      <description> ICYMI: Serverless Q2 2019
+07:13 PM &amp;#8226; AWS Amazon API Gateway Amazon Aurora
+ Getting started with AWS Lake Formation
+06:56 PM &amp;#8226; AWS AWS Big Data AWS Lake Formation
+  </description>
+    </item>
+    
+    <item>
+      <title>08 August, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/08/08/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/08/08/</guid>
+      <description>Why AWS is the best place for your Windows workloads, and how Microsoft is changing their licensing to try to awkwardly force you into Azure
+11:52 PM &amp;#8226; AWS Compute
+ Integrate and deduplicate datasets using AWS Lake Formation FindMatches
+11:26 PM &amp;#8226; AWS AWS Big Data AWS Lake Formation
+ Build, secure, and manage data lakes with AWS Lake Formation
+11:13 PM &amp;#8226; AWS Analytics AWS Big Data</description>
+    </item>
+    
+    <item>
+      <title>02 August, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/08/02/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/08/02/</guid>
+      <description> Analyzing AWS WAF logs with Amazon ES, Amazon Athena, and Amazon QuickSight
+04:12 PM &amp;#8226; AWS Amazon Athena Amazon Elasticsearch Service*  </description>
+    </item>
+    
+    <item>
+      <title>27 July, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/07/27/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/07/27/</guid>
+      <description> Optimizing Amazon ECS task density using awsvpc network mode
+01:42 AM &amp;#8226; AWS Amazon EC2 Amazon EC2 Container Registry  </description>
+    </item>
+    
+    <item>
+      <title>24 July, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/07/24/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/07/24/</guid>
+      <description> Introducing AWS Chatbot: ChatOps for AWS
+11:43 PM &amp;#8226; AWS  </description>
+    </item>
+    
+    <item>
+      <title>01 March, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/03/01/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/03/01/</guid>
+      <description> Using AWS Lambda and Amazon SNS to Get File Change Notifications from AWS CodeCommit
+01:36 AM &amp;#8226; AWS Amazon CloudWatch Amazon Simple Notification Service (SNS)  </description>
+    </item>
+    
+    <item>
+      <title>22 February, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/02/22/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/02/22/</guid>
+      <description> Implementing GitFlow Using AWS CodePipeline, AWS CodeCommit, AWS CodeBuild, and AWS CodeDeploy
+06:43 PM &amp;#8226; AWS AWS CodeBuild AWS CodeCommit  </description>
+    </item>
+    
+    <item>
+      <title>21 February, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/02/21/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/02/21/</guid>
+      <description> Improve Build Performance and Save Time Using Local Caching in AWS CodeBuild
+06:32 PM &amp;#8226; AWS AWS CodeBuild Developer Tools  </description>
+    </item>
+    
+    <item>
+      <title>12 February, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/02/12/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/02/12/</guid>
+      <description> Using Git with AWS CodeCommit Across Multiple AWS Accounts
+09:06 AM &amp;#8226; AWS AWS CLI AWS CodeCommit  </description>
+    </item>
+    
+    <item>
+      <title>11 February, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/02/11/</link>
+      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/02/11/</guid>
+      <description> Validating AWS CodeCommit Pull Requests with AWS CodeBuild and AWS Lambda
+05:01 PM &amp;#8226; AWS AWS CodeBuild AWS CodeCommit  </description>
+    </item>
+    
+    <item>
+      <title>30 January, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/01/30/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/01/30/</guid>
+      <description> How to Use Cross-Account ECR Images in AWS CodeBuild for Your Build Environment
+12:39 AM &amp;#8226; AWS Amazon EC2 Container Registry AWS CodeBuild  </description>
+    </item>
+    
+    <item>
+      <title>28 January, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/01/28/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/01/28/</guid>
+      <description> How to Use Docker Images from a Private Registry for Your Build Environment
+08:04 PM &amp;#8226; AWS AWS CodeBuild Developer Tools  </description>
+    </item>
+    
+    <item>
+      <title>27 November, 2018</title>
+      <link>https://cloudchangelog.com/posts/2018/11/27/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2018/11/27/</guid>
+      <description> Use AWS CodeDeploy to Implement Blue/Green Deployments for AWS Fargate and Amazon ECS
+11:26 PM &amp;#8226; AWS Amazon Elastic Container Service AWS CodeDeploy
+ Build a Continuous Delivery Pipeline for Your Container Images with Amazon ECR as Source
+11:26 PM &amp;#8226; AWS Amazon EC2 Container Registry Amazon Elastic Container Service
+  </description>
+    </item>
+    
+    <item>
+      <title>23 November, 2018</title>
+      <link>https://cloudchangelog.com/posts/2018/11/23/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2018/11/23/</guid>
+      <description> Using AWS CodePipeline to Perform Multi-Region Deployments
+10:59 PM &amp;#8226; AWS AWS CodePipeline AWS CloudFormation  </description>
+    </item>
+    
+    <item>
+      <title>15 October, 2018</title>
+      <link>https://cloudchangelog.com/posts/2018/10/15/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2018/10/15/</guid>
+      <description> New – How to better monitor your custom application metrics using Amazon CloudWatch Agent
+06:56 PM &amp;#8226; AWS Amazon CloudWatch DevOps  </description>
+    </item>
+    
+    <item>
+      <title>05 October, 2018</title>
+      <link>https://cloudchangelog.com/posts/2018/10/05/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2018/10/05/</guid>
+      <description> Using Federated Identities with AWS CodeCommit
+07:03 PM &amp;#8226; AWS AWS CodeCommit  </description>
+    </item>
+    
+    <item>
+      <title>04 October, 2018</title>
+      <link>https://cloudchangelog.com/posts/2018/10/04/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2018/10/04/</guid>
+      <description> How to Test and Debug AWS CodeDeploy Locally Before You Ship Your Code
+11:14 PM &amp;#8226; AWS AWS CodeDeploy Developer Tools  </description>
+    </item>
+    
+    <item>
+      <title>03 October, 2018</title>
+      <link>https://cloudchangelog.com/posts/2018/10/03/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2018/10/03/</guid>
+      <description> Building an Amazon CloudWatch Dashboard Outside of the AWS Management Console
+12:19 AM &amp;#8226; AWS Amazon CloudWatch DevOps  </description>
+    </item>
+    
+    <item>
+      <title>25 September, 2018</title>
+      <link>https://cloudchangelog.com/posts/2018/09/25/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2018/09/25/</guid>
+      <description> Reduce Time to Resolution with Amazon CloudWatch Snapshot Graphs and Alerts
+07:43 PM &amp;#8226; AWS Amazon CloudWatch DevOps  </description>
+    </item>
+    
+    <item>
+      <title>18 September, 2018</title>
+      <link>https://cloudchangelog.com/posts/2018/09/18/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2018/09/18/</guid>
+      <description> How to Run Headless Front-End Tests with AWS Cloud9 and AWS CodeBuild
+11:17 PM &amp;#8226; AWS AWS CodeBuild Developer Tools  </description>
+    </item>
+    
+    <item>
+      <title>25 May, 2018</title>
+      <link>https://cloudchangelog.com/posts/2018/05/25/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2018/05/25/</guid>
+      <description> Extending AWS CodeBuild with Custom Build Environments for the .NET Framework
+05:29 PM &amp;#8226; AWS AWS CodeBuild  </description>
+    </item>
+    
+    <item>
+      <title>24 May, 2018</title>
+      <link>https://cloudchangelog.com/posts/2018/05/24/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2018/05/24/</guid>
+      <description> Integrating JFrog Artifactory with AWS CodePipeline
+05:58 PM &amp;#8226; AWS AWS CodePipeline artifactory  </description>
     </item>
     
   </channel>
