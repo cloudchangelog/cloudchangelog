@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>16 October, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/10/16/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/10/16/</guid>
+      <description> How the cloud can drive economic growth in APAC (and everywhere)
+01:00 AM &amp;#8226; GCP Customers Research  </description>
+    </item>
     
     <item>
       <title>15 October, 2019</title>
@@ -18,7 +28,10 @@
       
       <guid>https://cloudchangelog.com/posts/2019/10/15/</guid>
       <description> Migration Complete – Amazon’s Consumer Business Just Turned off its Final Oracle Database
-01:28 PM &amp;#8226; AWS Database Launch  </description>
+01:28 PM &amp;#8226; AWS Database Launch
+ Microsoft Azure AI hackathon’s winning projects
+03:00 PM &amp;#8226; Azure Events Artificial Intelligence
+  </description>
     </item>
     
     <item>
