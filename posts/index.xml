@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>17 October, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/10/17/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/10/17/</guid>
+      <description> Notifications Service Launches Integration with HTTPS Endpoints
+12:37 AM &amp;#8226; Oracle Product News  </description>
+    </item>
     
     <item>
       <title>16 October, 2019</title>
@@ -17,13 +27,14 @@
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2019/10/16/</guid>
-      <description> How the cloud can drive economic growth in APAC (and everywhere)
+      <description>How the cloud can drive economic growth in APAC (and everywhere)
 01:00 AM &amp;#8226; GCP Customers Research
  Stay in control of your security with new product enhancements in Google Cloud
 04:30 PM &amp;#8226; GCP Solutions and How-to&amp;#39;s Identity &amp;amp; Security
  Trusted Cloud: security, privacy, compliance, resiliency, and IP
 09:00 AM &amp;#8226; Azure Security
-  </description>
+ Now Available – Amazon Relational Database Service (RDS) on VMware
+10:59 PM &amp;#8226; AWS Amazon RDS Launch</description>
     </item>
     
     <item>
