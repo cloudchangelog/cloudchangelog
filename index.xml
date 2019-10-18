@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>18 October, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/10/18/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/10/18/</guid>
+      <description>Make your voice heard in the Global Knowledge 2020 IT Skills and Salary Survey
+04:30 PM &amp;#8226; GCP Training and Certifications
+ How ironSource built a multi-purpose data lake with Upsolver, Amazon S3, and Amazon Athena
+04:17 PM &amp;#8226; AWS Amazon Athena Analytics
+ Grafana and BigQuery: Together at last
+04:00 PM &amp;#8226; GCP Data Analytics
+ Knock, knock, who&amp;rsquo;s there? It&amp;rsquo;s Guidion, bringing timely service calls with APIs</description>
+    </item>
     
     <item>
       <title>17 October, 2019</title>
