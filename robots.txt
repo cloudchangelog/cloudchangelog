@@ -1,2 +1,3 @@
+Sitemap: https://cloudchangelog.com/sitemap.xml
 User-agent: *
 Disallow:
