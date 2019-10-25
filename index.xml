@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>25 October, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/10/25/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/10/25/</guid>
+      <description>Access and manage data from multiple accounts from a central AWS Lake Formation account
+04:30 PM &amp;#8226; AWS Amazon Athena Analytics
+ Exploring Container Security: Vulnerability management in open-source Kubernetes
+04:00 PM &amp;#8226; GCP Identity &amp;amp; Security Exploring Container Security
+ What can Google Cloud do for you? New trainings for business professionals
+04:00 PM &amp;#8226; GCP Training and Certifications
+ Updates make Cloud AI platform faster and more flexible</description>
+    </item>
     
     <item>
       <title>24 October, 2019</title>
