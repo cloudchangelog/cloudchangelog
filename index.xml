@@ -6,10 +6,26 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>29 October, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/10/29/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/10/29/</guid>
+      <description>Managing domain membership of dynamic fleet of EC2 instances
+04:30 PM &amp;#8226; AWS
+ App Engine Java 11 is GA—deploy a JAR, scale it, all fully managed
+04:00 PM &amp;#8226; GCP Compute Serverless
+ Bring Your Own IP addresses: the secret to Bitly’s shortened cloud migration
+04:00 PM &amp;#8226; GCP Customers Networking
+ Setting up a CI/CD pipeline by integrating Jenkins with AWS CodeBuild and AWS CodeDeploy
+03:37 PM &amp;#8226; AWS AWS CloudFormation AWS CodeBuild</description>
+    </item>
     
     <item>
       <title>28 October, 2019</title>
