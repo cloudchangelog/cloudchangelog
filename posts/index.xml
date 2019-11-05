@@ -6,10 +6,26 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>05 November, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/11/05/</link>
+      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/11/05/</guid>
+      <description>Processing batch jobs quickly, cost-efficiently, and reliably with Amazon EC2 On-Demand and Spot Instances
+05:57 PM &amp;#8226; AWS Amazon EC2 AWS Batch
+ Get the word out: AutoML Translation goes GA, plus updates to Translation API
+05:30 PM &amp;#8226; GCP AI &amp;amp; Machine Learning
+ Last month today: GCP in October
+05:30 PM &amp;#8226; GCP
+ Partnering with Nutanix to run Windows and Linux desktop apps on GCP
+05:00 PM &amp;#8226; GCP</description>
+    </item>
     
     <item>
       <title>04 November, 2019</title>
