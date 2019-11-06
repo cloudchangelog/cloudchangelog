@@ -6,10 +6,23 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>06 November, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/11/06/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/11/06/</guid>
+      <description> Serverless for the enterprise with Microsoft Azure
+06:30 AM &amp;#8226; Azure Serverless
+ Success in the cloud: Microsoft Cloud Adoption Framework for Azure
+06:00 AM &amp;#8226; Azure Cloud Strategy
+  </description>
+    </item>
     
     <item>
       <title>05 November, 2019</title>
