@@ -6,10 +6,27 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>13 November, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/11/13/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/11/13/</guid>
+      <description> Announcing Network Intelligence Center—towards proactive network operations
+05:00 PM &amp;#8226; GCP Management Tools Networking
+ Monitor cloud costs and create budgets at scale
+05:00 PM &amp;#8226; GCP Management Tools
+ New – Import Existing Resources into a CloudFormation Stack
+04:10 PM &amp;#8226; AWS AWS CloudFormation Infrastructure &amp;amp; Automation
+ Azure Container Registry: preview of repository-scoped permissions
+09:00 AM &amp;#8226; Azure
+  </description>
+    </item>
     
     <item>
       <title>12 November, 2019</title>
