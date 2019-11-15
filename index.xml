@@ -17,13 +17,13 @@
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2019/11/15/</guid>
-      <description> Introducing Batch on GKE—modernizing HPC with Kubernetes in the cloud
-05:00 PM &amp;#8226; GCP Containers &amp;amp; Kubernetes HPC
- Simplify management of Amazon Redshift clusters with the Redshift console
-04:18 PM &amp;#8226; AWS Amazon Redshift Analytics
- Connecting Oracle Cloud Infrastructure to Amazon VPC with Megaport Cloud Router
-01:32 AM &amp;#8226; Oracle Oracle Cloud Infrastructure Solutions
-  </description>
+      <description>Oracle Cloud Infrastructure and Rescale: Simplifying HPC in the Cloud
+08:25 PM &amp;#8226; Oracle Partners Solutions
+ Leave manual cluster resizing behind with Cloud Dataproc’s autoscaling
+08:00 PM &amp;#8226; GCP Data Analytics
+ Designing durable serverless apps with DLQs for Amazon SNS, Amazon SQS, AWS Lambda
+07:09 PM &amp;#8226; AWS Amazon Simple Notification Service (SNS) Amazon Simple Queue Service (SQS)
+ New – Insert, Update, Delete Data on S3 with Amazon EMR and Apache Hudi</description>
     </item>
     
     <item>
