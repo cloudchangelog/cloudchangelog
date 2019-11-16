@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>16 November, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/11/16/</link>
+      <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/11/16/</guid>
+      <description> Now available: Batch Recommendations in Amazon Personalize
+02:15 AM &amp;#8226; AWS Amazon Personalize Artificial Intelligence  </description>
+    </item>
     
     <item>
       <title>15 November, 2019</title>
