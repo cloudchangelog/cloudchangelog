@@ -17,15 +17,14 @@
       <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2019/11/18/</guid>
-      <description>Deploy Lustre File System on Oracle Cloud Infrastructure
-08:39 PM &amp;#8226; Oracle Partners Solutions
- Announcing Firelens – A New Way to Manage Container Logs
-06:57 PM &amp;#8226; AWS Containers Launch
- Helping Our Customers Migrate to the Cloud: Google Acquires CloudSimple
-05:00 PM &amp;#8226; GCP Hybrid Cloud Inside Google Cloud
- Bringing Hibernate ORM to Cloud Spanner for database adoption
-05:00 PM &amp;#8226; GCP Databases
- Multi-tenancy support in Identity Platform, now generally available</description>
+      <description>CloudFormation Update – CLI + Third-Party Resource Support + Registry
+10:38 PM &amp;#8226; AWS AWS CloudFormation Launch
+ Java 11 runtime now available in AWS Lambda
+09:24 PM &amp;#8226; AWS Amazon Corretto AWS Java Development
+ Node.js 12.x runtime now available in AWS Lambda
+09:23 PM &amp;#8226; AWS AWS Lambda AWS SDK for JavaScript in Node.js
+ Python 3.8 runtime now available in AWS Lambda
+09:23 PM &amp;#8226; AWS AWS Lambda AWS SDK for Python</description>
     </item>
     
     <item>
