@@ -17,11 +17,14 @@
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2019/11/22/</guid>
-      <description> Migration to AWS CodeCommit, AWS CodePipeline and AWS CodeBuild From GitLab
-05:30 PM &amp;#8226; AWS AWS CodeBuild AWS CodeCommit
- Google Kubernetes Engine or Cloud Run: which should you use?
-05:00 PM &amp;#8226; GCP Serverless Containers &amp;amp; Kubernetes
-  </description>
+      <description>Application integration patterns for microservices: Fan-out strategies
+07:20 PM &amp;#8226; AWS Amazon Simple Notification Service (SNS) Amazon Simple Queue Service (SQS)
+ Understanding asynchronous messaging for microservices
+07:19 PM &amp;#8226; AWS Amazon Simple Notification Service (SNS) Amazon Simple Queue Service (SQS)
+ Using Spatial Data with Amazon Redshift
+07:07 PM &amp;#8226; AWS Amazon Redshift Analytics
+ Migration to AWS CodeCommit, AWS CodePipeline and AWS CodeBuild From GitLab
+05:30 PM &amp;#8226; AWS AWS CodeBuild AWS CodeCommit</description>
     </item>
     
     <item>
