@@ -17,14 +17,14 @@
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2019/11/22/</guid>
-      <description>Application integration patterns for microservices: Fan-out strategies
+      <description>Migrating from IBM MQ to Amazon MQ using a phased approach
+11:15 PM &amp;#8226; AWS Amazon MQ Messaging
+ Evolve your analytics with Amazon QuickSight’s new APIs and theming capabilities
+10:24 PM &amp;#8226; AWS Amazon QuickSight Analytics
+ Application integration patterns for microservices: Fan-out strategies
 07:20 PM &amp;#8226; AWS Amazon Simple Notification Service (SNS) Amazon Simple Queue Service (SQS)
  Understanding asynchronous messaging for microservices
-07:19 PM &amp;#8226; AWS Amazon Simple Notification Service (SNS) Amazon Simple Queue Service (SQS)
- Using Spatial Data with Amazon Redshift
-07:07 PM &amp;#8226; AWS Amazon Redshift Analytics
- Migration to AWS CodeCommit, AWS CodePipeline and AWS CodeBuild From GitLab
-05:30 PM &amp;#8226; AWS AWS CodeBuild AWS CodeCommit</description>
+07:19 PM &amp;#8226; AWS Amazon Simple Notification Service (SNS) Amazon Simple Queue Service (SQS)</description>
     </item>
     
     <item>
