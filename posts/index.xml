@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>23 November, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/11/23/</link>
+      <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/11/23/</guid>
+      <description> New for Identity Federation – Use Employee Attributes for Access Control in AWS
+01:25 AM &amp;#8226; AWS AWS Identity and Access Management (IAM) Launch  </description>
+    </item>
     
     <item>
       <title>22 November, 2019</title>
