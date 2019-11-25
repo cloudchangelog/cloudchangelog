@@ -6,10 +6,23 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>25 November, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/11/25/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/11/25/</guid>
+      <description> Deploying applications at FINRA using AWS CodeDeploy
+05:06 PM &amp;#8226; AWS Adoption AWS CloudFormation
+ Understanding Google Cloud Armor’s new WAF capabilities
+05:00 PM &amp;#8226; GCP Networking Identity &amp;amp; Security
+  </description>
+    </item>
     
     <item>
       <title>23 November, 2019</title>
