@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>27 November, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/11/27/</link>
+      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/11/27/</guid>
+      <description>New for Amazon Aurora – Use Machine Learning Directly From Your Databases
+12:47 AM &amp;#8226; AWS Amazon Aurora Amazon Comprehend
+ Extract, Transform and Load data into S3 data lake using CTAS and INSERT INTO statements in Amazon Athena
+12:24 AM &amp;#8226; AWS Amazon Athena Analytics
+ Connect Amazon Athena to your Apache Hive Metastore and use user-defined functions
+12:22 AM &amp;#8226; AWS Amazon Athena Analytics
+ Prepare data for model-training and invoke machine learning models with Amazon Athena</description>
+    </item>
     
     <item>
       <title>26 November, 2019</title>
