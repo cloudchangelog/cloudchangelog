@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>02 December, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/12/02/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/12/02/</guid>
+      <description>AWS Launches &amp;amp; Previews at re:Invent 2019 – Sunday, December 1st
+08:06 AM &amp;#8226; AWS AWS re:Invent Launch
+ Amazon Transcribe Medical – Real-Time Automatic Speech Recognition for Healthcare Customers
+08:06 AM &amp;#8226; AWS Amazon Transcribe AWS re:Invent
+ Automate OS Image Build Pipelines with EC2 Image Builder
+08:05 AM &amp;#8226; AWS Amazon EC2 AWS re:Invent
+ A New, Simplified, Bring-Your-Own-License Experience for Microsoft Windows Server and SQL Server</description>
+    </item>
     
     <item>
       <title>01 December, 2019</title>
