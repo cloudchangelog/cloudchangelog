@@ -6,10 +6,26 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>04 December, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/12/04/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/12/04/</guid>
+      <description>AWS Launches &amp;amp; Previews at re:Invent 2019 – Tuesday, December 3rd
+02:19 AM &amp;#8226; AWS AWS re:Invent Launch
+ Accelerate migration and modernization of Windows Server workloads with AWS MAP for Windows
+12:33 AM &amp;#8226; AWS
+ Using Amazon RDS Proxy with AWS Lambda
+12:31 AM &amp;#8226; AWS Amazon RDS AWS Lambda
+ New – AWS Step Functions Express Workflows: High Performance &amp;amp; Low Cost
+12:28 AM &amp;#8226; AWS AWS Step Functions Launch</description>
+    </item>
     
     <item>
       <title>03 December, 2019</title>
