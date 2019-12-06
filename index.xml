@@ -6,10 +6,23 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>06 December, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/12/06/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/12/06/</guid>
+      <description> Expanding the serverless ecosystem for Cloud Run
+05:00 PM &amp;#8226; GCP Serverless Partners
+ Protecting your GCP infrastructure with Forseti Config Validator part four: Using Terraform Validator
+05:00 PM &amp;#8226; GCP Identity &amp;amp; Security
+  </description>
+    </item>
     
     <item>
       <title>05 December, 2019</title>
