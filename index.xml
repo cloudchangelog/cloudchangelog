@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>09 December, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/12/09/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/12/09/</guid>
+      <description> Modernize your apps with Migrate for Anthos
+03:00 PM &amp;#8226; GCP Containers &amp;amp; Kubernetes Cloud Migration  </description>
+    </item>
     
     <item>
       <title>06 December, 2019</title>
