@@ -6,10 +6,27 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 December, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/12/10/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/12/10/</guid>
+      <description>8 production-ready features you’ll find in Cloud Run fully managed
+05:00 PM &amp;#8226; GCP Containers &amp;amp; Kubernetes Serverless
+ Packet Mirroring: Visualize and protect your cloud network
+05:00 PM &amp;#8226; GCP Customers Identity &amp;amp; Security
+ Oracle Streaming Becomes Kafka Compatible
+03:00 PM &amp;#8226; Oracle
+ Microsoft partner ANSYS extends ability of Azure Digital Twins platform
+09:00 AM &amp;#8226; Azure Internet of Things
+ Introducing maintenance control for platform updates</description>
+    </item>
     
     <item>
       <title>09 December, 2019</title>
