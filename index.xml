@@ -6,10 +6,27 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>11 December, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/12/11/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/12/11/</guid>
+      <description> Introducing E2, new cost-optimized general purpose VMs for Google Compute Engine
+05:01 PM &amp;#8226; GCP Compute
+ Performance-driven dynamic resource management in E2 VMs
+05:00 PM &amp;#8226; GCP Compute
+ What’s new in Cloud Run for Anthos
+05:00 PM &amp;#8226; GCP Compute Hybrid Cloud
+ Azure Sphere guardian module simplifies &amp;amp; secures brownfield IoT
+08:00 AM &amp;#8226; Azure Internet of Things
+  </description>
+    </item>
     
     <item>
       <title>10 December, 2019</title>
@@ -21,9 +38,9 @@
 09:00 PM &amp;#8226; Oracle Developer Tools Oracle Cloud Infrastructure
  Announcing Multiple-Instance Attachment of Shareable Read/Write Block Volumes
 07:10 PM &amp;#8226; Oracle Customer Stories Developer Tools
- 8 production-ready features you’ll find in Cloud Run fully managed
-05:00 PM &amp;#8226; GCP Containers &amp;amp; Kubernetes Serverless
- Packet Mirroring: Visualize and protect your cloud network</description>
+ Exploring container security: Performing forensics on your GKE environment
+07:00 PM &amp;#8226; GCP Identity &amp;amp; Security GKE
+ 8 production-ready features you’ll find in Cloud Run fully managed</description>
     </item>
     
     <item>
