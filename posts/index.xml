@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>12 December, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/12/12/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/12/12/</guid>
+      <description> Introducing Storage Transfer Service for on-premises data
+05:00 PM &amp;#8226; GCP Storage &amp;amp; Data Transfer
+ Discover insights from text with AutoML Natural Language, now generally available
+05:00 PM &amp;#8226; GCP AutoML AI &amp;amp; Machine Learning
+ Integrating SonarCloud with AWS CodePipeline using AWS CodeBuild
+04:00 PM &amp;#8226; AWS AWS CodeBuild AWS CodeCommit
+  </description>
+    </item>
     
     <item>
       <title>11 December, 2019</title>
