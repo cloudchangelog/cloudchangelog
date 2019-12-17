@@ -6,10 +6,26 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>17 December, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/12/17/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/12/17/</guid>
+      <description>Under the hood: Scaling your Kinesis data streams
+05:40 PM &amp;#8226; AWS Amazon Kinesis Amazon Kinesis Video Streams
+ File storage made easier with NetApp Cloud Volumes, now GA
+05:00 PM &amp;#8226; GCP Storage &amp;amp; Data Transfer
+ BeyondProd: How Google moved from perimeter-based to cloud-native security
+05:00 PM &amp;#8226; GCP Identity &amp;amp; Security
+ Microsoft is a leader in The Forrester Wave™: Streaming Analytics, Q3 2019
+09:00 AM &amp;#8226; Azure Big Data Internet of Things</description>
+    </item>
     
     <item>
       <title>16 December, 2019</title>
