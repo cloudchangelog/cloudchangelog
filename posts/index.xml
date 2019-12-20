@@ -6,10 +6,27 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20 December, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/12/20/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/12/20/</guid>
+      <description> Opening doors, embracing change with cloud data warehouses
+05:30 PM &amp;#8226; GCP Data Analytics
+ Google Cloud: Supporting our customers with the California Consumer Privacy Act (CCPA)
+05:00 PM &amp;#8226; GCP Compliance Identity &amp;amp; Security
+ Kubernetes Podcast in 2019: year-end recap
+05:00 PM &amp;#8226; GCP Containers &amp;amp; Kubernetes
+ Accelerate GCP Foundation Buildout with automation
+05:00 PM &amp;#8226; GCP DevOps &amp;amp; SRE
+  </description>
+    </item>
     
     <item>
       <title>19 December, 2019</title>
