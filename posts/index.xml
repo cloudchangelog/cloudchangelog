@@ -6,10 +6,23 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>02 January, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/01/02/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/01/02/</guid>
+      <description> Start 2020 off right with these New Year’s tech resolutions
+05:00 PM &amp;#8226; GCP
+ Maximize data ingestion and reporting performance on Amazon Redshift
+04:34 PM &amp;#8226; AWS Amazon Redshift Analytics
+  </description>
+    </item>
     
     <item>
       <title>31 December, 2019</title>
