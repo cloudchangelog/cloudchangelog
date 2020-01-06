@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>06 January, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/01/06/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/01/06/</guid>
+      <description> Connect to your VPC and managed Redis from App Engine and Cloud Functions
+05:30 PM &amp;#8226; GCP Compute Serverless
+ Orchestrating a security incident response with AWS Step Functions
+03:42 PM &amp;#8226; AWS AWS Identity and Access Management (IAM) AWS Lambda
+ Azure Cost Management 2019 year in review
+08:00 AM &amp;#8226; Azure Management Updates
+  </description>
+    </item>
     
     <item>
       <title>03 January, 2020</title>
