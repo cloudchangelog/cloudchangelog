@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>09 January, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/01/09/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/01/09/</guid>
+      <description> Trying cloud on for size: URBN’s Nuuly builds from scratch with Google Cloud
+05:00 PM &amp;#8226; GCP Retail Customers
+ Exploratory data analysis, feature selection for better ML models
+05:00 PM &amp;#8226; GCP Data Analytics AI &amp;amp; Machine Learning
+ Join us at Google Cloud Next ‘20: April 6-8 in SF
+05:00 PM &amp;#8226; GCP G Suite Events
+  </description>
+    </item>
     
     <item>
       <title>08 January, 2020</title>
