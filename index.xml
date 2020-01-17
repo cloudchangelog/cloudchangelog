@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>17 January, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/01/17/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/01/17/</guid>
+      <description> Want to use AutoML Tables from a Jupyter Notebook? Here’s how
+05:00 PM &amp;#8226; GCP AutoML AI &amp;amp; Machine Learning  </description>
+    </item>
     
     <item>
       <title>16 January, 2020</title>
