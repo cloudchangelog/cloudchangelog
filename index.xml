@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>28 January, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/01/28/</link>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/01/28/</guid>
+      <description> Unify Kubernetes and GCP resources for simpler and faster deployments
+05:00 PM &amp;#8226; GCP DevOps &amp;amp; SRE Containers &amp;amp; Kubernetes
+ 10 top tips: Unleash your BigQuery superpowers
+05:00 PM &amp;#8226; GCP BigQuery Data Analytics
+ Assess your servers with a CSV import into Azure Migrate
+09:00 AM &amp;#8226; Azure Cloud Strategy
+  </description>
+    </item>
     
     <item>
       <title>27 January, 2020</title>
@@ -19,13 +34,12 @@
       <guid>https://cloudchangelog.com/posts/2020/01/27/</guid>
       <description>Update on Amazon Linux AMI end-of-life
 11:04 PM &amp;#8226; AWS Amazon EC2 Compute
+ Using the GitLab CI/CD Pipelines Integrated Workflow To Build, Test, Deploy, and Monitor Your &amp;hellip;
+09:09 PM &amp;#8226; Oracle Developer Tools Oracle Cloud Infrastructure
  What’s happening in BigQuery: New federated queries, easier ML, and more metadata
 05:00 PM &amp;#8226; GCP BigQuery Data Analytics
  Exploring an Apache Kafka to Pub/Sub migration: Major considerations
-05:00 PM &amp;#8226; GCP Application Development Data Analytics
- Emaar: Improving customer engagement across industries with APIs
-05:00 PM &amp;#8226; GCP Apigee API Management
- Six things to consider when using Video Indexer at scale</description>
+05:00 PM &amp;#8226; GCP Application Development Data Analytics</description>
     </item>
     
     <item>
