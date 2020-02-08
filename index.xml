@@ -17,7 +17,9 @@
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/02/07/</guid>
-      <description> Building Windows containers with AWS CodePipeline and custom actions
+      <description> Customizing triggers for AWS CodePipeline with AWS Lambda and Amazon CloudWatch Events
+10:46 PM &amp;#8226; AWS Amazon CloudWatch AWS CodePipeline
+ Building Windows containers with AWS CodePipeline and custom actions
 08:07 PM &amp;#8226; AWS AWS CodeBuild AWS CodePipeline
  Last month today: January at Google Cloud
 07:30 PM &amp;#8226; GCP
