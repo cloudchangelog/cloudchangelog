@@ -17,7 +17,9 @@
       <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/02/14/</guid>
-      <description> Showing the C++ developer love with new client libraries
+      <description> Load data incrementally and optimized Parquet writer with AWS Glue
+07:06 PM &amp;#8226; AWS Analytics AWS Big Data
+ Showing the C++ developer love with new client libraries
 05:00 PM &amp;#8226; GCP Application Development
  Logging + Trace: love at first insight
 05:00 PM &amp;#8226; GCP Management Tools
