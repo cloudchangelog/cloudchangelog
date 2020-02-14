@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>14 February, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/02/14/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/02/14/</guid>
+      <description> Showing the C++ developer love with new client libraries
+05:00 PM &amp;#8226; GCP Application Development
+ Logging + Trace: love at first insight
+05:00 PM &amp;#8226; GCP Management Tools
+ Taking a practical approach to BigQuery slot usage analysis
+05:00 PM &amp;#8226; GCP Data Analytics
+  </description>
+    </item>
     
     <item>
       <title>13 February, 2020</title>
