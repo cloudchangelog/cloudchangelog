@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>15 February, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/02/15/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/02/15/</guid>
+      <description> New – Multi-Attach for Provisioned IOPS (io1) Amazon EBS Volumes
+12:07 AM &amp;#8226; AWS Launch News  </description>
+    </item>
     
     <item>
       <title>14 February, 2020</title>
