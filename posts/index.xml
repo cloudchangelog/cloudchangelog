@@ -27,15 +27,13 @@
       <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/02/14/</guid>
-      <description> Load data incrementally and optimized Parquet writer with AWS Glue
-07:06 PM &amp;#8226; AWS Analytics AWS Big Data
- Showing the C++ developer love with new client libraries
-05:00 PM &amp;#8226; GCP Application Development
- Logging + Trace: love at first insight
-05:00 PM &amp;#8226; GCP Management Tools
- Taking a practical approach to BigQuery slot usage analysis
-05:00 PM &amp;#8226; GCP Data Analytics
-  </description>
+      <description>Online Tech Talk February 21: Getting started with Amazon S3
+08:50 PM &amp;#8226; AWS Amazon S3 Glacier Amazon S3 Glacier Deep Archive
+ Simplify Machine Learning Inference on Kubernetes with Amazon SageMaker Operators
+08:18 PM &amp;#8226; AWS Artificial Intelligence SageMaker
+ Migrating Autodesk’s mission-critical database from Microsoft SQL Server to Amazon Aurora MySQL
+07:10 PM &amp;#8226; AWS Amazon Aurora MySQL compatible
+ Load data incrementally and optimized Parquet writer with AWS Glue</description>
     </item>
     
     <item>
@@ -46,13 +44,11 @@
       <guid>https://cloudchangelog.com/posts/2020/02/13/</guid>
       <description>Ironclad Security Provided by Oracle Cloud Infrastructure File Storage
 10:57 PM &amp;#8226; Oracle
- How Udacity students succeed with Google Cloud
-07:00 PM &amp;#8226; GCP Compute Customers
- Plan your Next ‘20 journey: Session guide available now
-05:00 PM &amp;#8226; GCP Inside Google Cloud Events
- SQL Server runs best on Azure. Here’s why.
-12:00 PM &amp;#8226; Azure Developer Database
- Low code programming with Node-RED comes to GCP</description>
+ Say Hello to 34 New AWS Competency, MSP, and Service Delivery Partners Added in January
+08:27 PM &amp;#8226; AWS AWS Partner Network Enterprise Strategy
+ How to Send CloudHSM Audit Logs to Splunk and Monitor Critical Events on the HSM
+08:19 PM &amp;#8226; AWS Amazon CloudWatch AWS CloudHSM
+ How Udacity students succeed with Google Cloud</description>
     </item>
     
     <item>
@@ -61,13 +57,13 @@
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/02/12/</guid>
-      <description>Google Cloud named a Leader in the Forrester Wave: Data Management for Analytics
+      <description>Lift and Shift migration of SFTP servers to AWS
+11:19 PM &amp;#8226; AWS AWS Transfer for SFTP Learning Levels
+ Google Cloud named a Leader in the Forrester Wave: Data Management for Analytics
 10:00 PM &amp;#8226; GCP Data Analytics
- Announcing the Availability of VM for Data Science and AI on Oracle Cloud Infrastructure
-06:06 PM &amp;#8226; Oracle Developer Tools Oracle Cloud Infrastructure
- New: Use AWS CloudFormation StackSets for Multiple Accounts in an AWS Organization
-06:02 PM &amp;#8226; AWS AWS CloudFormation AWS Organizations
- Running workloads on dedicated hardware just got better</description>
+ Detecting Bugs in Deployed IoT Devices Using Percepio DevAlert
+08:41 PM &amp;#8226; AWS AWS Partner Network Internet of Things
+ Automating model retraining and deployment using the AWS Step Functions Data Science SDK for Amazon SageMaker</description>
     </item>
     
     <item>
@@ -92,13 +88,13 @@
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/02/10/</guid>
-      <description> Oracle’s Infrastructure Transformation: Get an Inside Look at Oracle OpenWorld Europe
+      <description>Oracle’s Infrastructure Transformation: Get an Inside Look at Oracle OpenWorld Europe
 11:56 PM &amp;#8226; Oracle
- Integrating Amazon EventBridge into your serverless applications
-02:42 PM &amp;#8226; AWS Amazon EventBridge AWS Lambda
- AgroScout Improves Development and DevOps with Oracle Cloud Native Services
-02:00 PM &amp;#8226; Oracle Customer Stories Developer Tools
-  </description>
+ Create a CI/CD pipeline for Amazon ECS with GitHub Actions and AWS CodeBuild Tests
+11:11 PM &amp;#8226; AWS Amazon Elastic Container Service AWS Cloud Development Kit
+ Enabling AWS Single Sign-On (SSO) Service Integration with Databricks Control Plane
+09:26 PM &amp;#8226; AWS AWS Marketplace AWS Organizations
+ Online Tech Talk February 18: Create an enterprise backup and restore plan with AWS</description>
     </item>
     
     <item>
@@ -107,13 +103,13 @@
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/02/07/</guid>
-      <description> Customizing triggers for AWS CodePipeline with AWS Lambda and Amazon CloudWatch Events
+      <description>Customizing triggers for AWS CodePipeline with AWS Lambda and Amazon CloudWatch Events
 10:46 PM &amp;#8226; AWS Amazon CloudWatch AWS CodePipeline
+ Amazon Personalize can now use 10X more item attributes to improve relevance of recommendations
+08:39 PM &amp;#8226; AWS Amazon Personalize Artificial Intelligence
  Building Windows containers with AWS CodePipeline and custom actions
 08:07 PM &amp;#8226; AWS AWS CodeBuild AWS CodePipeline
- Last month today: January at Google Cloud
-07:30 PM &amp;#8226; GCP
-  </description>
+ Last month today: January at Google Cloud</description>
     </item>
     
     <item>
@@ -122,15 +118,13 @@
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/02/06/</guid>
-      <description>EC2 Price Reduction in the São Paulo Region (R5 and I3)
-08:34 PM &amp;#8226; AWS Amazon EC2 Compute
- Announcing VCN Flow Logs for Oracle Cloud Infrastructure
-08:06 PM &amp;#8226; Oracle
- Forrester looks at the opportunity for Google Cloud partners
-05:00 PM &amp;#8226; GCP Research Partners
- How SAP users are achieving retail transformation with Google Cloud
-05:00 PM &amp;#8226; GCP Retail Inside Google Cloud
- Building more secure data pipelines with Cloud Data Fusion</description>
+      <description>Capturing and validating alphanumeric identifiers in Amazon Lex
+11:40 PM &amp;#8226; AWS Amazon Lex Artificial Intelligence
+ AWS CodeDeploy now supports linear and canary deployments for Amazon ECS
+09:15 PM &amp;#8226; AWS Amazon EC2 Container Service AWS CodeDeploy
+ New Amazon DocumentDB (with MongoDB compatibility) aggregation pipeline operators: $objectToArray, $arrayToObject, $slice, $mod, and $range
+08:43 PM &amp;#8226; AWS Amazon DocumentDB $arrayToObject
+ EC2 Price Reduction in the São Paulo Region (R5 and I3)</description>
     </item>
     
     <item>
@@ -139,16 +133,15 @@
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/02/05/</guid>
-      <description>AWS Online Tech Talks for February 2020
+      <description>Listing Serverless Applications with Your Amazon Machine Images on AWS Marketplace
+06:57 PM &amp;#8226; AWS AWS CloudFormation AWS Lambda
+ Increasing application resilience with CloudEndure Disaster Recovery
+06:38 PM &amp;#8226; AWS CloudEndure Disaster Recovery Learning Levels
+ AWS Online Tech Talks for February 2020
 05:11 PM &amp;#8226; AWS
  Scale your Composer environment together with your business
 05:00 PM &amp;#8226; GCP Data Analytics
- Registration for Amazon re:MARS 2020 is OPEN 🎉
-02:03 PM &amp;#8226; AWS Alexa Amazon Machine Learning
- Advancing safe deployment practices
-10:00 AM &amp;#8226; Azure Cloud Strategy Management
- Backup Explorer now available in preview
-08:00 AM &amp;#8226; Azure Storage, Backup &amp;amp; Recovery Management</description>
+ Amazon DocumentDB (with MongoDB compatibility) customers: Update your TLS certificates by March 5, 2020</description>
     </item>
     
     <item>
@@ -157,15 +150,14 @@
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/02/04/</guid>
-      <description> New Desktop Client for AWS Client VPN
+      <description>Deploying AWS Storage Gateway on Linux KVM hypervisor
+10:55 PM &amp;#8226; AWS AWS Storage Gateway Learning Levels
+ New Desktop Client for AWS Client VPN
 10:53 PM &amp;#8226; AWS AWS VPN Launch
  Reducing custom code by using advanced rules in Amazon EventBridge
 10:07 PM &amp;#8226; AWS Amazon EventBridge Amazon Simple Storage Services (S3)
- Bringing a passion for privacy to Cloud
-07:00 PM &amp;#8226; GCP
- Understanding the Persona of the Underserved and Unbanked by Using Oracle Cloud Tools
-05:10 PM &amp;#8226; Oracle Customer Stories
-  </description>
+ Kubernetes Logging powered by AWS for Fluent Bit
+09:30 PM &amp;#8226; AWS Amazon CloudWatch Amazon Elastic Kubernetes Service</description>
     </item>
     
     <item>
@@ -174,11 +166,14 @@
       <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/02/03/</guid>
-      <description> Build ARM-based applications using CodeBuild
+      <description>Identifying worker labeling efficiency using Amazon SageMaker Ground Truth
+09:14 PM &amp;#8226; AWS Amazon SageMaker Ground Truth Artificial Intelligence
+ Build ARM-based applications using CodeBuild
 08:41 PM &amp;#8226; AWS AWS CodeBuild Developer Tools
- Oracle Builds on Cloud Momentum with Five New Regions Worldwide
-01:00 PM &amp;#8226; Oracle
-  </description>
+ Millennium Management: Secure machine learning using Amazon SageMaker
+08:16 PM &amp;#8226; AWS Artificial Intelligence SageMaker
+ Amazon RDS customers: Update your SSL/TLS certificates by March 5, 2020
+07:54 PM &amp;#8226; AWS Amazon Aurora Amazon RDS</description>
     </item>
     
     <item>
@@ -187,11 +182,13 @@
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/01/31/</guid>
-      <description> Build machine learning-powered business intelligence analyses using Amazon QuickSight
+      <description>How Behalf Met its Streaming Data Scaling Demands with Amazon Managed Streaming for Apache Kafka
+10:30 PM &amp;#8226; AWS Amazon Managed Streaming for Apache Kafka Analytics
+ Build machine learning-powered business intelligence analyses using Amazon QuickSight
 09:34 PM &amp;#8226; AWS Amazon Machine Learning Amazon QuickSight
- Identifying and tracking toil using SRE principles
-05:00 PM &amp;#8226; GCP Management Tools
-  </description>
+ Running MediaInfo as an AWS Lambda Function
+07:46 PM &amp;#8226; AWS Amazon Simple Storage Services (S3) AWS Identity and Access Management (IAM)
+ In the News: AWS Powers Real-time Statistics for Guinness Six Nations</description>
     </item>
     
     <item>
@@ -200,13 +197,15 @@
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/01/30/</guid>
-      <description> Fact-checking GigaOm’s Microsoft-sponsored benchmark claims
+      <description>Fact-checking GigaOm’s Microsoft-sponsored benchmark claims
 10:34 PM &amp;#8226; AWS AWS on Windows Compute
  Windows Server applications, welcome to Google Kubernetes Engine
 06:00 PM &amp;#8226; GCP Compute Cloud Migration
- Hyperledger Fabric on Azure Kubernetes Service Marketplace template
-10:00 AM &amp;#8226; Azure Blockchain
-  </description>
+ Creating and activating File Gateway on VMware
+05:36 PM &amp;#8226; AWS AWS Storage Gateway Learning Levels
+ Building resiliency at scale at Tinder with Amazon ElastiCache
+03:50 PM &amp;#8226; AWS Amazon ElastiCache ElastiCache
+ Hyperledger Fabric on Azure Kubernetes Service Marketplace template</description>
     </item>
     
     <item>
@@ -215,11 +214,13 @@
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/01/29/</guid>
-      <description> 10 recommendations for cloud privacy and security with Ponemon research
-10:00 AM &amp;#8226; Azure Security
- Announcing Oracle Cloud Infrastructure Data Transfer Service for Data Export
-09:00 AM &amp;#8226; Oracle Oracle Cloud Infrastructure Product News
-  </description>
+      <description>Amazon Comprehend now supports multi-label custom classification
+09:18 PM &amp;#8226; AWS Amazon Comprehend Artificial Intelligence
+ Unlocking the Value of Your Contact Center Data with TrueVoice Speech Analytics from Deloitte
+07:35 PM &amp;#8226; AWS Amazon Machine Learning Artificial Intelligence
+ How to set up CloudWatch Anomaly Detection to set dynamic alarms, automate actions, and drive online sales
+06:02 PM &amp;#8226; AWS Amazon CloudWatch Amazon CloudWatch Alarm
+ Building enterprise applications using Amazon DynamoDB, AWS Lambda, and Go</description>
     </item>
     
     <item>
@@ -228,14 +229,13 @@
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/01/28/</guid>
-      <description>Receive AWS Developer Tools Notifications over Slack using AWS Chatbot
+      <description>Building a business intelligence dashboard for your Amazon Lex bots
+10:55 PM &amp;#8226; AWS Amazon Lex Amazon QuickSight
+ Receive AWS Developer Tools Notifications over Slack using AWS Chatbot
 10:41 PM &amp;#8226; AWS AWS CodeBuild AWS CodeCommit
- Expanding our alliance with Cisco in hybrid cloud and the contact center
-07:00 PM &amp;#8226; GCP Anthos Hybrid Cloud
- Unify Kubernetes and GCP resources for simpler and faster deployments
-05:00 PM &amp;#8226; GCP DevOps &amp;amp; SRE Containers &amp;amp; Kubernetes
- 10 top tips: Unleash your BigQuery superpowers
-05:00 PM &amp;#8226; GCP BigQuery Data Analytics</description>
+ Monitoring Kubernetes Environments with AWS and New Relic’s Cluster Explorer
+08:43 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service AWS Marketplace
+ Expanding our alliance with Cisco in hybrid cloud and the contact center</description>
     </item>
     
     <item>
@@ -266,7 +266,7 @@
 08:56 PM &amp;#8226; AWS Amazon FSx for Windows AWS DataSync
  Using Terraform to Manage Your APIs
 08:52 PM &amp;#8226; Oracle Developer Tools Oracle Cloud Infrastructure
- New GA Dataproc features extend data science and ML capabilities</description>
+ Identifying and Resolving Application Performance in Hybrid Environments with NETSCOUT</description>
     </item>
     
     <item>
@@ -275,8 +275,13 @@
       <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/01/23/</guid>
-      <description> Cheaper Cloud AI deployments with NVIDIA T4 GPU price cut
-05:00 PM &amp;#8226; GCP Compute AI &amp;amp; Machine Learning  </description>
+      <description>Secure Certificate Management with HashiCorp Consul on AWS
+10:04 PM &amp;#8226; AWS AWS Certificate Manager AWS Partner Network
+ Using Amazon FSx for Lustre for Genomics Workflows on AWS
+07:57 PM &amp;#8226; AWS Amazon FSx for Lustre Amazon Simple Storage Services (S3)
+ Migration tips for developers converting Oracle and SQL Server code to PostgreSQL
+07:57 PM &amp;#8226; AWS Amazon Aurora Amazon RDS
+ How to Translate Large Text Documents with Amazon Translate</description>
     </item>
     
     <item>
@@ -301,13 +306,15 @@
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/01/21/</guid>
-      <description> Cross-account AWS Glue Data Catalog access with Amazon Athena
+      <description>Cross-account AWS Glue Data Catalog access with Amazon Athena
 09:03 PM &amp;#8226; AWS Amazon Athena Analytics
+ NeurIPS competition tackles climate data challenges
+07:09 PM &amp;#8226; AWS Artificial Intelligence
+ Top 10 Things to Consider When Migrating Your VOD Library to AWS
+06:26 PM &amp;#8226; AWS AWS Elemental MediaConvert Media &amp;amp; Entertainment
  Amazon EKS Price Reduction
 05:52 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service
- MLOps—the path to building a competitive edge
-09:00 AM &amp;#8226; Azure Machine Learning
-  </description>
+ Securing EKS Ingress With Contour And Let’s Encrypt The GitOps Way</description>
     </item>
     
     <item>
@@ -316,11 +323,15 @@
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/01/20/</guid>
-      <description> CloudEndure Highly Automated Disaster Recovery – 80% Price Reduction
+      <description>Serverless Fixity for Digital Preservation Compliance
+06:55 PM &amp;#8226; AWS AWS Lambda AWS Step Functions
+ CloudEndure Highly Automated Disaster Recovery – 80% Price Reduction
 06:12 PM &amp;#8226; AWS Launch News
- In the Works – AWS Osaka Local Region Expansion to Full Region
-06:20 AM &amp;#8226; AWS Launch News
-  </description>
+ Interpreting 3D seismic data automatically using Amazon SageMaker
+05:49 PM &amp;#8226; AWS Artificial Intelligence SageMaker
+ What’s New with the APN Customer Engagements (ACE) Program?
+03:25 PM &amp;#8226; AWS AWS Partner Network ACE Opportunity Referrals
+ In the Works – AWS Osaka Local Region Expansion to Full Region</description>
     </item>
     
     <item>
@@ -340,7 +351,10 @@
       
       <guid>https://cloudchangelog.com/posts/2020/01/17/</guid>
       <description> Want to use AutoML Tables from a Jupyter Notebook? Here’s how
-05:00 PM &amp;#8226; GCP AutoML AI &amp;amp; Machine Learning  </description>
+05:00 PM &amp;#8226; GCP AutoML AI &amp;amp; Machine Learning
+ Fuji Television realizes ultra-low latency video delivery of the 2019 FIVB Volleyball World Cup
+12:24 AM &amp;#8226; AWS Amazon CloudFront AWS Elemental MediaStore 
+  </description>
     </item>
     
     <item>
@@ -349,15 +363,15 @@
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/01/16/</guid>
-      <description> New Anthos training: a masterclass in hybrid cloud architecture and management
+      <description>New Anthos training: a masterclass in hybrid cloud architecture and management
 06:00 PM &amp;#8226; GCP Anthos Hybrid Cloud
+ Media Cloud Migrations – Three Myths
+05:01 PM &amp;#8226; AWS Media &amp;amp; Entertainment Media Services
  Azure Data Explorer and Stream Analytics for anomaly detection
 10:00 AM &amp;#8226; Azure Data Science
  Microsoft Sustainability Calculator helps enterprises analyze the carbon emissions of their IT infrastructure
 09:00 AM &amp;#8226; Azure
- Creating a more accessible world with Azure AI
-08:00 AM &amp;#8226; Azure Artificial Intelligence
-  </description>
+ Creating a more accessible world with Azure AI</description>
     </item>
     
     <item>
@@ -366,15 +380,13 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/01/15/</guid>
-      <description>ICYMI: Serverless Q4 2019
+      <description>The Cloud Media Supply Chain Technology and Engineering Emmy Award® Goes To…
+10:04 PM &amp;#8226; AWS AWS Partner Network Media &amp;amp; Entertainment
+ ICYMI: Serverless Q4 2019
 09:17 PM &amp;#8226; AWS Amazon API Gateway Amazon Athena
- Using artificial intelligence to detect product defects with AWS Step Functions
-07:45 PM &amp;#8226; AWS
- Using deemed SLIs to measure customer reliability
-05:00 PM &amp;#8226; GCP DevOps &amp;amp; SRE Management Tools
- Announcing the launch of Premium Support for your enterprise and mission-critical needs
-05:00 PM &amp;#8226; GCP G Suite Management Tools
- Exploring container security: Announcing the CIS Google Kubernetes Engine Benchmark</description>
+ Standard Voices in Amazon Polly now available in Middle East and Asia Pacific Regions
+08:32 PM &amp;#8226; AWS Amazon Polly Artificial Intelligence
+ Using artificial intelligence to detect product defects with AWS Step Functions</description>
     </item>
     
     <item>
@@ -402,11 +414,11 @@
       <guid>https://cloudchangelog.com/posts/2020/01/13/</guid>
       <description>New for Amazon EFS – IAM Authorization and Access Points
 08:32 PM &amp;#8226; AWS Amazon Elastic File System (EFS) AWS Identity and Access Management (IAM)
+ In the News: Bundesliga Revolutionizes the Football Viewing Experience with AWS
+08:27 PM &amp;#8226; AWS Amazon Machine Learning Media &amp;amp; Entertainment
  IBM Power Systems now available on Google Cloud
 05:00 PM &amp;#8226; GCP Cloud Migration Hybrid Cloud
- Performance art: Making cloud network performance benchmarking faster and easier
-04:30 PM &amp;#8226; GCP Management Tools Networking
- Google Cloud helps retailers win the digital race</description>
+ Performance art: Making cloud network performance benchmarking faster and easier</description>
     </item>
     
     <item>
@@ -432,13 +444,13 @@
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/01/09/</guid>
-      <description>How Verizon Media Group migrated from on-premises Apache Hadoop and Spark to Amazon EMR
+      <description>Using ALB Ingress Controller with Amazon EKS on Fargate
+11:08 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service AWS Fargate
+ [Updated 1&amp;frasl;28] Register Now – AWS Media Symposium &amp;amp; Workshops – Miami
+10:26 PM &amp;#8226; AWS Events Media &amp;amp; Entertainment
+ How Verizon Media Group migrated from on-premises Apache Hadoop and Spark to Amazon EMR
 07:35 PM &amp;#8226; AWS Amazon EMR Analytics
- Trying cloud on for size: URBN’s Nuuly builds from scratch with Google Cloud
-05:00 PM &amp;#8226; GCP Retail Customers
- Exploratory data analysis, feature selection for better ML models
-05:00 PM &amp;#8226; GCP Data Analytics AI &amp;amp; Machine Learning
- Join us at Google Cloud Next ‘20: April 6-8 in SF</description>
+ Deliver device sensitive stream renditions with FireTV</description>
     </item>
     
     <item>
@@ -447,11 +459,13 @@
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/01/08/</guid>
-      <description> Put your archive data on ice with new storage offering
-05:00 PM &amp;#8226; GCP Storage &amp;amp; Data Transfer
- Creating CI/CD pipelines for ASP.NET 4.x with AWS CodePipeline and AWS Elastic Beanstalk
-04:22 PM &amp;#8226; AWS AWS CodeBuild AWS CodeCommit
-  </description>
+      <description>Aggregating logs with S3 Same-Region Replication
+08:40 PM &amp;#8226; AWS Amazon Simple Storage Services (S3) Amazon VPC
+ How to take advantage of AWS Control Tower and CloudEndure to migrate workloads to AWS
+05:23 PM &amp;#8226; AWS AWS CloudFormation AWS Control Tower
+ Cinnamon AI saves 70% on ML model training costs with Amazon SageMaker Managed Spot Training
+05:12 PM &amp;#8226; AWS Artificial Intelligence SageMaker
+ Put your archive data on ice with new storage offering</description>
     </item>
     
     <item>
@@ -460,13 +474,13 @@
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/01/07/</guid>
-      <description>Running Ceph Clusters with Rook in Oracle Container Engine for Kubernetes
+      <description>Create a Live Streaming CloudWatch Dashboard using AWS Elemental MediaStore Access Logs
+11:57 PM &amp;#8226; AWS Amazon CloudWatch AWS Elemental MediaStore 
+ Running Ceph Clusters with Rook in Oracle Container Engine for Kubernetes
 09:47 PM &amp;#8226; Oracle Developer Tools Oracle Cloud Infrastructure
- Cross-Region Boot Volume Backups for Instance Disaster Recovery, Migration, and Expansion
-05:59 PM &amp;#8226; Oracle
- Urgent &amp;amp; Important – Rotate Your Amazon RDS, Aurora, and DocumentDB Certificates
-05:50 PM &amp;#8226; AWS Amazon Aurora Amazon DocumentDB
- Google Cloud and FDA MyStudies: Harnessing real-world data for medical research</description>
+ Query Amazon S3 analytics data with Amazon Athena
+08:04 PM &amp;#8226; AWS Amazon Athena Amazon QuickSight
+ Cross-Region Boot Volume Backups for Instance Disaster Recovery, Migration, and Expansion</description>
     </item>
     
     <item>
@@ -477,12 +491,26 @@
       <guid>https://cloudchangelog.com/posts/2020/01/06/</guid>
       <description>Amazon at CES 2020 – Connectivity &amp;amp; Mobility
 07:14 PM &amp;#8226; AWS Launch News
+ Building machine learning workflows with AWS Data Exchange and Amazon SageMaker
+06:27 PM &amp;#8226; AWS Analytics Artificial Intelligence
  Connect to your VPC and managed Redis from App Engine and Cloud Functions
 05:30 PM &amp;#8226; GCP Compute Serverless
  BPAY: Uncovering new business opportunities with APIs
 05:00 PM &amp;#8226; GCP Apigee Customers
- Orchestrating a security incident response with AWS Step Functions
-03:42 PM &amp;#8226; AWS AWS Identity and Access Management (IAM) AWS Lambda</description>
+ Orchestrating a security incident response with AWS Step Functions</description>
+    </item>
+    
+    <item>
+      <title>04 January, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/01/04/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/01/04/</guid>
+      <description> Education site ApplyBoard monitors their mission-critical EKS environment using CloudWatch Container Insights
+05:28 PM &amp;#8226; AWS Amazon CloudWatch Learning Levels
+ Comcast adds CloudWatch metrics aggregation when monitoring Kinesis Video Streams
+05:26 PM &amp;#8226; AWS Amazon CloudWatch Amazon EC2
+  </description>
     </item>
     
     <item>
@@ -491,15 +519,14 @@
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/01/03/</guid>
-      <description> The Power of Oracle Cloud, as Seen at Oracle
+      <description>The Power of Oracle Cloud, as Seen at Oracle
 10:16 PM &amp;#8226; Oracle
  Building an AWS IoT Core device using AWS Serverless and an ESP32
 10:02 PM &amp;#8226; AWS AWS IoT Platform AWS Lambda
- Getting started with new table formats on Dataproc
-05:00 PM &amp;#8226; GCP Data Analytics
- Advancing no-impact and low-impact maintenance technologies
-10:00 AM &amp;#8226; Azure Virtual Machines Management
-  </description>
+ Deep Dive on Amazon ECS Cluster Auto Scaling
+07:52 PM &amp;#8226; AWS Amazon EC2 Amazon EC2 Container Service
+ Disaster recovery on Amazon RDS for Oracle using AWS DMS
+07:16 PM &amp;#8226; AWS Amazon RDS AWS Database Migration Service</description>
     </item>
     
     <item>
@@ -508,15 +535,14 @@
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/01/02/</guid>
-      <description> Upcoming changes to the Python SDK in AWS Lambda
+      <description>Make a New Year’s resolution: Learn about AWS Storage on the AWS Storage Blog
+10:56 PM &amp;#8226; AWS Learning Levels Storage
+ Upcoming changes to the Python SDK in AWS Lambda
 09:28 PM &amp;#8226; AWS AWS Lambda AWS SDK for Python
  Continued support for Python 2.7 on AWS Lambda
 09:23 PM &amp;#8226; AWS AWS Lambda Compute
  Start 2020 off right with these New Year’s tech resolutions
-05:00 PM &amp;#8226; GCP
- Maximize data ingestion and reporting performance on Amazon Redshift
-04:34 PM &amp;#8226; AWS Amazon Redshift Analytics
-  </description>
+05:00 PM &amp;#8226; GCP</description>
     </item>
     
     <item>
@@ -536,7 +562,45 @@
       
       <guid>https://cloudchangelog.com/posts/2019/12/30/</guid>
       <description> Celebrating AWS Community Leaders at re:Invent 2019
-09:09 PM &amp;#8226; AWS Launch News  </description>
+09:09 PM &amp;#8226; AWS Launch News
+ Make a New Year’s resolution: Follow Amazon DynamoDB best practices
+03:59 PM &amp;#8226; AWS Amazon DynamoDB best practices
+  </description>
+    </item>
+    
+    <item>
+      <title>27 December, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/12/27/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/12/27/</guid>
+      <description> 2019: The year in review for Amazon Neptune
+08:41 PM &amp;#8226; AWS Amazon Neptune 2019  </description>
+    </item>
+    
+    <item>
+      <title>26 December, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/12/26/</link>
+      <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/12/26/</guid>
+      <description> Amazon Managed Blockchain recorded sessions and workshops from AWS re:Invent 2019
+04:47 PM &amp;#8226; AWS Amazon Managed Blockchain AWS re:Invent  </description>
+    </item>
+    
+    <item>
+      <title>24 December, 2019</title>
+      <link>https://cloudchangelog.com/posts/2019/12/24/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2019/12/24/</guid>
+      <description> Building a custom classifier using Amazon Comprehend
+04:56 PM &amp;#8226; AWS Amazon Comprehend Artificial Intelligence
+ Introducing AWS Config Conformance Packs
+03:59 PM &amp;#8226; AWS AWS Config Management Tools
+ New enhancements for moving data between Amazon FSx for Lustre and Amazon S3
+01:32 AM &amp;#8226; AWS Amazon FSx for Lustre Amazon Simple Storage Services (S3)
+  </description>
     </item>
     
     <item>
@@ -545,8 +609,14 @@
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2019/12/23/</guid>
-      <description> Working with nested data types using Amazon Redshift Spectrum
-08:55 PM &amp;#8226; AWS Amazon Redshift Analytics  </description>
+      <description>Working with nested data types using Amazon Redshift Spectrum
+08:55 PM &amp;#8226; AWS Amazon Redshift Analytics
+ Providing temporary instance permissions with AWS Systems Manager Automations
+08:47 PM &amp;#8226; AWS AWS Systems Manager Management Tools
+ Learn More: M&amp;amp;E Chalk Talk Presentations from AWS re:Invent 2019
+07:23 PM &amp;#8226; AWS Amazon Comprehend Amazon FSx for Lustre
+ 2019: The year in review for Amazon DocumentDB (with MongoDB compatibility)
+03:51 PM &amp;#8226; AWS Amazon DocumentDB 2019</description>
     </item>
     
     <item>
@@ -565,8 +635,13 @@
       <pubDate>Sat, 21 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2019/12/21/</guid>
-      <description> Collect and distribute high-resolution crypto market data with ECS, S3, Athena, Lambda, and AWS Data Exchange
-12:28 AM &amp;#8226; AWS Amazon Athena Amazon Elastic Container Service  </description>
+      <description> Using AWS Systems Manager Run Command to submit Spark/Hadoop jobs on Amazon EMR
+09:45 PM &amp;#8226; AWS Amazon EMR Amazon Simple Storage Services (S3)
+ Simplifying setup for new accounts using Service Quotas
+09:37 PM &amp;#8226; AWS AWS Organizations Management Tools
+ Collect and distribute high-resolution crypto market data with ECS, S3, Athena, Lambda, and AWS Data Exchange
+12:28 AM &amp;#8226; AWS Amazon Athena Amazon Elastic Container Service
+  </description>
     </item>
     
     <item>
@@ -577,13 +652,11 @@
       <guid>https://cloudchangelog.com/posts/2019/12/20/</guid>
       <description>ICYMI: Serverless re:Invent re:Cap 2019
 09:51 PM &amp;#8226; AWS Amazon API Gateway Amazon CodeGuru
+ Predict plays in real time with the AutoZone Liberty Bowl Pick ‘Em Live App powered by Your Call tech on AWS
+09:28 PM &amp;#8226; AWS Case Study Media &amp;amp; Entertainment
  Jumpstart Your Cloud Skills with Free Oracle Cloud Learning Resources
 08:04 PM &amp;#8226; Oracle
- Oracle Cloud Infrastructure API Gateway Now Generally Available
-07:15 PM &amp;#8226; Oracle Developer Tools Product News
- Opening doors, embracing change with cloud data warehouses
-05:30 PM &amp;#8226; GCP Data Analytics
- Google Cloud: Supporting our customers with the California Consumer Privacy Act (CCPA)</description>
+ Oracle Cloud Infrastructure API Gateway Now Generally Available</description>
     </item>
     
     <item>
@@ -592,15 +665,13 @@
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2019/12/19/</guid>
-      <description>Big data, big world: new NOAA datasets available on Google Cloud
+      <description>Using Amazon Lex Conversation logs to monitor and improve interactions
+11:59 PM &amp;#8226; AWS Amazon Lex Artificial Intelligence
+ Big data, big world: new NOAA datasets available on Google Cloud
 08:00 PM &amp;#8226; GCP Data Analytics
- Last year today: Top Google Cloud posts in 2019
-05:00 PM &amp;#8226; GCP
- Azure Lighthouse: The managed service provider perspective
-11:00 AM &amp;#8226; Azure Management Partner
- Connecting Microsoft Azure and Oracle Cloud in the UK and Canada
-10:00 AM &amp;#8226; Azure Partner
- Tips for learning Azure in the new year</description>
+ Good news for Amazon FSx and Amazon EBS customers: AWS Local Zones
+06:01 PM &amp;#8226; AWS Amazon Elastic Block Storage (EBS) Amazon FSx
+ Last year today: Top Google Cloud posts in 2019</description>
     </item>
     
     <item>
@@ -673,13 +744,12 @@
       <guid>https://cloudchangelog.com/posts/2019/12/12/</guid>
       <description>Integrating SonarQube as a pull request approver on AWS CodeCommit
 11:39 PM &amp;#8226; AWS AWS CodeCommit Developer Tools
+ Scheduling automated backups using Amazon EFS and AWS Backup
+11:16 PM &amp;#8226; AWS Amazon Elastic File System (EFS) AWS Backup
  Keep a better eye on your Google Cloud environment
 06:30 PM &amp;#8226; GCP Management Tools
  Using HLL++ to speed up count-distinct in massive datasets
-06:30 PM &amp;#8226; GCP Data Analytics
- Introducing Storage Transfer Service for on-premises data
-05:00 PM &amp;#8226; GCP Storage &amp;amp; Data Transfer
- Discover insights from text with AutoML Natural Language, now generally available</description>
+06:30 PM &amp;#8226; GCP Data Analytics</description>
     </item>
     
     <item>
@@ -690,13 +760,12 @@
       <guid>https://cloudchangelog.com/posts/2019/12/11/</guid>
       <description>Accenture Testing Proves Low Latency and Ease of Use of Microsoft-Oracle Cloud Interconnection
 09:39 PM &amp;#8226; Oracle Partners
+ Using AWS Systems Manager Change Calendar to prevent changes during critical events
+08:01 PM &amp;#8226; AWS Management Tools AWS Systems Manager
  Introducing E2, new cost-optimized general purpose VMs for Google Compute Engine
 05:01 PM &amp;#8226; GCP Compute
  Performance-driven dynamic resource management in E2 VMs
-05:00 PM &amp;#8226; GCP Compute
- What’s new in Cloud Run for Anthos
-05:00 PM &amp;#8226; GCP Compute Hybrid Cloud
- Combine the Power of Video Indexer and Computer Vision</description>
+05:00 PM &amp;#8226; GCP Compute</description>
     </item>
     
     <item>
@@ -737,13 +806,14 @@
       <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2019/12/06/</guid>
-      <description> Developing Modern Web Applications and Microservices with JHipster on Container Engine for &amp;hellip;
+      <description>Developing Modern Web Applications and Microservices with JHipster on Container Engine for &amp;hellip;
 09:48 PM &amp;#8226; Oracle Developer Tools Oracle Cloud Infrastructure
  Protecting your GCP infrastructure with Forseti Config Validator part four: Using Terraform Validator
 05:00 PM &amp;#8226; GCP Identity &amp;amp; Security
  Expanding the serverless ecosystem for Cloud Run
 05:00 PM &amp;#8226; GCP Serverless Partners
-  </description>
+ Welcome to the final day of AWS re:Invent 2019
+04:57 PM &amp;#8226; AWS AWS re:Invent Events</description>
     </item>
     
     <item>
@@ -754,13 +824,13 @@
       <guid>https://cloudchangelog.com/posts/2019/12/05/</guid>
       <description>New Express Workflows for AWS Step Functions
 09:45 PM &amp;#8226; AWS AWS re:Invent AWS Step Functions
+ Welcome to day 4 of AWS re:Invent 2019
+05:29 PM &amp;#8226; AWS AWS re:Invent Events
  Check out The Amazon Builders’ Library – This is How We Do It!
 05:29 PM &amp;#8226; AWS AWS re:Invent Launch
  Networking cost optimization best practices: an overview
 05:00 PM &amp;#8226; GCP Networking
- 5 favorite tools for improved log analytics
-05:00 PM &amp;#8226; GCP Management Tools
- Shrinking the time to mitigate production incidents - CRE life lessons</description>
+ 5 favorite tools for improved log analytics</description>
     </item>
     
     <item>
@@ -771,13 +841,11 @@
       <guid>https://cloudchangelog.com/posts/2019/12/04/</guid>
       <description>Amplify DataStore – Simplify Development of Offline Apps with GraphQL
 11:41 PM &amp;#8226; AWS AWS Amplify AWS AppSync
+ Hurricane Dorian disaster response in the Bahamas using AWS Snowball Edge
+08:38 PM &amp;#8226; AWS Amazon Simple Storage Services (S3) AWS Snowball Edge
  New Express Workflows for AWS Step Functions
 06:02 PM &amp;#8226; AWS AWS Step Functions Serverless
- New for AWS Lambda – Predictable start-up times with Provisioned Concurrency
-05:34 PM &amp;#8226; AWS AWS Lambda Serverless
- Last month today: November on GCP
-05:00 PM &amp;#8226; GCP
- Simplified data transformations for machine learning in BigQuery</description>
+ New for AWS Lambda – Predictable start-up times with Provisioned Concurrency</description>
     </item>
     
     <item>
@@ -801,14 +869,13 @@
       <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2019/12/02/</guid>
-      <description>Identify Unintended Resource Access with AWS Identity and Access Management (IAM) Access Analyzer
+      <description>Monitor, review, and protect Amazon S3 buckets using Access Analyzer for S3
+10:18 PM &amp;#8226; AWS Amazon S3 Glacier Amazon S3 Glacier Deep Archive
+ Identify Unintended Resource Access with AWS Identity and Access Management (IAM) Access Analyzer
 10:14 PM &amp;#8226; AWS AWS Identity and Access Management (IAM) Launch
  Governance and Automation with Oracle Events and Functions
 06:04 PM &amp;#8226; Oracle Solutions
- Amazon Braket – Get Started with Quantum Computing
-05:18 PM &amp;#8226; AWS AWS re:Invent Launch
- Unique Identifier helps troubleshooting VPC Service Controls perimeter
-05:00 PM &amp;#8226; GCP Solutions and How-to&amp;#39;s Identity &amp;amp; Security</description>
+ Amazon Braket – Get Started with Quantum Computing</description>
     </item>
     
     <item>
@@ -1135,8 +1202,7 @@
 05:00 PM &amp;#8226; GCP AI &amp;amp; Machine Learning AutoML
  Prescriptions for healthcare data management systems on GCP
 05:00 PM &amp;#8226; GCP Compliance Healthcare &amp;amp; Life Sciences
- Companies of all sizes tackle real business problems with Azure AI
-06:00 AM &amp;#8226; Azure Announcements Artificial Intelligence</description>
+ Blast Off To The Cloud: Free Team Chat With Rocket.Chat In The Oracle Cloud</description>
     </item>
     
     <item>
@@ -1221,13 +1287,13 @@
       <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2019/10/25/</guid>
-      <description>Centralizing Windows Logs with Amazon Elasticsearch Services
+      <description>Controlling your AWS costs by deleting unused Amazon EBS volumes
+11:56 PM &amp;#8226; AWS Amazon Elastic Block Storage (EBS) AWS Lambda
+ Centralizing Windows Logs with Amazon Elasticsearch Services
 05:35 PM &amp;#8226; AWS Amazon Elasticsearch Service* AWS on Windows
  Orchestrate big data workflows with Apache Airflow, Genie, and Amazon EMR: Part 1
 05:20 PM &amp;#8226; AWS Amazon EMR Analytics
- Access and manage data from multiple accounts from a central AWS Lake Formation account
-04:30 PM &amp;#8226; AWS Amazon Athena Analytics
- Exploring Container Security: Vulnerability management in open-source Kubernetes</description>
+ Access and manage data from multiple accounts from a central AWS Lake Formation account</description>
     </item>
     
     <item>
@@ -1251,14 +1317,15 @@
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2019/10/23/</guid>
-      <description>Dedicated Access to GlusterFS-Based Shared Storage on Oracle Cloud Infrastructure
+      <description>AWS Management and Governance at AWS re:Invent 2019
+08:42 PM &amp;#8226; AWS AWS re:Invent Events
+ Dedicated Access to GlusterFS-Based Shared Storage on Oracle Cloud Infrastructure
 06:02 PM &amp;#8226; Oracle Performance Solutions
  Use GKE usage metering to combat over-provisioning
 05:00 PM &amp;#8226; GCP GKE Containers &amp;amp; Kubernetes
  Find and fix misconfigurations in your Google Cloud resources
 04:30 PM &amp;#8226; GCP Management Tools Identity &amp;amp; Security
- Swipe right for a new guide to PCI on GKE
-04:00 PM &amp;#8226; GCP Compliance Containers &amp;amp; Kubernetes</description>
+ Swipe right for a new guide to PCI on GKE</description>
     </item>
     
     <item>
@@ -1402,7 +1469,12 @@
       
       <guid>https://cloudchangelog.com/posts/2019/10/09/</guid>
       <description> Running Java applications on Amazon EC2 A1 instances with Amazon Corretto
-05:50 PM &amp;#8226; AWS Amazon Corretto Amazon EC2  </description>
+05:50 PM &amp;#8226; AWS Amazon Corretto Amazon EC2
+ Leveraging AWS CloudFormation to create an immutable infrastructure at Nubank
+03:33 PM &amp;#8226; AWS Amazon EC2 Auto Scaling
+ How to Detect and Mitigate Guardrail Violation with AWS Control Tower
+12:10 AM &amp;#8226; AWS Amazon CloudWatch Amazon Simple Notification Service (SNS)
+  </description>
     </item>
     
     <item>
