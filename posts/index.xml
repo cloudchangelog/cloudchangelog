@@ -17,15 +17,14 @@
       <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/02/17/</guid>
-      <description>Tracking software usage across multiple AWS accounts using AWS License Manager
+      <description>Using Amazon FSx for Windows File Server with an on-premises Active Directory
+10:17 PM &amp;#8226; AWS Amazon FSx Amazon FSx for Windows
+ Tracking software usage across multiple AWS accounts using AWS License Manager
 08:30 PM &amp;#8226; AWS AWS License Manager Licensing
  AWS CloudFormation: Signed, sealed, and deployed
 08:29 PM &amp;#8226; AWS Amazon DynamoDB Amazon GuardDuty
  Optimizing Computing Performance with AWS Thinkbox Deadline – Part 2
-06:08 PM &amp;#8226; AWS Amazon EC2 Compute
- Configuring and authoring Kibana dashboards
-06:01 PM &amp;#8226; AWS Amazon Elasticsearch Service Amazon ES
- Analyze PostgreSQL logs with Amazon Elasticsearch Service</description>
+06:08 PM &amp;#8226; AWS Amazon EC2 Compute</description>
     </item>
     
     <item>
