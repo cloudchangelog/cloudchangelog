@@ -6,10 +6,26 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20 February, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/02/20/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/02/20/</guid>
+      <description>Now generally available: Managed Service for Microsoft Active Directory (AD)
+05:00 PM &amp;#8226; GCP Cloud Migration Identity &amp;amp; Security
+ Making your monolith more reliable
+05:00 PM &amp;#8226; GCP Management Tools
+ How Siemens built a fully managed scheduling mechanism for updates on Amazon S3 data lakes
+03:30 PM &amp;#8226; AWS Amazon Athena Amazon DynamoDB
+ Azure Security Center for IoT RSA 2020 announcements
+09:00 AM &amp;#8226; Azure Internet of Things</description>
+    </item>
     
     <item>
       <title>19 February, 2020</title>
