@@ -17,11 +17,14 @@
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/02/19/</guid>
-      <description> Minimize network latency with your AWS Transfer for SFTP servers
-06:06 PM &amp;#8226; AWS Amazon Route 53 Amazon Simple Storage Services (S3)
- New Dialogflow Mega Agent for Contact Center AI increases intents by 10 times to 20,000
-04:00 PM &amp;#8226; GCP AI &amp;amp; Machine Learning
-  </description>
+      <description>Unit testing IAM policies across multiple accounts
+09:58 PM &amp;#8226; AWS AWS CodeBuild AWS CodeCommit
+ AWS Lambda now supports Ruby 2.7
+09:44 PM &amp;#8226; AWS AWS Lambda AWS Ruby Development
+ Automating your Amazon Forecast workflow with Lambda, Step Functions, and CloudWatch Events rule
+09:11 PM &amp;#8226; AWS Amazon Forecast Artificial Intelligence
+ Minimize network latency with your AWS Transfer for SFTP servers
+06:06 PM &amp;#8226; AWS Amazon Route 53 Amazon Simple Storage Services (S3)</description>
     </item>
     
     <item>
