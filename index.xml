@@ -17,8 +17,11 @@
       <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/02/25/</guid>
-      <description> Amazon FSx for Lustre Update: Persistent Storage for Long-Term, High-Performance Workloads
-04:20 AM &amp;#8226; AWS Amazon FSx for Lustre Launch  </description>
+      <description> Deploying Oracle Data Integrator Marketplace in a Private Subnet with Autonomous Database
+04:58 AM &amp;#8226; Oracle A-Team Chronicles Cloud Native
+ Amazon FSx for Lustre Update: Persistent Storage for Long-Term, High-Performance Workloads
+04:20 AM &amp;#8226; AWS Amazon FSx for Lustre Launch
+  </description>
     </item>
     
     <item>
@@ -42,13 +45,13 @@
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/02/21/</guid>
-      <description>Online Tech Talk February 26: Accelerate data analytics with AWS file storage
+      <description>ISV Architecture Validation - Implementation Details - Part 3B - OCI vRouter Instances
+11:57 PM &amp;#8226; Oracle Networking
+ Online Tech Talk February 26: Accelerate data analytics with AWS file storage
 09:33 PM &amp;#8226; AWS Amazon Elastic File System (EFS) Storage
  Streaming ETL with Apache Flink and Amazon Kinesis Data Analytics
 08:16 PM &amp;#8226; AWS Amazon Kinesis Analytics
- Your ML workloads cheaper and faster with the latest GPUs
-05:00 PM &amp;#8226; GCP Compute AI &amp;amp; Machine Learning
- App Mesh Integration with AWS ALB Ingress Controller</description>
+ Your ML workloads cheaper and faster with the latest GPUs</description>
     </item>
     
     <item>
@@ -92,10 +95,9 @@
 11:30 PM &amp;#8226; AWS Amazon MQ AWS Lambda
  Winners of AWS Machine Learning Research Awards announced
 07:37 PM &amp;#8226; AWS Amazon Machine Learning Artificial Intelligence
- Restore Amazon DynamoDB backups to different AWS Regions and with custom table settings
-05:09 PM &amp;#8226; AWS Amazon DynamoDB Backups
- Introducing the Cloud Monitoring dashboards API
-05:00 PM &amp;#8226; GCP Management Tools</description>
+ End-to-End Monitoring of applications running on Oracle Cloud Infrastructure Part 2
+06:42 PM &amp;#8226; Oracle Diagnostics and Troubleshooting Operations
+ Restore Amazon DynamoDB backups to different AWS Regions and with custom table settings</description>
     </item>
     
     <item>
@@ -147,11 +149,11 @@
       <guid>https://cloudchangelog.com/posts/2020/02/13/</guid>
       <description>Ironclad Security Provided by Oracle Cloud Infrastructure File Storage
 10:57 PM &amp;#8226; Oracle
+ Part 1: About Desktop SSO using Azure AD, IDCS, and the App Gateway
+08:34 PM &amp;#8226; Oracle IaaS
  Say Hello to 34 New AWS Competency, MSP, and Service Delivery Partners Added in January
 08:27 PM &amp;#8226; AWS AWS Partner Network Enterprise Strategy
- How to Send CloudHSM Audit Logs to Splunk and Monitor Critical Events on the HSM
-08:19 PM &amp;#8226; AWS Amazon CloudWatch AWS CloudHSM
- How Udacity students succeed with Google Cloud</description>
+ How to Send CloudHSM Audit Logs to Splunk and Monitor Critical Events on the HSM</description>
     </item>
     
     <item>
@@ -195,9 +197,10 @@
 11:56 PM &amp;#8226; Oracle
  Create a CI/CD pipeline for Amazon ECS with GitHub Actions and AWS CodeBuild Tests
 11:11 PM &amp;#8226; AWS Amazon Elastic Container Service AWS Cloud Development Kit
+ Istio - End User Authentication
+10:57 PM &amp;#8226; Oracle A-Team Chronicles Cloud Native
  Enabling AWS Single Sign-On (SSO) Service Integration with Databricks Control Plane
-09:26 PM &amp;#8226; AWS AWS Marketplace AWS Organizations
- Online Tech Talk February 18: Create an enterprise backup and restore plan with AWS</description>
+09:26 PM &amp;#8226; AWS AWS Marketplace AWS Organizations</description>
     </item>
     
     <item>
@@ -208,11 +211,12 @@
       <guid>https://cloudchangelog.com/posts/2020/02/07/</guid>
       <description>Customizing triggers for AWS CodePipeline with AWS Lambda and Amazon CloudWatch Events
 10:46 PM &amp;#8226; AWS Amazon CloudWatch AWS CodePipeline
+ Paginate Records using an Advanced Postman Collection
+10:05 PM &amp;#8226; Oracle IaaS
  Amazon Personalize can now use 10X more item attributes to improve relevance of recommendations
 08:39 PM &amp;#8226; AWS Amazon Personalize Artificial Intelligence
  Building Windows containers with AWS CodePipeline and custom actions
-08:07 PM &amp;#8226; AWS AWS CodeBuild AWS CodePipeline
- Last month today: January at Google Cloud</description>
+08:07 PM &amp;#8226; AWS AWS CodeBuild AWS CodePipeline</description>
     </item>
     
     <item>
