@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>26 February, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/02/26/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/02/26/</guid>
+      <description> Introducing BigQuery Flex Slots for unparalleled flexibility and control
+05:00 PM &amp;#8226; GCP Data Analytics
+ BigQuery leads the way toward modern data analytics
+05:00 PM &amp;#8226; GCP Data Analytics
+ Running Simcenter STAR-CCM+ on AWS with AWS ParallelCluster, Elastic Fabric Adapter and Amazon FSx for Lustre
+03:15 PM &amp;#8226; AWS Amazon EC2 Amazon FSx for Lustre
+  </description>
+    </item>
     
     <item>
       <title>25 February, 2020</title>
