@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>29 February, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/02/29/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/02/29/</guid>
+      <description> Identifying and resolving security code vulnerabilities using Snyk in AWS CI/CD Pipeline
+01:44 AM &amp;#8226; AWS Amazon EC2 Container Service Amazon Elastic Container Service  </description>
+    </item>
     
     <item>
       <title>28 February, 2020</title>
