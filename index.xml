@@ -17,13 +17,13 @@
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/03/02/</guid>
-      <description>Migrating Oracle databases with near-zero downtime using AWS DMS
+      <description>Using Amazon FSx for Windows File Server as persistent storage on Windows Containers
+07:18 PM &amp;#8226; AWS Amazon EC2 Container Service Amazon Elastic Container Service
+ Migrating Oracle databases with near-zero downtime using AWS DMS
 05:50 PM &amp;#8226; AWS AWS Database Migration Service AWS DMS
  How to detect and prevent network outages—and stay compliant too
 05:30 PM &amp;#8226; GCP Management Tools Networking
- Introducing AWS Config Multi-Account, Multi-Region support for Advanced Query
-05:21 PM &amp;#8226; AWS AWS CloudFormation AWS Config
- Off to a fast start in 2020 with over 70 new Partner Specializations</description>
+ Introducing AWS Config Multi-Account, Multi-Region support for Advanced Query</description>
     </item>
     
     <item>
