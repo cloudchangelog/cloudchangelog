@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>02 March, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/03/02/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/03/02/</guid>
+      <description> Autoscaling Oracle E-Business Suite Application Servers
+08:10 AM &amp;#8226; Oracle E-Business Suite  </description>
+    </item>
     
     <item>
       <title>29 February, 2020</title>
@@ -29,12 +39,13 @@
       <guid>https://cloudchangelog.com/posts/2020/02/28/</guid>
       <description>Improving Oracle backup and recovery performance with Amazon EBS multi-volume crash-consistent snapshots
 11:14 PM &amp;#8226; AWS Amazon Elastic Block Storage (EBS) Amazon EBS
+ Best Practices for Compartments
+11:12 PM &amp;#8226; Oracle Customer Stories Solutions
  New-Look AWS Competency Validation Checklists for APN Technology Partners
 11:06 PM &amp;#8226; AWS AWS Partner Network Enterprise Strategy
  Manual fail-over is the past
 09:08 PM &amp;#8226; Oracle Architecture Cloud
- How to bring Azure AD users and groups into IDCS
-07:18 PM &amp;#8226; Oracle</description>
+ How to bring Azure AD users and groups into IDCS</description>
     </item>
     
     <item>
