@@ -17,8 +17,11 @@
       <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/03/03/</guid>
-      <description> The AWS DeepRacer League: The 2020 season is underway as the Virtual Circuit opens for racing!
-02:05 AM &amp;#8226; AWS Artificial Intelligence AWS DeepRacer  </description>
+      <description> Testing and creating CI/CD pipelines for AWS Step Functions
+03:45 AM &amp;#8226; AWS AWS CodeBuild AWS CodeCommit
+ The AWS DeepRacer League: The 2020 season is underway as the Virtual Circuit opens for racing!
+02:05 AM &amp;#8226; AWS Artificial Intelligence AWS DeepRacer
+  </description>
     </item>
     
     <item>
@@ -29,11 +32,11 @@
       <guid>https://cloudchangelog.com/posts/2020/03/02/</guid>
       <description>Transforming Next ‘20 into Google Cloud Next ‘20: Digital Connect on April 6-8, 2020
 10:15 PM &amp;#8226; GCP G Suite Events
+ How to Ingest VCN Flow Logs into Splunk
+08:46 PM &amp;#8226; Oracle Developer Tools Oracle Cloud Infrastructure
  Using Amazon FSx for Windows File Server as persistent storage on Windows Containers
 07:18 PM &amp;#8226; AWS Amazon EC2 Container Service Amazon Elastic Container Service
- Migrating Oracle databases with near-zero downtime using AWS DMS
-05:50 PM &amp;#8226; AWS AWS Database Migration Service AWS DMS
- How to detect and prevent network outages—and stay compliant too</description>
+ Migrating Oracle databases with near-zero downtime using AWS DMS</description>
     </item>
     
     <item>
