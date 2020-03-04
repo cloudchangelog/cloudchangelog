@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>04 March, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/03/04/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/03/04/</guid>
+      <description>Discord&amp;rsquo;s migration from Redshift to BigQuery: lessons learned
+05:00 PM &amp;#8226; GCP Data Analytics
+ Learning Custom TF-Hub Embeddings with Swivel and Kubeflow Pipeline
+05:00 PM &amp;#8226; GCP AI &amp;amp; Machine Learning
+ Govern how your clients interact with Apache Kafka using API Gateway
+04:24 PM &amp;#8226; AWS Amazon API Gateway Amazon Managed Streaming for Apache Kafka
+ Running spiky workloads and optimizing costs by more than 90% using Amazon DynamoDB on-demand capacity mode</description>
+    </item>
     
     <item>
       <title>03 March, 2020</title>
