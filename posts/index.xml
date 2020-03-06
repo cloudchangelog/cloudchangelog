@@ -17,14 +17,13 @@
       <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/03/06/</guid>
-      <description>Use the Dashboard API to build your own monitoring dashboard
+      <description>Querying data without servers or databases using Amazon S3 Select
+06:47 PM &amp;#8226; AWS Amazon API Gateway Amazon Simple Storage Services (S3)
+ Use the Dashboard API to build your own monitoring dashboard
 05:00 PM &amp;#8226; GCP Management Tools
  Create deployment pipelines for your GKE workloads in a few clicks
 05:00 PM &amp;#8226; GCP Containers &amp;amp; Kubernetes DevOps &amp;amp; SRE
- Architecting multi-region database disaster recovery for MySQL
-05:00 PM &amp;#8226; GCP Databases
- Data agility and open standards in health: FHIR fueling interoperability in Azure
-08:00 AM &amp;#8226; Azure Internet of Things</description>
+ Architecting multi-region database disaster recovery for MySQL</description>
     </item>
     
     <item>
