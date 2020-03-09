@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>09 March, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/03/09/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/03/09/</guid>
+      <description>Improving the Performance of Distributed Atlassian Applications with Amazon CloudFront
+07:38 PM &amp;#8226; AWS Amazon CloudFront AWS Partner Network
+ Configuring SSL encryption on Oracle and PostgreSQL endpoints in AWS DMS
+06:59 PM &amp;#8226; AWS AWS Database Migration Service AWS DMS
+ Enable large-scale database migrations with AWS DMS and AWS Snowball
+06:47 PM &amp;#8226; AWS AWS Database Migration Service AWS Schema Conversion Tool
+ Monitoring Microservice-Based Cloud Applications Using Distributed Tracing</description>
+    </item>
     
     <item>
       <title>06 March, 2020</title>
