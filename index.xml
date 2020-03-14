@@ -6,10 +6,56 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>13 March, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/03/13/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/03/13/</guid>
+      <description>Using Local Persistent Volumes with Container Engine for Kubernetes
+10:18 PM &amp;#8226; Oracle Oracle Cloud Infrastructure Solutions
+ Enable traffic encryption between services in AWS App Mesh using AWS Certificate Manager or customer-provided certificates
+09:48 PM &amp;#8226; AWS AWS App Mesh AWS Certificate Manager
+ Scheduling a secure data transfer using AWS DataSync
+07:36 PM &amp;#8226; AWS AWS DataSync Migration and Transfer
+ Gathering Market Intelligence from the Web Using Cloud-Based AI and ML Techniques</description>
+    </item>
+    
+    <item>
+      <title>12 March, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/03/12/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/03/12/</guid>
+      <description>Building faster, lower cost, better APIs – HTTP APIs now generally available
+08:50 PM &amp;#8226; AWS Amazon API Gateway AWS Serverless Application Model
+ Building a Business Case for SAP on AWS to Unlock New Value for the Enterprise
+06:10 PM &amp;#8226; AWS AWS Partner Network Customer Solutions
+ NAB 2020 Update and Online Events
+05:40 PM &amp;#8226; AWS Announcements Media &amp;amp; Entertainment
+ Simplify your day with SSH config file entries and self closing tunnels</description>
+    </item>
+    
+    <item>
+      <title>11 March, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/03/11/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/03/11/</guid>
+      <description>Hey Siri! Create My Container Engine for Kubernetes Cluster!
+10:09 PM &amp;#8226; Oracle Partners
+ OS Management with Oracle Cloud Infrastructure
+09:44 PM &amp;#8226; Oracle Developer Tools Oracle Cloud Infrastructure
+ Say Hello to 42 New AWS Competency, Service Delivery, and MSP Partners Added in February
+09:18 PM &amp;#8226; AWS Announcements AWS Partner Network
+ Tune Hadoop and Spark performance with Dr. Elephant and Sparklens on Amazon EMR
+06:42 PM &amp;#8226; AWS Amazon EMR Analytics</description>
+    </item>
     
     <item>
       <title>10 March, 2020</title>
