@@ -6,10 +6,26 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>16 March, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/03/16/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/03/16/</guid>
+      <description>How Steamhaus Used AWS Well-Architected to Improve Sperry Rail’s Artificial Intelligence System
+04:35 PM &amp;#8226; AWS Amazon Machine Learning Artificial Intelligence
+ Migrating to Amazon Aurora MySQL with fallback option using GTID-based replication
+04:12 PM &amp;#8226; AWS Amazon Aurora MySQL compatible
+ Azure Container Registry: Preview of customer-managed keys
+09:00 AM &amp;#8226; Azure
+ Power your Azure GPU workstations with flexible GPU partitioning
+08:00 AM &amp;#8226; Azure Virtual Machines</description>
+    </item>
     
     <item>
       <title>15 March, 2020</title>
