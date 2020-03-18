@@ -6,10 +6,27 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>18 March, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/03/18/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/03/18/</guid>
+      <description> Modernizing Twitter&amp;rsquo;s ad engagement analytics platform
+04:00 PM &amp;#8226; GCP Data Analytics
+ Protect users in your apps with multi-factor authentication
+04:00 PM &amp;#8226; GCP Cloud Identity Identity &amp;amp; Security
+ New Deploy to Azure extension for Visual Studio Code
+10:00 AM &amp;#8226; Azure Developer DevOps
+ Unified network monitoring with Connection Monitor now in preview
+09:00 AM &amp;#8226; Azure Networking Hybrid
+  </description>
+    </item>
     
     <item>
       <title>17 March, 2020</title>
