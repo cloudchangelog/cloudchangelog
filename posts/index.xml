@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>26 March, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/03/26/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/03/26/</guid>
+      <description> Azure Government Secret accredited at DoD IL6, ICD 503 with IaaS and PaaS
+06:00 AM &amp;#8226; Azure Government  </description>
+    </item>
     
     <item>
       <title>25 March, 2020</title>
