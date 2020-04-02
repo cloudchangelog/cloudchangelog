@@ -6,10 +6,23 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>02 April, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/04/02/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/04/02/</guid>
+      <description> Amazon Redshift update – ra3.4xlarge instances
+06:16 PM &amp;#8226; AWS Amazon Redshift Announcements
+ AWS DeepComposer – Now Generally Available With New Features
+05:43 PM &amp;#8226; AWS Announcements Artificial Intelligence
+  </description>
+    </item>
     
     <item>
       <title>31 March, 2020</title>
