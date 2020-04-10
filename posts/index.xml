@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 April, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/04/10/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/04/10/</guid>
+      <description> New – Accelerate SAP Deployments with AWS Launch Wizard
+01:59 PM &amp;#8226; AWS Announcements Launch  </description>
+    </item>
     
     <item>
       <title>08 April, 2020</title>
