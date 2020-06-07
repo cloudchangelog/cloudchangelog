@@ -6,10 +6,586 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>05 June, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/06/05/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/06/05/</guid>
+      <description>VPN CPE Videos posted to YouTube
+08:01 PM &amp;#8226; Oracle Networking
+ Building for Cost optimization and Resilience for EKS with Spot Instances
+06:08 PM &amp;#8226; AWS Amazon EC2 Amazon Elastic Kubernetes Service
+ Creating a persistent custom R environment for Amazon SageMaker
+04:49 PM &amp;#8226; AWS Artificial Intelligence SageMaker
+ Coding with R on Amazon SageMaker notebook instances
+04:48 PM &amp;#8226; AWS Artificial Intelligence SageMaker
+ Using Random Cut Forests for real-time anomaly detection in Amazon Elasticsearch Service</description>
+    </item>
+    
+    <item>
+      <title>04 June, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/06/04/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/06/04/</guid>
+      <description>AWS Single Sign-On Service Integration Guide for CloudHealth
+10:48 PM &amp;#8226; AWS AWS Partner Network AWS Single Sign-On (SSO)
+ Using Amazon SageMaker with Amazon Augmented AI for human review of Tabular data and ML predictions
+10:11 PM &amp;#8226; AWS Amazon Augmented AI Artificial Intelligence
+ New – Amazon EC2 C5a Instances Powered By 2nd Gen AMD EPYC™ Processors
+09:49 PM &amp;#8226; AWS Amazon EC2 Announcements
+ Intelligent Call Routing Using Amazon Fraud Detector and Amazon Connect</description>
+    </item>
+    
+    <item>
+      <title>03 June, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/06/03/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/06/03/</guid>
+      <description>Managed disaster recovery and managed reader farm with Amazon RDS for Oracle using Oracle Active Data Guard
+10:56 PM &amp;#8226; AWS Amazon RDS RDS for Oracle
+ CICD - Using CSM Rest API&amp;rsquo;s for Sandbox Migration 
+10:45 PM &amp;#8226; Oracle Python REST
+ How Belle Fleur Uses APN Navigate to Differentiate its Business and Earn Trust with Customers
+08:52 PM &amp;#8226; AWS AWS Partner Network Enterprise Strategy
+ Achieving high throughput with a low-cost Windows file system</description>
+    </item>
+    
+    <item>
+      <title>02 June, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/06/02/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/06/02/</guid>
+      <description>Building and querying the AWS COVID-19 knowledge graph
+11:57 PM &amp;#8226; AWS Amazon Comprehend Medical Amazon Neptune
+ Exploring scientific research on COVID-19 with Amazon Neptune, Amazon Comprehend Medical, and the Tom Sawyer Graph Database Browser
+11:57 PM &amp;#8226; AWS Amazon Comprehend Medical Amazon Neptune
+ Introducing cross-region replica for Cloud SQL
+10:00 PM &amp;#8226; GCP Databases
+ Making Serverless CI/CD Easier with CircleCI and Serverless Framework
+08:55 PM &amp;#8226; AWS AWS Lambda AWS Marketplace</description>
+    </item>
+    
+    <item>
+      <title>01 June, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/06/01/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/06/01/</guid>
+      <description>Manage Amazon EKS with Okta SSO
+11:52 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service Containers
+ Creating a secure video-on-demand (VOD) platform using AWS
+10:59 PM &amp;#8226; AWS Amazon CloudFront Amazon Cognito
+ ISV Implementation Details - Part 3C - Linux Clustering with Pacemaker and Corosync
+10:49 PM &amp;#8226; Oracle Networking
+ Changing your Amazon S3 encryption from S3-Managed to AWS KMS
+10:35 PM &amp;#8226; AWS Amazon Simple Storage Services (S3) AWS Command Line Interface</description>
+    </item>
+    
+    <item>
+      <title>31 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/31/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/31/</guid>
+      <description> Prepare your data using Enterprise Data Quality for cloud transformation
+03:56 PM &amp;#8226; Oracle A-Team Chronicles Architecture  </description>
+    </item>
+    
+    <item>
+      <title>30 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/30/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/30/</guid>
+      <description> BI Cloud Connector – Further Automation Options
+08:48 PM &amp;#8226; Oracle A-Team Chronicles Accounting Hub Reporting
+ Privately Accessing Oracle Services Residing in Different Regions
+02:10 PM &amp;#8226; Oracle A-Team Chronicles Analytics &amp;amp;amp; Reporting
+  </description>
+    </item>
+    
+    <item>
+      <title>29 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/29/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/29/</guid>
+      <description>Replicating existing objects between S3 buckets
+11:14 PM &amp;#8226; AWS Amazon Simple Storage Services (S3) Compliance
+ Boosting the Assembly and Deployment of Artificial Intelligence Solutions with KNIME Visual Data Science Tools
+10:07 PM &amp;#8226; AWS Amazon Machine Learning Artificial Intelligence
+ Maintaining Transport Layer Security all the way to your container: using the Application Load Balancer with Amazon ECS and Envoy
+07:07 PM &amp;#8226; AWS AWS App Mesh Containers</description>
+    </item>
+    
+    <item>
+      <title>28 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/28/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/28/</guid>
+      <description>Implementing hyperparameter optimization with Optuna on Amazon SageMaker
+11:39 PM &amp;#8226; AWS Artificial Intelligence SageMaker
+ Fine-grained Continuous Delivery With CodePipeline and AWS Step Functions
+10:11 PM &amp;#8226; AWS Announcements AWS CodePipeline
+ Single Sign-On between Okta Universal Directory and AWS
+07:32 PM &amp;#8226; AWS Announcements AWS Single Sign-On (SSO)
+ Introducing server-side encryption of ephemeral storage using AWS Fargate-managed keys in AWS Fargate platform version 1.4
+07:24 PM &amp;#8226; AWS Amazon Elastic Container Service Amazon Elastic Kubernetes Service</description>
+    </item>
+    
+    <item>
+      <title>27 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/27/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/27/</guid>
+      <description>How to replicate Amazon FSx for Windows File Server data across AWS Regions
+10:58 PM &amp;#8226; AWS Amazon FSx for Windows AWS DataSync
+ Simplifying application orchestration with AWS Step Functions and AWS SAM
+09:14 PM &amp;#8226; AWS Announcements Application Services
+ The Evolution of Sports Distribution
+08:57 PM &amp;#8226; AWS AWS Partner Network Media &amp;amp; Entertainment
+ Migrating your Netezza data warehouse to Amazon Redshift
+07:34 PM &amp;#8226; AWS Amazon Redshift Analytics</description>
+    </item>
+    
+    <item>
+      <title>26 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/26/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/26/</guid>
+      <description>Architecting Successful SaaS: Interacting with Your SaaS Customer’s Cloud Accounts
+06:51 PM &amp;#8226; AWS AWS Partner Network Best Practices
+ Build an end to end, automated inventory forecasting capability with AWS Lake Formation and Amazon Forecast
+06:02 PM &amp;#8226; AWS Amazon Forecast AWS Big Data
+ Introducing Java 11 on Google Cloud Functions
+06:00 PM &amp;#8226; GCP Serverless Application Development
+ Welcome to the Serverless-First Function Virtual Events
+05:13 PM &amp;#8226; AWS Announcements Events</description>
+    </item>
+    
+    <item>
+      <title>25 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/25/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/25/</guid>
+      <description> Learn How to Be the Best at Using OCI Logging Service to explore Object Storage Logs
+12:28 PM &amp;#8226; Oracle Oracle Cloud Infrastructure (OCI)  </description>
+    </item>
+    
+    <item>
+      <title>22 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/22/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/22/</guid>
+      <description> AWS Storage Gateway adds support for FIPS 140-2 compliant endpoints
+07:28 PM &amp;#8226; AWS Announcements AWS GovCloud (US)
+ How APN Navigate Helps Partners Build, Market, Sell, and Specialize with AWS
+07:08 PM &amp;#8226; AWS AWS Partner Network Customer Solutions
+ Build an AWS Well-Architected environment with the Analytics Lens
+04:54 PM &amp;#8226; AWS Amazon Athena Amazon Elasticsearch Service
+  </description>
+    </item>
+    
+    <item>
+      <title>21 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/21/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/21/</guid>
+      <description>Reducing the Cost of Managing Multiple AWS Accounts Using AWS Control Tower
+10:37 PM &amp;#8226; AWS AWS Control Tower AWS Partner Network
+ Working with the Developer Client Tool for Oracle Analytics Cloud (OAC) with ADW in a &amp;hellip;
+10:18 PM &amp;#8226; Oracle Analytics &amp;amp;amp; Reporting Analytics Cloud
+ Cloud-optimized Channel Origination with Imagine Communications’ Versio Playout Solution
+09:37 PM &amp;#8226; AWS Amazon CloudFront Amazon CloudWatch
+ Online Tech Talk May 29: Simplified file storage with Amazon FSx</description>
+    </item>
+    
+    <item>
+      <title>20 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/20/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/20/</guid>
+      <description> How to manage retention periods in bulk using Amazon S3 Batch Operations
+10:37 PM &amp;#8226; AWS Amazon Simple Storage Services (S3) Storage
+ Developing Migration and Rapid Application Development Strategies for SAP S/4HANA on AWS
+06:58 PM &amp;#8226; AWS Best Practices Customer Solutions
+ ADP Transforms its Human Capital Management Technology with Support of AWS SaaS Factory
+06:32 PM &amp;#8226; AWS AWS Partner Network Customer Solutions
+  </description>
+    </item>
+    
+    <item>
+      <title>19 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/19/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/19/</guid>
+      <description>Monitoring AWS Elemental MediaStore with Amazon CloudWatch metrics
+10:15 PM &amp;#8226; AWS Amazon CloudWatch AWS Elemental MediaLive
+ Connecting an Oracle Analytics Cloud RPD to Private Autonomous Databases
+08:41 PM &amp;#8226; Oracle A-Team Chronicles Analytics &amp;amp;amp; Reporting
+ AWS Machine Learning Scholarship Program from Udacity is now open for enrollment
+04:49 PM &amp;#8226; AWS Artificial Intelligence
+ Building fast refresh capability in Amazon RDS for PostgreSQL
+04:04 PM &amp;#8226; AWS Amazon RDS RDS for PostgreSQL</description>
+    </item>
+    
+    <item>
+      <title>18 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/18/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/18/</guid>
+      <description>Say Hello to 90 New AWS Competency, Service Delivery, Service Ready, and MSP Partners Added in April
+09:39 PM &amp;#8226; AWS Announcements AWS Partner Network
+ Integrating Third-Party Solutions to AWS Config Rule Evaluations
+08:05 PM &amp;#8226; AWS AWS Config AWS Key Management Service
+ How Mactores Tripled Performance by Migrating from Oracle to Amazon Redshift with Zero Downtime
+07:54 PM &amp;#8226; AWS Amazon Redshift AWS Partner Network
+ What APN Partners Need to Know About Changes to AWS Certification Digital Badges</description>
+    </item>
+    
+    <item>
+      <title>15 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/15/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/15/</guid>
+      <description>Managing delete marker replication in Amazon S3
+10:27 PM &amp;#8226; AWS Amazon Simple Storage Services (S3) Regions
+ Benefits for AWS Service Delivery Partners Help You Increase Visibility with Customers
+07:27 PM &amp;#8226; AWS Announcements AWS Partner Network
+ Deploying a serverless application using AWS CDK
+07:26 PM &amp;#8226; AWS Architecture AWS Serverless Application Repository
+ Enhancing speech-to-text accuracy of COVID-19-related terms with Amazon Transcribe Medical
+07:21 PM &amp;#8226; AWS Amazon Transcribe Artificial Intelligence</description>
+    </item>
+    
+    <item>
+      <title>14 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/14/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/14/</guid>
+      <description>Adventures in Scaling in Changing Times
+09:03 PM &amp;#8226; AWS Launch News
+ Omnichannel personalization with Amazon Personalize
+08:33 PM &amp;#8226; AWS Amazon Personalize Artificial Intelligence
+ AWS and Red Hat extend collaboration: announcing a new managed Red Hat OpenShift service on AWS
+07:11 PM &amp;#8226; AWS Containers OpenShift
+ Optimize memory management in AWS Glue
+06:58 PM &amp;#8226; AWS Analytics AWS Big Data
+ Using State Manager over cfn-init in CloudFormation and its benefits</description>
+    </item>
+    
+    <item>
+      <title>13 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/13/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/13/</guid>
+      <description>New – Enhanced Amazon Macie Now Available with Substantially Reduced Pricing
+10:31 PM &amp;#8226; AWS Amazon Macie Amazon Simple Storage Services (S3)
+ AWS Identity and Access Management on AWS Snowball Edge
+08:55 PM &amp;#8226; AWS AWS Identity and Access Management (IAM) AWS Snowball
+ Running Web Applications on Amazon EC2 Spot Instances
+06:13 PM &amp;#8226; AWS Amazon EC2 Amazon EventBridge
+ Build an automatic data profiling and reporting solution with Amazon EMR, AWS Glue, and Amazon QuickSight</description>
+    </item>
+    
+    <item>
+      <title>12 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/12/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/12/</guid>
+      <description> Migrating to Amazon DocumentDB with the hybrid method
+05:01 PM &amp;#8226; AWS Amazon DocumentDB Amazon Document DB (with MongoDB Compatibility)
+ Achieving minimum downtime for major version upgrades in Amazon Aurora for PostgreSQL using AWS DMS
+04:09 PM &amp;#8226; AWS Amazon Aurora AWS Database Migration Service
+  </description>
+    </item>
+    
+    <item>
+      <title>11 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/11/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/11/</guid>
+      <description>New – EC2 M6g Instances, powered by AWS Graviton2
+09:25 PM &amp;#8226; AWS Amazon EC2 Announcements
+ A look inside how global multimedia agency Reuters uses Amazon Web Services
+06:48 PM &amp;#8226; AWS Amazon CloudFront Amazon Route 53
+ Reinventing Enterprise Search – Amazon Kendra is Now Generally Available
+06:21 PM &amp;#8226; AWS Amazon Kendra Announcements
+ AWS Inter-Region Data Transfer (DTIR) Price Reduction
+03:53 PM &amp;#8226; AWS Announcements Launch</description>
+    </item>
+    
+    <item>
+      <title>10 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/10/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/10/</guid>
+      <description> Manage your Oracle JDK licenses with AWS License Manager
+10:40 PM &amp;#8226; AWS AWS License Manager AWS Systems Manager
+ How to optimize assessment of cloud services
+10:32 PM &amp;#8226; AWS Amazon GuardDuty AWS CloudTrail
+  </description>
+    </item>
+    
+    <item>
+      <title>08 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/08/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/08/</guid>
+      <description> Recover Amazon EFS files and folders with AWS Backup
+10:38 PM &amp;#8226; AWS Amazon Elastic File System (EFS) AWS Backup
+ EC2 Price Reduction – For EC2 Instance Saving Plans and Standard Reserved Instances
+07:03 PM &amp;#8226; AWS Amazon EC2 Announcements
+  </description>
+    </item>
+    
+    <item>
+      <title>07 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/07/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/07/</guid>
+      <description>Monitor and optimize queries on the new Amazon Redshift console
+08:38 PM &amp;#8226; AWS Amazon Redshift Analytics
+ Bristol Myers Squibb increases performance and cost savings using AWS Storage Gateway
+08:14 PM &amp;#8226; AWS Amazon EC2 Amazon Simple Storage Services (S3)
+ Getting Started with Ultra-Low Latency Using AWS Elemental Live – Part 2
+07:17 PM &amp;#8226; AWS Amazon CloudFront AWS Elemental MediaStore 
+ Getting Started with Ultra-Low Latency Using AWS Elemental Live — Part 1</description>
+    </item>
+    
+    <item>
+      <title>06 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/06/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/06/</guid>
+      <description> Launching a Full-Featured VOD Platform in Just Four Weeks
+11:00 PM &amp;#8226; AWS Amazon CloudFront Amazon Simple Storage Services (S3)
+ Move to managed file storage in minutes with AWS DataSync
+09:11 PM &amp;#8226; AWS Amazon Elastic File System (EFS) Amazon FSx for Windows
+ Make it YOUR Race! Virtual 4K 4Charity Registration Now Open
+05:05 PM &amp;#8226; AWS Media &amp;amp; Entertainment Media Services
+  </description>
+    </item>
+    
+    <item>
+      <title>05 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/05/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/05/</guid>
+      <description>Build a serverless Martian weather display with CircuitPython and AWS Lambda
+10:40 PM &amp;#8226; AWS Amazon API Gateway AWS Lambda
+ General Availability of UltraWarm for Amazon Elasticsearch Service
+09:08 PM &amp;#8226; AWS Amazon Elasticsearch Service Announcements
+ New – Building a Continuous Integration Workflow with Step Functions and AWS CodeBuild
+08:21 PM &amp;#8226; AWS Announcements AWS CodeBuild
+ Persistent-50 high-performance file system packs a punch!
+07:34 PM &amp;#8226; AWS Amazon FSx for Lustre Storage</description>
+    </item>
+    
+    <item>
+      <title>04 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/04/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/04/</guid>
+      <description>Cloud storage in minutes with AWS Storage Gateway
+11:22 PM &amp;#8226; AWS AWS Storage Gateway Storage
+ 90%+ price reduction for AWS IoT Jobs, Globally Available
+08:02 PM &amp;#8226; AWS Announcements AWS IoT Device Management
+ Deploy an Amazon EMR edge node with RStudio using AWS Systems Manager
+06:20 PM &amp;#8226; AWS Amazon EMR Analytics
+ New – AWS Elemental Link – Deliver Live Video to the Cloud for Events &amp;amp; Streams</description>
+    </item>
+    
+    <item>
+      <title>01 May, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/05/01/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/05/01/</guid>
+      <description> How Zalando built its data lake on Amazon S3
+07:11 PM &amp;#8226; AWS Amazon S3 Glacier Amazon S3 Glacier Deep Archive  </description>
+    </item>
+    
+    <item>
+      <title>30 April, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/04/30/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/04/30/</guid>
+      <description>Join the FORMULA 1 DeepRacer ProAm Special Event
+11:03 PM &amp;#8226; AWS AWS DeepRacer Launch
+ New – Amazon EventBridge Schema Registry is Now Generally Available
+09:13 PM &amp;#8226; AWS Amazon EventBridge Announcements
+ Managing resources using AWS CloudFormation Resource Types
+08:20 PM &amp;#8226; AWS AWS CloudFormation Management Tools
+ AWS Storage Gateway adds Amazon S3 Intelligent-Tiering to File Gateway
+06:22 PM &amp;#8226; AWS Announcements AWS Storage Gateway
+ Deep dive into Fargate Spot to run your ECS Tasks for up to 70% less</description>
+    </item>
+    
+    <item>
+      <title>29 April, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/04/29/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/04/29/</guid>
+      <description> Building a Linux edge-computing solution with AWS Snowball Edge and Amazon EC2
+09:36 PM &amp;#8226; AWS Amazon EC2 AWS Snowball Edge
+ Simplify data pipelines with AWS Glue automatic code generation and Workflows
+06:03 PM &amp;#8226; AWS Analytics AWS Big Data
+ See the Agenda: AWS Insights Online Conference
+12:05 AM &amp;#8226; AWS Amazon Machine Learning Amazon Simple Storage Services (S3)
+  </description>
+    </item>
+    
+    <item>
+      <title>28 April, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/04/28/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/04/28/</guid>
+      <description>Keep up on the latest from AWS Organizations–Spring 2020
+09:59 PM &amp;#8226; AWS AWS Organizations Management Tools
+ Encrypting existing Amazon S3 objects with the AWS CLI
+08:48 PM &amp;#8226; AWS Amazon S3 Glacier Amazon S3 Glacier Deep Archive
+ Exploring the public AWS COVID-19 data lake
+08:36 PM &amp;#8226; AWS Analytics AWS Glue
+ Building an automated knowledge repo with Amazon EventBridge and Zendesk
+12:03 PM &amp;#8226; AWS Amazon EventBridge Application Integration</description>
+    </item>
+    
+    <item>
+      <title>27 April, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/04/27/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/04/27/</guid>
+      <description>Global Media Industry Responds Quickly to Help Others Impacted by COVID
+09:55 PM &amp;#8226; AWS AWS Partner Network Media &amp;amp; Entertainment
+ Building and testing iOS and iPadOS apps with AWS DevOps and mobile services
+09:15 PM &amp;#8226; AWS AWS CodeCommit AWS CodePipeline
+ Federate Amazon Redshift access with Microsoft Azure AD single sign-on
+05:04 PM &amp;#8226; AWS Amazon Redshift Analytics
+ Decoupling larger applications with Amazon EventBridge
+02:16 PM &amp;#8226; AWS Amazon EventBridge Amazon Simple Storage Services (S3)</description>
+    </item>
+    
+    <item>
+      <title>24 April, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/04/24/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/04/24/</guid>
+      <description> Ingest streaming data into Amazon Elasticsearch Service within the privacy of your VPC with Amazon Kinesis Data Firehose
+09:58 PM &amp;#8226; AWS Amazon Kinesis Analytics  </description>
+    </item>
+    
+    <item>
+      <title>23 April, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/04/23/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/04/23/</guid>
+      <description>Using AWS CodeDeploy and AWS CodePipeline to Deploy Applications to Amazon Lightsail
+07:41 PM &amp;#8226; AWS Amazon Lightsail AWS CodeDeploy
+ Using AWS CodeBuild to execute administrative tasks
+04:25 PM &amp;#8226; AWS AWS CodeBuild Best Practices
+ Providing self-service repositories to end users to connect to AWS Lambda backed services
+04:20 PM &amp;#8226; AWS AWS CodeCommit AWS Service Catalog
+ Deploying a ASP.NET Core web application to Amazon ECS using an Azure DevOps pipeline</description>
+    </item>
+    
+    <item>
+      <title>22 April, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/04/22/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/04/22/</guid>
+      <description>Jordan Develops e-Learning Platform for 2 Million Students with AWS
+08:48 PM &amp;#8226; AWS Amazon CloudFront Amazon Simple Storage Services (S3)
+ Achieve finer-grained data security with column-level access control in Amazon Redshift
+08:18 PM &amp;#8226; AWS Amazon Redshift Analytics
+ AWS Control Tower Detective Guardrails as an AWS Config Conformance Pack
+06:34 PM &amp;#8226; AWS AWS Config AWS Control Tower
+ Providing Remote Learning for Millions of Israel Students Through Live Stream</description>
+    </item>
+    
+    <item>
+      <title>21 April, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/04/21/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/04/21/</guid>
+      <description> Speed up your ELT and BI queries with Amazon Redshift materialized views
+04:23 PM &amp;#8226; AWS Amazon QuickSight Amazon Redshift
+ Using Load Balancers on Amazon Lightsail
+03:54 PM &amp;#8226; AWS Amazon Lightsail Compute
+ Setting up custom AWS Config rule that checks the OS CIS compliance
+03:34 PM &amp;#8226; AWS AWS CloudFormation AWS Config
+  </description>
+    </item>
+    
+    <item>
+      <title>20 April, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/04/20/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/04/20/</guid>
+      <description> Query, visualize, and forecast TruFactor web session intelligence with AWS Data Exchange
+04:16 PM &amp;#8226; AWS Amazon Athena Amazon Forecast
+ Automating scalable business workflows using minimal code
+02:32 PM &amp;#8226; AWS Amazon Rekognition Amazon Simple Storage Services (S3)
+  </description>
+    </item>
+    
+    <item>
+      <title>19 April, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/04/19/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/04/19/</guid>
+      <description> Enhancing automated database continuous integration with AWS CodeBuild and Amazon RDS Database Snapshot
+09:30 PM &amp;#8226; AWS Amazon RDS AWS CodeBuild  </description>
+    </item>
+    
+    <item>
+      <title>17 April, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/04/17/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/04/17/</guid>
+      <description> Governance, risk, and compliance when establishing your cloud presence
+03:01 PM &amp;#8226; AWS AWS Control Tower AWS Organizations  </description>
+    </item>
     
     <item>
       <title>16 April, 2020</title>
@@ -17,8 +593,13 @@
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/04/16/</guid>
-      <description> AWS Data Transfer Out (DTO) 40% Price Reduction in South America (São Paulo) Region
-01:18 PM &amp;#8226; AWS Launch News  </description>
+      <description> Applying managed instance policy best practices
+08:28 PM &amp;#8226; AWS AWS Config AWS Identity and Access Management (IAM)
+ Monitor your private internal endpoints 24×7 using CloudWatch Synthetics
+03:39 PM &amp;#8226; AWS Amazon CloudWatch Customer Solutions
+ AWS Data Transfer Out (DTO) 40% Price Reduction in South America (São Paulo) Region
+01:18 PM &amp;#8226; AWS Launch News
+  </description>
     </item>
     
     <item>
@@ -32,13 +613,32 @@
     </item>
     
     <item>
+      <title>13 April, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/04/13/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/04/13/</guid>
+      <description> Manage custom AWS Config rules with remediations using conformance packs
+06:21 PM &amp;#8226; AWS AWS CloudFormation AWS Config
+ Send Organizational AWS Health Events to Amazon Chime or Slack
+06:12 PM &amp;#8226; AWS AWS Organizations AWS Personal Health Dashboard
+  </description>
+    </item>
+    
+    <item>
       <title>10 April, 2020</title>
       <link>https://cloudchangelog.com/posts/2020/04/10/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/04/10/</guid>
-      <description> New – Accelerate SAP Deployments with AWS Launch Wizard
-01:59 PM &amp;#8226; AWS Announcements Launch  </description>
+      <description>Creating event-based notifications and remediation in AWS Service Catalog using AWS Config
+11:12 PM &amp;#8226; AWS Amazon CloudWatch AWS Config
+ Automating your API testing with AWS CodeBuild, AWS CodePipeline, and Postman
+10:31 PM &amp;#8226; AWS AWS CodeBuild AWS CodePipeline
+ Automate RDS Aurora Snapshots for disaster recovery
+05:34 PM &amp;#8226; AWS AWS Systems Manager Customer Solutions
+ New – Accelerate SAP Deployments with AWS Launch Wizard
+01:59 PM &amp;#8226; AWS Announcements Launch</description>
     </item>
     
     <item>
@@ -48,7 +648,20 @@
       
       <guid>https://cloudchangelog.com/posts/2020/04/08/</guid>
       <description> Amazon Elastic Container Service now supports Amazon EFS file systems
-07:57 PM &amp;#8226; AWS Amazon Elastic Container Service Amazon Elastic File System (EFS)  </description>
+07:57 PM &amp;#8226; AWS Amazon Elastic Container Service Amazon Elastic File System (EFS)
+ Deploy Enterprise Proof-of-Concept with prooV and AWS Service Catalog
+12:11 AM &amp;#8226; AWS AWS Service Catalog Management Tools
+  </description>
+    </item>
+    
+    <item>
+      <title>03 April, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/04/03/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/04/03/</guid>
+      <description> Monitoring and management with Amazon QuickSight and Athena in your CI/CD pipeline
+03:50 AM &amp;#8226; AWS Amazon Athena Analytics  </description>
     </item>
     
     <item>
