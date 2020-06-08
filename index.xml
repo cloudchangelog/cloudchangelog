@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>07 June, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/06/07/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/06/07/</guid>
+      <description> Automating the discovery of licensed software using AWS License Manager
+09:45 PM &amp;#8226; AWS AWS License Manager AWS Systems Manager  </description>
+    </item>
     
     <item>
       <title>05 June, 2020</title>
