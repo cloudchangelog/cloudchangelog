@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>09 June, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/06/09/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/06/09/</guid>
+      <description> Proposed generic pattern to model ordered collections w/ RDF quads
+12:30 PM &amp;#8226; Oracle A-Team Chronicles Database
+ Introducing the new Serverless LAMP stack
+10:32 AM &amp;#8226; AWS Amazon API Gateway Amazon Aurora
+ Extending SaaS with Cloud Native (Part 2 - Network Connectivity)
+08:47 AM &amp;#8226; Oracle Cloud Native SaaS Extension &amp;amp;amp; Customization
+  </description>
+    </item>
     
     <item>
       <title>08 June, 2020</title>
