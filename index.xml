@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 June, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/06/10/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/06/10/</guid>
+      <description> Building a location-based, scalable, serverless web app – part 2
+11:16 AM &amp;#8226; AWS Amazon API Gateway Amazon DynamoDB  </description>
+    </item>
     
     <item>
       <title>09 June, 2020</title>
