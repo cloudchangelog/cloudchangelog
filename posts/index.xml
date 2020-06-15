@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>14 June, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/06/14/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/06/14/</guid>
+      <description> How to automate the creation of multiple accounts in AWS Control Tower
+07:18 AM &amp;#8226; AWS Amazon CloudWatch Amazon DynamoDB  </description>
+    </item>
     
     <item>
       <title>12 June, 2020</title>
