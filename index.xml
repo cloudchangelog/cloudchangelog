@@ -6,10 +6,26 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>15 June, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/06/15/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/06/15/</guid>
+      <description>Case Study: Genflix Transforms OTT Service with CloudCover and AWS
+04:58 PM &amp;#8226; AWS Amazon CloudFront AWS Elemental MediaConvert
+ Best Practices from Onica for Optimizing Query Performance on Amazon Redshift
+04:49 PM &amp;#8226; AWS Amazon Redshift Analytics
+ Delivering real-time racing analytics using machine learning
+04:48 PM &amp;#8226; AWS Artificial Intelligence AWS DeepRacer
+ Building well-architected serverless applications: Approaching application lifecycle management – part 1
+03:54 PM &amp;#8226; AWS Amazon Cognito AWS Amplify</description>
+    </item>
     
     <item>
       <title>14 June, 2020</title>
