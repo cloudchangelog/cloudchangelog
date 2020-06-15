@@ -17,8 +17,13 @@
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/06/16/</guid>
-      <description> Introducing the serverless LAMP stack – part 2 relational databases
-09:11 AM &amp;#8226; AWS Amazon RDS AWS Identity and Access Management (IAM)  </description>
+      <description>How Swisscom Saved DroneAnalytics 60% on AWS Services by Using the AWS Well-Architected Framework
+04:50 PM &amp;#8226; AWS Amazon RDS AWS Fargate
+ How Waves runs user queries and recommendations at scale with Amazon Neptune
+04:45 PM &amp;#8226; AWS Amazon Neptune APN
+ Visualizing Amazon API Gateway usage plans using Amazon QuickSight
+04:21 PM &amp;#8226; AWS Amazon API Gateway Amazon QuickSight
+ Speeding up, scaling out: Filestore now supports high performance</description>
     </item>
     
     <item>
