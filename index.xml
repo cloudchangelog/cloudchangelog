@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>19 June, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/06/19/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/06/19/</guid>
+      <description> See How Easily You Can Deploy App Gateway with HA
+12:19 AM &amp;#8226; Oracle  </description>
+    </item>
     
     <item>
       <title>18 June, 2020</title>
@@ -17,14 +27,14 @@
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/06/18/</guid>
-      <description>One-Click access to servers and VMs with Session Manager and MontyCloud
+      <description>Detecting fraud in heterogeneous networks using Amazon SageMaker and Deep Graph Library
+11:26 PM &amp;#8226; AWS Artificial Intelligence SageMaker
+ One-Click access to servers and VMs with Session Manager and MontyCloud
 10:50 PM &amp;#8226; AWS AWS Systems Manager Technical How-to
  Knowledge Base Modeling: Governance &amp;amp; Project Scope
 10:15 PM &amp;#8226; Oracle A-Team Chronicles Database
  Enabling Video Chats Using Amazon Kinesis Video Streams for WebRTC
-08:32 PM &amp;#8226; AWS Amazon Cognito Amazon EC2
- Nautilus reshapes fitness offerings with Slalom Build and AWS
-07:31 PM &amp;#8226; AWS Amazon CloudFront Amazon Cognito</description>
+08:32 PM &amp;#8226; AWS Amazon Cognito Amazon EC2</description>
     </item>
     
     <item>
