@@ -17,13 +17,13 @@
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/06/22/</guid>
-      <description>Change data capture from Neo4j to Amazon Neptune using Amazon Managed Streaming for Apache Kafka
-04:14 PM &amp;#8226; AWS Amazon Managed Streaming for Apache Kafka (Amazon MSK) Amazon Neptune
- Introducing Pub/Sub as a new notification channel in Cloud Monitoring
-04:00 PM &amp;#8226; GCP Management Tools
- How maintenance windows affect your error budget — SRE tips
-04:00 PM &amp;#8226; GCP CRE Life Lessons Management Tools
- Open Match simplified matchmaking for developers is now 1.</description>
+      <description>Predicting driving speed violations with the Amazon SageMaker DeepAR algorithm
+07:59 PM &amp;#8226; AWS Artificial Intelligence SageMaker
+ Centralize data access using AWS Transfer Family and AWS Storage Gateway
+06:36 PM &amp;#8226; AWS AWS Storage Gateway AWS Transfer Family
+ Scheduling Jupyter notebooks on SageMaker ephemeral instances
+06:23 PM &amp;#8226; AWS Artificial Intelligence SageMaker
+ AWS DeepComposer Chartbusters: generate compositions in the style of Bach and compete to top the charts</description>
     </item>
     
     <item>
