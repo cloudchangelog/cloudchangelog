@@ -6,10 +6,35 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>22 June, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/06/22/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/06/22/</guid>
+      <description> Software patching with AWS Systems Manager
+01:42 PM &amp;#8226; AWS AWS CodeBuild AWS CodePipeline
+ Track IBM license usage with AWS License Manager
+01:25 PM &amp;#8226; AWS AWS License Manager AWS Systems Manager
+ Managing aged access keys through AWS Config remediations
+01:23 PM &amp;#8226; AWS AWS Config AWS Systems Manager
+  </description>
+    </item>
+    
+    <item>
+      <title>21 June, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/06/21/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/06/21/</guid>
+      <description> Software Patch Management Using AWS Serverless CICD
+05:27 PM &amp;#8226; AWS Amazon EC2 Amazon Simple Notification Service (SNS)  </description>
+    </item>
     
     <item>
       <title>19 June, 2020</title>
