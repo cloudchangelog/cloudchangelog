@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>24 June, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/06/24/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/06/24/</guid>
+      <description> Automating Rotation of IAM User Access and Secret Keys with AWS Secrets Manager
+12:07 AM &amp;#8226; AWS AWS Identity and Access Management (IAM) AWS Lambda  </description>
+    </item>
     
     <item>
       <title>23 June, 2020</title>
@@ -17,15 +27,15 @@
       <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/06/23/</guid>
-      <description>Building AI-powered forecasting automation with Amazon Forecast by applying MLOps
+      <description>Low-latency computing with AWS Local Zones – Part 1
+11:37 PM &amp;#8226; AWS Best Practices Compute
+ ICYMI: Serverless-First Function
+11:34 PM &amp;#8226; AWS Events Serverless
+ Building AI-powered forecasting automation with Amazon Forecast by applying MLOps
 10:52 PM &amp;#8226; AWS Amazon Forecast Artificial Intelligence
  Digital download: Celebrating M&amp;amp;E customer successes and innovations
 08:42 PM &amp;#8226; AWS AWS Elemental MediaConnect AWS Elemental MediaConvert
- Blue Green Deployments with the ECS External Deployment Controller
-08:41 PM &amp;#8226; AWS Containers
- Enhancing enterprise search with Amazon Kendra
-08:13 PM &amp;#8226; AWS Amazon Kendra Artificial Intelligence
- Media &amp;amp; Entertainment in focus for AWS Architecture Monthly</description>
+ Blue Green Deployments with the ECS External Deployment Controller</description>
     </item>
     
     <item>
