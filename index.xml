@@ -17,8 +17,13 @@
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/06/24/</guid>
-      <description> Automating Rotation of IAM User Access and Secret Keys with AWS Secrets Manager
-12:07 AM &amp;#8226; AWS AWS Identity and Access Management (IAM) AWS Lambda  </description>
+      <description> Software patching with AWS Systems Manager
+03:34 AM &amp;#8226; AWS AWS CodeBuild AWS CodePipeline
+ The new Google Cloud region in Jakarta is now open
+03:00 AM &amp;#8226; GCP Infrastructure
+ Automating Rotation of IAM User Access and Secret Keys with AWS Secrets Manager
+12:07 AM &amp;#8226; AWS AWS Identity and Access Management (IAM) AWS Lambda
+  </description>
     </item>
     
     <item>
