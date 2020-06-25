@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>25 June, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/06/25/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/06/25/</guid>
+      <description> Monitoring Amazon EKS on AWS Fargate using Prometheus and Grafana
+12:06 AM &amp;#8226; AWS  </description>
+    </item>
     
     <item>
       <title>24 June, 2020</title>
