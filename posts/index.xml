@@ -6,10 +6,26 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>26 June, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/06/26/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/06/26/</guid>
+      <description>Keeping Ansible effortless with AWS Systems Manager
+04:56 PM &amp;#8226; AWS AWS Systems Manager Management Tools
+ Automating Feature Release using AWS AppConfig Integration with AWS Codepipeline
+04:34 PM &amp;#8226; AWS AWS CodePipeline AWS Systems Manager
+ Knowledge Graph Modeling: Introduction to gist (and buckets)
+04:30 PM &amp;#8226; Oracle A-Team Chronicles Data Management
+ How PGS Software Strengthens its Business with Exclusive Tools and Resources from APN Navigate
+04:19 PM &amp;#8226; AWS AWS Partner Network Customer Solutions</description>
+    </item>
     
     <item>
       <title>25 June, 2020</title>
