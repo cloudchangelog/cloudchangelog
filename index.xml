@@ -6,10 +6,26 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>29 June, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/06/29/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/06/29/</guid>
+      <description>Introducing the open-source Amazon SageMaker XGBoost algorithm container
+01:49 PM &amp;#8226; AWS Artificial Intelligence SageMaker
+ Managing backend requests and frontend notifications in serverless web apps
+01:26 PM &amp;#8226; AWS Amazon API Gateway Amazon Simple Queue Service (SQS)
+ Reimagining government social services in the COVID-19 era
+01:00 PM &amp;#8226; GCP AI &amp;amp; Machine Learning
+ Bare Metal Solution: Coming to a Google Cloud data center near you
+01:00 PM &amp;#8226; GCP Databases Compute</description>
+    </item>
     
     <item>
       <title>27 June, 2020</title>
