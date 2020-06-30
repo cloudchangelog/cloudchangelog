@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>30 June, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/06/30/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/06/30/</guid>
+      <description> Best practices for handling EC2 Spot Instance interruptions
+12:01 AM &amp;#8226; AWS Amazon EC2 Auto Scaling  </description>
+    </item>
     
     <item>
       <title>29 June, 2020</title>
