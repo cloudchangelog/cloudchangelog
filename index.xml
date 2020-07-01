@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>01 July, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/07/01/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/07/01/</guid>
+      <description> Cisco CSR1000v High Availability (HA) Deployment in OCI
+12:49 AM &amp;#8226; Oracle Networking  </description>
+    </item>
     
     <item>
       <title>30 June, 2020</title>
@@ -17,14 +27,13 @@
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/06/30/</guid>
-      <description>New digital training available for AWS Elemental Live and AWS Elemental Conductor
+      <description>AWS App2Container – A New Containerizing Tool for Java and .NET Applications
+11:57 PM &amp;#8226; AWS .NET Amazon Elastic Container Service
+ New digital training available for AWS Elemental Live and AWS Elemental Conductor
 10:09 PM &amp;#8226; AWS AWS Training and Certification Media Services
  Improving application availability with Amazon RDS Proxy
 09:52 PM &amp;#8226; AWS Amazon RDS Amazon RDS Proxy
- Amazon RDS Proxy – Now Generally Available
-09:48 PM &amp;#8226; AWS Amazon RDS Announcements
- Optimizing for cost with Amazon DocumentDB (with MongoDB compatibility)
-09:33 PM &amp;#8226; AWS Amazon DocumentDB Amazon DocumentDB (with MongoDB Compatibility)</description>
+ Amazon RDS Proxy – Now Generally Available</description>
     </item>
     
     <item>
