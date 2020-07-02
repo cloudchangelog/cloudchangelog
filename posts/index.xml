@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>02 July, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/07/02/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/07/02/</guid>
+      <description> Why AWS Certification Consent is Important for Individuals and APN Partners
+12:59 AM &amp;#8226; AWS AWS Partner Network AWS Training and Certification  </description>
+    </item>
     
     <item>
       <title>01 July, 2020</title>
@@ -17,10 +27,10 @@
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/07/01/</guid>
-      <description>Invoke REST Endpoint With Plain Text Payload
+      <description>Building and querying the AWS COVID-19 knowledge graph
+11:21 PM &amp;#8226; AWS Amazon Comprehend Medical Amazon Neptune
+ Invoke REST Endpoint With Plain Text Payload
 08:58 PM &amp;#8226; Oracle Integration Cloud REST
- Knowledge Graph Modeling: Group micro-pattern using gist
-08:30 PM &amp;#8226; Oracle A-Team Chronicles Data Management
  Knowledge Graph Modeling: Governance &amp;amp; Project Scope
 08:30 PM &amp;#8226; Oracle A-Team Chronicles Database
  Knowledge Graph Modeling: Introduction to gist (and buckets)
