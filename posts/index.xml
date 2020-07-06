@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>06 July, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/07/06/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/07/06/</guid>
+      <description>Congratulations to the APN Partners Completing Navigate Tracks in the Second Quarter of 2020
+04:34 PM &amp;#8226; AWS Announcements AWS Partner Network
+ How-to: Stream your live video to social media sites using AWS Elemental Link
+04:26 PM &amp;#8226; AWS AWS Elemental Link AWS Elemental MediaConnect
+ Load testing a web application’s serverless backend
+02:26 PM &amp;#8226; AWS Amazon API Gateway Amazon CloudWatch
+ Measuring results in Classifiers with Precision and Recall</description>
+    </item>
     
     <item>
       <title>03 July, 2020</title>
