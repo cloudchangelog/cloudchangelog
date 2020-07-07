@@ -17,13 +17,14 @@
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/07/07/</guid>
-      <description>Set up soft multi-tenancy with Kiosk on Amazon Elastic Kubernetes Service
+      <description>How to capture application logs when using Amazon EKS on AWS Fargate
+10:14 PM &amp;#8226; AWS Containers EKS
+ Set up soft multi-tenancy with Kiosk on Amazon Elastic Kubernetes Service
 04:47 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service Containers
  Calling SOAP Services from Visual Builder
 04:41 PM &amp;#8226; Oracle BI/Reporting SaaS Extension &amp;amp;amp; Customization
  Options for Extending Layer 2 On-Premises Networks to VMware Cloud on AWS
-04:40 PM &amp;#8226; AWS AWS Direct Connect AWS Partner Network
- How Woot uses Amazon DocumentDB (with MongoDB compatibility) to scale deals</description>
+04:40 PM &amp;#8226; AWS AWS Direct Connect AWS Partner Network</description>
     </item>
     
     <item>
