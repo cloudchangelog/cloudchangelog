@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>08 July, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/07/08/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/07/08/</guid>
+      <description> Introducing Amazon EMR Managed Scaling – Automatically Resize Clusters to Lower Cost
+12:47 AM &amp;#8226; AWS Amazon EMR Analytics  </description>
+    </item>
     
     <item>
       <title>07 July, 2020</title>
