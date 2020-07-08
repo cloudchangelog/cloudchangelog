@@ -17,15 +17,14 @@
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/07/08/</guid>
-      <description>Using WebSockets and Load Balancers Part two
-07:20 PM &amp;#8226; AWS Amazon Lightsail Compute
- SQL Server patching for hybrid cloud with AWS Systems Manager
-07:02 PM &amp;#8226; AWS Amazon EC2 AWS Systems Manager
- Knowledge Graph Modeling: Product Category micro-pattern using gist
-06:30 PM &amp;#8226; Oracle A-Team Chronicles Data Management
- Introducing cdk8s+: Intent-driven APIs for Kubernetes objects
-05:15 PM &amp;#8226; AWS Announcements AWS Cloud Development Kit
- Last month today: June in Google Cloud</description>
+      <description>Well-Architected approach to CloudEndure Disaster Recovery
+10:54 PM &amp;#8226; AWS CloudEndure Disaster Recovery Storage
+ Executing Ansible playbooks in your Amazon EC2 Image Builder pipeline
+10:00 PM &amp;#8226; AWS Amazon EC2 EC2 Image Builder
+ Giving your content a voice with the Newscaster speaking style from Amazon Polly
+08:29 PM &amp;#8226; AWS Amazon Polly Artificial Intelligence
+ Using WebSockets and Load Balancers Part two
+07:20 PM &amp;#8226; AWS Amazon Lightsail Compute</description>
     </item>
     
     <item>
