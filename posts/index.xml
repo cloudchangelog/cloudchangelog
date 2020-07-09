@@ -6,10 +6,26 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>09 July, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/07/09/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/07/09/</guid>
+      <description>AWS Well-Architected Framework – Updated White Papers, Tools, and Best Practices
+04:43 PM &amp;#8226; AWS AWS Well-Architected Tool Launch
+ New – Label Videos with Amazon SageMaker Ground Truth
+04:23 PM &amp;#8226; AWS Amazon SageMaker Ground Truth Announcements
+ AWS and Docker collaborate to simplify the developer experience
+04:05 PM &amp;#8226; AWS Amazon Elastic Container Service Announcements
+ Introducing AWS Copilot
+04:05 PM &amp;#8226; AWS Amazon Elastic Container Service Containers</description>
+    </item>
     
     <item>
       <title>08 July, 2020</title>
