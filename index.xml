@@ -17,15 +17,15 @@
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/07/10/</guid>
-      <description> Enabling hybrid deployments with Cloud CDN and Load Balancing
+      <description>How to Proactively Monitor Amazon RDS Performance with Datadog
+07:56 PM &amp;#8226; AWS Amazon RDS Analytics
+ Enabling hybrid deployments with Cloud CDN and Load Balancing
 04:30 PM &amp;#8226; GCP Hybrid Cloud Networking
  Backing up data with Amazon DocumentDB (with MongoDB compatibility)
 04:21 PM &amp;#8226; AWS Amazon DocumentDB Amazon DocumentDB (with MongoDB Compatibility)
  Setting SLOs: a step-by-step guide
 04:00 PM &amp;#8226; GCP Management Tools
- Setting SLOs: observability using custom metrics
-04:00 PM &amp;#8226; GCP Management Tools
-  </description>
+ Setting SLOs: observability using custom metrics</description>
     </item>
     
     <item>
