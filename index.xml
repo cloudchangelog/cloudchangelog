@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>13 July, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/07/13/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/07/13/</guid>
+      <description> Creating low-latency, high-volume APIs with Provisioned Concurrency
+01:52 PM &amp;#8226; AWS Amazon API Gateway AWS Lambda
+ Configuring AWS Resources to Enable a Remote Workforce on Citrix Virtual Apps and Desktops
+02:15 AM &amp;#8226; AWS AWS Partner Network Best Practices
+ Change Data Capture from On-Premises SQL Server to Amazon Redshift Target
+01:53 AM &amp;#8226; AWS Amazon Redshift Amazon Simple Storage Services (S3)
+  </description>
+    </item>
     
     <item>
       <title>10 July, 2020</title>
