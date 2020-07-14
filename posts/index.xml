@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>14 July, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/07/14/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/07/14/</guid>
+      <description> How to use Amazon Rekognition video for product placement in video
+12:59 AM &amp;#8226; AWS How-To Media &amp;amp; Entertainment  </description>
+    </item>
     
     <item>
       <title>13 July, 2020</title>
@@ -17,14 +27,14 @@
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/07/13/</guid>
-      <description>Introducing Ingress support in AWS App Mesh
+      <description>Zerobase creates private, secure, and automated contact tracing using Amazon Neptune
+11:37 PM &amp;#8226; AWS Amazon Neptune Contact tracing
+ Introducing Ingress support in AWS App Mesh
 09:46 PM &amp;#8226; AWS AWS App Mesh Amazon ECS
  Building an electronic security lock using serverless
 08:25 PM &amp;#8226; AWS Amazon API Gateway Amazon Pinpoint
  How to setup SSSD on OID12c or OUD12c in OCI
-07:16 PM &amp;#8226; Oracle Compute Directory Services
- Build a work-from-home posture tracker with AWS DeepLens and GluonCV
-06:40 PM &amp;#8226; AWS AWS DeepLens Technical How-to</description>
+07:16 PM &amp;#8226; Oracle Compute Directory Services</description>
     </item>
     
     <item>
