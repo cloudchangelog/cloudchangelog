@@ -17,13 +17,13 @@
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/07/20/</guid>
-      <description>Setting up passwordless login from Amazon EC2 Windows and Linux instances to Amazon RDS Oracle database instances
-04:51 PM &amp;#8226; AWS Amazon EC2 Amazon RDS
- Monitor Your Migration to AWS Graviton2-Powered Amazon EC2 Instances with Datadog
-04:00 PM &amp;#8226; AWS Amazon EC2 Analytics
- Migrate and modernize your on-prem data lake with managed Kafka
-04:00 PM &amp;#8226; GCP Data Analytics
- Modeling business logic flows in serverless applications</description>
+      <description>Query drug adverse effects and recalls based on natural language using Amazon Comprehend Medical
+07:00 PM &amp;#8226; AWS Amazon Comprehend Amazon Comprehend Medical
+ Enable fine-grained data access in Zeppelin Notebook with AWS Lake Formation
+06:58 PM &amp;#8226; AWS Amazon EMR Analytics
+ Find video clips faster with Amazon Rekognition and AWS Elemental MediaConvert
+06:53 PM &amp;#8226; AWS Amazon Elasticsearch Service Amazon Rekognition Video
+ How caresyntax uses managed database services for better surgical outcomes</description>
     </item>
     
     <item>
