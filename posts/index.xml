@@ -17,14 +17,13 @@
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/07/22/</guid>
-      <description>Auditing Amazon S3 encryption methods for object uploads in real time
+      <description>Best practices for upgrading Amazon RDS for Oracle DB instances from 11.2.0.4 to 19c
+11:03 PM &amp;#8226; AWS Amazon RDS Best Practices
+ Auditing Amazon S3 encryption methods for object uploads in real time
 10:09 PM &amp;#8226; AWS Amazon CloudWatch Amazon EventBridge
  Introducing the AWS Content Analysis Solution
 09:14 PM &amp;#8226; AWS Amazon Elastic Transcoder Amazon Rekognition
- Extracting custom entities from documents with Amazon Textract and Amazon Comprehend
-08:24 PM &amp;#8226; AWS Amazon Comprehend Amazon Textract
- Save the date: AWS Container Day at KubeCon
-07:59 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service AWS App Mesh</description>
+ Extracting custom entities from documents with Amazon Textract and Amazon Comprehend</description>
     </item>
     
     <item>
