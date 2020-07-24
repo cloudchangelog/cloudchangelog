@@ -17,13 +17,12 @@
       <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/07/24/</guid>
-      <description>Using cost allocation tags with AWS ParallelCluster
-04:55 PM &amp;#8226; AWS AWS Cost Management AWS ParallelCluster
- Microsoft SCCM admins: Get started with AWS Systems Manager Patch Manager
-04:45 PM &amp;#8226; AWS AWS Systems Manager Management Tools
- Setting up human review of your NLP-based entity recognition models with Amazon SageMaker Ground Truth, Amazon Comprehend, and Amazon A2I
-04:11 PM &amp;#8226; AWS Amazon Augmented AI Amazon Comprehend
- Using new traffic control features in External HTTP(S) load balancer</description>
+      <description>Processing PDF documents with a human loop using Amazon Textract and Amazon Augmented AI
+07:24 PM &amp;#8226; AWS Amazon Augmented AI Amazon Textract
+ Automating Amazon EKS cluster testing with custom machine images
+07:11 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service AWS Cloud Development Kit
+ Building a CI/CD pipeline for cross-account deployment of an AWS Lambda API with the Serverless Framework
+06:59 PM &amp;#8226; AWS Developer Tools Amazon API Gateway</description>
     </item>
     
     <item>
