@@ -18,7 +18,10 @@
       
       <guid>https://cloudchangelog.com/posts/2020/07/28/</guid>
       <description> Automatically import objects from Amazon S3 into Amazon FSx for Lustre
-01:24 AM &amp;#8226; AWS Amazon FSx for Lustre Amazon Simple Storage Services (S3)  </description>
+01:24 AM &amp;#8226; AWS Amazon FSx for Lustre Amazon Simple Storage Services (S3)
+ Automatically import Amazon S3 object updates into Amazon FSx for Lustre
+01:24 AM &amp;#8226; AWS Amazon FSx for Lustre Amazon Simple Storage Services (S3)
+  </description>
     </item>
     
     <item>
