@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>28 July, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/07/28/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/07/28/</guid>
+      <description> Automatically import objects from Amazon S3 into Amazon FSx for Lustre
+01:24 AM &amp;#8226; AWS Amazon FSx for Lustre Amazon Simple Storage Services (S3)  </description>
+    </item>
     
     <item>
       <title>27 July, 2020</title>
@@ -17,13 +27,13 @@
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/07/27/</guid>
-      <description>How to Set Up a Resilient End-to-End Live Workflow Using AWS Elemental Products and Services: Part 4
+      <description>How to Rapidly Prototype Multimedia Applications on AWS with the Media Insights Engine
+11:34 PM &amp;#8226; AWS Media &amp;amp; Entertainment Media Services
+ How to Set Up a Resilient End-to-End Live Workflow Using AWS Elemental Products and Services: Part 4
 10:07 PM &amp;#8226; AWS AWS Elemental MediaConnect AWS Elemental MediaConvert
  AWS DataSync adds support for on-premises object storage
 09:41 PM &amp;#8226; AWS AWS DataSync Migration and Transfer
- New – Amazon EC2 Instances based on AWS Graviton2 with local NVMe-based SSD storage
-09:37 PM &amp;#8226; AWS Amazon EC2
- How to track costs in multi-tenant Amazon EKS clusters using Kubecost</description>
+ New – Amazon EC2 Instances based on AWS Graviton2 with local NVMe-based SSD storage</description>
     </item>
     
     <item>
