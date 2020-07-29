@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>29 July, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/07/29/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/07/29/</guid>
+      <description>Using logical replication to replicate managed Amazon RDS for PostgreSQL and Amazon Aurora to self-managed PostgreSQL
+03:56 PM &amp;#8226; AWS Amazon Aurora Amazon RDS
+ A Cloud developer advocate’s top infrastructure sessions at Next OnAir
+03:30 PM &amp;#8226; GCP Infrastructure Next
+ In hybrid and multi-cloud environments, the network really matters
+03:30 PM &amp;#8226; GCP Research Networking
+ Building well-architected serverless applications: Controlling serverless API access – part 1</description>
+    </item>
     
     <item>
       <title>28 July, 2020</title>
