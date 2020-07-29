@@ -17,13 +17,14 @@
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/07/29/</guid>
-      <description>Using Amazon Comprehend Medical, Sisense, and G-Med to Create an AI-Enhanced Knowledge Base to Combat COVID-19
-07:38 PM &amp;#8226; AWS Amazon Comprehend Medical AWS Partner Network
- Simplifying application onboarding with Amazon CodeGuru Profiler
-07:37 PM &amp;#8226; AWS Amazon CodeGuru Artificial Intelligence
- Google breaks AI performance records in MLPerf with world&amp;rsquo;s fastest training supercomputer
-05:00 PM &amp;#8226; GCP TPUs AI &amp;amp; Machine Learning
- Using logical replication to replicate managed Amazon RDS for PostgreSQL and Amazon Aurora to self-managed PostgreSQL</description>
+      <description>New Relic drinks straight from the Firehose: Consuming Amazon Kinesis data
+10:09 PM &amp;#8226; AWS Amazon Kinesis Analytics
+ Analyze logs with Datadog using Amazon Kinesis Data Firehose HTTP endpoint delivery
+10:08 PM &amp;#8226; AWS Amazon Kinesis Analytics
+ Stream data to an HTTP endpoint with Amazon Kinesis Data Firehose
+10:08 PM &amp;#8226; AWS Amazon Kinesis Analytics
+ Building a serverless tokenization solution to mask sensitive data
+09:26 PM &amp;#8226; AWS Amazon API Gateway Amazon Cognito</description>
     </item>
     
     <item>
