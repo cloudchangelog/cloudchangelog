@@ -17,13 +17,14 @@
       <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/07/31/</guid>
-      <description>Announcing the AWS DeepComposer Chartbusters Spin the Model challenge
-06:35 PM &amp;#8226; AWS Artificial Intelligence AWS DeepComposer
- AWS Fargate now supports UDP load balancing with Network Load Balancer
-06:00 PM &amp;#8226; AWS AWS Fargate Containers
- New – Using Amazon GuardDuty to Protect Your S3 Buckets
-05:40 PM &amp;#8226; AWS Amazon GuardDuty Amazon Simple Storage Services (S3)
- Announcing the winner for the AWS DeepComposer Chartbusters Bach to the Future challenge</description>
+      <description>This month in AWS Machine Learning: July 2020 edition
+10:45 PM &amp;#8226; AWS Artificial Intelligence
+ Enhancing recommendation filters by filtering on item metadata with Amazon Personalize
+10:08 PM &amp;#8226; AWS Amazon Personalize Artificial Intelligence
+ Code-free machine learning: AutoML with AutoGluon, Amazon SageMaker, and AWS Lambda
+10:05 PM &amp;#8226; AWS Artificial Intelligence SageMaker
+ How Netflix’s ML framework, Metaflow drives open source adoption with AWS Service Catalog
+08:43 PM &amp;#8226; AWS AWS Service Catalog Management Tools</description>
     </item>
     
     <item>
