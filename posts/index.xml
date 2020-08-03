@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>03 August, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/08/03/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/08/03/</guid>
+      <description> Google Cloud AI and Harvard Global Health Institute Collaborate on new COVID-19 forecasting model
+04:00 PM &amp;#8226; GCP COVID-19 AI &amp;amp; Machine Learning
+ Getting to know Looker: How LookML can simplify BI workflows
+04:00 PM &amp;#8226; GCP Data Analytics
+ Understanding database options for your serverless web applications
+03:33 PM &amp;#8226; AWS Amazon DynamoDB Amazon Kinesis
+  </description>
+    </item>
     
     <item>
       <title>31 July, 2020</title>
