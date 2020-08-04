@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>04 August, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/08/04/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/08/04/</guid>
+      <description> Introducing Certificate Authority Service: Securing Applications with Private CAs and Certificates
+12:00 PM &amp;#8226; GCP Identity &amp;amp; Security
+ A better, safer normal: Helping you modernize security in the cloud or in place
+12:00 PM &amp;#8226; GCP Next Identity &amp;amp; Security
+ The serverless LAMP stack part 4: Building a serverless Laravel application
+10:13 AM &amp;#8226; AWS Amazon API Gateway Amazon CloudFront
+  </description>
+    </item>
     
     <item>
       <title>03 August, 2020</title>
