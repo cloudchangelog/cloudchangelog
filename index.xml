@@ -17,13 +17,13 @@
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/08/04/</guid>
-      <description>Deploying your own data processing code in an Amazon SageMaker Autopilot inference pipeline
+      <description>Safely deploying and monitoring Amazon SageMaker endpoints with AWS CodePipeline and AWS CodeDeploy
+11:06 PM &amp;#8226; AWS Artificial Intelligence SageMaker
+ Deploying your own data processing code in an Amazon SageMaker Autopilot inference pipeline
 10:17 PM &amp;#8226; AWS Artificial Intelligence SageMaker
  Multi-GPU and distributed training using Horovod in Amazon SageMaker Pipe mode
 09:48 PM &amp;#8226; AWS Artificial Intelligence SageMaker
- Unbox and start streaming live video with AWS Elemental Link
-08:31 PM &amp;#8226; AWS AWS Elemental Link AWS Elemental MediaLive
- Transforming the Traveling Experience with Accenture 5G Smart Airport Assistant and Amazon AR/VR</description>
+ Unbox and start streaming live video with AWS Elemental Link</description>
     </item>
     
     <item>
