@@ -6,10 +6,26 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>06 August, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/08/06/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/08/06/</guid>
+      <description>AWS Wavelength Zones Are Now Open in Boston &amp;amp; San Francisco
+04:48 PM &amp;#8226; AWS AWS Wavelength Launch
+ Deploying your first 5G enabled application with AWS Wavelength
+04:46 PM &amp;#8226; AWS Announcements AWS Wavelength
+ Performance and cost optimization best practices for machine learning
+04:30 PM &amp;#8226; GCP AI &amp;amp; Machine Learning
+ Logs-based Security Alerting in Google Cloud: Detecting attacks in Cloud Identity
+04:00 PM &amp;#8226; GCP Cloud Identity Identity &amp;amp; Security</description>
+    </item>
     
     <item>
       <title>05 August, 2020</title>
