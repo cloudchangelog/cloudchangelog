@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>07 August, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/08/07/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/08/07/</guid>
+      <description> Introducing the Google Cloud Security Showcase
+05:00 PM &amp;#8226; GCP Identity &amp;amp; Security
+ Building scalable web applications with Firestore — new reference guide
+04:00 PM &amp;#8226; GCP Databases
+ Register for AWS Container Day to Learn About Kubernetes, Amazon EKS, AWS Fargate, Bottlerocket, and More!
+03:23 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service AWS App Mesh
+  </description>
+    </item>
     
     <item>
       <title>06 August, 2020</title>
