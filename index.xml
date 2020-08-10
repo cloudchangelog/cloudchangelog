@@ -17,13 +17,12 @@
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/08/10/</guid>
-      <description>Escaping the pain of physical tape management with AWS Storage Gateway
-07:22 PM &amp;#8226; AWS AWS Storage Gateway Storage
- Understanding Your Options for Deploying and Licensing Oracle on AWS
-07:02 PM &amp;#8226; AWS Amazon EC2 Amazon EC2 Bare Metal
- Using AWS and CloudShell to Enable Remote Technical Teams
-05:19 PM &amp;#8226; AWS AWS Marketplace AWS Partner Network
- Accessing Amazon Managed Blockchain services from blockchain applications running in shared Amazon VPCs</description>
+      <description>Saving money a pod at a time with EKS, Fargate, and AWS Compute Savings Plans
+10:49 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service AWS Fargate
+ AWS Glue version 2.0 featuring 10x faster job start times and 1-minute minimum billing duration
+09:21 PM &amp;#8226; AWS Analytics AWS Glue
+ Using AWS Lambda IAM condition keys for VPC settings
+08:56 PM &amp;#8226; AWS Amazon VPC AWS Identity and Access Management (IAM)</description>
     </item>
     
     <item>
