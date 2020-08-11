@@ -17,14 +17,12 @@
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/08/11/</guid>
-      <description>Securing Amazon Comprehend API calls with AWS PrivateLink
-07:31 PM &amp;#8226; AWS Amazon Comprehend Artificial Intelligence
- Migrating from SAP ASE to Amazon Aurora PostgreSQL
-05:12 PM &amp;#8226; AWS Amazon Aurora PostgreSQL compatible
- New Validation Checklists Clarify AWS Competency Requirements for APN Consulting Partners
-04:33 PM &amp;#8226; AWS AWS Partner Network Analytics
- Stream Twitter data into Amazon Redshift using Amazon MSK and AWS Glue streaming ETL
-04:22 PM &amp;#8226; AWS Amazon Managed Streaming for Apache Kafka (Amazon MSK) Amazon Redshift</description>
+      <description>Amazon Forecast can now use Convolutional Neural Networks (CNNs) to train forecasting models up to 2X faster with up to 30% higher accuracy
+09:04 PM &amp;#8226; AWS Amazon Forecast Artificial Intelligence
+ Transferring Amazon S3 data from AWS Regions to AWS Regions in China
+08:54 PM &amp;#8226; AWS Amazon DynamoDB Amazon EC2
+ Creating customized Vega visualizations in Amazon Elasticsearch Service
+08:50 PM &amp;#8226; AWS Amazon Elasticsearch Service Analytics</description>
     </item>
     
     <item>
