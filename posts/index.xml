@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>11 August, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/08/11/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/08/11/</guid>
+      <description> How Procter &amp;amp; Gamble uses Google Cloud to improve consumer experience
+12:00 PM &amp;#8226; GCP Data Analytics
+ Better BigQuery pricing flexibility with 100 slots
+12:00 PM &amp;#8226; GCP Data Analytics
+ What’s new and what’s next with data analytics
+12:00 PM &amp;#8226; GCP Data Analytics
+  </description>
+    </item>
     
     <item>
       <title>10 August, 2020</title>
