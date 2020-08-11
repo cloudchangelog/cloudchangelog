@@ -17,12 +17,13 @@
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/08/10/</guid>
-      <description>Saving money a pod at a time with EKS, Fargate, and AWS Compute Savings Plans
+      <description>Partitioning Pooled Multi-Tenant SaaS Data with Amazon DynamoDB
+11:54 PM &amp;#8226; AWS Amazon DynamoDB AWS Partner Network
+ Managing Multi-Tenancy in Digital Banking with AWS Control Tower
+11:47 PM &amp;#8226; AWS AWS Control Tower AWS Partner Network
+ Saving money a pod at a time with EKS, Fargate, and AWS Compute Savings Plans
 10:49 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service AWS Fargate
- AWS Glue version 2.0 featuring 10x faster job start times and 1-minute minimum billing duration
-09:21 PM &amp;#8226; AWS Analytics AWS Glue
- Using AWS Lambda IAM condition keys for VPC settings
-08:56 PM &amp;#8226; AWS Amazon VPC AWS Identity and Access Management (IAM)</description>
+ AWS Glue version 2.0 featuring 10x faster job start times and 1-minute minimum billing duration</description>
     </item>
     
     <item>
