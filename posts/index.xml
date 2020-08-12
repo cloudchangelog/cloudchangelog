@@ -6,10 +6,26 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>12 August, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/08/12/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/08/12/</guid>
+      <description>ICYMI: Season one of Sessions with SAM
+04:56 PM &amp;#8226; AWS Amazon API Gateway Amazon DynamoDB
+ AWS Copilot: an application-first CLI for containers on AWS
+04:41 PM &amp;#8226; AWS Amazon Elastic Container Service AWS Fargate
+ 21 new ways we&amp;rsquo;re improving observability with Cloud Ops
+04:30 PM &amp;#8226; GCP Management Tools
+ How Revionics brings advanced analytics to retailers with help from Google Cloud
+04:00 PM &amp;#8226; GCP Data Analytics</description>
+    </item>
     
     <item>
       <title>11 August, 2020</title>
