@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>15 August, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/08/15/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/08/15/</guid>
+      <description> Scalable agile development practices based on AWS CodeCommit
+10:25 PM &amp;#8226; AWS AWS CodeCommit Best Practices  </description>
+    </item>
     
     <item>
       <title>14 August, 2020</title>
