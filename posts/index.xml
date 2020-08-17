@@ -6,10 +6,23 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>17 August, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/08/17/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/08/17/</guid>
+      <description> Using serverless backends to iterate quickly on web apps – part 1
+01:57 PM &amp;#8226; AWS Amazon API Gateway Amazon CloudFront
+ Build resilient applications with Kubernetes on Azure
+02:00 AM &amp;#8226; Azure Cloud Strategy Events
+  </description>
+    </item>
     
     <item>
       <title>15 August, 2020</title>
