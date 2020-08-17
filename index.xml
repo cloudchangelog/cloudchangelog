@@ -17,14 +17,13 @@
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/08/17/</guid>
-      <description>Optimize Python ETL by extending Pandas with AWS Data Wrangler
-04:55 PM &amp;#8226; AWS Amazon Athena Amazon Redshift
- 13 sample architectures to kickstart your Google Cloud journey
-04:00 PM &amp;#8226; GCP Cloud Native Application Development
- 9 data management sessions to check out at Next OnAir
-04:00 PM &amp;#8226; GCP Databases
- Looking ahead as GKE, the original managed Kubernetes, turns 5
-04:00 PM &amp;#8226; GCP GKE Containers &amp;amp; Kubernetes</description>
+      <description>Amazon EKS on AWS Graviton2 generally available: considerations on multi-architecture apps
+07:07 PM &amp;#8226; AWS Amazon EC2 Amazon Elastic Kubernetes Service
+ Introducing launch template and custom AMI support in Amazon EKS Managed Node Groups
+06:33 PM &amp;#8226; AWS Containers EKS
+ Enhancing customer safety by leveraging the scalable, secure, and cost-optimized Toyota Connected Data Lake
+06:14 PM &amp;#8226; AWS Amazon Athena Amazon DynamoDB
+ Amazon Personalize can now create up to 50% better recommendations for fast changing catalogs of new products and fresh content</description>
     </item>
     
     <item>
