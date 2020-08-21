@@ -6,10 +6,27 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>21 August, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/08/21/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/08/21/</guid>
+      <description>ICYMI: AWS Cloud Containers Conference
+04:00 PM &amp;#8226; AWS Amazon EC2 Container Registry Amazon Elastic Container Service
+ Dataflow Under the Hood: understanding Dataflow techniques
+04:00 PM &amp;#8226; GCP Data Analytics
+ Bucket list: Better log storage and management for Cloud Logging
+04:00 PM &amp;#8226; GCP Management Tools
+ Databases that transform businesses—What happened at Google Cloud Next ‘20: OnAir
+04:00 PM &amp;#8226; GCP Next Databases
+ Using Cloud Logging as your single pane of glass</description>
+    </item>
     
     <item>
       <title>20 August, 2020</title>
