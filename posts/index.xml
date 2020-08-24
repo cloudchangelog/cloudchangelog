@@ -6,10 +6,30 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>24 August, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/08/24/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/08/24/</guid>
+      <description> Using serverless backends to iterate quickly on web apps – part 2
+01:27 PM &amp;#8226; AWS Amazon EventBridge AWS Lambda  </description>
+    </item>
+    
+    <item>
+      <title>22 August, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/08/22/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/08/22/</guid>
+      <description> Create a JWT Token in Java for Oracle IDCS
+10:14 PM &amp;#8226; Oracle  </description>
+    </item>
     
     <item>
       <title>21 August, 2020</title>
