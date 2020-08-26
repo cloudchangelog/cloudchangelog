@@ -6,10 +6,28 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>26 August, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/08/26/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/08/26/</guid>
+      <description>6 spectacular serverless sessions at Next OnAir this week
+04:00 PM &amp;#8226; GCP Next Serverless
+ Jumpstarting your digital acceleration with ecommerce migration
+04:00 PM &amp;#8226; GCP Retail Cloud Migration
+ Building business resilience with API management
+04:00 PM &amp;#8226; GCP Apigee API Management
+ High-resolution user-defined metrics in Cloud Monitoring
+04:00 PM &amp;#8226; GCP Management Tools
+ Prepare and certify your devices for IoT Plug and Play
+08:00 AM &amp;#8226; Azure Internet of Things</description>
+    </item>
     
     <item>
       <title>25 August, 2020</title>
