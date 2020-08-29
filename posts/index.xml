@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>29 August, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/08/29/</link>
+      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/08/29/</guid>
+      <description> Migrating Subversion repositories to AWS CodeCommit
+12:40 AM &amp;#8226; AWS DevOps AWS CodeCommit
+ Modernizing and containerizing a legacy MVC .NET application with Entity Framework to .NET Core with Entity Framework Core: Part 2
+12:31 AM &amp;#8226; AWS AWS .NET Development .NET Core
+ Migrating ETL Operations from SSIS Packages to AWS Lambda Functions
+12:08 AM &amp;#8226; AWS AWS Lambda AWS Partner Network
+  </description>
+    </item>
     
     <item>
       <title>28 August, 2020</title>
@@ -17,15 +32,15 @@
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/08/28/</guid>
-      <description>Migrating workloads across AWS Regions with CloudEndure Migration
+      <description>Onboarding and Managing Agents in a SaaS Solution
+11:44 PM &amp;#8226; AWS AWS Partner Network Best Practices
+ Migrating workloads across AWS Regions with CloudEndure Migration
 08:53 PM &amp;#8226; AWS Amazon EC2 CloudEndure Migration
  Top 10 performance tuning techniques for Amazon Redshift
 07:55 PM &amp;#8226; AWS Amazon Redshift Analytics
  Announcing the express testing capability in Amazon Lex
 07:08 PM &amp;#8226; AWS Amazon Lex Artificial Intelligence
- OCI Artifact Support In Amazon ECR
-06:09 PM &amp;#8226; AWS Amazon EC2 Container Registry artifacts
- Automatically deploying your container application with AWS Copilot</description>
+ OCI Artifact Support In Amazon ECR</description>
     </item>
     
     <item>
