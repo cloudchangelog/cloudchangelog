@@ -17,11 +17,13 @@
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/09/04/</guid>
-      <description> Federated multi-account access for AWS CodeCommit
-01:32 AM &amp;#8226; AWS AWS CodeCommit AWS Single Sign-On (SSO)
- Reducing Docker image build time on AWS CodeBuild using an external cache
-12:20 AM &amp;#8226; AWS Amazon EC2 Container Registry AWS CodeBuild
-  </description>
+      <description>Automated CloudFormation Testing Pipeline with TaskCat and CodePipeline
+04:52 PM &amp;#8226; AWS AWS CloudFormation AWS CodePipeline
+ Actionable Insights based on anomaly detection in AWS X-Ray
+04:47 PM &amp;#8226; AWS Announcements AWS X-Ray
+ How Reuters built easily accessible large-scale news archives on AWS
+04:46 PM &amp;#8226; AWS Amazon S3 Glacier Amazon S3 Glacier Deep Archive
+ An AI gold mine: What happened at Google Cloud Next ‘20 OnAir</description>
     </item>
     
     <item>
