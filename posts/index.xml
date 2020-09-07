@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>07 September, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/09/07/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/09/07/</guid>
+      <description> Deploying packages sequentially using AWS Systems Manager
+08:23 PM &amp;#8226; AWS Amazon EC2 Learning Levels  </description>
+    </item>
     
     <item>
       <title>05 September, 2020</title>
