@@ -19,11 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2020/09/08/</guid>
       <description>Google Cloud named a Leader in first Forrester Wave: Public Cloud Development &amp;amp; Infrastructure Platforms for ANZ
 11:00 PM &amp;#8226; GCP Infrastructure
+ Amazon CloudWatch now monitors Prometheus metrics from Container environments
+10:32 PM &amp;#8226; AWS marketing:marchitecture/compute,marketing:marchitecture/containers,marketing:marchitecture/management-and-governance,general:products/amazon-cloudwatch
+ Amazon Lex launches support for Australian English
+09:46 PM &amp;#8226; AWS general:products/amazon-lex,general:products/amazon-machine-learning
  Creating a sophisticated conversational experience using Amazon Lex in Australian English
-09:15 PM &amp;#8226; AWS Amazon Lex Artificial Intelligence
- Stream CDC into an Amazon S3 data lake in Parquet format with AWS DMS
-08:46 PM &amp;#8226; AWS Amazon Kinesis Analytics
- Recovering from a disaster using AWS Storage Gateway and Amazon S3 Glacier</description>
+09:15 PM &amp;#8226; AWS Amazon Lex Artificial Intelligence</description>
     </item>
     
     <item>
@@ -54,11 +55,11 @@
       <guid>https://cloudchangelog.com/posts/2020/09/04/</guid>
       <description>Zoopla drives KPIs with centralized data using Fivetran ELT for Amazon Redshift
 10:45 PM &amp;#8226; AWS Amazon Redshift Analytics
- How to Deploy Citrix Virtual Apps and Desktops Service on VMware Cloud on AWS
-09:24 PM &amp;#8226; AWS AWS Marketplace AWS Partner Network
- Easily Delegate Responsibilities Using AWS Permissions Boundaries and cloudtamer.io
-08:51 PM &amp;#8226; AWS AWS Identity and Access Management (IAM) AWS Partner Network
- Success in the AWS Well-Architected Partner Program: A Guide for APN Consulting Partners</description>
+ AWS AppSync simplifies GraphQL query prototyping in the AWS Console with GraphiQL Explorer and Cognito integration improvements
+10:29 PM &amp;#8226; AWS general:products/aws-appsync,marketing:marchitecture/application-services,marketing:marchitecture/mobile-services
+ AWS Launch Wizard now supports SAP deployments with SUSE Linux Enterprise Server 15 SP1 and 12 SP5
+10:17 PM &amp;#8226; AWS partner:technology-expertise/sap,marketing:marchitecture/databases,marketing:marchitecture/business-productivity,marketing:marchitecture/management-and-governance,marketing:marchitecture/partner-network
+ Meetings readiness checker APIs help developers ensure that end-users can join Amazon Chime SDK meetings from their devices</description>
     </item>
     
     <item>
@@ -67,14 +68,15 @@
       <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/09/03/</guid>
-      <description>Troubleshooting Amazon API Gateway with enhanced observability variables
+      <description>Amazon Aurora PostgreSQL supports rdkit extension
+11:43 PM &amp;#8226; AWS general:products/amazon-aurora,marketing:marchitecture/databases
+ Troubleshooting Amazon API Gateway with enhanced observability variables
 10:48 PM &amp;#8226; AWS Amazon API Gateway Amazon CloudWatch
  Using an Advanced JDBC Driver with Private Autonomous Databases
 10:22 PM &amp;#8226; Oracle A-Team Chronicles Analytics &amp;amp;amp; Reporting
- Introducing larger state payloads for AWS Step Functions
-10:09 PM &amp;#8226; AWS Announcements Application Services
- What is API-first? 5 opportunities to create business value
-10:00 PM &amp;#8226; GCP Apigee API Management</description>
+ AWS Step Functions increases payload size to 256KB
+10:13 PM &amp;#8226; AWS marketing:marchitecture/application-services,general:products/aws-step-functions
+ Introducing larger state payloads for AWS Step Functions</description>
     </item>
     
     <item>
@@ -85,11 +87,12 @@
       <guid>https://cloudchangelog.com/posts/2020/09/02/</guid>
       <description>Creating Kubernetes Auto Scaling Groups for Multiple Availability Zones
 10:25 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service Containers
+ AWS Single Sign-On is available in three additional Asia Pacific Regions
+10:01 PM &amp;#8226; AWS general:products/aws-single-sign-on,marketing:marchitecture/security-identity-and-compliance
  How AppsFlyer reduced its data lake cost with Amazon S3 Intelligent-Tiering
 09:18 PM &amp;#8226; AWS Amazon Simple Storage Services (S3) AWS Cost Explorer
- Next OnAir: Business application platform sessions to accelerate digital transformation
-07:00 PM &amp;#8226; GCP Apigee Next
- Creating a Feature Film with DaVinci Resolve on AWS</description>
+ Azure Security Center—News and updates for August 2020
+09:00 PM &amp;#8226; Azure</description>
     </item>
     
     <item>
@@ -100,10 +103,11 @@
       <guid>https://cloudchangelog.com/posts/2020/09/01/</guid>
       <description>Quickly Visualize Marketing Analytics and Ads Data with Matillion, Amazon Redshift, and Amazon QuickSight
 10:08 PM &amp;#8226; AWS Amazon QuickSight Amazon Redshift
- Announcing the winner of the AWS DeepComposer Chartbusters Spin the Model challenge
-07:38 PM &amp;#8226; AWS Artificial Intelligence AWS DeepComposer
- How to run distributed training using Horovod and MXNet on AWS DL Containers and AWS Deep Learning AMIs
-07:29 PM &amp;#8226; AWS Amazon EC2 Artificial Intelligence</description>
+ AWS WAF and AWS Shield Advanced Now Available in Africa (Cape Town) and EU (Milan)
+08:47 PM &amp;#8226; AWS general:products/aws-waf,general:products/aws-shield,marketing:marchitecture/security-identity-and-compliance
+ Amplify CLI now supports tagging resources at a project level
+08:33 PM &amp;#8226; AWS general:products/aws-amplify,marketing:marchitecture/management-and-governance
+ Announcing the winner of the AWS DeepComposer Chartbusters Spin the Model challenge</description>
     </item>
     
     <item>
@@ -114,11 +118,11 @@
       <guid>https://cloudchangelog.com/posts/2020/08/31/</guid>
       <description>Find an APN Partner Through Our Refreshed Discovery Experience
 11:14 PM &amp;#8226; AWS Announcements AWS Partner Network
+ AWS IoT Core and AWS IoT Device Management now available in the AWS GovCloud (US-East) Region
+10:41 PM &amp;#8226; AWS marketing:marchitecture/internet-of-things,general:products/aws-iot-device-management,general:products/aws-iot,general:products/aws-govcloud-us
  How a Global Broadcaster Deployed Real-Time Automated News Clipping with AWS Media Services
 10:39 PM &amp;#8226; AWS Amazon Machine Learning AWS Elemental MediaConvert
- Analyzing Amazon Lex conversation log data with Amazon CloudWatch Insights
-09:54 PM &amp;#8226; AWS Amazon CloudWatch Amazon Lex
- This month in AWS Machine Learning: August 2020 edition</description>
+ AWS Snowball Edge Compute Optimized is now available in the AWS GovCloud (US-East) Region</description>
     </item>
     
     <item>
@@ -144,13 +148,13 @@
       <guid>https://cloudchangelog.com/posts/2020/08/28/</guid>
       <description>Onboarding and Managing Agents in a SaaS Solution
 11:44 PM &amp;#8226; AWS AWS Partner Network Best Practices
- Migrating workloads across AWS Regions with CloudEndure Migration
-08:53 PM &amp;#8226; AWS Amazon EC2 CloudEndure Migration
- Top 10 performance tuning techniques for Amazon Redshift
-07:55 PM &amp;#8226; AWS Amazon Redshift Analytics
  Announcing the express testing capability in Amazon Lex
-07:08 PM &amp;#8226; AWS Amazon Lex Artificial Intelligence
- OCI Artifact Support In Amazon ECR</description>
+09:57 PM &amp;#8226; AWS general:products/amazon-lex,marketing:marchitecture/artificial-intelligence
+ Amazon MSK is now available in Europe (Milan)
+09:55 PM &amp;#8226; AWS marketing:marchitecture/analytics,general:products/amazon-msk
+ AWS announces General Availability of Amazon GameLift feature update
+09:53 PM &amp;#8226; AWS general:products/amazon-gamelift,marketing:marchitecture/game-development
+ Amazon RDS for Oracle now supports July 2020 Oracle Patch Set Updates (PSU) and Release Updates (RU)</description>
     </item>
     
     <item>
@@ -159,13 +163,14 @@
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/08/27/</guid>
-      <description>Announcing a second Local Zone in Los Angeles
+      <description>Introducing Second Local Zone in Los Angeles, CA
+11:44 PM &amp;#8226; AWS general:products/amazon-ec2,marketing:marchitecture/compute,general:products/amazon-vpc,general:products/amazon-elastic-block-store,general:products/amazon-fsx-for-windows-file-server,general:products/amazon-fsx-for-lustre,general:products/amazon-elastic-load-balancing,general:products/amazon-rds,marketing:marchitecture/databases,marketing:marchitecture/storage
+ Announcing a second Local Zone in Los Angeles
 11:20 PM &amp;#8226; AWS Launch News
  Comparison of data prep and cleansing for NLP with pandas, dask and spark
 10:51 PM &amp;#8226; Oracle Data Management Developer Tools
  Learn from the first place winner of the first AWS DeepComposer Chartbusters Bach to the Future Challenge
-10:20 PM &amp;#8226; AWS
- Transferring file data across AWS Regions and accounts using AWS DataSync</description>
+10:20 PM &amp;#8226; AWS</description>
     </item>
     
     <item>
@@ -180,7 +185,7 @@
 09:53 PM &amp;#8226; AWS Amazon CloudWatch Amazon Simple Notification Service (SNS)
  Case Study: Hive VFX Cuts Upfront Studio Costs, Operates as Cloud VFX Studio on AWS
 09:01 PM &amp;#8226; AWS Customer Solutions Media Services
- Configure and optimize performance of Amazon Athena federation with Amazon Redshift</description>
+ Amazon RDS for SQL Server now Supports SQL Server Major Version 2019</description>
     </item>
     
     <item>
@@ -191,13 +196,11 @@
       <guid>https://cloudchangelog.com/posts/2020/08/25/</guid>
       <description>Accessing SMB file shares remotely with Amazon FSx for Windows File Server
 10:06 PM &amp;#8226; AWS Amazon FSx for Windows Amazon VPC
- Benefitting from SPARQL 1.1 Federated Queries with Amazon Neptune
-07:01 PM &amp;#8226; AWS Amazon Neptune Database
- Building storage-first serverless applications with HTTP APIs service integrations
-06:48 PM &amp;#8226; AWS Amazon API Gateway Amazon EventBridge
- Load Ballancer Performance
-01:32 PM &amp;#8226; Oracle Networking
- Google Cloud Application Modernization Program: Get to the future faster</description>
+ Amazon CloudWatch Logs features now available in the AWS Toolkit for Visual Studio Code
+09:25 PM &amp;#8226; AWS general:products/aws-toolkit-for-visual-studio,general:products/aws-toolkit-for-visual-studio-code,marketing:marchitecture/developer-tools
+ AWS OpsWorks for Configuration Management now supports Resources in CloudFormation Registry with Open Implementation
+07:32 PM &amp;#8226; AWS general:products/aws-opsworks,marketing:marchitecture/management-and-governance
+ Benefitting from SPARQL 1.1 Federated Queries with Amazon Neptune</description>
     </item>
     
     <item>
@@ -208,11 +211,11 @@
       <guid>https://cloudchangelog.com/posts/2020/08/24/</guid>
       <description>New EBS Volume Type (io2) – 100x Higher Durability and 10x More IOPS/GiB
 11:20 PM &amp;#8226; AWS Amazon Elastic Block Storage (EBS) Launch
+ AWS Transfer Family adds support for email addresses as usernames
+09:48 PM &amp;#8226; AWS general:products/aws-transfer-family,marketing:marchitecture/migration
  Advancing telehealth with Amwell
 09:30 PM &amp;#8226; GCP Partners Healthcare &amp;amp; Life Sciences
- How BriteCore Improved Security and Scalability by Migrating Insurance Workloads with AWS Landing Zone
-08:07 PM &amp;#8226; AWS AWS Partner Network AWS Service Catalog
- Building a customized recommender system in Amazon SageMaker</description>
+ AWS Transit Gateway customers can now use their own Prefix Lists to simplify IP management</description>
     </item>
     
     <item>
@@ -222,7 +225,10 @@
       
       <guid>https://cloudchangelog.com/posts/2020/08/22/</guid>
       <description> Create a JWT Token in Java for Oracle IDCS
-10:14 PM &amp;#8226; Oracle  </description>
+10:14 PM &amp;#8226; Oracle
+ Amazon Transcribe now supports speaker labeling for streaming transcription
+12:35 AM &amp;#8226; AWS general:products/amazon-transcribe,general:products/amazon-machine-learning
+  </description>
     </item>
     
     <item>
@@ -235,9 +241,9 @@
 06:36 PM &amp;#8226; AWS Amazon EMR Analytics
  How Epsagon Increased Performance on AWS Lambda by 65% and Reduced Cost by 4x
 06:26 PM &amp;#8226; AWS AWS Cost Management AWS Lambda
- ICYMI: AWS Cloud Containers Conference
-04:00 PM &amp;#8226; AWS Amazon EC2 Container Registry Amazon Elastic Container Service
- Dataflow Under the Hood: understanding Dataflow techniques</description>
+ AWS Firewall Manager now supports security groups on Application Load Balancers and Classic Load Balancers
+04:26 PM &amp;#8226; AWS marketing:marchitecture/security-identity-and-compliance,general:products/aws-firewall-manager
+ ICYMI: AWS Cloud Containers Conference</description>
     </item>
     
     <item>
@@ -250,10 +256,11 @@
 11:35 PM &amp;#8226; AWS Amazon Kendra Artificial Intelligence
  Using A/B testing to measure the efficacy of recommendations generated by Amazon Personalize
 10:07 PM &amp;#8226; AWS Amazon Personalize Artificial Intelligence
+ Amazon Connect allows contact-centers to auto-resolve to the best voice
+09:31 PM &amp;#8226; AWS general:products/amazon-connect,marketing:marchitecture/messaging
  Oracle – Azure Interconnect Use Cases
 09:24 PM &amp;#8226; Oracle Networking
- Comparing your on-premises storage patterns with AWS Storage services
-09:20 PM &amp;#8226; AWS Amazon Elastic Block Storage (EBS) Amazon FSx for Windows</description>
+ Comparing your on-premises storage patterns with AWS Storage services</description>
     </item>
     
     <item>
