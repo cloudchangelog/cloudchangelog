@@ -17,13 +17,15 @@
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/09/09/</guid>
-      <description> Migrate to an Amazon Aurora PostgreSQL instance from another PostgreSQL source
-06:04 PM &amp;#8226; AWS Amazon Aurora Database
- How APIs and ecosystem strategies accelerate digital transformation
-04:00 PM &amp;#8226; GCP Business Application Platform Apigee
- Automatic VM guest patching is now in public preview
-03:00 PM &amp;#8226; Azure
-  </description>
+      <description>Custom Translator—September new features, improvements and bug fixes
+10:00 PM &amp;#8226; Azure machine translation NMT
+ Visualizing TensorFlow training jobs with TensorBoard
+09:54 PM &amp;#8226; AWS Artificial Intelligence AWS Fargate
+ Azure Blob storage object replication is now generally available
+08:05 PM &amp;#8226; Azure
+ Change feed support is now generally available for Azure Blob Storage
+08:04 PM &amp;#8226; Azure
+ Migrate to an Amazon Aurora PostgreSQL instance from another PostgreSQL source</description>
     </item>
     
     <item>
