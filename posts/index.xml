@@ -17,15 +17,15 @@
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/09/09/</guid>
-      <description>Custom Translator—September new features, improvements and bug fixes
+      <description>Introducing security groups for pods
+11:51 PM &amp;#8226; AWS Amazon EC2 Amazon Elastic Kubernetes Service
+ Custom Translator—September new features, improvements and bug fixes
 10:00 PM &amp;#8226; Azure machine translation NMT
  Visualizing TensorFlow training jobs with TensorBoard
 09:54 PM &amp;#8226; AWS Artificial Intelligence AWS Fargate
  Azure Blob storage object replication is now generally available
 08:05 PM &amp;#8226; Azure
- Change feed support is now generally available for Azure Blob Storage
-08:04 PM &amp;#8226; Azure
- Migrate to an Amazon Aurora PostgreSQL instance from another PostgreSQL source</description>
+ Change feed support is now generally available for Azure Blob Storage</description>
     </item>
     
     <item>
