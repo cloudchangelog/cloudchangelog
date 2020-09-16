@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>16 September, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/09/16/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/09/16/</guid>
+      <description> Amazon Personalize now available in EU (Frankfurt) Region
+12:19 AM &amp;#8226; AWS Amazon Personalize Artificial Intelligence  </description>
+    </item>
     
     <item>
       <title>15 September, 2020</title>
@@ -17,15 +27,14 @@
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/09/15/</guid>
-      <description>CloudZero Simplifies Kubernetes Cost Tracking with Support of AWS SaaS Factory
-10:59 PM &amp;#8226; AWS AWS Marketplace AWS Partner Network
- Public Preview - Get Retail Rates for all Azure Products/Services
-10:00 PM &amp;#8226; Azure
- Amazon Lex launches support for British English
-09:52 PM &amp;#8226; AWS
- Amazon Kinesis Data Analytics now supports Java-based Apache Beam streaming workloads
-09:52 PM &amp;#8226; AWS
- Reducing training time with Apache MXNet and Horovod on Amazon SageMaker</description>
+      <description>New 4-course series on Coursera teaches vital product-management skills
+11:16 PM &amp;#8226; AWS
+ Amazon EBS direct APIs for Snapshots now available in the AWS GovCloud (US) Regions
+11:05 PM &amp;#8226; AWS
+ HIPAA Eligible AWS Services deployed in AWS Wavelength can now be used to process Protected Health Information
+11:04 PM &amp;#8226; AWS
+ CloudZero Simplifies Kubernetes Cost Tracking with Support of AWS SaaS Factory
+10:59 PM &amp;#8226; AWS AWS Marketplace AWS Partner Network</description>
     </item>
     
     <item>
