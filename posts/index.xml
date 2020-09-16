@@ -17,14 +17,15 @@
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/09/16/</guid>
-      <description>Load balance graph queries using the Amazon Neptune Gremlin Client
-04:53 PM &amp;#8226; AWS Amazon Neptune Database
- Export data from Cloud SQL without performance overhead
-04:30 PM &amp;#8226; GCP Data Analytics Databases
- Making it easier to manage Windows Server VMs
-04:30 PM &amp;#8226; GCP Management Tools Compute
- Learn from the winner of the AWS DeepComposer Chartbusters Spin the Model Challenge
-04:13 PM &amp;#8226; AWS Artificial Intelligence AWS DeepComposer</description>
+      <description>AWS IQ now provides short URLs for expert profiles
+06:29 PM &amp;#8226; AWS
+ Introducing AWS Cloud Digital Interface (CDI) and input support in AWS Elemental MediaLive
+06:29 PM &amp;#8226; AWS
+ AWS Snowcone is now available in the AWS Europe (Ireland) Region
+06:29 PM &amp;#8226; AWS
+ AWS Glue Data Catalog now supports PartitionIndex, improving query performance on highly partitioned tables
+06:06 PM &amp;#8226; AWS
+ AWS Budgets now offers Daily Granularity for Cost &amp;amp; Usage Budgets</description>
     </item>
     
     <item>
