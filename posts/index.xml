@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>17 September, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/09/17/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/09/17/</guid>
+      <description> Using Gatekeeper as a drop-in Pod Security Policy replacement in Amazon EKS
+12:07 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service Best Practices  </description>
+    </item>
     
     <item>
       <title>16 September, 2020</title>
