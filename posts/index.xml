@@ -17,14 +17,15 @@
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/09/18/</guid>
-      <description>Host Recovery is now available in the AWS Cape town(CPT) and AWS Milan(MXP) regions
-06:51 PM &amp;#8226; AWS
- AWS Secrets Manager has been OSPAR assessed and approved
-06:36 PM &amp;#8226; AWS
- Simplifying permissions management at scale using tags in AWS Organizations
-05:55 PM &amp;#8226; AWS AWS Organizations Management Tools
- GVisor: Protecting GKE and serverless users in the real world
-05:30 PM &amp;#8226; GCP Identity &amp;amp; Security Open Source</description>
+      <description>Elasticsearch Audit Logs now available on Amazon Elasticsearch Service
+10:05 PM &amp;#8226; AWS
+ Amazon Kendra now supports custom tags for FAQs
+10:04 PM &amp;#8226; AWS
+ Amazon EKS is now available in the AWS US West (N. California) Region
+09:57 PM &amp;#8226; AWS
+ Amazon Pinpoint now supports up to 250 attributes per endpoint
+09:49 PM &amp;#8226; AWS
+ AWS IoT Greengrass introduces System Health Telemetry, adds new Stream Manager features, and support for Python 3.</description>
     </item>
     
     <item>
