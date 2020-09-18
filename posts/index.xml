@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>18 September, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/09/18/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/09/18/</guid>
+      <description> AWS IoT SDK for Embedded C version 202009.00 now available with refactored MQTT, JSON, and AWS IoT device shadow libraries
+01:56 AM &amp;#8226; AWS  </description>
+    </item>
     
     <item>
       <title>17 September, 2020</title>
