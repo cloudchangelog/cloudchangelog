@@ -17,13 +17,13 @@
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/09/21/</guid>
-      <description>Isolating SaaS Tenants with Dynamically Generated IAM Policies
-07:36 PM &amp;#8226; AWS AWS Identity and Access Management (IAM) AWS Lambda
- EFA-enabled C5n instances to scale Simcenter STAR-CCM+
-06:33 PM &amp;#8226; AWS Compute High Performance Computing
- How Virtusa Migrated Pega Platform to AWS and Established a Control Panel
-06:12 PM &amp;#8226; AWS AWS Partner Network AWS Well-Architected
- Amazon MSK now supports SASL/SCRAM authentication with usernames and passwords secured by AWS Secrets Manager</description>
+      <description>Announcing event logging and self-upgrade capabilities in SSM Agent, with new version 3.0
+09:54 PM &amp;#8226; AWS
+ AWS Single Sign-On adds account assignment APIs and AWS CloudFormation support to automate multi-account access management
+09:32 PM &amp;#8226; AWS
+ AWS CloudFormation now supports StackSets Resource Type in the CloudFormation Registry
+09:02 PM &amp;#8226; AWS
+ Bringing the power of embedded analytics to your apps and services with Amazon QuickSight</description>
     </item>
     
     <item>
