@@ -17,14 +17,13 @@
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/09/21/</guid>
-      <description>Better together: Google Cloud Load Balancing, Cloud CDN, and Google Cloud Armor
-04:00 PM &amp;#8226; GCP Networking
- Cloud migration: What you need to know (and where to find it)
-04:00 PM &amp;#8226; GCP Cloud Migration
- Virtual workstations on AWS: Discussing the next must-have studio essential
-03:48 PM &amp;#8226; AWS Thought Leadership Amazon S3
- Zee5 inserts millions of ads in live and VOD content using AWS
-03:35 PM &amp;#8226; AWS Amazon CloudFront AWS Elemental MediaConvert</description>
+      <description>Isolating SaaS Tenants with Dynamically Generated IAM Policies
+07:36 PM &amp;#8226; AWS AWS Identity and Access Management (IAM) AWS Lambda
+ EFA-enabled C5n instances to scale Simcenter STAR-CCM+
+06:33 PM &amp;#8226; AWS Compute High Performance Computing
+ How Virtusa Migrated Pega Platform to AWS and Established a Control Panel
+06:12 PM &amp;#8226; AWS AWS Partner Network AWS Well-Architected
+ Amazon MSK now supports SASL/SCRAM authentication with usernames and passwords secured by AWS Secrets Manager</description>
     </item>
     
     <item>
