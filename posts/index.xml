@@ -17,14 +17,13 @@
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/09/22/</guid>
-      <description>Identifying resources with the most configuration changes using AWS Config
-04:18 PM &amp;#8226; AWS Amazon Athena AWS CloudFormation
- Azure Arc enabled data services now in preview
-04:05 PM &amp;#8226; Azure Azure Arc Hybrid
- Configurable Backup Storage Redundancy option for Azure SQL Managed Instance
-04:05 PM &amp;#8226; Azure backup storage redundancy Azure SQL Database
- High throughput output from Stream Analytics to Azure Synapse Analytics (General Availability)
-04:05 PM &amp;#8226; Azure</description>
+      <description>Amazon DocumentDB (with MongoDB compatibility) adds the $out aggregation stage and increases the maximum number of connections and cursors
+06:29 PM &amp;#8226; AWS
+ Announcing new AWS Wavelength Zones in Atlanta, New York City, and Washington DC
+06:25 PM &amp;#8226; AWS
+ How to Turn Archive Data into Actionable Insights with Cohesity and AWS
+06:24 PM &amp;#8226; AWS Amazon QuickSight Amazon Simple Storage Services (S3)
+ APN Ambassadors Are Passionate About Sharing Their AWS Technical Expertise</description>
     </item>
     
     <item>
