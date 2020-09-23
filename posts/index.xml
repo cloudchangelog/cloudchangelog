@@ -17,13 +17,15 @@
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/09/22/</guid>
-      <description>Amazon DocumentDB (with MongoDB compatibility) adds the $out aggregation stage and increases the maximum number of connections and cursors
-06:29 PM &amp;#8226; AWS
- Announcing new AWS Wavelength Zones in Atlanta, New York City, and Washington DC
-06:25 PM &amp;#8226; AWS
- How to Turn Archive Data into Actionable Insights with Cohesity and AWS
-06:24 PM &amp;#8226; AWS Amazon QuickSight Amazon Simple Storage Services (S3)
- APN Ambassadors Are Passionate About Sharing Their AWS Technical Expertise</description>
+      <description>Amazon Lex now offers language support for US Spanish
+10:30 PM &amp;#8226; AWS
+ Update to Amazon S3 Path Deprecation Plan
+09:52 PM &amp;#8226; AWS *Post Types Amazon Simple Storage Services (S3)
+ Amazon EC2 C5a instances now available in South America (Sao Paulo) region
+09:26 PM &amp;#8226; AWS
+ Amazon Comprehend now supports Amazon Sagemaker GroundTruth training datasets for custom model training
+09:06 PM &amp;#8226; AWS
+ Now available AWS SSO credential profile support in the AWS Toolkit for JetBrains IDEs</description>
     </item>
     
     <item>
