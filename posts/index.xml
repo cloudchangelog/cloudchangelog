@@ -6,10 +6,29 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>23 September, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/09/23/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/09/23/</guid>
+      <description>Germany’s DFL Taps AWS Media Services for New Live Streaming Platform
+04:57 PM &amp;#8226; AWS Amazon CloudFront Announcements
+ ICYMI: Container Day EU
+04:00 PM &amp;#8226; AWS Containers container day
+ Column-level encryption for Azure Synapse Analytics
+04:00 PM &amp;#8226; Azure
+ COPY command now generally available in Azure Synapse Analytics
+04:00 PM &amp;#8226; Azure
+ New MERGE command for Azure Synapse Analytics
+04:00 PM &amp;#8226; Azure
+ Windows IoT Microsoft Edge Kiosk Mode in public preview</description>
+    </item>
     
     <item>
       <title>22 September, 2020</title>
