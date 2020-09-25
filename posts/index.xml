@@ -17,14 +17,14 @@
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/09/24/</guid>
-      <description>Improved OCR and structured data extraction with Amazon Textract
-10:52 PM &amp;#8226; AWS Amazon Textract Artificial Intelligence
- Migrating and managing large datasets on Amazon S3
-09:55 PM &amp;#8226; AWS Amazon Simple Storage Services (S3) AWS DataSync
- Amazon CloudWatch Synthetics strengthens end-to-end canary run debugging with X-Ray traces
-09:51 PM &amp;#8226; AWS
- Preventing customer churn by optimizing incentive programs using stochastic programming
-09:45 PM &amp;#8226; AWS Amazon Aurora Artificial Intelligence</description>
+      <description>How Cookpad scaled its Amazon Redshift cluster while controlling costs with usage limits
+11:46 PM &amp;#8226; AWS Amazon Redshift Analytics
+ Making ETL easier with AWS Glue Studio
+11:04 PM &amp;#8226; AWS Analytics AWS Glue
+ Design patterns to access cross-account secrets stored in AWS Secrets Manager
+11:01 PM &amp;#8226; AWS AWS Secrets Manager Security, Identity, &amp;amp; Compliance
+ Improved OCR and structured data extraction with Amazon Textract
+10:52 PM &amp;#8226; AWS Amazon Textract Artificial Intelligence</description>
     </item>
     
     <item>
