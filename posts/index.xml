@@ -6,10 +6,30 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>28 September, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/09/28/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/09/28/</guid>
+      <description> Choosing between messaging services for serverless applications
+01:49 PM &amp;#8226; AWS Amazon EventBridge Amazon Simple Notification Service (SNS)  </description>
+    </item>
+    
+    <item>
+      <title>27 September, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/09/27/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/09/27/</guid>
+      <description> How BBVA USA delivered security and governance at scale using management tools
+11:50 PM &amp;#8226; AWS Amazon EventBridge Amazon GuardDuty  </description>
+    </item>
     
     <item>
       <title>25 September, 2020</title>
