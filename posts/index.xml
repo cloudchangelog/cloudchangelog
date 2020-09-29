@@ -17,12 +17,13 @@
       <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/09/29/</guid>
-      <description>Running on-demand, serverless Apache Spark data processing jobs using Amazon SageMaker managed Spark containers and the Amazon SageMaker SDK
+      <description>Developing an application based on multiple microservices using AWS Copilot and AWS Fargate
+06:58 PM &amp;#8226; AWS Amazon Elastic Container Service AWS Fargate
+ Normalize data with Amazon Elasticsearch Service ingest pipelines
+05:44 PM &amp;#8226; AWS Amazon Elasticsearch Service Analytics
+ Running on-demand, serverless Apache Spark data processing jobs using Amazon SageMaker managed Spark containers and the Amazon SageMaker SDK
 04:41 PM &amp;#8226; AWS Artificial Intelligence SageMaker
- Autodesk adopts Amazon S3 to save 75% on storage and modernize backup and recovery
-04:06 PM &amp;#8226; AWS Amazon S3 Glacier Amazon S3 Glacier Deep Archive
- SAP on Google Cloud: 2 analyst studies reveal quantifiable business benefits
-04:00 PM &amp;#8226; GCP SAP on Google Cloud</description>
+ Azure HDInsight &amp;ndash;Autoscale for Interactive Query with HDInsight 4.</description>
     </item>
     
     <item>
