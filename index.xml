@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>30 September, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/09/30/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/09/30/</guid>
+      <description> Connecting a Cloud-Native Kubernetes App on OKE to Autonomous Transaction Processing Dedicated &amp;hellip;
+01:25 PM &amp;#8226; Oracle Cloud Native Oracle Cloud Infrastructure (OCI)
+ Using AWS Lambda as a consumer for Amazon Kinesis
+01:13 PM &amp;#8226; AWS Amazon Kinesis AWS Lambda
+ Announcing Java support for cdk8s
+11:09 AM &amp;#8226; AWS Containers CDK
+  </description>
+    </item>
     
     <item>
       <title>29 September, 2020</title>
