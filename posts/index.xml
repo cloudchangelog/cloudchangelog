@@ -17,8 +17,11 @@
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/10/01/</guid>
-      <description> Complete CI/CD with AWS CodeCommit, AWS CodeBuild, AWS CodeDeploy, and AWS CodePipeline
-01:57 AM &amp;#8226; AWS AWS CodeBuild AWS CodeCommit  </description>
+      <description> How one AWS Hero uses AWS Storage Gateway for in-cloud backup
+02:27 AM &amp;#8226; AWS Amazon EC2 Amazon Simple Storage Services (S3)
+ Complete CI/CD with AWS CodeCommit, AWS CodeBuild, AWS CodeDeploy, and AWS CodePipeline
+01:57 AM &amp;#8226; AWS AWS CodeBuild AWS CodeCommit
+  </description>
     </item>
     
     <item>
