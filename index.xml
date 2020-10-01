@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>01 October, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/10/01/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/10/01/</guid>
+      <description> Complete CI/CD with AWS CodeCommit, AWS CodeBuild, AWS CodeDeploy, and AWS CodePipeline
+01:57 AM &amp;#8226; AWS AWS CodeBuild AWS CodeCommit  </description>
+    </item>
     
     <item>
       <title>30 September, 2020</title>
@@ -17,15 +27,14 @@
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/09/30/</guid>
-      <description>Amazon MSK can now automatically expand cluster storage
-09:50 PM &amp;#8226; AWS
- Amazon MSK adds supports for Apache Kafka version 2.5.1
-09:46 PM &amp;#8226; AWS
- AWS Security Hub adds five new partners
-09:45 PM &amp;#8226; AWS
- Amazon S3 on Outposts Now Available
-09:43 PM &amp;#8226; AWS Amazon Simple Storage Services (S3) AWS Outposts
- Amazon EC2 On-Demand Capacity Reservations are now available in the AWS Local Zones in Los Angeles</description>
+      <description>Reserved outbound bandwidth now available for AWS Elemental MediaConnect
+11:40 PM &amp;#8226; AWS
+ Amazon Timestream is now Generally Available
+11:35 PM &amp;#8226; AWS
+ Amazon S3 on Outposts is now generally available, expanding object storage to on-premises environments
+11:35 PM &amp;#8226; AWS
+ Running on-demand, serverless Apache Spark data processing jobs using Amazon SageMaker managed Spark containers and the Amazon SageMaker SDK
+11:26 PM &amp;#8226; AWS Artificial Intelligence SageMaker</description>
     </item>
     
     <item>
