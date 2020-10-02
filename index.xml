@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>02 October, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/10/02/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/10/02/</guid>
+      <description> Building an end-to-end intelligent document processing solution using AWS
+01:25 AM &amp;#8226; AWS Amazon Comprehend Amazon Textract  </description>
+    </item>
     
     <item>
       <title>01 October, 2020</title>
@@ -17,13 +27,13 @@
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/10/01/</guid>
-      <description>Enabling multi-factor authentication for an Amazon Redshift cluster using Okta as an identity provider
-04:46 PM &amp;#8226; AWS Amazon Redshift
- Raw Logs and Metrics are generally available on Azure Content Delivery Network (CDN) from Microsoft CDN
-04:35 PM &amp;#8226; Azure
- Learn how to manage and optimize your Azure costs with our guided learning modules
-04:00 PM &amp;#8226; Azure Azure Cost Management
- Monitor Azure Arc enabled Kubernetes with Metric Alerts</description>
+      <description>Creating a multi-department enterprise search using custom attributes in Amazon Kendra
+11:07 PM &amp;#8226; AWS Amazon Kendra Artificial Intelligence
+ AWS CloudFormation Drift Detection now supports CloudFormation Registry resource types
+10:23 PM &amp;#8226; AWS
+ Amazon Rekognition Custom Labels now enables creating a single inference API to find diverse objects and scenes in images with high accuracy
+10:13 PM &amp;#8226; AWS
+ Amazon SageMaker Autopilot now Creates Machine Learning Models up to 40% Faster with up to 200% Higher Accuracy</description>
     </item>
     
     <item>
