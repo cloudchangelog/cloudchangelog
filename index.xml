@@ -17,8 +17,14 @@
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/10/05/</guid>
-      <description> Building resilient, no-code serverless patterns by combining messaging services
-01:51 PM &amp;#8226; AWS Amazon EventBridge Amazon Simple Notification Service (SNS)  </description>
+      <description>Action required: Review your applications to avoid service disruption during Azure changes
+04:00 PM &amp;#8226; Azure
+ Azure Monitor for containers now support monitoring of Network configurations with Network Policy Manager (Preview)
+04:00 PM &amp;#8226; Azure Azure Monitor
+ Public Preview: Azure NetApp Files Manual QoS Capacity Pool
+04:00 PM &amp;#8226; Azure
+ New in Cloud Functions: languages, availability, portability, and more
+04:00 PM &amp;#8226; GCP Application Development Serverless</description>
     </item>
     
     <item>
@@ -416,13 +422,13 @@
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/09/01/</guid>
-      <description>Quickly Visualize Marketing Analytics and Ads Data with Matillion, Amazon Redshift, and Amazon QuickSight
+      <description>Manage your Azure &amp;amp; Amazon Web Services (AWS) spending in a single location with Azure Cost Management +Billing
+10:30 PM &amp;#8226; Azure
+ Quickly Visualize Marketing Analytics and Ads Data with Matillion, Amazon Redshift, and Amazon QuickSight
 10:08 PM &amp;#8226; AWS Amazon QuickSight Amazon Redshift
- AWS WAF and AWS Shield Advanced Now Available in Africa (Cape Town) and EU (Milan)
-08:47 PM &amp;#8226; AWS
- Amplify CLI now supports tagging resources at a project level
-08:33 PM &amp;#8226; AWS
- Announcing the winner of the AWS DeepComposer Chartbusters Spin the Model challenge</description>
+ Azure Kubernetes Service: Node disk DOS by writing to container /etc/hosts (CVE-2020-8557)
+09:33 PM &amp;#8226; Azure
+ Azure Kubernetes Service: Privilege escalation from compromised node to cluster (CVE-2020-8559)</description>
     </item>
     
     <item>
