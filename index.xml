@@ -17,14 +17,13 @@
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/10/06/</guid>
-      <description>Amazon Fraud Detector Can Accelerate How AI is Embedded in Your Business
-07:50 PM &amp;#8226; AWS Amazon Fraud Detector Amazon Machine Learning
- New Amazon Builders’ Library Article: Avoiding overload in distributed systems by putting the smaller service in control
-06:34 PM &amp;#8226; AWS
- Amazon Lumberyard Beta 1.26 now available
-05:03 PM &amp;#8226; AWS
- Building high-quality benchmark tests for Redshift using open-source tools: Best practices
-04:34 PM &amp;#8226; AWS Amazon Redshift</description>
+      <description>Automated configuration of Session Manager without an internet gateway
+10:25 PM &amp;#8226; AWS Amazon VPC AWS CloudFormation
+ Achieving 1.85x higher performance for deep learning based object detection with an AWS Neuron compiled YOLOv4 model on AWS Inferentia
+10:20 PM &amp;#8226; AWS Artificial Intelligence AWS Inferentia
+ Applications using Amazon SNS to send SMS can now be hosted in five new regions
+09:59 PM &amp;#8226; AWS
+ Amazon CloudWatch Synthetics now supports prebuilt canary monitoring dashboard</description>
     </item>
     
     <item>
