@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>06 October, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/10/06/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/10/06/</guid>
+      <description> 信頼性と ML ワークフローの統合をさらに改善した AI Platform Prediction の一般提供を開始
+01:00 AM &amp;#8226; GCP AI &amp;amp; Machine Learning  </description>
+    </item>
     
     <item>
       <title>05 October, 2020</title>
