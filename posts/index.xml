@@ -17,13 +17,14 @@
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/10/06/</guid>
-      <description> The serverless LAMP stack part 6: From MVC to serverless microservices
-01:34 PM &amp;#8226; AWS Amazon API Gateway AWS Lambda
- Introducing the redesigned AWS Architecture Center
-06:17 AM &amp;#8226; AWS
- 信頼性と ML ワークフローの統合をさらに改善した AI Platform Prediction の一般提供を開始
-01:00 AM &amp;#8226; GCP AI &amp;amp; Machine Learning
-  </description>
+      <description>Building high-quality benchmark tests for Redshift using open-source tools: Best practices
+04:34 PM &amp;#8226; AWS Amazon Redshift
+ Integrating Jenkins with AWS CodeArtifact to publish and consume Python artifacts
+04:09 PM &amp;#8226; AWS AWS CodeArtifact Developer Tools
+ Announcing new lower pricing for Azure Files premium tier
+04:00 PM &amp;#8226; Azure Storage Azure Files
+ Standard Load Balancer and Public IP addresses support resource group move
+04:00 PM &amp;#8226; Azure AzurePortal</description>
     </item>
     
     <item>
