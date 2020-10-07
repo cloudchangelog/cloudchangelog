@@ -17,13 +17,15 @@
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/10/07/</guid>
-      <description>Making cycling safer with AWS DeepLens and Amazon SageMaker object detection
-07:39 PM &amp;#8226; AWS Artificial Intelligence AWS DeepLens
- Protect Your AWS Compute Optimizer Recommendation Data with customer master keys (CMKs) Stored in AWS Key Management Service
-06:48 PM &amp;#8226; AWS
- Amazon Connect launches user access controls for contact search using Agent Hierarchy to easily protect sensitive data and maintain compliance
-06:35 PM &amp;#8226; AWS
- Amazon EC2 G4dn Bare Metal Instances with NVIDIA T4 Tensor Core GPUs, now available in 15 additional regions</description>
+      <description>Interactive Scientific Visualization on AWS with NVIDIA IndeX SDK
+10:16 PM &amp;#8226; AWS Amazon Machine Learning Artificial Intelligence
+ AWS Storage Virtual Workshop Series
+10:06 PM &amp;#8226; AWS Amazon Elastic Block Storage (EBS) Amazon Elastic File System (EFS)
+ CodeGuru Profiler now supports resource tagging
+10:06 PM &amp;#8226; AWS
+ Federating Amazon Redshift access from OneLogin
+10:03 PM &amp;#8226; AWS Amazon Redshift Database
+ Amazon EBS CSI driver now supports AWS Outposts</description>
     </item>
     
     <item>
