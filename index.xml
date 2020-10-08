@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>08 October, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/10/08/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/10/08/</guid>
+      <description> Observabitiliy on Oracle OCI - Using Custom Logs in OCI Logging to Monitor and Analyze &amp;hellip;
+10:30 AM &amp;#8226; Oracle Cloud Native Oracle Cloud Infrastructure (OCI)  </description>
+    </item>
     
     <item>
       <title>07 October, 2020</title>
