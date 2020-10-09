@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>09 October, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/10/09/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/10/09/</guid>
+      <description> Providing open access to the Genome Aggregation Database (gnomAD) on Google Cloud
+04:00 PM &amp;#8226; GCP Data Analytics Inside Google Cloud
+ Announcing Google Cloud buildpacks—container images made easy
+04:00 PM &amp;#8226; GCP Application Development Open Source
+ Managing product descriptions with Oracle Enterprise Data Quality
+03:34 PM &amp;#8226; Oracle Cloud Migrations Data Management
+  </description>
+    </item>
     
     <item>
       <title>08 October, 2020</title>
