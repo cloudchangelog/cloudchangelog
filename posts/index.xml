@@ -6,10 +6,30 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>12 October, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/10/12/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/10/12/</guid>
+      <description> ICYMI: Serverless Q3 2020
+01:26 PM &amp;#8226; AWS Amazon API Gateway Amazon Kinesis  </description>
+    </item>
+    
+    <item>
+      <title>11 October, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/10/11/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/10/11/</guid>
+      <description> What’s new with Google Cloud
+02:00 PM &amp;#8226; GCP Google Workspace Inside Google Cloud  </description>
+    </item>
     
     <item>
       <title>09 October, 2020</title>
