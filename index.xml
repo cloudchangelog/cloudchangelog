@@ -6,10 +6,23 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>13 October, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/10/13/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/10/13/</guid>
+      <description> Connect to a private Oracle Analytics Cloud
+12:10 PM &amp;#8226; Oracle Networking
+ Hierarchical Text Classification
+08:06 AM &amp;#8226; Oracle
+  </description>
+    </item>
     
     <item>
       <title>12 October, 2020</title>
@@ -17,15 +30,15 @@
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/10/12/</guid>
-      <description>Event-driven refresh of SPICE datasets in Amazon QuickSight
+      <description>BigQuery explained: Blog series
+10:00 PM &amp;#8226; GCP Data Analytics BigQuery
+ Event-driven refresh of SPICE datasets in Amazon QuickSight
 07:53 PM &amp;#8226; AWS Amazon QuickSight Analytics
  Managing Amazon S3 access with VPC endpoints and S3 Access Points
 07:40 PM &amp;#8226; AWS Amazon Simple Storage Services (S3) Amazon VPC
  Amazon Rekognition adds support for six new content moderation categories
 07:28 PM &amp;#8226; AWS
- CloudWatch Application Insights offers new, improved user interface
-07:17 PM &amp;#8226; AWS
- Amazon Rekognition adds support for six new content moderation categories</description>
+ CloudWatch Application Insights offers new, improved user interface</description>
     </item>
     
     <item>
