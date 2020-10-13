@@ -17,13 +17,14 @@
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/10/13/</guid>
-      <description>Amazon Personalize improvements reduce model training time by up to 40% and latency for generating recommendations by up to 30%
-04:48 PM &amp;#8226; AWS Amazon Personalize Artificial Intelligence
- Amazon CloudWatch Prometheus metrics now generally available
-04:34 PM &amp;#8226; AWS Amazon CloudWatch Amazon Elastic Container Service
- Azure Blob storage point-in-time restore now generally available
-04:29 PM &amp;#8226; Azure Azure Storage
- Democratizing Zero Trust with an expanded BeyondCorp Alliance</description>
+      <description>Azure IoT Edge 1.0.10 release is now available
+07:17 PM &amp;#8226; Azure
+ Optimizing the cost of training AWS DeepRacer reinforcement learning models
+06:58 PM &amp;#8226; AWS Artificial Intelligence AWS DeepRacer
+ Automating EMR workloads using AWS Step Functions
+06:55 PM &amp;#8226; AWS Amazon EMR Analytics
+ Using log analysis to drive experiments and win the AWS DeepRacer F1 ProAm Race
+06:46 PM &amp;#8226; AWS Artificial Intelligence AWS DeepRacer</description>
     </item>
     
     <item>
