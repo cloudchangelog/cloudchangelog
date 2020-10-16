@@ -6,10 +6,27 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>16 October, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/10/16/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/10/16/</guid>
+      <description> Integrating AWS CloudFormation Guard into CI/CD pipelines
+01:54 AM &amp;#8226; AWS AWS CloudFormation AWS CodeCommit
+ Standardizing CI/CD pipelines for .NET web applications with AWS Service Catalog
+01:01 AM &amp;#8226; AWS .NET AWS Elastic Beanstalk
+ Get started with Amazon Redshift cross-database queries (preview)
+12:45 AM &amp;#8226; AWS Amazon Redshift Analytics
+ Announcing cross-database queries for Amazon Redshift (preview)
+12:13 AM &amp;#8226; AWS
+  </description>
+    </item>
     
     <item>
       <title>15 October, 2020</title>
@@ -19,12 +36,12 @@
       <guid>https://cloudchangelog.com/posts/2020/10/15/</guid>
       <description>Detecting playful animal behavior in videos using Amazon Rekognition Custom Labels
 10:40 PM &amp;#8226; AWS Amazon Rekognition Artificial Intelligence
+ AWS Glue crawlers now support Amazon DocumentDB (with MongoDB compatibility) and MongoDB collections
+10:32 PM &amp;#8226; AWS
  AWS Database Migration Service: Obsessed with helping customers break free from old-guard databases
 10:12 PM &amp;#8226; AWS AWS Database Migration Service Database
  Announcing AWS Budgets Actions
-09:59 PM &amp;#8226; AWS
- Send real-time alerts about application anomalies using AWS X-Ray insights
-09:51 PM &amp;#8226; AWS Amazon EventBridge Announcements</description>
+09:59 PM &amp;#8226; AWS</description>
     </item>
     
     <item>
