@@ -6,10 +6,35 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>19 October, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/10/19/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/10/19/</guid>
+      <description>Apply record level changes from relational databases to Amazon S3 data lake using Apache Hudi on Amazon EMR and AWS Database Migration Service
+01:37 PM &amp;#8226; AWS Amazon EMR Amazon Simple Storage Services (S3)
+ Lending DocAI fast tracks the home loan process
+01:00 PM &amp;#8226; GCP AI &amp;amp; Machine Learning
+ Amazon EKS cluster automation with GitLab CI/CD
+12:15 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service Containers
+ Product Hub to CX Commerce (OCC) Catalog Sync: Part One - The Plumbing</description>
+    </item>
+    
+    <item>
+      <title>18 October, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/10/18/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/10/18/</guid>
+      <description> Building a cross-account CI/CD pipeline for single-tenant SaaS solutions
+12:49 AM &amp;#8226; AWS AWS CloudFormation AWS CodeBuild  </description>
+    </item>
     
     <item>
       <title>16 October, 2020</title>
