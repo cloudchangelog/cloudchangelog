@@ -17,13 +17,13 @@
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/10/19/</guid>
-      <description>Apply record level changes from relational databases to Amazon S3 data lake using Apache Hudi on Amazon EMR and AWS Database Migration Service
-01:37 PM &amp;#8226; AWS Amazon EMR Amazon Simple Storage Services (S3)
- Lending DocAI fast tracks the home loan process
-01:00 PM &amp;#8226; GCP AI &amp;amp; Machine Learning
- Amazon EKS cluster automation with GitLab CI/CD
-12:15 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service Containers
- Product Hub to CX Commerce (OCC) Catalog Sync: Part One - The Plumbing</description>
+      <description>Migrating your SQL Server database to Amazon RDS for SQL Server using AWS DMS
+04:29 PM &amp;#8226; AWS AWS Database Migration Service Database
+ Azure Key Vault Event Grid integration is now available
+04:00 PM &amp;#8226; Azure keyvault eventgrid
+ Azure role-based access control (RBAC) for Azure Key Vault data plane authorization is now in preview
+04:00 PM &amp;#8226; Azure keyvault rbac
+ Strengthen zero trust access with the Google Cloud CA service</description>
     </item>
     
     <item>
