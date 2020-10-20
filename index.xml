@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20 October, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/10/20/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/10/20/</guid>
+      <description> Using Dremio for Fast and Easy Analysis of Amazon S3 Data
+01:53 AM &amp;#8226; AWS Amazon Simple Storage Services (S3) Analytics  </description>
+    </item>
     
     <item>
       <title>19 October, 2020</title>
@@ -17,15 +27,13 @@
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/10/19/</guid>
-      <description>Amazon Connect supports “neural” Text-to-Speech voices in the London, Frankfurt, Singapore, and Tokyo regions
+      <description>You now can manage access to Amazon Keyspaces by using temporary security credentials for the Python, Go, and Node.js Cassandra drivers
+11:18 PM &amp;#8226; AWS
+ Amazon Connect supports “neural” Text-to-Speech voices in the London, Frankfurt, Singapore, and Tokyo regions
 09:22 PM &amp;#8226; AWS
  AWS DataSync simplifies initial setup for online data transfers
 08:33 PM &amp;#8226; AWS
- AWS IQ now provides integrated access logs for expert activity
-08:27 PM &amp;#8226; AWS
- Best practices for setting up your AWS DataSync agent
-08:03 PM &amp;#8226; AWS AWS DataSync AWS Management Console
- How to Deploy AI Inference on the Edge with the LG AIoT Board and AWS IoT Greengrass</description>
+ AWS IQ now provides integrated access logs for expert activity</description>
     </item>
     
     <item>
