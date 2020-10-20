@@ -17,15 +17,15 @@
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/10/20/</guid>
-      <description>Building interactive live video experiences with Amazon IVS and Videoflow
-07:06 PM &amp;#8226; AWS AWS Elemental MediaLive Media Services
- Kinesis Client Library now enables multi-stream processing
-07:00 PM &amp;#8226; AWS
- Announcing Amazon CloudFront Origin Shield
-06:21 PM &amp;#8226; AWS
- AWS Systems Manager now allows filtering automation executions by applications or environments
-06:01 PM &amp;#8226; AWS
- AWS Managed Security Services Partners Can Help Implement, Test, and Manage Your Perimeter Security Protection</description>
+      <description>Advanced Connection Pooling with the Heimdall Proxy
+10:41 PM &amp;#8226; AWS Amazon RDS Amazon Redshift
+ AWS Batch now supports Configurable Job Retries
+09:43 PM &amp;#8226; AWS
+ Amazon Redshift now supports modifying column compression encodings to optimize storage utilization and query performance
+09:28 PM &amp;#8226; AWS
+ Optimizing Amazon EMR for resilience and cost with capacity-optimized Spot Instances
+09:24 PM &amp;#8226; AWS Amazon EMR Analytics
+ How to Start Your AWS Storage Journey with the APN Storage Navigate Track</description>
     </item>
     
     <item>
