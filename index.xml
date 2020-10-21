@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>21 October, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/10/21/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/10/21/</guid>
+      <description> Unifiedpost and Google collaborate on Document AI to automate procurement data capture
+05:00 AM &amp;#8226; GCP AI &amp;amp; Machine Learning  </description>
+    </item>
     
     <item>
       <title>20 October, 2020</title>
