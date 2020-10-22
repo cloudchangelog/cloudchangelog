@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>22 October, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/10/22/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/10/22/</guid>
+      <description> Use AWS Systems Manager Explorer to optimize your compute resources across your AWS Organizations
+01:58 PM &amp;#8226; AWS Amazon EC2 AWS Compute Optimizer  </description>
+    </item>
     
     <item>
       <title>21 October, 2020</title>
