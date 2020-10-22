@@ -17,16 +17,13 @@
       <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/10/22/</guid>
-      <description>A giant list of Google Cloud resources
-08:00 PM &amp;#8226; GCP Developers &amp;amp; Practitioners
- Amazon MQ now supports ActiveMQ version 5.15.13
-06:41 PM &amp;#8226; AWS
- Change in verification code SMS content
-06:33 PM &amp;#8226; Azure
- Amazon Kendra now supports custom data sources
-06:30 PM &amp;#8226; AWS
- Amazon SageMaker is now available in the Africa (Cape Town) and Europe (Milan) AWS regions
-06:18 PM &amp;#8226; AWS</description>
+      <description>Online Tech Talk October 29: Quick and secure file migration with AWS DataSync
+10:52 PM &amp;#8226; AWS Announcements AWS DataSync
+ Amazon Redshift now supports the scheduling of SQL queries by integrating with Amazon EventBridge
+09:48 PM &amp;#8226; AWS
+ Amazon SNS introduces First-in-First-out (FIFO) topics with strict ordering and deduplication of messages
+09:47 PM &amp;#8226; AWS
+ AWS App Mesh supports cross account sharing of ACM Private Certificate Authority</description>
     </item>
     
     <item>
