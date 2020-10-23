@@ -17,13 +17,13 @@
       <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/10/22/</guid>
-      <description>Online Tech Talk October 29: Quick and secure file migration with AWS DataSync
+      <description>Amazon Relational Database Service (RDS) Snapshot Export to S3 available in additional regions
+11:47 PM &amp;#8226; AWS
+ Amazon CloudFront announces support for public key management through IAM user permissions for signed URLs and signed cookies
+11:10 PM &amp;#8226; AWS
+ Online Tech Talk October 29: Quick and secure file migration with AWS DataSync
 10:52 PM &amp;#8226; AWS Announcements AWS DataSync
- Amazon Redshift now supports the scheduling of SQL queries by integrating with Amazon EventBridge
-09:48 PM &amp;#8226; AWS
- Amazon SNS introduces First-in-First-out (FIFO) topics with strict ordering and deduplication of messages
-09:47 PM &amp;#8226; AWS
- AWS App Mesh supports cross account sharing of ACM Private Certificate Authority</description>
+ Amazon Redshift now supports the scheduling of SQL queries by integrating with Amazon EventBridge</description>
     </item>
     
     <item>
