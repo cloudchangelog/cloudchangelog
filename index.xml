@@ -6,10 +6,26 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>28 October, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/10/28/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/10/28/</guid>
+      <description>Azure Red Hat OpenShift 3.11 will be retired on 30 June 2022
+12:00 AM &amp;#8226; Azure Compute
+ Community support for PHP 7.4 is ending on 28 November 2022
+12:00 AM &amp;#8226; Azure Compute
+ Legacy developer portal in Azure API Management will retire on 31 October 2023
+12:00 AM &amp;#8226; Azure Compute
+ Action Required: Update to Data Science Virtual Machine Ubuntu 18.04
+12:00 AM &amp;#8226; Azure Compute</description>
+    </item>
     
     <item>
       <title>27 October, 2020</title>
@@ -17,14 +33,15 @@
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/10/27/</guid>
-      <description>Provisioning Custom DNS Resolvers for FQDN Resolution
-07:08 PM &amp;#8226; Oracle A-Team Chronicles Cloud
- AWS Auto Scaling is now generally available in the AWS Africa (Cape Town) and AWS Europe (Milan) regions
-07:05 PM &amp;#8226; AWS
- Preparing Google Cloud deployments for Docker Hub pull request limits
-07:00 PM &amp;#8226; GCP DevOps &amp;amp; SRE Containers &amp;amp; Kubernetes
- Optimizing costs for machine learning with Amazon SageMaker
-06:31 PM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence</description>
+      <description>Oracle Analytics Cloud Private Endpoint Parent Post
+10:33 PM &amp;#8226; Oracle A-Team Chronicles Analytics &amp;amp;amp; Reporting
+ Amazon Rekognition Custom Labels makes it easier to import, search, and filter dataset label lists
+10:16 PM &amp;#8226; AWS
+ Anatomy of a live streaming AWS CloudFormation template
+10:11 PM &amp;#8226; AWS Amazon CloudFront Best Practices
+ Schema Registry for Azure Event Hubs public preview
+10:10 PM &amp;#8226; Azure
+ AWS IoT SiteWise launches support for VPC private links</description>
     </item>
     
     <item>
