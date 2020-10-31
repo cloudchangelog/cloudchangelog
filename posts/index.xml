@@ -6,10 +6,26 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>31 October, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/10/31/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/10/31/</guid>
+      <description>Fine-tuning blue/green deployments on application load balancer
+01:59 AM &amp;#8226; AWS DevOps Technical How-to
+ Automating deployments to Raspberry Pi devices using AWS CodePipeline
+01:44 AM &amp;#8226; AWS DevOps AWS CodeBuild
+ Rapid and flexible Infrastructure as Code using the AWS CDK with AWS Solutions Constructs
+01:33 AM &amp;#8226; AWS *Post Types AWS Cloud Development Kit
+ Deploying and using the Document Understanding Solution
+01:12 AM &amp;#8226; AWS Amazon Comprehend Amazon Comprehend Medical</description>
+    </item>
     
     <item>
       <title>30 October, 2020</title>
@@ -17,13 +33,13 @@
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/10/30/</guid>
-      <description>AWS Database Migration Service now supports Amazon DocumentDB (with MongoDB compatibility) as a source
+      <description>Training and serving H2O models using Amazon SageMaker
+11:43 PM &amp;#8226; AWS Amazon Corretto Amazon SageMaker
+ AWS Database Migration Service now supports Amazon DocumentDB (with MongoDB compatibility) as a source
 09:34 PM &amp;#8226; AWS
  Onboarding and Managing Agents in a SaaS Solution – Using AWS IoT Core
 09:17 PM &amp;#8226; AWS AWS Partner Network Best Practices
- Connecting Your LoRaWAN Devices from The Things Stack to AWS IoT Core
-09:04 PM &amp;#8226; AWS AWS Marketplace AWS Partner Network
- BICC Extract Logs Monitoring on OCI Native</description>
+ Connecting Your LoRaWAN Devices from The Things Stack to AWS IoT Core</description>
     </item>
     
     <item>
