@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>03 November, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/11/03/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/11/03/</guid>
+      <description> Advice for customers dealing with Docker Hub rate limits, and a Coming Soon announcement
+12:29 AM &amp;#8226; AWS Containers docker  </description>
+    </item>
     
     <item>
       <title>02 November, 2020</title>
@@ -274,11 +284,11 @@
       <guid>https://cloudchangelog.com/posts/2020/10/14/</guid>
       <description>Enhanced origin failover using Amazon CloudFront and AWS Lambda@Edge
 10:34 PM &amp;#8226; AWS Technical How-to Amazon CloudFront
+ Use AWS Firewall Manager to deploy protection at scale in AWS Organizations
+10:30 PM &amp;#8226; AWS AWS Firewall Manager Security, Identity, &amp;amp; Compliance
  Building a medical image search platform on AWS
 09:39 PM &amp;#8226; AWS Amazon Comprehend Medical Amazon Elasticsearch Service
- Streamlining data labeling for YOLO object detection in Amazon SageMaker Ground Truth
-07:17 PM &amp;#8226; AWS Amazon SageMaker Ground Truth Artificial Intelligence
- New AWS Solutions Consulting Offer - Infosys Data Testing Workbench</description>
+ Streamlining data labeling for YOLO object detection in Amazon SageMaker Ground Truth</description>
     </item>
     
     <item>
