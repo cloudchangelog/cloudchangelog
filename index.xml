@@ -17,13 +17,15 @@
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/11/04/</guid>
-      <description> Field Notes: How to Identify and Block Fake Crawler Bots Using AWS WAF
-02:40 PM &amp;#8226; AWS Architecture AWS Lambda
- Create a pipeline with canary deployments for Amazon EKS with AWS App Mesh
-02:34 PM &amp;#8226; AWS Amazon CloudWatch Amazon EC2 Container Registry
- Introducing CloudWatch Lambda Insights
-12:05 AM &amp;#8226; AWS Amazon CloudWatch Announcements
-  </description>
+      <description>Introducing Document AI platform, a unified console for document processing
+05:30 PM &amp;#8226; GCP AI &amp;amp; Machine Learning
+ Deploying reinforcement learning in production using Ray and Amazon SageMaker
+05:25 PM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence
+ USC accelerates patient enrollment in clinical trials with ML
+05:00 PM &amp;#8226; GCP AI &amp;amp; Machine Learning
+ New region added to Azure HDInsight
+04:58 PM &amp;#8226; Azure HDInsight
+ Field Notes: How to Identify and Block Fake Crawler Bots Using AWS WAF</description>
     </item>
     
     <item>
@@ -55,7 +57,8 @@
 10:59 PM &amp;#8226; AWS
  Introducing new visualization features in AWS IoT SiteWise: Status Charts, Scatter Plot and Trend lines
 10:54 PM &amp;#8226; AWS
- Announcing new Amazon EC2 P4d instances deployed in EC2 UltraClusters for highest performance ML training and HPC applications in the cloud</description>
+ Advice for customers dealing with Docker Hub rate limits, and a Coming Soon announcement
+10:00 PM &amp;#8226; AWS Amazon EC2 Container Registry Containers</description>
     </item>
     
     <item>
