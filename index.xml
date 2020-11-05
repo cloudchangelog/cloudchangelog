@@ -17,13 +17,13 @@
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/11/05/</guid>
-      <description>Proactively manage the Spot Instance lifecycle using the new Capacity Rebalancing feature for EC2 Auto Scaling
-02:01 AM &amp;#8226; AWS Amazon EC2 Auto Scaling
- A New Integration for CloudWatch Alarms and OpsCenter
-12:53 AM &amp;#8226; AWS Amazon CloudWatch AWS Systems Manager
- Amazon EC2 Auto Scaling, EC2 Fleet, and Spot Fleet announce Capacity Rebalancing for EC2 Spot Instances
-12:14 AM &amp;#8226; AWS
- How Provectus and GoCheck Kids Built ML Infrastructure for Improved Usability During Vision Screening</description>
+      <description>Connect to a private Oracle Analytics Cloud
+01:10 PM &amp;#8226; Oracle Networking
+ Migrating to Amazon RDS for SQL Server using transactional replication: Part 2
+12:49 PM &amp;#8226; AWS RDS for SQL Server Amazon RDS for SQL Server
+ Using shared memory for low-latency, intra-node communication in AWS Batch
+12:36 PM &amp;#8226; AWS Amazon EC2 AWS Batch
+ Proactively manage the Spot Instance lifecycle using the new Capacity Rebalancing feature for EC2 Auto Scaling</description>
     </item>
     
     <item>
