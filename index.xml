@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>05 November, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/11/05/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/11/05/</guid>
+      <description>Proactively manage the Spot Instance lifecycle using the new Capacity Rebalancing feature for EC2 Auto Scaling
+02:01 AM &amp;#8226; AWS Amazon EC2 Auto Scaling
+ A New Integration for CloudWatch Alarms and OpsCenter
+12:53 AM &amp;#8226; AWS Amazon CloudWatch AWS Systems Manager
+ Amazon EC2 Auto Scaling, EC2 Fleet, and Spot Fleet announce Capacity Rebalancing for EC2 Spot Instances
+12:14 AM &amp;#8226; AWS
+ How Provectus and GoCheck Kids Built ML Infrastructure for Improved Usability During Vision Screening</description>
+    </item>
     
     <item>
       <title>04 November, 2020</title>
@@ -19,13 +34,12 @@
       <guid>https://cloudchangelog.com/posts/2020/11/04/</guid>
       <description>Proactively manage the Spot Instance lifecycle using the new Capacity Rebalancing feature for EC2 Auto Scaling
 11:51 PM &amp;#8226; AWS Amazon EC2 Auto Scaling
- Amazon EventBridge is now available in AWS GovCloud (US) Regions
-10:46 PM &amp;#8226; AWS
- Amazon Transcribe now supports German, Italian and 2 more AWS regions for streaming audio
-09:25 PM &amp;#8226; AWS
- Amazon CloudWatch launches Metrics Explorer
-09:11 PM &amp;#8226; AWS
- AWS Security Hub adds five new integrations and a new consulting partner</description>
+ Amazon Kinesis Data Streams enables data stream retention up to one year
+11:44 PM &amp;#8226; AWS
+ Introducing EC2 Instance rebalance recommendation for EC2 Spot Instances
+11:41 PM &amp;#8226; AWS
+ Amazon EC2 On-Demand Capacity Reservations now supports AWS Wavelength Zones
+11:25 PM &amp;#8226; AWS</description>
     </item>
     
     <item>
