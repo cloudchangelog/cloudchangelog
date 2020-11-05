@@ -17,16 +17,15 @@
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/11/04/</guid>
-      <description>Amazon RDS Data API supports tag-based authorization
-07:32 PM &amp;#8226; AWS
- Amazon RDS for SQL Server now supports Database Mail
-07:00 PM &amp;#8226; AWS
- Google Cloud and Managecore: Partnering to accelerate SAP cloud migrations
-07:00 PM &amp;#8226; GCP Partners SAP on Google Cloud
- BICC Extract Logs Monitoring on OCI Native
-07:00 PM &amp;#8226; Oracle A-Team Chronicles Applications
- Announcing Amazon MQ for RabbitMQ
-06:58 PM &amp;#8226; AWS</description>
+      <description>Proactively manage the Spot Instance lifecycle using the new Capacity Rebalancing feature for EC2 Auto Scaling
+11:51 PM &amp;#8226; AWS Amazon EC2 Auto Scaling
+ Amazon EventBridge is now available in AWS GovCloud (US) Regions
+10:46 PM &amp;#8226; AWS
+ Amazon Transcribe now supports German, Italian and 2 more AWS regions for streaming audio
+09:25 PM &amp;#8226; AWS
+ Amazon CloudWatch launches Metrics Explorer
+09:11 PM &amp;#8226; AWS
+ AWS Security Hub adds five new integrations and a new consulting partner</description>
     </item>
     
     <item>
