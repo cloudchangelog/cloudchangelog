@@ -17,13 +17,15 @@
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/11/05/</guid>
-      <description>Connect to a private Oracle Analytics Cloud
-01:10 PM &amp;#8226; Oracle Networking
- Migrating to Amazon RDS for SQL Server using transactional replication: Part 2
-12:49 PM &amp;#8226; AWS RDS for SQL Server Amazon RDS for SQL Server
- Using shared memory for low-latency, intra-node communication in AWS Batch
-12:36 PM &amp;#8226; AWS Amazon EC2 AWS Batch
- Proactively manage the Spot Instance lifecycle using the new Capacity Rebalancing feature for EC2 Auto Scaling</description>
+      <description>Integrating AWS Outposts with existing security zones
+05:52 PM &amp;#8226; AWS Amazon EC2 AWS Outposts
+ Azure HDInsight now supports Private Link in preview
+05:00 PM &amp;#8226; Azure AzurePortal
+ Azure Data Lake Storage Gen2 recursive access control list (ACL) update is generally available
+05:00 PM &amp;#8226; Azure
+ Apigee: Your gateway to more manageable APIs for SAP
+05:00 PM &amp;#8226; GCP API Management
+ Cloud SQL now supports PostgreSQL 13</description>
     </item>
     
     <item>
