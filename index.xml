@@ -6,10 +6,27 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>09 November, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/11/09/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/11/09/</guid>
+      <description>Running bash commands in AWS CloudFormation templates
+05:53 PM &amp;#8226; AWS AWS CloudFormation Management Tools
+ New Azure Firewall capabilities will be generally available in Q4 CY2020
+05:00 PM &amp;#8226; Azure
+ Azure HDInsight ID Broker (HIB) is now generally available
+05:00 PM &amp;#8226; Azure AzurePortal
+ AWS DeepComposer launches new learning capsule on sequence modeling and Transformers
+04:47 PM &amp;#8226; AWS
+ Archiving and replaying events with Amazon EventBridge</description>
+    </item>
     
     <item>
       <title>07 November, 2020</title>
