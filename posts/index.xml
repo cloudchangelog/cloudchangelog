@@ -6,10 +6,23 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 November, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/11/10/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/11/10/</guid>
+      <description> Building Serverless Land: Part 2 – An auto-building static site
+01:59 PM &amp;#8226; AWS Application Services AWS Amplify
+ Lifecycle Management of Instance Pools
+10:01 AM &amp;#8226; Oracle Compute IaaS
+  </description>
+    </item>
     
     <item>
       <title>09 November, 2020</title>
