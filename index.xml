@@ -17,15 +17,14 @@
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/11/11/</guid>
-      <description>Azure achieves Service Organization Controls compliance for 14 additional services
-05:10 PM &amp;#8226; Azure
- Service Fabric release 7.2 is now available
-05:00 PM &amp;#8226; Azure
- .NET 5 now available in App Service
-05:00 PM &amp;#8226; Azure
- Support for Oracle WebLogic Server on Azure Kubernetes Service is now available
-05:00 PM &amp;#8226; Azure
- Azure Cosmos DB transactional batch support for Java SDK 4.7.0 and above is now available</description>
+      <description>Health checking your gRPC servers on GKE
+07:30 PM &amp;#8226; GCP Developers &amp;amp; Practitioners
+ Amazon Redshift announces support for TIME and TIMETZ data types
+07:25 PM &amp;#8226; AWS
+ FreeRTOS now includes IoT and AWS libraries optimized for memory usage and modularity
+07:05 PM &amp;#8226; AWS
+ New version of SSMS and ADS tools for serverless SQL pools in Azure Synapse Analytics
+07:00 PM &amp;#8226; Azure Azure Synapse; Synapse SQL; Synapse SQL serverless; Tools; SSMS; ADS</description>
     </item>
     
     <item>
