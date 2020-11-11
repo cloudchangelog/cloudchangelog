@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>11 November, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/11/11/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/11/11/</guid>
+      <description> Configuring Amazon SageMaker Studio for teams and groups with complete resource isolation
+12:56 AM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence  </description>
+    </item>
     
     <item>
       <title>10 November, 2020</title>
@@ -19,13 +29,13 @@
       <guid>https://cloudchangelog.com/posts/2020/11/10/</guid>
       <description>How to secure your Amazon WorkSpaces for external users
 11:52 PM &amp;#8226; AWS Amazon WorkSpaces Security, Identity, &amp;amp; Compliance
+ Now privately connect to AWS Database Migration Service from Amazon Virtual Private Cloud
+11:18 PM &amp;#8226; AWS
  Redacting sensitive information with user-defined functions in Amazon Athena
 10:31 PM &amp;#8226; AWS Amazon Athena
  Azure Automation is now available in Brazil Southeast region
 10:13 PM &amp;#8226; Azure
- British Newscaster speaking style now available in Amazon Polly
-09:02 PM &amp;#8226; AWS Amazon Polly Artificial Intelligence
- Dataproc cooperative multi-tenancy</description>
+ British Newscaster speaking style now available in Amazon Polly</description>
     </item>
     
     <item>
