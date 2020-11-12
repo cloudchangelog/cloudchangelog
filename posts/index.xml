@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>12 November, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/11/12/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/11/12/</guid>
+      <description> Updates to AWS Partner-Led Support for Solution Provider Partners
+01:48 AM &amp;#8226; AWS Announcements AWS Partner Network
+ Amazon Neptune now supports Event notifications
+01:29 AM &amp;#8226; AWS
+ Amazon Redshift announces automatic refresh and query rewrite for materialized views
+12:49 AM &amp;#8226; AWS
+  </description>
+    </item>
     
     <item>
       <title>11 November, 2020</title>
@@ -17,14 +32,14 @@
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/11/11/</guid>
-      <description>Health checking your gRPC servers on GKE
-07:30 PM &amp;#8226; GCP Developers &amp;amp; Practitioners
- Amazon Redshift announces support for TIME and TIMETZ data types
-07:25 PM &amp;#8226; AWS
- FreeRTOS now includes IoT and AWS libraries optimized for memory usage and modularity
-07:05 PM &amp;#8226; AWS
- New version of SSMS and ADS tools for serverless SQL pools in Azure Synapse Analytics
-07:00 PM &amp;#8226; Azure Azure Synapse; Synapse SQL; Synapse SQL serverless; Tools; SSMS; ADS</description>
+      <description>AWS Amplify Hosting is now generally available in the Europe (Milan), Middle East (Bahrain), and Asia Pacific (Hong Kong) regions
+11:23 PM &amp;#8226; AWS
+ AWS Elemental Link adds features and service regions
+11:14 PM &amp;#8226; AWS
+ Introducing AWS Gateway Load Balancer
+11:13 PM &amp;#8226; AWS
+ NICE DCV releases version 2020.2 with new session manager and performance enhancements for high frame rate interactive workloads
+11:11 PM &amp;#8226; AWS</description>
     </item>
     
     <item>
