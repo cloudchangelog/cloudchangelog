@@ -17,13 +17,15 @@
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/11/13/</guid>
-      <description>Mphasis rearchitects a legacy application to a serverless cloud-native architecture on AWS
-05:42 PM &amp;#8226; AWS Amazon API Gateway Amazon Cognito
- Commercial Partners Can Accelerate Their AWS Practice with the AWS Partner Transformation Program
-05:30 PM &amp;#8226; AWS Announcements AWS Partner Network
- Lightsail Containers: An Easy Way to Run your Containers in the Cloud
-05:25 PM &amp;#8226; AWS Amazon Lightsail Containers
- Amazon Personalize now supports dynamic filters for applying business rules to your recommendations on the fly</description>
+      <description>Cloud Native Application Monitoring for AWS
+08:50 PM &amp;#8226; AWS Amazon CloudWatch AWS Lambda
+ Amazon Athena announces availability of engine version 2
+07:45 PM &amp;#8226; AWS
+ Amazon Kinesis Video Streams WebRTC SDK in C now supports client metrics
+07:30 PM &amp;#8226; AWS
+ Secure monitoring of user workflow experience using Amazon CloudWatch Synthetics and AWS Secrets Manager
+07:19 PM &amp;#8226; AWS Amazon CloudWatch AWS Secrets Manager
+ Four ways to retrieve any AWS service property using AWS CloudFormation (Part 1)</description>
     </item>
     
     <item>
