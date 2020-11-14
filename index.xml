@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>14 November, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/11/14/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/11/14/</guid>
+      <description> Predicting qualification ranking based on practice session performance for Formula 1 Grand Prix
+02:10 AM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence  </description>
+    </item>
     
     <item>
       <title>13 November, 2020</title>
@@ -17,15 +27,15 @@
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/11/13/</guid>
-      <description>Cloud Native Application Monitoring for AWS
+      <description>Amazon QuickSight launches new Chart Types, Table Improvements and more
+10:18 PM &amp;#8226; AWS
+ Cloud Native Application Monitoring for AWS
 08:50 PM &amp;#8226; AWS Amazon CloudWatch AWS Lambda
- Amazon Athena announces availability of engine version 2
-07:45 PM &amp;#8226; AWS
- Amazon Kinesis Video Streams WebRTC SDK in C now supports client metrics
-07:30 PM &amp;#8226; AWS
- Secure monitoring of user workflow experience using Amazon CloudWatch Synthetics and AWS Secrets Manager
-07:19 PM &amp;#8226; AWS Amazon CloudWatch AWS Secrets Manager
- Four ways to retrieve any AWS service property using AWS CloudFormation (Part 1)</description>
+ Amazon Athena adds support for running SQL queries across relational, non-relational, object, and custom data sources.
+08:42 PM &amp;#8226; AWS
+ Network Load Balancer now supports IPv6
+08:39 PM &amp;#8226; AWS
+ Amazon Athena announces availability of engine version 2</description>
     </item>
     
     <item>
