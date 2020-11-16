@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>16 November, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/11/16/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/11/16/</guid>
+      <description> Announcing the AWS Partner Network’s Regional 2020 Partners of the Year
+02:50 PM &amp;#8226; AWS Announcements AWS Partner Network
+ Introducing transactions in Amazon DocumentDB (with MongoDB compatibility)
+01:24 PM &amp;#8226; AWS Amazon DocumentDB Amazon Document DB (with MongoDB Compatibility)
+ Supercomputing 2020—New MPI heights, joining the Graph500, and 1 TB/s filesystems
+06:00 AM &amp;#8226; Azure
+  </description>
+    </item>
     
     <item>
       <title>14 November, 2020</title>
@@ -17,8 +32,13 @@
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/11/14/</guid>
-      <description> Predicting qualification ranking based on practice session performance for Formula 1 Grand Prix
-02:10 AM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence  </description>
+      <description> Fall 2020 SOC 2 Type I Privacy report now available
+07:31 PM &amp;#8226; AWS Announcements Security, Identity, &amp;amp; Compliance
+ Fall 2020 SOC reports now available with 124 services in scope
+07:31 PM &amp;#8226; AWS Announcements Security, Identity, &amp;amp; Compliance
+ Predicting qualification ranking based on practice session performance for Formula 1 Grand Prix
+02:10 AM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence
+  </description>
     </item>
     
     <item>
