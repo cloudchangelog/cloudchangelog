@@ -17,7 +17,9 @@
       <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/11/18/</guid>
-      <description> Private DNS Implementation
+      <description> Store output in custom Amazon S3 bucket and encrypt using AWS KMS for multi-page document processing with Amazon Textract
+05:30 AM &amp;#8226; AWS Amazon Textract Artificial Intelligence
+ Private DNS Implementation
 01:01 AM &amp;#8226; Oracle Networking
  AWS Network Firewall – New Managed Firewall Service in VPC
 12:07 AM &amp;#8226; AWS Amazon VPC Launch
