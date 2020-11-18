@@ -6,10 +6,23 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>18 November, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/11/18/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/11/18/</guid>
+      <description> Private DNS Implementation
+01:01 AM &amp;#8226; Oracle Networking
+ AWS Network Firewall – New Managed Firewall Service in VPC
+12:07 AM &amp;#8226; AWS Amazon VPC Launch
+  </description>
+    </item>
     
     <item>
       <title>17 November, 2020</title>
@@ -17,14 +30,13 @@
       <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/11/17/</guid>
-      <description>AWS Step Functions now supports Amazon API Gateway service integration
-07:53 PM &amp;#8226; AWS
- HDInsight HBase Accelerated Writes with Premium Data Lake Storage Gen2 is now generally available
-07:00 PM &amp;#8226; Azure
- Azure Backup for SAP HANA backup - User management improvements
-07:00 PM &amp;#8226; Azure Azure Backup; SAP HANA Backup;
- How BigQuery helped Theta Labs and NASA bring science and hope to streaming
-07:00 PM &amp;#8226; GCP Data Analytics</description>
+      <description>Centrally manage AWS WAF (API v2) and AWS Managed Rules at scale with Firewall Manager
+11:51 PM &amp;#8226; AWS AWS Firewall Manager AWS WAF
+ 120 AWS services achieve HITRUST certification
+11:40 PM &amp;#8226; AWS Announcements AWS Artifact
+ New IDC Study Shows VMware Cloud on AWS Delivers Significant Value to Customers
+11:21 PM &amp;#8226; AWS Announcements AWS Partner Network
+ AWS Launch Wizard now enables customers to further automate SAP deployments with pre and post-deployment configuration scripts</description>
     </item>
     
     <item>
