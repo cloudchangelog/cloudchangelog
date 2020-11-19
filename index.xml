@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>19 November, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/11/19/</link>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/11/19/</guid>
+      <description> Managing COVID-19 exposure with crowd tracing
+02:00 PM &amp;#8226; AWS Amazon Athena Analytics  </description>
+    </item>
     
     <item>
       <title>18 November, 2020</title>
