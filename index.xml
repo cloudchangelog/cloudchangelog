@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20 November, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/11/20/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/11/20/</guid>
+      <description> Creating multi-architecture Docker images to support Graviton2 using AWS CodeBuild and AWS CodePipeline
+02:58 AM &amp;#8226; AWS Amazon EC2 Container Registry AWS CodeBuild
+ Automating business processes with machine learning in the COVID-19 pandemic
+12:56 AM &amp;#8226; AWS Amazon Textract Artificial Intelligence
+ Analyze Kubernetes container logs using Amazon S3 and Amazon Athena
+12:43 AM &amp;#8226; AWS Containers
+  </description>
+    </item>
     
     <item>
       <title>19 November, 2020</title>
@@ -17,13 +32,15 @@
       <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/11/19/</guid>
-      <description>Media &amp;amp; Entertainment attendee guide to AWS re:Invent 2020
-08:25 PM &amp;#8226; AWS Announcements Media &amp;amp; Entertainment
- Deploy applications on Amazon ECS using Docker Compose
-08:08 PM &amp;#8226; AWS Amazon Elastic Container Service AWS Fargate
- Set up centralized monitoring for DDoS events and auto-remediate noncompliant resources
-07:21 PM &amp;#8226; AWS AWS Firewall Manager AWS Shield
- 5 Focus Areas Where AWS Helps Public Sector Partners Grow Their Business and Focus on Mission-Based Solutions</description>
+      <description>Amazon QuickSight launches persistence and cross dataset filters
+11:50 PM &amp;#8226; AWS
+ Announcing context management on Amazon Lex
+11:33 PM &amp;#8226; AWS
+ Helping small businesses deliver personalized experiences with the Amazon Personalize extension for Magento
+11:26 PM &amp;#8226; AWS Amazon Personalize Artificial Intelligence
+ Control the evolution of data streams using the AWS Glue Schema Registry
+11:25 PM &amp;#8226; AWS
+ Amazon EC2 Inf1 instances based on AWS Inferentia now available in 6 additional regions</description>
     </item>
     
     <item>
