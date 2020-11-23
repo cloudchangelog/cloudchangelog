@@ -17,13 +17,15 @@
       <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/11/23/</guid>
-      <description>Persistent storage for container logging using Fluent Bit and Amazon EFS
-05:27 PM &amp;#8226; AWS Amazon Elastic File System (EFS) Amazon Elastic Kubernetes Service
- Building an Intelligent Contact Center with Zendesk and Amazon Connect
-05:24 PM &amp;#8226; AWS Amazon Athena Amazon Connect
- Zero Trust architectures: An AWS perspective
-05:14 PM &amp;#8226; AWS Security, Identity, &amp;amp; Compliance BeyondCorp
- You do you: How to succeed in a distributed, multi-cloud world</description>
+      <description>Azure portal November 2020 update
+08:34 PM &amp;#8226; Azure
+ Accessing and visualizing external tables in an Apache Hive metastore with Amazon Athena and Amazon QuickSight
+07:55 PM &amp;#8226; AWS Amazon EMR Amazon QuickSight
+ AWS Copilot is now generally available
+07:40 PM &amp;#8226; AWS Amazon Elastic Container Service Containers
+ AWS Systems Manager now supports Amazon Virtual Private Cloud (Amazon VPC) endpoint policies
+07:25 PM &amp;#8226; AWS
+ The Azure Cloud Shell image has been updated</description>
     </item>
     
     <item>
