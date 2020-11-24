@@ -17,15 +17,13 @@
       <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/11/23/</guid>
-      <description>Azure portal November 2020 update
-08:34 PM &amp;#8226; Azure
- Accessing and visualizing external tables in an Apache Hive metastore with Amazon Athena and Amazon QuickSight
-07:55 PM &amp;#8226; AWS Amazon EMR Amazon QuickSight
- AWS Copilot is now generally available
-07:40 PM &amp;#8226; AWS Amazon Elastic Container Service Containers
- AWS Systems Manager now supports Amazon Virtual Private Cloud (Amazon VPC) endpoint policies
-07:25 PM &amp;#8226; AWS
- The Azure Cloud Shell image has been updated</description>
+      <description>Creating ServiceNow incidents for AWS License Manager notifications
+11:18 PM &amp;#8226; AWS Amazon EC2 Amazon Simple Notification Service (SNS)
+ Building natural conversation flows using context management in Amazon Lex
+11:11 PM &amp;#8226; AWS Amazon Lex Artificial Intelligence
+ New – Multi-Factor Authentication with WebAuthn for AWS SSO
+11:11 PM &amp;#8226; AWS AWS Single Sign-On (SSO) Launch
+ Data preprocessing for machine learning on Amazon EMR made easy with AWS Glue DataBrew</description>
     </item>
     
     <item>
