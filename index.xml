@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>24 November, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/11/24/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/11/24/</guid>
+      <description>Amazon Translate announces the General Availability of Active Custom Translation - ACT
+01:15 AM &amp;#8226; AWS
+ Amazon EC2 Auto Scaling now supports attaching multiple network interfaces at launch
+01:14 AM &amp;#8226; AWS
+ Amazon DocumentDB (with MongoDB compatibility) is now available in AWS China (Ningxia) Region, Operated by NWCD
+01:09 AM &amp;#8226; AWS
+ AWS Single Sign-On enables administrators to require users to set up MFA devices during sign-in</description>
+    </item>
     
     <item>
       <title>23 November, 2020</title>
