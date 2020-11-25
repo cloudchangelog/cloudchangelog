@@ -17,14 +17,16 @@
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/11/24/</guid>
-      <description>Introducing Amazon Managed Workflows for Apache Airflow (MWAA)
-08:16 PM &amp;#8226; AWS Amazon Managed Workflows for Apache Airflow (Amazon MWAA) Announcements
- Bringing your own R environment to Amazon SageMaker Studio
-07:40 PM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence
- Optimizing Spark applications with workload partitioning in AWS Glue
-06:43 PM &amp;#8226; AWS AWS Big Data AWS Glue
- AWS Security Profiles: Colm MacCárthaigh, Senior Principal Engineer
-06:28 PM &amp;#8226; AWS Security, Identity, &amp;amp; Compliance AWS Security Profile</description>
+      <description>Introducing AWS CloudFormation modules
+11:43 PM &amp;#8226; AWS Announcements AWS CloudFormation
+ AWS Toolkit for JetBrains IDEs Announces new features for SQS and CloudWatch Logs Insights
+11:07 PM &amp;#8226; AWS
+ AWS Step Functions now supports Synchronous Express Workflows
+10:51 PM &amp;#8226; AWS
+ Amazon EventBridge adds Server-Side Encryption (SSE) and increases default quotas
+10:50 PM &amp;#8226; AWS
+ New Synchronous Express Workflows for AWS Step Functions
+10:38 PM &amp;#8226; AWS Amazon API Gateway AWS Lambda</description>
     </item>
     
     <item>
