@@ -6,10 +6,26 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>25 November, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/11/25/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/11/25/</guid>
+      <description>Your guide to artificial intelligence and machine learning at re:Invent 2020
+02:32 AM &amp;#8226; AWS Artificial Intelligence AWS re:Invent
+ Amazon Elasticsearch Service revamps Kibana security user interface while integrating with other features
+01:40 AM &amp;#8226; AWS
+ Amazon Forecast now supports accuracy measurements for individual items
+01:38 AM &amp;#8226; AWS Amazon Forecast Artificial Intelligence
+ Amazon Lex launches support for Latin American Spanish and German
+01:32 AM &amp;#8226; AWS Amazon Lex Artificial Intelligence</description>
+    </item>
     
     <item>
       <title>24 November, 2020</title>
@@ -19,14 +35,10 @@
       <guid>https://cloudchangelog.com/posts/2020/11/24/</guid>
       <description>Introducing AWS CloudFormation modules
 11:43 PM &amp;#8226; AWS Announcements AWS CloudFormation
- AWS Toolkit for JetBrains IDEs Announces new features for SQS and CloudWatch Logs Insights
-11:07 PM &amp;#8226; AWS
- AWS Step Functions now supports Synchronous Express Workflows
-10:51 PM &amp;#8226; AWS
- Amazon EventBridge adds Server-Side Encryption (SSE) and increases default quotas
-10:50 PM &amp;#8226; AWS
- New Synchronous Express Workflows for AWS Step Functions
-10:38 PM &amp;#8226; AWS Amazon API Gateway AWS Lambda</description>
+ Amazon RDS Performance Insights supports an additional dimension to segment performance data on Amazon RDS for MySQL, Amazon Aurora with MySQL compatibility, and Amazon RDS for MariaDB
+11:29 PM &amp;#8226; AWS
+ Amazon RDS Performance Insights supports additional dimensions to segment performance data on Amazon RDS for PostgreSQL and Amazon Aurora with PostgreSQL compatibility
+11:29 PM &amp;#8226; AWS</description>
     </item>
     
     <item>
