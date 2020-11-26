@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>26 November, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/11/26/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/11/26/</guid>
+      <description> Amazon Neptune releases graph notebook as an open-source project
+01:43 AM &amp;#8226; AWS  </description>
+    </item>
     
     <item>
       <title>25 November, 2020</title>
