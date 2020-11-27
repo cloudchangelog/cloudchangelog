@@ -6,10 +6,26 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>27 November, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/11/27/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/11/27/</guid>
+      <description>Real-Time In-Stream Inference with AWS Kinesis, SageMaker &amp;amp; Apache Flink
+05:50 PM &amp;#8226; AWS Amazon API Gateway Amazon SageMaker
+ AWS GSI Partners Help Customers Drive Innovation-Led Business Transformation
+05:43 PM &amp;#8226; AWS AWS Partner Network AWS re:Invent
+ PostgreSQL 13 now available in Amazon RDS Database preview environment
+05:06 PM &amp;#8226; AWS
+ New AWS Solutions Consulting Offer - Ubertas Consulting Foundations for AWS Well-Architected
+04:59 PM &amp;#8226; AWS</description>
+    </item>
     
     <item>
       <title>26 November, 2020</title>
