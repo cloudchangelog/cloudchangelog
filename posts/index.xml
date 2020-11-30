@@ -17,13 +17,13 @@
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/11/30/</guid>
-      <description>Analyzing data stored in Amazon DocumentDB (with MongoDB compatibility) using Amazon Sagemaker
-05:48 PM &amp;#8226; AWS Amazon DocumentDB Amazon SageMaker
- Gartner 2020 Magic Quadrant for Cloud Database Management Systems names Google a Leader
-05:30 PM &amp;#8226; GCP Data Analytics Databases
- Google charts the course for a modern data cloud
-05:30 PM &amp;#8226; GCP Databases Data Analytics
- Anthos on bare metal, now GA, puts you back in control</description>
+      <description>Auditing, inspecting, and visualizing Amazon Athena usage and cost
+08:49 PM &amp;#8226; AWS Amazon Athena AWS Big Data
+ Real-time anomaly detection for Amazon Connect call quality using Amazon ES
+08:49 PM &amp;#8226; AWS Amazon Connect Amazon Elasticsearch Service
+ AWS Storage sessions at AWS re:Invent 2020: Week 1
+08:11 PM &amp;#8226; AWS Announcements AWS re:Invent
+ New feature in public preview for intelligent ingestion from Event Hubs source</description>
     </item>
     
     <item>
