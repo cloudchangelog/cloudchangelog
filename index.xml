@@ -17,14 +17,14 @@
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/12/01/</guid>
-      <description>Private package installation in Amazon SageMaker running in internet-free mode
-05:01 AM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence
- Announcing Amazon EC2 Mac instances for macOS
-04:27 AM &amp;#8226; AWS
- New – Use Amazon EC2 Mac Instances to Build &amp;amp; Test macOS, iOS, ipadOS, tvOS, and watchOS Apps
-04:26 AM &amp;#8226; AWS Amazon EC2 Launch
- Week 1: Media &amp;amp; Entertainment sessions happening at re:Invent
-03:05 AM &amp;#8226; AWS Amazon Rekognition Announcements</description>
+      <description>Amazon EKS now supports provisioning and managing EC2 Spot Instances in managed node groups
+05:19 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service Containers
+ New for AWS Lambda – Container Image Support
+05:08 PM &amp;#8226; AWS Announcements AWS Lambda
+ Introducing the new Amazon EKS console
+05:05 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service AWS re:Invent
+ Introducing Amazon EKS add-ons: lifecycle management for Kubernetes operational software
+05:05 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service AWS re:Invent</description>
     </item>
     
     <item>
