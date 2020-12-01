@@ -17,14 +17,13 @@
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/12/01/</guid>
-      <description>Amazon EKS now supports provisioning and managing EC2 Spot Instances in managed node groups
-05:19 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service Containers
- New for AWS Lambda – Container Image Support
-05:08 PM &amp;#8226; AWS Announcements AWS Lambda
- Introducing the new Amazon EKS console
-05:05 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service AWS re:Invent
- Introducing Amazon EKS add-ons: lifecycle management for Kubernetes operational software
-05:05 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service AWS re:Invent</description>
+      <description>Amazon EKS Distro: The Kubernetes Distribution Used by Amazon EKS
+08:44 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service Announcements
+ How to aggregate and visualize AWS Health events using AWS Organizations and Amazon Elasticsearch Service
+08:13 PM &amp;#8226; AWS AWS Support Customer Enablement
+ Amazon Connect Wisdom provides contact center agents the information they need to quickly solve customer issues
+07:27 PM &amp;#8226; AWS
+ AWS Proton: A first look</description>
     </item>
     
     <item>
