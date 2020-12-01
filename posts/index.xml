@@ -6,10 +6,24 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>01 December, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/12/01/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/12/01/</guid>
+      <description>New in Amazon QuickSight – session capacity pricing for large scale deployments, embedding without user provisioning, and developer portal for embedded analytics
+01:20 AM &amp;#8226; AWS Amazon QuickSight AWS Big Data
+ Securing data analytics with an Amazon SageMaker notebook instance and Kerberized Amazon EMR cluster
+12:59 AM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence
+ Launch a standardized DevOps pipeline to deploy containerized applications using AWS Service Catalog
+12:30 AM &amp;#8226; AWS Amazon Elastic Container Service AWS Service Catalog</description>
+    </item>
     
     <item>
       <title>30 November, 2020</title>
@@ -17,13 +31,14 @@
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/11/30/</guid>
-      <description>Auditing, inspecting, and visualizing Amazon Athena usage and cost
-08:49 PM &amp;#8226; AWS Amazon Athena AWS Big Data
- Real-time anomaly detection for Amazon Connect call quality using Amazon ES
-08:49 PM &amp;#8226; AWS Amazon Connect Amazon Elasticsearch Service
- AWS Storage sessions at AWS re:Invent 2020: Week 1
-08:11 PM &amp;#8226; AWS Announcements AWS re:Invent
- New feature in public preview for intelligent ingestion from Event Hubs source</description>
+      <description>Using SSH Remote Forwarding for Private Access
+10:50 PM &amp;#8226; Oracle A-Team Chronicles Analytics &amp;amp;amp; Reporting
+ Azure Sphere SDK version 20.11 is now available
+10:35 PM &amp;#8226; Azure
+ Keeping your data lake clean and compliant with Amazon Athena
+10:08 PM &amp;#8226; AWS Amazon Athena Amazon S3 Glacier
+ Customization, automation and scalability in customer service: Integrating Genesys Cloud and AWS Contact Center Intelligence
+09:34 PM &amp;#8226; AWS Amazon Lex Artificial Intelligence</description>
     </item>
     
     <item>
@@ -34,6 +49,16 @@
       <guid>https://cloudchangelog.com/posts/2020/11/29/</guid>
       <description> Parsing product descriptions with Oracle Enterprise Data Quality
 12:58 PM &amp;#8226; Oracle  </description>
+    </item>
+    
+    <item>
+      <title>28 November, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/11/28/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/11/28/</guid>
+      <description> The Amazon Chime SDK now supports messaging
+05:03 AM &amp;#8226; AWS  </description>
     </item>
     
     <item>
