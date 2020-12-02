@@ -6,10 +6,27 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>02 December, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/12/02/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/12/02/</guid>
+      <description>How computing has evolved, and why you need a multi-cloud strategy
+02:00 AM &amp;#8226; GCP Hybrid &amp;amp; Multi-Cloud
+ Configuring autoscaling inference endpoints in Amazon SageMaker
+01:50 AM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence
+ Amazon S3 Replication adds support for multiple destinations in the same, or different AWS Regions
+12:50 AM &amp;#8226; AWS
+ Amazon WorkSpaces Streaming Protocol now Generally Available
+12:35 AM &amp;#8226; AWS
+ Integrate Amazon Honeycode with popular SaaS applications, AWS services, and more</description>
+    </item>
     
     <item>
       <title>01 December, 2020</title>
@@ -17,15 +34,15 @@
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/12/01/</guid>
-      <description>Configuring AWS VPN for UK public sector use
+      <description>Amazon QuickSight launches new session capacity pricing options, embedding without user management and a developer portal for embedded analytics
+11:30 PM &amp;#8226; AWS
+ Configuring AWS VPN for UK public sector use
 10:50 PM &amp;#8226; AWS AWS VPN Security, Identity, &amp;amp; Compliance
  Azure Batch vCPU quota checks are being updated
 10:00 PM &amp;#8226; Azure
  Azure Storage blob inventory public preview
 09:00 PM &amp;#8226; Azure
- Amazon EKS Distro: The Kubernetes Distribution Used by Amazon EKS
-08:44 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service Announcements
- How to aggregate and visualize AWS Health events using AWS Organizations and Amazon Elasticsearch Service</description>
+ Amazon EKS Distro: The Kubernetes Distribution Used by Amazon EKS</description>
     </item>
     
     <item>
