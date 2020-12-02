@@ -17,15 +17,13 @@
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/12/02/</guid>
-      <description>Manage your Amazon EC2 macOS instances with AWS Systems Manager
+      <description>Field Notes: Migrating File Servers to Amazon FSx and Integrating with AWS Managed Microsoft AD
+02:50 PM &amp;#8226; AWS Amazon FSx for Windows Architecture
+ Manage your Amazon EC2 macOS instances with AWS Systems Manager
 04:13 AM &amp;#8226; AWS Amazon EC2 AWS re:Invent
  Announcing Amazon Elasticsearch Service support for AWS Glue Elastic Views
 04:03 AM &amp;#8226; AWS
- How computing has evolved, and why you need a multi-cloud strategy
-02:00 AM &amp;#8226; GCP Hybrid &amp;amp; Multi-Cloud
- Configuring autoscaling inference endpoints in Amazon SageMaker
-01:50 AM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence
- Amazon S3 Replication adds support for multiple destinations in the same, or different AWS Regions</description>
+ How computing has evolved, and why you need a multi-cloud strategy</description>
     </item>
     
     <item>
