@@ -17,13 +17,13 @@
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/12/03/</guid>
-      <description>AWS re:Invent recap: Modernize your on-premises backup strategy with AWS
-08:52 PM &amp;#8226; AWS Amazon Elastic File System (EFS) Amazon FSx for Windows
- A solution for collaborative, scalable, and adaptable content editing on AWS
-08:44 PM &amp;#8226; AWS Customer Solutions Media &amp;amp; Entertainment
- Working with Lambda layers and extensions in container images
-08:17 PM &amp;#8226; AWS Amazon EC2 Container Registry Amazon Simple Storage Services (S3)
- Image archive, analysis, and report generation with Google APIs</description>
+      <description>IoT Hub private link now works with the built-in Event Hub compatible endpoint
+11:43 PM &amp;#8226; Azure
+ Using Amazon CloudWatch Lambda Insights to Improve Operational Visibility
+11:31 PM &amp;#8226; AWS Amazon CloudWatch AWS Lambda
+ New – Fully Serverless Batch Computing with AWS Batch Support for AWS Fargate
+11:31 PM &amp;#8226; AWS AWS Batch AWS Fargate
+ Preparing data for ML models using AWS Glue DataBrew in a Jupyter notebook</description>
     </item>
     
     <item>
