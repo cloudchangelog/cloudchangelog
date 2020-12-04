@@ -17,13 +17,15 @@
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/12/03/</guid>
-      <description>IoT Hub private link now works with the built-in Event Hub compatible endpoint
+      <description>Amazon Connect Chat now supports Apple Business Chat (Preview)
+11:53 PM &amp;#8226; AWS
+ A new Terraform module for serverless load balancing
+11:50 PM &amp;#8226; GCP Application Development Serverless
+ IoT Hub private link now works with the built-in Event Hub compatible endpoint
 11:43 PM &amp;#8226; Azure
- Using Amazon CloudWatch Lambda Insights to Improve Operational Visibility
-11:31 PM &amp;#8226; AWS Amazon CloudWatch AWS Lambda
- New – Fully Serverless Batch Computing with AWS Batch Support for AWS Fargate
-11:31 PM &amp;#8226; AWS AWS Batch AWS Fargate
- Preparing data for ML models using AWS Glue DataBrew in a Jupyter notebook</description>
+ Announcing Amazon CloudWatch Lambda Insights (General Availability)
+11:36 PM &amp;#8226; AWS
+ Serverless Batch Scheduling with AWS Batch and AWS Fargate</description>
     </item>
     
     <item>
