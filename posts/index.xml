@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>05 December, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/12/05/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/12/05/</guid>
+      <description> Using a test framework to design better experiences with Amazon Lex
+02:07 AM &amp;#8226; AWS Amazon Lex Artificial Intelligence
+ Amazon RDS for Oracle supports managed disaster recovery (DR) with Amazon RDS Cross-Region Automated Backups
+12:38 AM &amp;#8226; AWS
+ Amazon Machine Images (AMIs) now support tag-on-create and tag-based access control
+12:21 AM &amp;#8226; AWS
+  </description>
+    </item>
     
     <item>
       <title>04 December, 2020</title>
