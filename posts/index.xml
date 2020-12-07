@@ -6,10 +6,27 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>07 December, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/12/07/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/12/07/</guid>
+      <description> Creating an Amazon CloudWatch dashboard to monitor Amazon RDS and Amazon Aurora MySQL
+02:07 PM &amp;#8226; AWS Amazon Aurora Amazon CloudWatch
+ Google Cloud fuels new discoveries in astronomy
+02:05 PM &amp;#8226; GCP Public Sector
+ The broadest range of cloud innovation across US Government data classifications
+06:00 AM &amp;#8226; Azure Government
+ Azure Modular Datacenter – Mission resiliency for the field
+05:45 AM &amp;#8226; Azure Government
+  </description>
+    </item>
     
     <item>
       <title>05 December, 2020</title>
