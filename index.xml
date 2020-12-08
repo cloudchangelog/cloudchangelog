@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>08 December, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/12/08/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/12/08/</guid>
+      <description> Integrate Connected Worker and HCM/HNS for incident management
+12:23 AM &amp;#8226; Oracle A-Team Chronicles Human Capital Management  </description>
+    </item>
     
     <item>
       <title>07 December, 2020</title>
@@ -17,15 +27,15 @@
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/12/07/</guid>
-      <description>New AWS Workbook for Australian energy sector customers now available
-08:56 PM &amp;#8226; AWS Announcements Security, Identity, &amp;amp; Compliance
- AWS re:Invent recap: Data protection and compliance with AWS Backup
-08:42 PM &amp;#8226; AWS Announcements AWS Backup
- Optimizing cost for your MediaLive workflows
-08:27 PM &amp;#8226; AWS Media &amp;amp; Entertainment Media Services
- Fault Actions Behavior in OIC
-08:15 PM &amp;#8226; Oracle Cloud Integration Cloud
- Azure Databricks now available in Azure Government</description>
+      <description>Re:Invent Week 2: Suggested sessions for Media &amp;amp; Entertainment attendees
+11:21 PM &amp;#8226; AWS Announcements AWS re:Invent
+ In the Works – AWS Region in Melbourne, Australia
+11:05 PM &amp;#8226; AWS AWS re:Invent Launch
+ Amazon EBS io2 volumes now support SAP workloads
+11:00 PM &amp;#8226; AWS
+ Grafana query editor for Azure Data Explorer is in public preview
+10:20 PM &amp;#8226; Azure Azure Data Explorer Grafana
+ Public preview: Azure Data Explorer dashboards October update</description>
     </item>
     
     <item>
