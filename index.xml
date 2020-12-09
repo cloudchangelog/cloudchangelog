@@ -6,10 +6,24 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>09 December, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/12/09/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/12/09/</guid>
+      <description>New Amazon SageMaker Neo features to run more models faster and more efficiently on more hardware platforms
+01:27 AM &amp;#8226; AWS Amazon SageMaker Amazon SageMaker Neo
+ Model dynamism Support in Amazon SageMaker Neo
+01:27 AM &amp;#8226; AWS Amazon SageMaker Amazon SageMaker Neo
+ Amazon SageMaker Neo makes it easier to get faster inference for more ML models with NVIDIA TensorRT
+01:27 AM &amp;#8226; AWS Amazon SageMaker Amazon SageMaker Neo</description>
+    </item>
     
     <item>
       <title>08 December, 2020</title>
@@ -19,11 +33,14 @@
       <guid>https://cloudchangelog.com/posts/2020/12/08/</guid>
       <description>Cross region replication in Amazon ECR has landed
 11:46 PM &amp;#8226; AWS Amazon EC2 Container Registry AWS re:Invent
- New for Amazon CodeGuru – Python Support, Security Detectors, and Memory Profiling
-11:27 PM &amp;#8226; AWS Amazon CodeGuru Announcements
- Integrating Dialogflow with Google Chat
-11:00 PM &amp;#8226; GCP Developers &amp;amp; Practitioners
- But wait, there is more! NEW Amazon S3 sessions at AWS re:Invent are coming on Jan 12-14</description>
+ Amazon CodeGuru Profiler adds Memory Profiling and Heap Summary
+11:38 PM &amp;#8226; AWS
+ Amazon Braket now supports PennyLane
+11:38 PM &amp;#8226; AWS
+ Amazon Braket tensor network simulator supports 50-qubit quantum circuits
+11:38 PM &amp;#8226; AWS
+ Amazon ECR announces cross region replication of images
+11:38 PM &amp;#8226; AWS</description>
     </item>
     
     <item>
