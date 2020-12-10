@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 December, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/12/10/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/12/10/</guid>
+      <description> Making sense of your health data with Amazon HealthLake
+12:00 AM &amp;#8226; AWS Artificial Intelligence AWS re:Invent  </description>
+    </item>
     
     <item>
       <title>09 December, 2020</title>
@@ -17,13 +27,13 @@
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/12/09/</guid>
-      <description>Control access to your web sites with Identity-Aware Proxy
-08:00 PM &amp;#8226; GCP Developers &amp;amp; Practitioners
- Identify bottlenecks, improve resource utilization, and reduce ML training costs with the deep profiling feature in Amazon SageMaker Debugger
-07:40 PM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence
- Azure Repos - New enhancements to pull request experience
-07:00 PM &amp;#8226; Azure Azure DevOps Services
- Build a live streaming app with user-generated content in less than an hour with Amazon IVS.</description>
+      <description>Re:Invent 2020 Liveblog: Infrastructure Keynote
+11:29 PM &amp;#8226; AWS Announcements AWS re:Invent
+ Using pipes to explore, discover and find data in Amazon ES with Piped Processing Language
+09:47 PM &amp;#8226; AWS Amazon Elasticsearch Service AWS Big Data
+ Azure portal to end support for Internet Explorer 11 on March 31, 2021
+09:36 PM &amp;#8226; Azure
+ Use Macie to discover sensitive data as part of automated data pipelines</description>
     </item>
     
     <item>
