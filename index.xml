@@ -17,13 +17,13 @@
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/12/10/</guid>
-      <description>Working with timestamp with time zone in your Amazon S3-based data lake
-08:39 PM &amp;#8226; AWS Amazon S3 Glacier AWS Big Data
- AWS and NVIDIA achieve the fastest training times for Mask R-CNN and T5-3B
-08:11 PM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence
- Automate domain join for Amazon EC2 instances from multiple AWS accounts and Regions
-07:22 PM &amp;#8226; AWS Amazon EC2 AWS Directory Service
- Automating Hyperledger Fabric chaincode deployment on Amazon Managed Blockchain using AWS CodePipeline</description>
+      <description>Identifying training bottlenecks and system resource under-utilization with Amazon SageMaker Debugger
+11:57 PM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence
+ Configure a split-horizon DNS zone on Oracle Cloud Infrastructure
+10:47 PM &amp;#8226; Oracle A-Team Chronicles Architecture
+ Amazon QuickSight now supports Amazon Elasticsearch Service, and adds new box plot and filled map visuals
+10:42 PM &amp;#8226; AWS
+ Using streaming ingestion with Amazon SageMaker Feature Store to make ML-backed decisions in near-real time</description>
     </item>
     
     <item>
