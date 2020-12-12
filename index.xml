@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>12 December, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/12/12/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/12/12/</guid>
+      <description> Deprecation of webview sign-in support announcement from Google
+01:41 AM &amp;#8226; Azure  </description>
+    </item>
     
     <item>
       <title>11 December, 2020</title>
@@ -17,14 +27,13 @@
       <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/12/11/</guid>
-      <description>Introducing Spot Blueprints, a template generator for frameworks like Kubernetes and Apache Spark
+      <description>Amazon EC2 announces Spot Blueprints, an infrastructure code template generator to get started with EC2 Spot Instances
+11:54 PM &amp;#8226; AWS
+ AWS Security Hub now supports bidirectional integration with ServiceNow ITSM
+11:50 PM &amp;#8226; AWS
+ Introducing Spot Blueprints, a template generator for frameworks like Kubernetes and Apache Spark
 11:50 PM &amp;#8226; AWS Amazon EMR Announcements
- AWS IDE Toolkit now available for AWS Cloud9
-10:31 PM &amp;#8226; AWS
- Simplify EC2 provisioning and viewing cloud resources in the ServiceNow CMDB with AWS Service Management Connector for ServiceNow
-10:24 PM &amp;#8226; AWS
- AWS re:Invent recap: Edge computing innovation with the AWS Snow Family
-10:23 PM &amp;#8226; AWS Automotive AWS re:Invent</description>
+ Introducing Amazon Aurora R6g instance types, powered by AWS Graviton2 processors, in preview</description>
     </item>
     
     <item>
