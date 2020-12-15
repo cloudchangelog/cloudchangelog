@@ -17,14 +17,13 @@
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/12/14/</guid>
-      <description>Getting the most out of your analytics stack with Amazon Redshift
-08:54 PM &amp;#8226; AWS Amazon Redshift AWS Big Data
- Use a single AWS Managed Microsoft AD for Amazon RDS for SQL Server instances in multiple Regions
-08:42 PM &amp;#8226; AWS Amazon RDS AWS Directory Service
- Azure Digital Twins is now generally available
-08:34 PM &amp;#8226; Azure
- Deploying to serverless platforms with GitHub Actions
-08:30 PM &amp;#8226; GCP Developers &amp;amp; Practitioners</description>
+      <description>Announcing Amazon Redshift federated querying to Amazon Aurora MySQL and Amazon RDS for MySQL
+11:28 PM &amp;#8226; AWS Amazon Aurora Amazon RDS
+ Building high-quality benchmark tests for Amazon Redshift using SQLWorkbench and psql
+11:06 PM &amp;#8226; AWS Amazon Redshift AWS Big Data
+ AWS Storage sessions at AWS re:Invent 2020: Week 3
+10:34 PM &amp;#8226; AWS Announcements AWS re:Invent
+ Achieving Global Observability in Multi-Account and Multi-Region AWS Environments Using Sumo Logic</description>
     </item>
     
     <item>
