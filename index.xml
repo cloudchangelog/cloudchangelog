@@ -17,15 +17,15 @@
       <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/12/16/</guid>
-      <description>Baking recipes made by AI
+      <description>Amazon DocumentDB (with MongoDB compatibility) read autoscaling
+02:46 PM &amp;#8226; AWS Amazon DocumentDB Amazon API Gateway
+ Baking recipes made by AI
 02:30 AM &amp;#8226; GCP Developers &amp;amp; Practitioners
  AWS Lambda launches checkpointing for Amazon Kinesis and Amazon DynamoDB Streams
 12:53 AM &amp;#8226; AWS
  Optimizing batch processing with custom checkpoints in AWS Lambda
 12:07 AM &amp;#8226; AWS Amazon DynamoDB AWS Lambda
- Using AWS Lambda for streaming analytics
-12:06 AM &amp;#8226; AWS Amazon DynamoDB AWS Lambda
- Using self-hosted Apache Kafka as an event source for AWS Lambda</description>
+ Using AWS Lambda for streaming analytics</description>
     </item>
     
     <item>
