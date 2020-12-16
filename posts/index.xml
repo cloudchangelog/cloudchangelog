@@ -6,10 +6,27 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>16 December, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/12/16/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/12/16/</guid>
+      <description>Baking recipes made by AI
+02:30 AM &amp;#8226; GCP Developers &amp;amp; Practitioners
+ AWS Lambda launches checkpointing for Amazon Kinesis and Amazon DynamoDB Streams
+12:53 AM &amp;#8226; AWS
+ Optimizing batch processing with custom checkpoints in AWS Lambda
+12:07 AM &amp;#8226; AWS Amazon DynamoDB AWS Lambda
+ Using AWS Lambda for streaming analytics
+12:06 AM &amp;#8226; AWS Amazon DynamoDB AWS Lambda
+ Using self-hosted Apache Kafka as an event source for AWS Lambda</description>
+    </item>
     
     <item>
       <title>15 December, 2020</title>
@@ -19,11 +36,13 @@
       <guid>https://cloudchangelog.com/posts/2020/12/15/</guid>
       <description>AWS DeepRacer League announces 2020 Championship Cup winner Po-Chun Hsu of Taiwan
 11:54 PM &amp;#8226; AWS Artificial Intelligence AWS DeepRacer
- New charts, formatting, and layout options in Amazon QuickSight
-11:33 PM &amp;#8226; AWS Amazon QuickSight AWS Big Data
- Cohesity Pioneers Data Management as a Service in Collaboration with AWS
-10:59 PM &amp;#8226; AWS AWS Marketplace AWS Partner Network
- Easy as one-two-three policy management with Kyverno on Amazon EKS</description>
+ AWS SDK for JavaScript version 3 is now generally available
+11:38 PM &amp;#8226; AWS
+ AWS Lambda now supports self-managed Apache Kafka as an event source
+11:38 PM &amp;#8226; AWS
+ Announcing the first AWS Wavelength Zone in Tokyo, Japan
+11:37 PM &amp;#8226; AWS
+ AWS Lambda now makes it easier to build analytics for Amazon Kinesis and Amazon DynamoDB Streams</description>
     </item>
     
     <item>
