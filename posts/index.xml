@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>18 December, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/12/18/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/12/18/</guid>
+      <description> Say Hello to 85 New AWS Competency, Service Delivery, Service Ready, and MSP Partners Added in November
+12:13 AM &amp;#8226; AWS Announcements AWS Partner Network  </description>
+    </item>
     
     <item>
       <title>17 December, 2020</title>
@@ -17,15 +27,15 @@
       <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/12/17/</guid>
-      <description>AWS Nitro Enclaves is now available in 6 additional regions
+      <description>Amazon Data Lifecycle Manager now automates copying EBS snapshots across accounts
+11:12 PM &amp;#8226; AWS
+ AWS Nitro Enclaves is now available in 6 additional regions
 11:05 PM &amp;#8226; AWS
  Amazon FSx now supports on-premises access from additional IP address ranges
 10:51 PM &amp;#8226; AWS
  AWS Well-Architected Guidance Engine now available in AWS Control Tower
 10:32 PM &amp;#8226; AWS
- Introducing Amazon SageMaker ml.P4d instances for highest performance ML training in the cloud
-10:09 PM &amp;#8226; AWS
- AWS Cloud Map is now available in the AWS Africa (Cape Town) and Europe (Milan) AWS Regions</description>
+ Introducing Amazon SageMaker ml.P4d instances for highest performance ML training in the cloud</description>
     </item>
     
     <item>
