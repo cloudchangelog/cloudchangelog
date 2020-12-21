@@ -6,10 +6,23 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>21 December, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/12/21/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/12/21/</guid>
+      <description> Migrating an on-premises SQL Server database to Amazon RDS on VMware using SQL Server native backup and restore
+01:40 PM &amp;#8226; AWS Amazon RDS Amazon RDS for SQL Server
+ Expanding our global footprint with new cloud regions
+01:00 PM &amp;#8226; GCP Infrastructure
+  </description>
+    </item>
     
     <item>
       <title>19 December, 2020</title>
@@ -17,8 +30,11 @@
       <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/12/19/</guid>
-      <description> Building and deploying an object detection computer vision application at the edge with AWS Panorama
-12:18 AM &amp;#8226; AWS Artificial Intelligence Panorama  </description>
+      <description> The CIO dilemma. Should you adopt a Cloud Native strategy?
+10:00 AM &amp;#8226; Oracle A-Team Chronicles Cloud
+ Building and deploying an object detection computer vision application at the edge with AWS Panorama
+12:18 AM &amp;#8226; AWS Artificial Intelligence Panorama
+  </description>
     </item>
     
     <item>
