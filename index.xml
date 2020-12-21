@@ -17,13 +17,15 @@
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/12/21/</guid>
-      <description>Approaching Least Privilege – IAM Policies with Usage-Based Analytics
-05:46 PM &amp;#8226; AWS AWS Identity and Access Management (IAM) AWS Partner Network
- The Journey to AWS MSP: An Auditor’s Advice for Partners
-05:26 PM &amp;#8226; AWS AWS Partner Network Best Practices
- How to deploy public ACM certificates across multiple AWS accounts and Regions using AWS CloudFormation StackSets
-05:26 PM &amp;#8226; AWS AWS Certificate Manager AWS CloudFormation
- Multicloud analytics powers queries in life sciences, agritech and more</description>
+      <description>Authenticating with Docker Hub for AWS Container Services
+07:55 PM &amp;#8226; AWS Amazon Elastic Container Service Amazon Elastic Kubernetes Service
+ AWS Load Balancer Controller version 2.1 now available with support for additional ELB configurations
+07:46 PM &amp;#8226; AWS
+ Amazon AppFlow now provides data integration with Upsolver
+07:41 PM &amp;#8226; AWS
+ Amazon Managed Blockchain now supports Ethereum (Preview)
+07:19 PM &amp;#8226; AWS
+ Apache Kafka client resiliency testing made easier with an Amazon MSK reboot broker API</description>
     </item>
     
     <item>
