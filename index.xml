@@ -17,15 +17,13 @@
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/12/21/</guid>
-      <description>Authenticating with Docker Hub for AWS Container Services
-07:55 PM &amp;#8226; AWS Amazon Elastic Container Service Amazon Elastic Kubernetes Service
- AWS Load Balancer Controller version 2.1 now available with support for additional ELB configurations
-07:46 PM &amp;#8226; AWS
- Amazon AppFlow now provides data integration with Upsolver
-07:41 PM &amp;#8226; AWS
- Amazon Managed Blockchain now supports Ethereum (Preview)
-07:19 PM &amp;#8226; AWS
- Apache Kafka client resiliency testing made easier with an Amazon MSK reboot broker API</description>
+      <description>AWS Pricing Calculator now supports Windows Server and SQL Server workload cost estimates
+11:06 PM &amp;#8226; AWS
+ Now launch Amazon SageMaker Studio Notebooks backed by Spark in Amazon EMR
+11:04 PM &amp;#8226; AWS
+ You now can use PartiQL with NoSQL Workbench to query, insert, update, and delete table data in Amazon DynamoDB
+11:03 PM &amp;#8226; AWS
+ Limit access to Amazon S3 buckets owned by specific AWS accounts</description>
     </item>
     
     <item>
