@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>22 December, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/12/22/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/12/22/</guid>
+      <description>Announcing the General Availability of Amazon Corretto 11 for Linux on ARM32 and for Windows on x86 (32-bit)
+01:48 AM &amp;#8226; AWS
+ Controlling and auditing data exploration activities with Amazon SageMaker Studio and AWS Lake Formation
+12:33 AM &amp;#8226; AWS Amazon Athena Amazon SageMaker
+ Amazon Connect now supports sharing attachments in chat
+12:21 AM &amp;#8226; AWS
+ Amazon Connect CTI Adapter for Salesforce now supports Contact Lens</description>
+    </item>
     
     <item>
       <title>21 December, 2020</title>
@@ -17,13 +32,13 @@
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/12/21/</guid>
-      <description>AWS Pricing Calculator now supports Windows Server and SQL Server workload cost estimates
+      <description>AWS Snow Family now supports the Amazon Linux 2 operating system
+11:13 PM &amp;#8226; AWS
+ AWS Pricing Calculator now supports Windows Server and SQL Server workload cost estimates
 11:06 PM &amp;#8226; AWS
  Now launch Amazon SageMaker Studio Notebooks backed by Spark in Amazon EMR
 11:04 PM &amp;#8226; AWS
- You now can use PartiQL with NoSQL Workbench to query, insert, update, and delete table data in Amazon DynamoDB
-11:03 PM &amp;#8226; AWS
- Limit access to Amazon S3 buckets owned by specific AWS accounts</description>
+ You now can use PartiQL with NoSQL Workbench to query, insert, update, and delete table data in Amazon DynamoDB</description>
     </item>
     
     <item>
