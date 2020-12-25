@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>25 December, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/12/25/</link>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/12/25/</guid>
+      <description> Deploying CIS Level 1 hardened AMIs with Amazon EC2 Image Builder
+01:07 AM &amp;#8226; AWS Amazon EC2 Amazon Inspector  </description>
+    </item>
     
     <item>
       <title>24 December, 2020</title>
