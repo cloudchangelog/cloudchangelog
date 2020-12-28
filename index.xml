@@ -17,13 +17,14 @@
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/12/28/</guid>
-      <description>Ensuring consistent performance after major version upgrades with Amazon Aurora PostgreSQL Query Plan Management
+      <description>Public preview: Support of Azure Container Registry across Availability Zones
+05:00 PM &amp;#8226; Azure
+ Ensuring consistent performance after major version upgrades with Amazon Aurora PostgreSQL Query Plan Management
 01:08 PM &amp;#8226; AWS Amazon Aurora
  Monitoring metrics and setting up alarms on your Amazon DocumentDB (with MongoDB compatibility) clusters
 12:52 PM &amp;#8226; AWS Amazon DocumentDB Amazon CloudWatch
  Migrating to Amazon API Gateway: A Datalex success story
-01:52 AM &amp;#8226; AWS Amazon API Gateway AWS Lambda
- Automate FedRAMP controls in your AWS environment using AWS Config conformance packs</description>
+01:52 AM &amp;#8226; AWS Amazon API Gateway AWS Lambda</description>
     </item>
     
     <item>
