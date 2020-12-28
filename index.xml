@@ -6,10 +6,40 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>28 December, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/12/28/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/12/28/</guid>
+      <description>Ensuring consistent performance after major version upgrades with Amazon Aurora PostgreSQL Query Plan Management
+01:08 PM &amp;#8226; AWS Amazon Aurora
+ Monitoring metrics and setting up alarms on your Amazon DocumentDB (with MongoDB compatibility) clusters
+12:52 PM &amp;#8226; AWS Amazon DocumentDB Amazon CloudWatch
+ Migrating to Amazon API Gateway: A Datalex success story
+01:52 AM &amp;#8226; AWS Amazon API Gateway AWS Lambda
+ Automate FedRAMP controls in your AWS environment using AWS Config conformance packs</description>
+    </item>
+    
+    <item>
+      <title>27 December, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/12/27/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/12/27/</guid>
+      <description>Analyzing Amazon Lex conversation log data with Grafana
+11:51 PM &amp;#8226; AWS Amazon CloudWatch Amazon Lex
+ Open sesame: Granting privileged access to EC2 instances with Session Manager
+10:48 PM &amp;#8226; AWS Amazon EC2 AWS Identity and Access Management (IAM)
+ Manage AWS Managed Microsoft AD resources with Session Manager port forwarding
+09:55 PM &amp;#8226; AWS AWS Systems Manager Management Tools
+ Monitoring Cisco CSR 1000v VPN tunnel and BGP status using Amazon CloudWatch</description>
+    </item>
     
     <item>
       <title>25 December, 2020</title>
