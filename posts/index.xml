@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>29 December, 2020</title>
+      <link>https://cloudchangelog.com/posts/2020/12/29/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2020/12/29/</guid>
+      <description> DevSecOps for auto healing PCI DSS 3.2.1 violations in AWS using custom AWS Config conformance packs, AWS Systems Manager and AWS CodePipeline
+02:32 AM &amp;#8226; AWS AWS CodePipeline AWS Config  </description>
+    </item>
     
     <item>
       <title>28 December, 2020</title>
@@ -17,15 +27,15 @@
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/12/28/</guid>
-      <description>Amazon QuickSight is now Available in Canada (Central) and South America (Sao Paulo) Regions
+      <description>Amazon AppStream 2.0 adds support for real-time audio-video
+11:47 PM &amp;#8226; AWS
+ Amazon QuickSight is now Available in Canada (Central) and South America (Sao Paulo) Regions
 10:15 PM &amp;#8226; AWS
  Azure Automation is now available in Germany West Central
 07:01 PM &amp;#8226; Azure
  Announcing new AWS Wavelength Zones in Denver and Seattle
 06:34 PM &amp;#8226; AWS
- Find an AWS Partner Through Our Refreshed Discovery Experience
-06:14 PM &amp;#8226; AWS Announcements AWS Partner Network
- Public preview: Support of Azure Container Registry across Availability Zones</description>
+ Find an AWS Partner Through Our Refreshed Discovery Experience</description>
     </item>
     
     <item>
