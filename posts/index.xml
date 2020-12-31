@@ -17,15 +17,15 @@
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/12/30/</guid>
-      <description>Testing data quality at scale with PyDeequ
-08:32 PM &amp;#8226; AWS Amazon EMR Amazon SageMaker
- Amazon Elastic Container Service launches new management console
-06:34 PM &amp;#8226; AWS
- Implementing version control using Amazon DynamoDB
-01:05 PM &amp;#8226; AWS Amazon DynamoDB DynamoDB Streams
- Introducing AWS Data Exchange Publisher Coordinator and Subscriber Coordinator
-01:25 AM &amp;#8226; AWS
- Running queries securely from the same VPC where an Amazon Redshift cluster is running</description>
+      <description>AWS Storage Gateway in 2020 – year in review
+10:34 PM &amp;#8226; AWS AWS Storage Gateway Migration &amp;amp; Transfer Services
+ Extracting buildings and roads from AWS Open Data using Amazon SageMaker
+10:32 PM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence
+ AWS CodePipeline supports deployments with CloudFormation StackSets
+09:55 PM &amp;#8226; AWS
+ AWS IoT SiteWise Monitor now supports AWS CloudFormation
+09:06 PM &amp;#8226; AWS
+ Testing data quality at scale with PyDeequ</description>
     </item>
     
     <item>
