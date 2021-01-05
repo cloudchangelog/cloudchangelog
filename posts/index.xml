@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>05 January, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/01/05/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/01/05/</guid>
+      <description> The best new features for data analysts in Amazon Redshift in 2020
+01:13 AM &amp;#8226; AWS Amazon Redshift Analytics  </description>
+    </item>
     
     <item>
       <title>04 January, 2021</title>
@@ -17,12 +27,13 @@
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/04/</guid>
-      <description>Implementing a custom labeling GUI with built-in processing logic with Amazon SageMaker Ground Truth
+      <description>Amazon EC2 R5B Instances now certified for SAP workloads
+11:49 PM &amp;#8226; AWS
+ Implementing a custom labeling GUI with built-in processing logic with Amazon SageMaker Ground Truth
 11:40 PM &amp;#8226; AWS Amazon SageMaker Amazon SageMaker Ground Truth
  Building a secure search application with access controls using Amazon Kendra
 11:20 PM &amp;#8226; AWS Amazon Kendra Artificial Intelligence
- Building a real-time notification system with Amazon Kinesis Data Streams for Amazon DynamoDB and Amazon Kinesis Data Analytics for Apache Flink
-11:05 PM &amp;#8226; AWS Amazon DynamoDB Amazon Kinesis</description>
+ Building a real-time notification system with Amazon Kinesis Data Streams for Amazon DynamoDB and Amazon Kinesis Data Analytics for Apache Flink</description>
     </item>
     
     <item>
