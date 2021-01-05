@@ -17,13 +17,12 @@
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/04/</guid>
-      <description>Accessing and visualizing data from multiple data sources with Amazon Athena and Amazon QuickSight
-08:21 PM &amp;#8226; AWS Amazon Athena Amazon QuickSight
- Multi-tenant processing pipelines with AWS DMS, AWS Step Functions, and Apache Hudi on Amazon EMR
-07:06 PM &amp;#8226; AWS AWS Big Data AWS Step Functions
- Video transcoding at the edge with AWS Snowcone
-06:51 PM &amp;#8226; AWS AWS Snow Family AWS Snowcone
- Announcing the APN Foundations ISV Partner Path Navigate track</description>
+      <description>Implementing a custom labeling GUI with built-in processing logic with Amazon SageMaker Ground Truth
+11:40 PM &amp;#8226; AWS Amazon SageMaker Amazon SageMaker Ground Truth
+ Building a secure search application with access controls using Amazon Kendra
+11:20 PM &amp;#8226; AWS Amazon Kendra Artificial Intelligence
+ Building a real-time notification system with Amazon Kinesis Data Streams for Amazon DynamoDB and Amazon Kinesis Data Analytics for Apache Flink
+11:05 PM &amp;#8226; AWS Amazon DynamoDB Amazon Kinesis</description>
     </item>
     
     <item>
