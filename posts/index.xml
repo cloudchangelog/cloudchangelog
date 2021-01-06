@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>06 January, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/01/06/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/01/06/</guid>
+      <description> Microsoft to establish new datacenter region in Chile
+12:42 AM &amp;#8226; Azure  </description>
+    </item>
     
     <item>
       <title>05 January, 2021</title>
@@ -17,13 +27,14 @@
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/05/</guid>
-      <description>How to Build and Deploy a Contact Tracing Solution with AWS IoT Core and SafeTrack Lite
+      <description>Amazon SQS announces tiered pricing
+11:29 PM &amp;#8226; AWS
+ How to Build and Deploy a Contact Tracing Solution with AWS IoT Core and SafeTrack Lite
 10:31 PM &amp;#8226; AWS AWS Partner Network Customer Solutions
  Implementing sensor workflows using AWS Snowcone and AWS IoT Greengrass
 09:46 PM &amp;#8226; AWS Amazon Simple Notification Service (SNS) AWS Greengrass
  Azure Automation is now available in UAE North
-09:29 PM &amp;#8226; Azure
- How Rackspace Uses CloudEndure to Accelerate Workloads Migration to AWS</description>
+09:29 PM &amp;#8226; Azure</description>
     </item>
     
     <item>
