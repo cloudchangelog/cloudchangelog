@@ -17,11 +17,14 @@
       <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/06/</guid>
-      <description> How to set up command-line access to Amazon Keyspaces (for Apache Cassandra) by using the new developer toolkit Docker image
-02:00 PM &amp;#8226; AWS Amazon Keyspaces (for Apache Cassandra) Amazon Keyspaces
- Microsoft to establish new datacenter region in Chile
-12:42 AM &amp;#8226; Azure
-  </description>
+      <description>Activity Log Alerts - Change in &amp;ldquo;Description&amp;rdquo; property in the alert payload now in development
+05:03 PM &amp;#8226; Azure Azure Monitor
+ Azure Health Bot is now generally available
+05:00 PM &amp;#8226; Azure
+ Cross resource query between Azure Monitor and Azure Data Explorer in public preview
+05:00 PM &amp;#8226; Azure
+ Find logs fast with new “tail -f” functionality in Cloud Logging
+05:00 PM &amp;#8226; GCP Management Tools</description>
     </item>
     
     <item>
