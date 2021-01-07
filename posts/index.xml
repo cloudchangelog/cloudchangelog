@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>07 January, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/01/07/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/01/07/</guid>
+      <description> Building resilient applications with Amazon DocumentDB (with MongoDB compatibility), Part 1: Client configuration
+12:43 PM &amp;#8226; AWS Amazon DocumentDB Amazon DocumentDB (with MongoDB Compatibility)  </description>
+    </item>
     
     <item>
       <title>06 January, 2021</title>
