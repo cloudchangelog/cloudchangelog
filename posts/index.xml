@@ -17,13 +17,15 @@
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/08/</guid>
-      <description> Automate customized deployment of cross-account/cross-region CloudWatch Dashboards using tags
-01:27 AM &amp;#8226; AWS Amazon CloudWatch Management Tools
- Create immutable servers using EC2 Image Builder and AWS CodePipeline
-01:24 AM &amp;#8226; AWS Amazon EC2 Auto Scaling
- Configuring AWS Systems Manager Session Manager to run as support for federated users using session tags
-01:19 AM &amp;#8226; AWS AWS Systems Manager Technical How-to
-  </description>
+      <description>Automate online data transfers with AWS DataSync and AWS CloudFormation
+05:09 PM &amp;#8226; AWS AWS CloudFormation AWS DataSync
+ Building a self-service microservices architecture with Cloud SQL
+05:00 PM &amp;#8226; GCP Databases
+ State of no-code app-development
+05:00 PM &amp;#8226; GCP No-code Development
+ A year of API-driven digital transformation
+05:00 PM &amp;#8226; GCP API Management
+ Control VPC sharing in an AWS multi-account setup with service control policies</description>
     </item>
     
     <item>
