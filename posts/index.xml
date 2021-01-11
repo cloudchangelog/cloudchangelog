@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>11 January, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/01/11/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/01/11/</guid>
+      <description> Cross-account replication with Amazon DynamoDB
+01:10 PM &amp;#8226; AWS Amazon DynamoDB AWS Glue  </description>
+    </item>
     
     <item>
       <title>08 January, 2021</title>
@@ -157,11 +167,12 @@
 11:47 PM &amp;#8226; AWS
  Amazon QuickSight is now Available in Canada (Central) and South America (Sao Paulo) Regions
 10:15 PM &amp;#8226; AWS
+ AWS Service Catalog now supports TagOption Sharing
+09:56 PM &amp;#8226; AWS
  Azure Automation is now available in Germany West Central
 07:01 PM &amp;#8226; Azure
  Announcing new AWS Wavelength Zones in Denver and Seattle
-06:34 PM &amp;#8226; AWS
- Find an AWS Partner Through Our Refreshed Discovery Experience</description>
+06:34 PM &amp;#8226; AWS</description>
     </item>
     
     <item>
@@ -234,14 +245,14 @@
       <guid>https://cloudchangelog.com/posts/2020/12/22/</guid>
       <description>Introducing FHIR Works on AWS
 11:51 PM &amp;#8226; AWS
+ Porting Assistant for .NET supports automated code translation
+11:47 PM &amp;#8226; AWS
  FreeRTOS now supports over-the-air update (OTA) for multiple file types
 11:44 PM &amp;#8226; AWS
  Amazon GameLift Updates Server SDK Supporting Unity 2020 and Unreal 4.25
 11:13 PM &amp;#8226; AWS
  Amazon QuickSight enhances dashboard performance with Dynamic Querying and other dataset optimizations
-10:59 PM &amp;#8226; AWS
- 7 most common data preparation transformations in AWS Glue DataBrew
-10:58 PM &amp;#8226; AWS AWS Big Data AWS Glue</description>
+10:59 PM &amp;#8226; AWS</description>
     </item>
     
     <item>
