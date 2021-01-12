@@ -17,14 +17,15 @@
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/11/</guid>
-      <description>Account and VPC Considerations for VMware Cloud on AWS
-08:39 PM &amp;#8226; AWS Best Practices Customer Solutions
- Streaming augmented reality with Google Cloud
-08:00 PM &amp;#8226; GCP Customers Networking
- Data Tokenization with Amazon Redshift and Protegrity
-07:50 PM &amp;#8226; AWS Amazon Redshift Analytics
- Building complex workflows with Amazon MWAA, AWS Step Functions, AWS Glue, and Amazon EMR
-07:37 PM &amp;#8226; AWS Amazon EMR Amazon Managed Workflows for Apache Airflow (Amazon MWAA)</description>
+      <description>Re:Invent bonus content: new sessions happening this week
+11:22 PM &amp;#8226; AWS Announcements AWS re:Invent
+ Monitor your Amazon Elastic File System (Amazon EFS) storage usage with Amazon CloudWatch
+10:52 PM &amp;#8226; AWS
+ Amazon Aurora supports in-place upgrades from MySQL 5.6 to 5.7
+10:12 PM &amp;#8226; AWS
+ Amazon EC2 API now supports Internet Protocol Version 6 (IPv6)
+09:35 PM &amp;#8226; AWS
+ Account and VPC Considerations for VMware Cloud on AWS</description>
     </item>
     
     <item>
