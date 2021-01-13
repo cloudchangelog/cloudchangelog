@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>13 January, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/01/13/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/01/13/</guid>
+      <description> 2021 resolutions: Kick off the new year with free Google Cloud training
+05:00 PM &amp;#8226; GCP Training and Certifications
+ Using machine learning to improve road maintenance
+05:00 PM &amp;#8226; GCP AI &amp;amp; Machine Learning
+ Automatic upgrades of Amazon RDS for MariaDB versions 10.0 and 10.1 to begin March 9, 2021
+04:18 PM &amp;#8226; AWS Amazon RDS RDS for MariaDB
+  </description>
+    </item>
     
     <item>
       <title>12 January, 2021</title>
@@ -42,6 +57,16 @@
  Amazon EC2 API now supports Internet Protocol Version 6 (IPv6)
 09:35 PM &amp;#8226; AWS
  Account and VPC Considerations for VMware Cloud on AWS</description>
+    </item>
+    
+    <item>
+      <title>10 January, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/01/10/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/01/10/</guid>
+      <description> AWS OpsHub for AWS Snow Family is now available for Linux
+08:26 AM &amp;#8226; AWS  </description>
     </item>
     
     <item>
