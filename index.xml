@@ -17,13 +17,14 @@
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/12/</guid>
-      <description>Securing access to EMR clusters using AWS Systems Manager
-08:44 PM &amp;#8226; AWS AWS Big Data AWS Systems Manager
- Automating image compliance for Amazon EKS using Amazon Elastic Container Registry and AWS Security Hub
-08:25 PM &amp;#8226; AWS Amazon Elastic Kubernetes Service AWS Security Hub
- What’s new with Google Cloud
-08:00 PM &amp;#8226; GCP Google Workspace Inside Google Cloud
- Enterprise Security and Networking for Amazon EKS Clusters with Calico and Calico Enterprise</description>
+      <description>Amazon RDS for PostgreSQL Supports New Minor Versions 12.5, 11.10, 10.15, 9.6.20, and 9.5.24
+10:52 PM &amp;#8226; AWS
+ Amazon SNS adds support for message archiving and analytics via Kinesis Data Firehose subscriptions
+10:21 PM &amp;#8226; AWS
+ AWS Snowcone now supports multicast streams and routing by providing instances with direct access to external networks
+10:00 PM &amp;#8226; AWS
+ Amazon Lightsail now supports IPv6
+09:20 PM &amp;#8226; AWS</description>
     </item>
     
     <item>
