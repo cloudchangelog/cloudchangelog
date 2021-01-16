@@ -17,12 +17,15 @@
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/15/</guid>
-      <description>Improve security by analyzing VPC flow logs with Amazon CloudWatch Contributor Insights
-08:27 PM &amp;#8226; AWS Amazon CloudWatch Amazon VPC
- Securing AWS Transfer Family with AWS Web Application Firewall and Amazon API Gateway
-08:14 PM &amp;#8226; AWS Amazon API Gateway AWS Lambda
- Amazon Rekognition Custom Labels is now available in the Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Seoul), and Asia Pacific (Tokyo) AWS Regions
-07:39 PM &amp;#8226; AWS</description>
+      <description>The graphical user interface of Porting Assistant for .NET is now open source
+10:45 PM &amp;#8226; AWS
+ Developing enterprise application patterns with the AWS CDK
+09:46 PM &amp;#8226; AWS AWS Cloud Development Kit AWS CloudFormation
+ New Amazon Builders’ Library Article: Making retries safe with idempotent APIs
+08:53 PM &amp;#8226; AWS
+ Eventarc: A unified eventing experience in Google Cloud
+08:30 PM &amp;#8226; GCP Developers &amp;amp; Practitioners
+ Improve security by analyzing VPC flow logs with Amazon CloudWatch Contributor Insights</description>
     </item>
     
     <item>
