@@ -19,11 +19,9 @@
       <guid>https://cloudchangelog.com/posts/2021/01/15/</guid>
       <description>AWS Developing enterprise application patterns with the AWS CDK
 AWS Cloud Development Kit AWS Cloudformation
- AWS Improve security by analyzing VPC flow logs with Amazon CloudWatch Contributor Insights
-Amazon Cloudwatch Amazon VPC
- AWS Securing AWS Transfer Family with AWS Web Application Firewall and Amazon API Gateway
-Amazon API Gateway AWS Lambda
- AWS The graphical user interface of Porting Assistant for .NET is now open source
+ AWS Introducing update to Multi-Region Application Architecture
+ AWS Amazon Rekognition Custom Labels is now available in the Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Seoul), and Asia Pacific (Tokyo) AWS Regions
+ AWS Amazon CloudWatch Container Insights now available on AWS Graviton2
  AWS New Amazon Builders’ Library Article: Making retries safe with idempotent APIs</description>
     </item>
     
@@ -136,11 +134,10 @@ AWS Partner Network Customer Solutions</description>
       <guid>https://cloudchangelog.com/posts/2021/01/06/</guid>
       <description>AWS Orchestrating an AWS Glue DataBrew job and Amazon Athena query with AWS Step Functions
 Amazon Athena AWS Big Data
- AWS How to set up command-line access to Amazon Keyspaces (for Apache Cassandra) by using the new developer toolkit Docker image
-Amazon Keyspaces (For Apache Cassandra) Amazon Keyspaces
- AWS How to Tokenize and De-Identify Your Data in Amazon RDS with Baffle
-Amazon RDS AWS Partner Network
- AWS Re:Invent – New security sessions launching soon</description>
+ AWS Amazon AppFlow now supports Salesforce Pardot
+ AWS Amazon EC2 Auto Scaling now allows to define 40 instance types when defining Mixed Instances Policy
+ AWS AWS Step Functions adds support for AWS Glue DataBrew jobs to prepare data in analytics and machine learning workflows
+ AWS Amazon CloudSearch announces updates to its search instances</description>
     </item>
     
     <item>
