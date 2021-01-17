@@ -17,15 +17,14 @@
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/15/</guid>
-      <description>The graphical user interface of Porting Assistant for .NET is now open source
-10:45 PM &amp;#8226; AWS
- Developing enterprise application patterns with the AWS CDK
-09:46 PM &amp;#8226; AWS AWS Cloud Development Kit AWS CloudFormation
- New Amazon Builders’ Library Article: Making retries safe with idempotent APIs
-08:53 PM &amp;#8226; AWS
- Eventarc: A unified eventing experience in Google Cloud
-08:30 PM &amp;#8226; GCP Developers &amp;amp; Practitioners
- Improve security by analyzing VPC flow logs with Amazon CloudWatch Contributor Insights</description>
+      <description>AWS Developing enterprise application patterns with the AWS CDK
+AWS Cloud Development Kit AWS Cloudformation
+ AWS Improve security by analyzing VPC flow logs with Amazon CloudWatch Contributor Insights
+Amazon Cloudwatch Amazon VPC
+ AWS Securing AWS Transfer Family with AWS Web Application Firewall and Amazon API Gateway
+Amazon API Gateway AWS Lambda
+ AWS The graphical user interface of Porting Assistant for .NET is now open source
+ AWS New Amazon Builders’ Library Article: Making retries safe with idempotent APIs</description>
     </item>
     
     <item>
@@ -34,14 +33,13 @@
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/14/</guid>
-      <description>Amazon Cognito Identity Pools enables using user attributes from identity providers for access control to simplify permissions management in AWS
-11:02 PM &amp;#8226; AWS
- Amplify DataStore launches support for sorting and selectively syncing app data
-08:59 PM &amp;#8226; AWS
- How the cloud saved Grabyo’s Christmas
-08:43 PM &amp;#8226; AWS Amazon Interactive Video Service Customer Solutions
- New digital course: Configuring and Deploying VPCs with Multiple Subnets
-08:40 PM &amp;#8226; AWS</description>
+      <description>AWS CDK Corner – January 2021
+AWS Cloud Development Kit Amazon S3
+ AWS Amplify DataStore launches support for sorting and selectively syncing app data
+ AWS New digital course: Configuring and Deploying VPCs with Multiple Subnets
+ AWS New digital course and lab: AWS Cloud Development Kit (CDK) Primer
+ AWS Announcing New Segmentation Capabilities for Amazon Pinpoint
+ AWS Amazon Cognito Identity Pools enables using user attributes from identity providers for access control to simplify permissions management in AWS</description>
     </item>
     
     <item>
@@ -50,13 +48,11 @@
       <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/13/</guid>
-      <description>AWS Storage sessions at AWS re:Invent 2020-2021: Week 4
-11:29 PM &amp;#8226; AWS Announcements AWS re:Invent
- Using machine learning to predict vessel time of arrival with Amazon SageMaker
-10:46 PM &amp;#8226; AWS Amazon SageMaker Artificial Intelligence
- Resource leak detection in Amazon CodeGuru Reviewer
-10:44 PM &amp;#8226; AWS Amazon CodeGuru Artificial Intelligence
- AWS Snow Family console further simplifies Snow data transfer and compute job creation and management</description>
+      <description>AWS Validate, evolve, and control schemas in Amazon MSK and Amazon Kinesis Data Streams with AWS Glue Schema Registry
+Amazon Managed Streaming For Apache Kafka (Amazon MSK) Analytics
+ AWS AWS Snow Family console further simplifies Snow data transfer and compute job creation and management
+ AWS Amazon AppStream 2.0 now supports using smart cards for Active Directory domain login and streaming applications
+ AWS Amazon EMR Release 5.32 now supports Amazon EMR on EKS, and EMR Studio Preview</description>
     </item>
     
     <item>
@@ -65,14 +61,12 @@
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/12/</guid>
-      <description>Amazon RDS for PostgreSQL Supports New Minor Versions 12.5, 11.10, 10.15, 9.6.20, and 9.5.24
-10:52 PM &amp;#8226; AWS
- Amazon SNS adds support for message archiving and analytics via Kinesis Data Firehose subscriptions
-10:21 PM &amp;#8226; AWS
- AWS Snowcone now supports multicast streams and routing by providing instances with direct access to external networks
-10:00 PM &amp;#8226; AWS
- Amazon Lightsail now supports IPv6
-09:20 PM &amp;#8226; AWS</description>
+      <description>AWS Introducing message archiving and analytics for Amazon SNS
+Amazon Simple Notification Service (SNS) Kinesis Data Firehose
+ AWS Amazon Lightsail now supports IPv6
+ AWS Amazon Redshift now supports fine-grained access control on COPY and UNLOAD commands
+ AWS AWS Snowcone now supports multicast streams and routing by providing instances with direct access to external networks
+ AWS Announcing the global expansion of AWS Contact Center Intelligence solutions</description>
     </item>
     
     <item>
@@ -81,15 +75,14 @@
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/11/</guid>
-      <description>Re:Invent bonus content: new sessions happening this week
-11:22 PM &amp;#8226; AWS Announcements AWS re:Invent
- Monitor your Amazon Elastic File System (Amazon EFS) storage usage with Amazon CloudWatch
-10:52 PM &amp;#8226; AWS
- Amazon Aurora supports in-place upgrades from MySQL 5.6 to 5.7
-10:12 PM &amp;#8226; AWS
- Amazon EC2 API now supports Internet Protocol Version 6 (IPv6)
-09:35 PM &amp;#8226; AWS
- Account and VPC Considerations for VMware Cloud on AWS</description>
+      <description>AWS Optimizing Lambda functions packaged as container images
+AWS Lambda Compute
+ AWS Amazon Aurora supports in-place upgrades from MySQL 5.6 to 5.7
+ AWS Monitor your Amazon Elastic File System (Amazon EFS) storage usage with Amazon CloudWatch
+ AWS Operating Lambda: Understanding event-driven architecture – Part 1
+AWS Lambda Best Practices
+ AWS Building complex workflows with Amazon MWAA, AWS Step Functions, AWS Glue, and Amazon EMR
+Amazon EMR Amazon Managed Workflows For Apache Airflow (Amazon MWAA)</description>
     </item>
     
     <item>
@@ -98,8 +91,8 @@
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/10/</guid>
-      <description> AWS OpsHub for AWS Snow Family is now available for Linux
-08:26 AM &amp;#8226; AWS  </description>
+      <description> AWS AWS OpsHub for AWS Snow Family is now available for Linux
+  </description>
     </item>
     
     <item>
@@ -108,14 +101,15 @@
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/08/</guid>
-      <description>Amazon EMR now supports Apache Ranger for fine-grained data access control
-10:56 PM &amp;#8226; AWS
- Introducing Amazon EMR integration with Apache Ranger
-08:22 PM &amp;#8226; AWS Amazon EMR AWS Big Data
- Estimating scoring probabilities by preparing soccer matches data with AWS Glue DataBrew
-08:11 PM &amp;#8226; AWS AWS Big Data AWS Glue
- Artificial intelligence and machine learning continues at AWS re:Invent
-07:26 PM &amp;#8226; AWS Amazon Rekognition Amazon SageMaker</description>
+      <description>AWS Introducing Amazon EMR integration with Apache Ranger
+Amazon EMR AWS Big Data
+ AWS Estimating scoring probabilities by preparing soccer matches data with AWS Glue DataBrew
+AWS Big Data AWS Glue
+ AWS Artificial intelligence and machine learning continues at AWS re:Invent
+Amazon Rekognition Amazon Sagemaker
+ AWS How AWS Transit Gateway Optimizes Aruba SD-WAN at Global Scale
+AWS Direct Connect AWS Transit Gateway
+ AWS Automate customized deployment of cross-account/cross-region CloudWatch Dashboards using tags</description>
     </item>
     
     <item>
@@ -124,15 +118,14 @@
       <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/07/</guid>
-      <description>Amazon API Gateway now supports data mapping in HTTP APIs
-10:51 PM &amp;#8226; AWS
- AWS Network Firewall is now available in the Asia Pacific (Sydney) Region
-10:16 PM &amp;#8226; AWS
- New AWS Config console streamlines resource configuration and compliance management
-10:08 PM &amp;#8226; AWS
- Introducing AWS Transfer Family support for Amazon Elastic File System
-08:26 PM &amp;#8226; AWS
- AWS Partners Join theCUBE to Discuss Cloud Benefits for Businesses Across the World</description>
+      <description>AWS New – AWS Transfer Family support for Amazon Elastic File System
+AWS Transfer Family Launch
+ AWS Building resilient applications with Amazon DocumentDB (with MongoDB compatibility), Part 1: Client configuration
+Amazon Documentdb Amazon Documentdb (With Mongodb Compatibility)
+ AWS AWS Partners Join theCUBE to Discuss Cloud Benefits for Businesses Across the World
+Announcements AWS Partner Network
+ AWS Mainframe Data Migration to AWS with Infosys
+AWS Partner Network Customer Solutions</description>
     </item>
     
     <item>
@@ -141,13 +134,13 @@
       <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/06/</guid>
-      <description>AWS Step Functions adds support for AWS Glue DataBrew jobs to prepare data in analytics and machine learning workflows
-09:20 PM &amp;#8226; AWS
- Create ODA Custom Components for BIP Report Based on Component Re-use
-08:26 PM &amp;#8226; Oracle
- Orchestrating an AWS Glue DataBrew job and Amazon Athena query with AWS Step Functions
-08:05 PM &amp;#8226; AWS Amazon Athena AWS Big Data
- How to Tokenize and De-Identify Your Data in Amazon RDS with Baffle</description>
+      <description>AWS Orchestrating an AWS Glue DataBrew job and Amazon Athena query with AWS Step Functions
+Amazon Athena AWS Big Data
+ AWS How to set up command-line access to Amazon Keyspaces (for Apache Cassandra) by using the new developer toolkit Docker image
+Amazon Keyspaces (For Apache Cassandra) Amazon Keyspaces
+ AWS How to Tokenize and De-Identify Your Data in Amazon RDS with Baffle
+Amazon RDS AWS Partner Network
+ AWS Re:Invent – New security sessions launching soon</description>
     </item>
     
     <item>
@@ -156,14 +149,14 @@
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/05/</guid>
-      <description>Amazon SQS announces tiered pricing
-11:29 PM &amp;#8226; AWS
- How to Build and Deploy a Contact Tracing Solution with AWS IoT Core and SafeTrack Lite
-10:31 PM &amp;#8226; AWS AWS Partner Network Customer Solutions
- Implementing sensor workflows using AWS Snowcone and AWS IoT Greengrass
-09:46 PM &amp;#8226; AWS Amazon Simple Notification Service (SNS) AWS Greengrass
- Azure Automation is now available in UAE North
-09:29 PM &amp;#8226; Azure</description>
+      <description>AWS The best new features for data analysts in Amazon Redshift in 2020
+Amazon Redshift Analytics
+ AWS How FactSet automates thousands of AWS accounts at scale
+AWS Codebuild AWS Codedeploy
+ AWS Upgrading from Amazon RDS for PostgreSQL version 9.5
+Amazon RDS Amazon RDS For Postgresql
+ AWS Delivering a reliable live video stream using AWS Elemental Link and Amazon IVS
+Amazon Interactive Video Service AWS Elemental Link</description>
     </item>
     
     <item>
@@ -172,13 +165,12 @@
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/04/</guid>
-      <description>Amazon EC2 R5B Instances now certified for SAP workloads
-11:49 PM &amp;#8226; AWS
- Implementing a custom labeling GUI with built-in processing logic with Amazon SageMaker Ground Truth
-11:40 PM &amp;#8226; AWS Amazon SageMaker Amazon SageMaker Ground Truth
- Building a secure search application with access controls using Amazon Kendra
-11:20 PM &amp;#8226; AWS Amazon Kendra Artificial Intelligence
- Building a real-time notification system with Amazon Kinesis Data Streams for Amazon DynamoDB and Amazon Kinesis Data Analytics for Apache Flink</description>
+      <description>AWS Discovering sensitive data in AWS CodeCommit with AWS Lambda
+Amazon Eventbridge Amazon Simple Notification Service (SNS)
+ AWS Amazon EC2 R5B Instances now certified for SAP workloads
+ AWS Amazon RDS for Oracle now supports October 2020 Oracle Patch Set Updates (PSU) for 11.2.0.4 Enterprise Edition, and allows setting database system events
+ AWS Announcing the APN Foundations ISV Partner Path Navigate track
+ AWS New AWS Solutions Consulting Offer - Voicemail Queues for Amazon Connect</description>
     </item>
     
     <item>
@@ -187,8 +179,8 @@
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/01/</guid>
-      <description> Public preview | Azure NetApp Files : Application Consistent Snapshot tool (AzAcSnap)
-05:00 PM &amp;#8226; Azure  </description>
+      <description> Azure Public preview | Azure NetApp Files : Application Consistent Snapshot tool (AzAcSnap)
+  </description>
     </item>
     
     <item>
