@@ -21,6 +21,10 @@
 Amazon Neptune
  AWS Migrating user-defined types from Oracle to PostgreSQL
 Amazon Aurora Amazon RDS
+ Azure Backup for Azure Managed Disk is in limited preview
+Backup Azure Backup
+ Azure Azure Backup: Encryption at rest using customer-managed keys is now generally available
+Azure Backup Features
   </description>
     </item>
     
