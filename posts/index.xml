@@ -17,11 +17,14 @@
       <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/19/</guid>
-      <description> AWS Building a knowledge graph in Amazon Neptune using Amazon Comprehend Events
+      <description>AWS Building a knowledge graph in Amazon Neptune using Amazon Comprehend Events
 Amazon Comprehend Amazon Neptune
- Oracle Podcast #389: Tech Predictions for 2021
-Cloud Cloud Native
-  </description>
+ AWS Operating Lambda: Design principles in event-driven architectures – Part 2
+AWS Lambda Best Practices
+ AWS Field Notes: Improving Call Center Experiences with Iterative Bot Training Using Amazon Connect and Amazon Lex
+Amazon Connect Amazon Lex
+ AWS Amazon RDS for PostgreSQL Supports pg_cron Extension for Scheduling Database Jobs
+ GCP Work at warp-speed in the BigQuery UI</description>
     </item>
     
     <item>
@@ -120,6 +123,16 @@ Amazon EMR Amazon Managed Workflows For Apache Airflow (Amazon MWAA)</descriptio
       
       <guid>https://cloudchangelog.com/posts/2021/01/10/</guid>
       <description> AWS AWS OpsHub for AWS Snow Family is now available for Linux
+  </description>
+    </item>
+    
+    <item>
+      <title>09 January, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/01/09/</link>
+      <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/01/09/</guid>
+      <description> AWS Amazon EC2 Auto Scaling now allows to define 40 instance types when defining Mixed Instances Policy
   </description>
     </item>
     
