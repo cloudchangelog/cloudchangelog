@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/01/19/</guid>
       <description>AWS Building a knowledge graph in Amazon Neptune using Amazon Comprehend Events
 Amazon Comprehend Amazon Neptune
- AWS Announcing three new digital courses for Amazon S3
- AWS PCI DSS compliance for AWS Wavelength
  AWS Introducing Federated Amazon EKS Clusters on AWS
- AWS Amazon CloudWatch Application Insights supports Oracle database monitoring
  AWS How Onica Leverages AWS AI, ML, and IoT Services to Combat the Pandemic
-Amazon Forecast Amazon Machine Learning</description>
+Amazon Forecast Amazon Machine Learning
+ AWS AWS Certificate Manager Private Certificate Authority now supports additional certificate customization
+ AWS Building predictive disease models using Amazon SageMaker with Amazon HealthLake normalized data</description>
     </item>
     
     <item>
