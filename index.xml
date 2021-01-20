@@ -17,14 +17,14 @@
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/20/</guid>
-      <description> AWS How BT uses Amazon CloudWatch to monitor millions of devices
+      <description>AWS How BT uses Amazon CloudWatch to monitor millions of devices
 Amazon Cloudwatch Customer Solutions
  AWS New self-paced course about designing data lakes on edX and Coursera
- Azure The Azure Quota REST API to manage service limits (quotas) is now generally available
- Azure Public preview: Dynamic IP allocation and enhanced subnet support in AKS
- Oracle The OCI Designer Toolkit Documentation Generation
-Architecture Cloud
-  </description>
+ AWS Building AWS Glue Spark ETL jobs using Amazon DocumentDB (with MongoDB compatibility) and MongoDB
+Amazon Documentdb AWS Big Data
+ AWS Amazon Redshift 2020 year in review
+Amazon Redshift AWS Big Data
+ AWS Writing to Apache Hudi tables using AWS Glue Custom Connector</description>
     </item>
     
     <item>
