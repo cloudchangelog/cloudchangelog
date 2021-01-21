@@ -6,10 +6,27 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>21 January, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/01/21/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/01/21/</guid>
+      <description> AWS Building PHP Lambda functions with Docker container images
+Amazon API Gateway AWS Lambda
+ AWS Upgrading from Amazon RDS for MySQL version 5.5
+Amazon RDS RDS For Mysql
+ AWS Migrating SQL Server databases from Microsoft Azure to AWS in near-real time with CloudBasic
+Amazon RDS RDS For SQL Server
+ Oracle New Year Goodies &amp;ndash; Oracle JDBC 21.1.0.0 on Maven Central
+Apis Cloud
+  </description>
+    </item>
     
     <item>
       <title>20 January, 2021</title>
