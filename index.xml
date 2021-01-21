@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/01/21/</guid>
       <description>AWS Building PHP Lambda functions with Docker container images
 Amazon API Gateway AWS Lambda
- AWS Upgrading from Amazon RDS for MySQL version 5.5
-Amazon RDS RDS For Mysql
+ AWS Amazon RDS for MariaDB now supports version 10.5.8
+ AWS Applying Dynamically Generated Isolation Policies in SaaS Environments
+AWS Lambda AWS Partner Network
  AWS Migrating SQL Server databases from Microsoft Azure to AWS in near-real time with CloudBasic
 Amazon RDS RDS For SQL Server
- AWS AWS re:Invent recap: Extend Amazon S3 to on-premises environments with AWS Outposts
-Amazon Simple Storage Services (S3) AWS Outposts</description>
+ AWS Upgrading from Amazon RDS for MySQL version 5.</description>
     </item>
     
     <item>
