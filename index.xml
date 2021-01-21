@@ -19,12 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/01/20/</guid>
       <description>AWS How BT uses Amazon CloudWatch to monitor millions of devices
 Amazon Cloudwatch Customer Solutions
- AWS New self-paced course about designing data lakes on edX and Coursera
- AWS Building AWS Glue Spark ETL jobs using Amazon DocumentDB (with MongoDB compatibility) and MongoDB
-Amazon Documentdb AWS Big Data
- AWS Amazon Redshift 2020 year in review
-Amazon Redshift AWS Big Data
- AWS Writing to Apache Hudi tables using AWS Glue Custom Connector</description>
+ AWS Running Airflow on AWS Fargate
+Amazon Elastic Container Service AWS Fargate
+ AWS Writing to Apache Hudi tables using AWS Glue Custom Connector
+AWS Big Data AWS Glue
+ AWS Migrating data from Google BigQuery to Amazon S3 using AWS Glue custom connectors
+AWS Big Data AWS Glue
+ AWS How to Ace the AWS MSP Partner Program Validation Audit with CloudHealth by VMware</description>
     </item>
     
     <item>
