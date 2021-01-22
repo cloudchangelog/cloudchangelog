@@ -19,11 +19,8 @@
       <guid>https://cloudchangelog.com/posts/2021/01/22/</guid>
       <description>AWS Amazon Lex Introduces an Enhanced Console Experience and New V2 APIs
 Amazon Lex Announcements
- AWS Announcing date and time functions and timezone support in AWS IoT SiteWise
- AWS Configuring an audit log to capture database activities for Amazon RDS for MySQL and Amazon Aurora with MySQL compatibility
-Amazon Aurora Amazon RDS
- AWS How to monitor Windows and Linux servers and get internal performance metrics
-Amazon Cloudwatch Amazon EC2</description>
+ AWS Amazon EBS direct APIs now enable you to create EBS snapshots in the Asia Pacific (Osaka-Local) Region directly from any block storage
+ AWS Announcing new Amazon EC2 T4g instances powered by AWS Graviton2 processors along with a T4g free trial in Asia Pacific (Sydney, Singapore), Europe (London), North Americas (Canada Central, San Francisco), and South Americas (Sao Paulo) regions</description>
     </item>
     
     <item>
