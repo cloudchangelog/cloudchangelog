@@ -19,12 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/01/21/</guid>
       <description>AWS Building PHP Lambda functions with Docker container images
 Amazon API Gateway AWS Lambda
- AWS Amazon RDS for MariaDB now supports version 10.5.8
- AWS Applying Dynamically Generated Isolation Policies in SaaS Environments
-AWS Lambda AWS Partner Network
- AWS Migrating SQL Server databases from Microsoft Azure to AWS in near-real time with CloudBasic
-Amazon RDS RDS For SQL Server
- AWS Upgrading from Amazon RDS for MySQL version 5.</description>
+ AWS New AWS IoT Device Client simplifies onboarding to AWS IoT Core, AWS IoT Device Management, and AWS IoT Device Defender
+ AWS Announcing CDK Support for AWS Chalice
+ AWS Amazon Keyspaces (for Apache Cassandra) now supports JSON syntax to help you read and write data from other systems more easily
+ AWS Amazon Detective enhances IP Address Analytics</description>
     </item>
     
     <item>
