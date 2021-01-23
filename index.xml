@@ -20,6 +20,8 @@
       <description> AWS Streamline server fleet management with AWS Systems Manager Fleet Manager
 AWS Systems Manager Management Tools
  AWS Amazon CloudWatch Agent now supports OpenTelemetry APIs and SDKs
+ Azure Generally available: Copy Blob support over private endpoints in Azure Storage
+Azcopy Azure Storage
   </description>
     </item>
     
