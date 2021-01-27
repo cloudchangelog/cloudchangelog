@@ -19,13 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/01/27/</guid>
       <description>AWS Building server-side rendering for React in AWS Lambda
 AWS Lambda Lambda@Edge
- AWS Compress and conquer with Amazon Keyspaces (for Apache Cassandra)
-Amazon Keyspaces (For Apache Cassandra)
- Azure Azure Cognitive Services Translator - Inuktitut language text translation now available
-Azurecognitiveservices Features
- Azure Resource instance rules for access to Azure Storage now in public preview
-Azure Storage Resource Instance Rules
- GCP How to build demand forecasting models with BigQuery ML</description>
+ AWS AWS Security Hub adds 1 new integration globally and adds 5 integrations to AWS GovCloud (US) Regions
+ AWS How to implement a read-only service control policy (SCP) for accounts in AWS Organizations
+AWS Identity And Access Management (IAM) AWS Organizations
+ AWS Amazon RDS for SQL Server now supports tempdb on local instance store with R5d and M5d instance types</description>
     </item>
     
     <item>
