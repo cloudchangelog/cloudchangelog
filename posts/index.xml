@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>27 January, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/01/27/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/01/27/</guid>
+      <description> Oracle Business continuity with automated volume group backups
+Developer Tools And Solutions Partner Solutions  </description>
+    </item>
     
     <item>
       <title>26 January, 2021</title>
@@ -19,11 +29,11 @@
       <guid>https://cloudchangelog.com/posts/2021/01/26/</guid>
       <description>AWS AWS is the first global cloud service provider to comply with the new K-ISMS-P standard
 Announcements Security, Identity, &amp;amp; Compliance
- AWS Bursting Your On-Premises Data Lake Analytics and AI Workloads on AWS
-Amazon EMR Amazon Simple Storage Services (S3)
- AWS Data monetization and customer experience optimization using telco data assets: Part 2
-Amazon Redshift AWS Big Data
- AWS Understanding memory usage in your Java application with Amazon CodeGuru Profiler</description>
+ AWS Amazon EBS announces CloudWatch metrics with 1-minute granularity on all EBS volume types
+ AWS How to deliver natural conversational experiences using Amazon Lex Streaming APIs
+Amazon Lex Artificial Intelligence
+ AWS Fluent Bit Integration in CloudWatch Container Insights for EKS
+Amazon Elastic Kubernetes Service AWS Fargate</description>
     </item>
     
     <item>
