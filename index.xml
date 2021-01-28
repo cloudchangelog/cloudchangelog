@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>28 January, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/01/28/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/01/28/</guid>
+      <description> GCP Eventarc brings eventing to Cloud Run and is now GA
+Application Development Serverless  </description>
+    </item>
     
     <item>
       <title>27 January, 2021</title>
@@ -19,10 +29,11 @@
       <guid>https://cloudchangelog.com/posts/2021/01/27/</guid>
       <description>AWS Building server-side rendering for React in AWS Lambda
 AWS Lambda Lambda@Edge
- AWS AWS Security Hub adds 1 new integration globally and adds 5 integrations to AWS GovCloud (US) Regions
- AWS How to implement a read-only service control policy (SCP) for accounts in AWS Organizations
-AWS Identity And Access Management (IAM) AWS Organizations
- AWS Amazon RDS for SQL Server now supports tempdb on local instance store with R5d and M5d instance types</description>
+ AWS Amazon Elasticsearch Service extends encryption at rest and node-to-node encryption to existing domains
+ AWS Discover, review, and remediate unintended access to Secrets Manager secrets using IAM Access Analyzer
+ AWS 2020 Technology and Engineering Emmy® Awards Recognize AWS as Video Streaming Skyrockets
+AWS Elemental Mediaconvert Media &amp;amp; Entertainment
+ AWS New – Multiple Private Marketplace Catalogs</description>
     </item>
     
     <item>
