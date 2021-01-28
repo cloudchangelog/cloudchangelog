@@ -18,12 +18,11 @@
       
       <guid>https://cloudchangelog.com/posts/2021/01/28/</guid>
       <description>AWS Amazon Timestream can now be used for workloads subject to HIPAA, ISO, and PCI DSS
- AWS Amazon SES now lets you assign a configuration set to an email identity
- AWS How Kount migrated a critical workload to Amazon DynamoDB from Cassandra
-Amazon Dynamodb
- AWS Saving time with personalized videos using AWS machine learning
-Amazon Comprehend Amazon Dynamodb
- Azure Azure API Management Updates - January, 2021</description>
+ AWS Amazon CloudWatch now adds Fluent Bit support for container logs from Amazon EKS and Kubernetes
+ AWS AWS Marketplace announces support for multiple Private Marketplace catalogs
+ AWS AWS Control Tower now available in Canada, Frankfurt, London, Stockholm and Singapore AWS Regions
+ AWS Amazon Aurora supports PostgreSQL 12
+ AWS Verified episode 3: In conversation with Noopur Davis from Comcast</description>
     </item>
     
     <item>
