@@ -17,7 +17,10 @@
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/28/</guid>
-      <description> GCP Eventarc brings eventing to Cloud Run and is now GA
+      <description> AWS Amazon Timestream can now be used for workloads subject to HIPAA, ISO, and PCI DSS
+ AWS Amazon SES now lets you assign a configuration set to an email identity
+ Azure Azure API Management Updates - January, 2021
+ GCP Eventarc brings eventing to Cloud Run and is now GA
 Application Development Serverless  </description>
     </item>
     
@@ -29,11 +32,10 @@ Application Development Serverless  </description>
       <guid>https://cloudchangelog.com/posts/2021/01/27/</guid>
       <description>AWS Building server-side rendering for React in AWS Lambda
 AWS Lambda Lambda@Edge
- AWS Amazon Elasticsearch Service extends encryption at rest and node-to-node encryption to existing domains
- AWS Discover, review, and remediate unintended access to Secrets Manager secrets using IAM Access Analyzer
- AWS 2020 Technology and Engineering Emmy® Awards Recognize AWS as Video Streaming Skyrockets
-AWS Elemental Mediaconvert Media &amp;amp; Entertainment
- AWS New – Multiple Private Marketplace Catalogs</description>
+ AWS Amazon RDS for SQL Server now supports tempdb on local instance store with R5d and M5d instance types
+ AWS Orchestrating analytics jobs on Amazon EMR Notebooks using Amazon MWAA
+Amazon EMR Amazon Managed Workflows For Apache Airflow (Amazon MWAA)
+ AWS AWS Security Hub adds 1 new integration globally and adds 5 integrations to AWS GovCloud (US) Regions</description>
     </item>
     
     <item>
