@@ -17,11 +17,13 @@
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/01/28/</guid>
-      <description> AWS Amazon Timestream can now be used for workloads subject to HIPAA, ISO, and PCI DSS
+      <description>AWS Amazon Timestream can now be used for workloads subject to HIPAA, ISO, and PCI DSS
  AWS Amazon SES now lets you assign a configuration set to an email identity
+ AWS How Kount migrated a critical workload to Amazon DynamoDB from Cassandra
+Amazon Dynamodb
  Azure Azure API Management Updates - January, 2021
  GCP Eventarc brings eventing to Cloud Run and is now GA
-Application Development Serverless  </description>
+Application Development Serverless</description>
     </item>
     
     <item>
