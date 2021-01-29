@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>29 January, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/01/29/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/01/29/</guid>
+      <description> AWS Forecasting AWS spend using the AWS Cost and Usage Reports, AWS Glue DataBrew, and Amazon Forecast
+Amazon Forecast Artificial Intelligence  </description>
+    </item>
     
     <item>
       <title>28 January, 2021</title>
@@ -18,11 +28,11 @@
       
       <guid>https://cloudchangelog.com/posts/2021/01/28/</guid>
       <description>AWS Amazon Timestream can now be used for workloads subject to HIPAA, ISO, and PCI DSS
- AWS AWS Control Tower now provides bulk account update
- AWS AWS Control Tower now extends governance to existing OUs in your AWS Organizations
- AWS AWS Marketplace announces support for multiple Private Marketplace catalogs
- AWS Amazon Aurora supports PostgreSQL 12
- AWS AWS Control Tower now available in Canada, Frankfurt, London, Stockholm and Singapore AWS Regions</description>
+ AWS AWS Glue DataBrew is now available in six additional AWS Regions
+ AWS How Kount migrated a critical workload to Amazon DynamoDB from Cassandra
+Amazon Dynamodb
+ AWS Amazon SES now lets you assign a configuration set to an email identity
+ AWS Field Notes: Speed Up Redaction of Connected Car Data by Multiprocessing Video Footage with Amazon Rekognition</description>
     </item>
     
     <item>
