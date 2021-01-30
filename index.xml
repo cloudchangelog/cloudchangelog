@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>30 January, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/01/30/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/01/30/</guid>
+      <description> Azure General availability: Text Analytics&amp;rsquo; Named Entity Recognition v3 now supports 10 languages with improved AI quality
+Text Analytics Named Entity Recognition  </description>
+    </item>
     
     <item>
       <title>29 January, 2021</title>
