@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>02 February, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/02/02/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/02/02/</guid>
+      <description> AWS Best practices for creating and managing sandbox accounts in AWS
+Amazon Eventbridge AWS Cloudtrail  </description>
+    </item>
     
     <item>
       <title>01 February, 2021</title>
@@ -19,12 +29,12 @@
       <guid>https://cloudchangelog.com/posts/2021/02/01/</guid>
       <description>AWS Building Multi-partner integration on AWS using Event-Driven Architecture
 Amazon Elastic Container Service Amazon Simple Notification Service (SNS)
- AWS This month in AWS Machine Learning: January edition
-Amazon Augmented AI Amazon Comprehend
- AWS AWS Launch Wizard now configures RHEL and SLES clustering for SAP application High Availability
- AWS Automating AWS Fargate Image Scanning to Block Container Threats
-AWS Fargate AWS Marketplace
- AWS Unifying Cloud Infrastructure and Application Performance Data with AppDynamics and Amazon CloudWatch</description>
+ AWS Operating Lambda: Application design and Service Quotas – Part 1
+AWS Lambda Best Practices
+ AWS Migrating a commercial database to open source with AWS SCT and AWS DMS
+AWS Schema Conversion Tool
+ AWS Detecting anomalous values by invoking the Amazon Athena machine learning inference function
+Amazon Athena AWS Big Data</description>
     </item>
     
     <item>
