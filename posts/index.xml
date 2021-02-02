@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/02/02/</guid>
       <description>AWS Best practices for creating and managing sandbox accounts in AWS
 Amazon Eventbridge AWS Cloudtrail
- AWS Developing enterprise application patterns with the AWS CDK
-AWS Cloud Development Kit AWS Cloudformation
- AWS Accessing an Amazon RDS instance remotely using AWS Client VPN
-Amazon RDS AWS Client VPN
- AWS Setting up an IVR to collect customer feedback via phone using Amazon Connect and AWS AI Services
-Amazon Comprehend Amazon Connect</description>
+ AWS Zurich Spain: Managing millions of documents with AWS
+Amazon Documentdb Amazon Elastic Container Registry
+ AWS Amazon CloudWatch Synthetics supports Amazon API Gateway in API blueprint
+ AWS Building AWS Data Lake visualizations with Amazon Athena and Tableau
+Amazon Athena AWS Big Data
+ AWS AWS PrivateLink for Amazon S3 is Now Generally Available</description>
     </item>
     
     <item>
