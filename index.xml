@@ -19,12 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/02/02/</guid>
       <description>AWS Best practices for creating and managing sandbox accounts in AWS
 Amazon Eventbridge AWS Cloudtrail
- AWS Zurich Spain: Managing millions of documents with AWS
-Amazon Documentdb Amazon Elastic Container Registry
- AWS Amazon CloudWatch Synthetics supports Amazon API Gateway in API blueprint
- AWS Building AWS Data Lake visualizations with Amazon Athena and Tableau
-Amazon Athena AWS Big Data
- AWS AWS PrivateLink for Amazon S3 is Now Generally Available</description>
+ AWS Insights is now generally available for AWS X-Ray
+ AWS Amazon Macie announces a slew of new capabilities including support for cross-account sensitive data discovery, scanning by Amazon S3 object prefix, improved pre-scan cost estimation, and added location detail in findings
+ AWS Amazon S3 now supports AWS PrivateLink
+ AWS Amazon RDS for Oracle supports Oracle Application Express (APEX) Version 20.</description>
     </item>
     
     <item>
