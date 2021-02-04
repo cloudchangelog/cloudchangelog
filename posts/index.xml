@@ -6,10 +6,24 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>04 February, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/02/04/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/02/04/</guid>
+      <description> AWS Creating a BankingBot on Amazon Lex V2 Console with support for English and Spanish
+Amazon Lex Artificial Intelligence
+ AWS Klook Case Study
+Amazon Elastic Container Service AWS Fargate
+ AWS Amazon Connect is now available in the AWS GovCloud (US-West) Region
+  </description>
+    </item>
     
     <item>
       <title>03 February, 2021</title>
@@ -19,12 +33,12 @@
       <guid>https://cloudchangelog.com/posts/2021/02/03/</guid>
       <description>AWS Automating complex deep learning model training using Amazon SageMaker Debugger and AWS Step Functions
 Amazon Sagemaker Artificial Intelligence
- AWS AWS Backup Events and Metrics now available in Amazon CloudWatch
- AWS Node.js 14.x runtime now available in AWS Lambda
-AWS Lambda Compute
- AWS How to Integrate AWS Single Sign-On with MongoDB Atlas
-AWS Partner Network AWS Single Sign-On (SSO)
- AWS Building secure Amazon SageMaker access URLs with AWS Service Catalog</description>
+ AWS AWS Lambda now supports Node.js 14
+ AWS Using the AWS DeepRacer new Soft Actor Critic algorithm with continuous action spaces
+Amazon Machine Learning Artificial Intelligence
+ AWS Using Amazon Translate to provide language support to Amazon Kendra
+Amazon Kendra Amazon Translate
+ AWS Take actions before and after patching to improve safety during patch installation</description>
     </item>
     
     <item>
