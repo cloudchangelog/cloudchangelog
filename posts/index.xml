@@ -22,11 +22,9 @@
 Artificial Intelligence
  AWS CoDetect: A Serverless AI-Powered Web App for Detecting Medical Conditions in CT Scans
 Amazon Machine Learning Artificial Intelligence
- GCP Search and browse Google Cloud code samples
-Developers &amp;amp; Practitioners
- GCP A primer on Cloud Bigtable cost optimization
-Databases
- Oracle Get insight into API Gateway logs using OCI Logging Analytics</description>
+ AWS Automating AWS service logs table creation and querying them with Amazon Athena
+Amazon Athena Amazon Simple Storage Services (S3)
+ AWS How Baqend built a real-time web analytics platform using Amazon Kinesis Data Analytics for Apache Flink</description>
     </item>
     
     <item>
