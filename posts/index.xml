@@ -19,13 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/02/04/</guid>
       <description>AWS Creating a BankingBot on Amazon Lex V2 Console with support for English and Spanish
 Amazon Lex Artificial Intelligence
- AWS Visualizing AWS Config data using Amazon Athena and Amazon QuickSight
-Amazon Athena Amazon Quicksight
- AWS Using genetic algorithms on AWS for optimization problems
-Artificial Intelligence
- AWS Create pop-up channels using the Qvest Media Event Channel Playout solution on AWS
-Customer Solutions Media Services
- AWS Configuring private integrations with Amazon API Gateway HTTP APIs</description>
+ AWS Announcing new AWS Wavelength Zone in Osaka, Japan
+ AWS AWS App Mesh now supports mutual TLS authentication
+ AWS Announcing AWS App Mesh Controller for Kubernetes version 1.3.0 with mTLS support
+ AWS AWS Copilot launches v1.2 providing more deployment capabilities
+ AWS Setting up cross-account Amazon S3 access with S3 Access Points</description>
     </item>
     
     <item>
@@ -36,12 +34,12 @@ Customer Solutions Media Services
       <guid>https://cloudchangelog.com/posts/2021/02/03/</guid>
       <description>AWS Automating complex deep learning model training using Amazon SageMaker Debugger and AWS Step Functions
 Amazon Sagemaker Artificial Intelligence
- AWS AWS Lambda now supports Node.js 14
- AWS Using the AWS DeepRacer new Soft Actor Critic algorithm with continuous action spaces
-Amazon Machine Learning Artificial Intelligence
- AWS Using Amazon Translate to provide language support to Amazon Kendra
-Amazon Kendra Amazon Translate
- AWS Take actions before and after patching to improve safety during patch installation</description>
+ AWS AWS Backup Events and Metrics now available in Amazon CloudWatch
+ AWS AWS Elemental MediaLive adds support for VPC outputs
+ AWS Node.js 14.x runtime now available in AWS Lambda
+AWS Lambda Compute
+ AWS Building secure Amazon SageMaker access URLs with AWS Service Catalog
+Management Tools Amazon Sagemaker</description>
     </item>
     
     <item>
