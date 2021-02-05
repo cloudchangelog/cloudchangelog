@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>05 February, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/02/05/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/02/05/</guid>
+      <description> AWS Testing EC2 Image Builder pipelines using Chef InSpec
+  </description>
+    </item>
     
     <item>
       <title>04 February, 2021</title>
@@ -19,11 +29,13 @@
       <guid>https://cloudchangelog.com/posts/2021/02/04/</guid>
       <description>AWS Creating a BankingBot on Amazon Lex V2 Console with support for English and Spanish
 Amazon Lex Artificial Intelligence
- AWS Announcing new AWS Wavelength Zone in Osaka, Japan
- AWS AWS App Mesh now supports mutual TLS authentication
- AWS Announcing AWS App Mesh Controller for Kubernetes version 1.3.0 with mTLS support
- AWS AWS Copilot launches v1.2 providing more deployment capabilities
- AWS Setting up cross-account Amazon S3 access with S3 Access Points</description>
+ AWS Using genetic algorithms on AWS for optimization problems
+Artificial Intelligence
+ AWS Klook Case Study
+Amazon Elastic Container Service AWS Fargate
+ AWS New – Amazon Elastic Block Store Local Snapshots on AWS Outposts
+Amazon Elastic Block Storage (EBS) AWS Outposts
+ AWS Amazon Connect is now available in the AWS GovCloud (US-West) Region</description>
     </item>
     
     <item>
