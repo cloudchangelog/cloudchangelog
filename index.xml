@@ -6,10 +6,22 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>06 February, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/02/06/</link>
+      <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/02/06/</guid>
+      <description> AWS Monitor and scale your Amazon ECS on AWS Fargate application using Prometheus metrics
+Amazon Cloudwatch Auto Scaling
+ AWS Introducing Amazon CloudFront Security Savings Bundle
+  </description>
+    </item>
     
     <item>
       <title>05 February, 2021</title>
@@ -18,12 +30,13 @@
       
       <guid>https://cloudchangelog.com/posts/2021/02/05/</guid>
       <description>AWS Testing EC2 Image Builder pipelines using Chef InSpec
+ AWS Anomaly detection with Amazon Lookout for Metrics
+Artificial Intelligence
  AWS Amazon EFS introduces 3X read-throughput increase at no additional charge
 Amazon Cloudwatch Amazon Elastic File System (EFS)
- AWS How Baqend built a real-time web analytics platform using Amazon Kinesis Data Analytics for Apache Flink
-Amazon Kinesis AWS Big Data
  AWS CoDetect: A Serverless AI-Powered Web App for Detecting Medical Conditions in CT Scans
-Amazon Machine Learning Artificial Intelligence</description>
+Amazon Machine Learning Artificial Intelligence
+ AWS Automating AWS service logs table creation and querying them with Amazon Athena</description>
     </item>
     
     <item>
