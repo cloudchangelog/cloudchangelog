@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/02/08/</guid>
       <description>AWS Operating Lambda: Application design – Scaling and concurrency: Part 2
 AWS Lambda Best Practices
- AWS New AWS Solutions Consulting Offer - Digital Banking Engagement Platform
- AWS New AWS Solutions Consulting Offer - Persistent Digital Bank and Credit Union Solution
- AWS New AWS Solutions Consulting Offer - AI-Powered Inventory Management
- AWS Use new account assignment APIs for AWS SSO to automate multi-account access
-AWS Cloudformation AWS Command Line Interface</description>
+ AWS Application Load Balancer now supports Application Cookie Stickiness
+ AWS Amazon ECS Service Discovery Now Available in Africa (Cape Town) and Europe (Milan)
+ AWS Tape Ark Unlocks Dark Data on AWS with Tape-to-Cloud Migration
+Analytics AWS Partner Network
+ AWS Automating AWS service logs table creation and querying them with Amazon Athena</description>
     </item>
     
     <item>
