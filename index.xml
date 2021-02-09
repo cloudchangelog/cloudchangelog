@@ -17,13 +17,15 @@
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/02/09/</guid>
-      <description> AWS Improving AWS Java applications with Amazon CodeGuru Reviewer
+      <description>AWS Improving AWS Java applications with Amazon CodeGuru Reviewer
 Amazon Codeguru Artificial Intelligence
+ AWS Patterns for AWS IoT time series data ingestion with Amazon Timestream
+Amazon Timestream Internet Of Things
+ Azure OCR support for 73 languages in the Cognitive Services Computer Vision public preview
+Azureportal Cognitive Services
  Oracle How to use Bash script to refresh a refreshable ADB
 Technical Solutions
- Oracle How to use bash script to refresh an autonomous database
-Technical Solutions
-  </description>
+ Oracle How to use bash script to refresh an autonomous database</description>
     </item>
     
     <item>
