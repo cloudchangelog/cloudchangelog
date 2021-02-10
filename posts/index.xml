@@ -22,9 +22,9 @@ Amazon Aurora Amazon Machine Learning
  AWS New AWS Partner Report Highlights Importance of Balancing Growth and Profitability
 Announcements AWS Partner Network
  AWS AWS Cloud9 launches visual source control integration for Git
- Azure Back up Linux virtual machines running mission-critical workloads
-Virtual Machines Storage, Backup &amp;amp; Recovery
- Azure Versions no longer required for Key Vault references in App Service and Azure Functions</description>
+ AWS Running multiple HPO jobs in parallel on Amazon SageMaker
+Amazon Sagemaker Artificial Intelligence
+ AWS Mitigate data leakage through the use of AppStream 2.0 and end-to-end auditing</description>
     </item>
     
     <item>
@@ -219,10 +219,11 @@ Amazon Dynamodb
       <guid>https://cloudchangelog.com/posts/2021/01/27/</guid>
       <description>AWS Building server-side rendering for React in AWS Lambda
 AWS Lambda Lambda@Edge
- AWS Amazon RDS for SQL Server now supports tempdb on local instance store with R5d and M5d instance types
- AWS Orchestrating analytics jobs on Amazon EMR Notebooks using Amazon MWAA
-Amazon EMR Amazon Managed Workflows For Apache Airflow (Amazon MWAA)
- AWS AWS Security Hub adds 1 new integration globally and adds 5 integrations to AWS GovCloud (US) Regions</description>
+ AWS Discover, review, and remediate unintended access to Secrets Manager secrets using IAM Access Analyzer
+ AWS 2020 Technology and Engineering Emmy® Awards Recognize AWS as Video Streaming Skyrockets
+AWS Elemental Mediaconvert Media &amp;amp; Entertainment
+ AWS Amazon FSx is now available in the AWS Africa (Cape Town), Europe (Milan), and Middle East (Bahrain) Regions
+ AWS Amazon Elasticsearch Service extends encryption at rest and node-to-node encryption to existing domains</description>
     </item>
     
     <item>
