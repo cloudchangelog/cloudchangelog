@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 February, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/02/10/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/02/10/</guid>
+      <description> AWS Accelerating your application modernization with Amazon Aurora Machine Learning
+Amazon Aurora Amazon Machine Learning  </description>
+    </item>
     
     <item>
       <title>09 February, 2021</title>
