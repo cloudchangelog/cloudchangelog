@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/02/10/</guid>
       <description>AWS Accelerating your application modernization with Amazon Aurora Machine Learning
 Amazon Aurora Amazon Machine Learning
- AWS New AWS Partner Report Highlights Importance of Balancing Growth and Profitability
-Announcements AWS Partner Network
- AWS AWS Cloud9 launches visual source control integration for Git
- AWS Running multiple HPO jobs in parallel on Amazon SageMaker
-Amazon Sagemaker Artificial Intelligence
- AWS Mitigate data leakage through the use of AppStream 2.0 and end-to-end auditing</description>
+ AWS Amazon Elastic Container Service Anomaly Detector using Amazon EventBridge
+Amazon Elastic Container Service Amazon Eventbridge
+ AWS Amazon Lex is now available in the AWS GovCloud (US-West) Region
+ AWS AWS Glue now provides column importance metrics in the FindMatches machine learning transform
+ AWS Introducing Serverless Image Handler v5.2
+ AWS Amazon VPC Traffic Mirroring is now supported on select non-Nitro instance types</description>
     </item>
     
     <item>
