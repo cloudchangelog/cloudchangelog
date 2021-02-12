@@ -19,11 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/02/12/</guid>
       <description>AWS Implementing multi-tenant patterns in Amazon Redshift using data sharing
 Amazon Redshift Analytics
- AWS Amazon Aurora Global Database supports managed planned failover
- AWS Use tags to manage and secure access to additional types of IAM resources
-AWS Identity And Access Management (IAM) Security, Identity, &amp;amp; Compliance
- Azure Public preview: Azure Cost Management + Billing’s cost allocation now available in Azure Government
-Azure Cost Management And Billing</description>
+ AWS Amazon Simple Email Service launches a redesigned service console experience
+ AWS Now Launch Amazon SageMaker Studio using AWS CloudFormation
+ AWS Amazon RDS for MySQL and MariaDB support replication filtering
+ AWS AWS CloudFormation StackSets is now available in Japan (Osaka) Region
+ AWS Architecture Monthly Magazine: Manufacturing
+Architecture Manufacturing
+ AWS Scheduled Actions of Application Auto Scaling now support Local Time Zone</description>
     </item>
     
     <item>
@@ -67,12 +69,12 @@ Amazon Elastic Container Service Amazon Eventbridge
       <guid>https://cloudchangelog.com/posts/2021/02/09/</guid>
       <description>AWS Improving AWS Java applications with Amazon CodeGuru Reviewer
 Amazon Codeguru Artificial Intelligence
- AWS AWS Data Exchange enables subscribers to export full revisions
- AWS AWS DeepComposer launches Transformer Notebook on GitHub
- AWS AWS Glue is now available in the AWS Africa (Cape Town) Region
- AWS Cazena’s Instant AWS Data Lake: Accelerating Time to Analytics from Months to Minutes
-Analytics AWS Big Data
- AWS New digital curriculum: Managing Amazon S3</description>
+ AWS Amazon Keyspaces (for Apache Cassandra) now helps you automate table creation by supporting point-in-time recovery and tag settings in AWS CloudFormation
+ AWS How to: Build an engaging feed app with React and Amazon IVS
+Amazon Interactive Video Service Media &amp;amp; Entertainment
+ AWS Extending SaaS products with serverless functions
+AWS Lambda Serverless
+ AWS Building a Single Source of Truth with a Data Hub from Semarchy</description>
     </item>
     
     <item>
