@@ -17,10 +17,13 @@
       <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/02/12/</guid>
-      <description> AWS Implementing multi-tenant patterns in Amazon Redshift using data sharing
+      <description>AWS Implementing multi-tenant patterns in Amazon Redshift using data sharing
 Amazon Redshift Analytics
  AWS Amazon Aurora Global Database supports managed planned failover
-  </description>
+ AWS Use tags to manage and secure access to additional types of IAM resources
+AWS Identity And Access Management (IAM) Security, Identity, &amp;amp; Compliance
+ Azure Public preview: Azure Cost Management + Billing’s cost allocation now available in Azure Government
+Azure Cost Management And Billing</description>
     </item>
     
     <item>
