@@ -19,13 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/02/11/</guid>
       <description>AWS Building secure machine learning environments with Amazon SageMaker
 Amazon Machine Learning Amazon Sagemaker
+ AWS AWS Glue DataBrew supports transformations for seven additional datatypes
+ AWS Amazon EC2 M5zn instances, with high frequency processors and 100 Gbps networking are now available in Asia Pacific (Singapore and Sydney)
+ AWS Introducing Amazon VPC Endpoints for AWS CloudHSM
  AWS Amazon ElastiCache at AWS re:Invent 2020
-Amazon Elasticache AWS Re:Invent
- AWS Standardize with speed using AWS Service Catalog stack import
-AWS Cloudformation AWS Service Catalog
- AWS Manage Amazon CloudWatch agent deployment at scale using the AWS Cloud Development Kit to optimize AWS usage
-Amazon Cloudwatch AWS Cloud Development Kit
- AWS Introducing Amazon VPC Endpoints for AWS CloudHSM</description>
+Amazon Elasticache AWS Re:Invent</description>
     </item>
     
     <item>
