@@ -6,10 +6,22 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>12 February, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/02/12/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/02/12/</guid>
+      <description> AWS Implementing multi-tenant patterns in Amazon Redshift using data sharing
+Amazon Redshift Analytics
+ AWS Amazon Aurora Global Database supports managed planned failover
+  </description>
+    </item>
     
     <item>
       <title>11 February, 2021</title>
@@ -19,11 +31,13 @@
       <guid>https://cloudchangelog.com/posts/2021/02/11/</guid>
       <description>AWS Building secure machine learning environments with Amazon SageMaker
 Amazon Machine Learning Amazon Sagemaker
- AWS AWS Glue DataBrew supports transformations for seven additional datatypes
- AWS Amazon EC2 M5zn instances, with high frequency processors and 100 Gbps networking are now available in Asia Pacific (Singapore and Sydney)
- AWS Introducing Amazon VPC Endpoints for AWS CloudHSM
- AWS Amazon ElastiCache at AWS re:Invent 2020
-Amazon Elasticache AWS Re:Invent</description>
+ AWS Insys keeps the arts alive with Play Kraków
+Customer Solutions Media &amp;amp; Entertainment
+ AWS Transitioning Mainframe Workloads into Agile Services with AWS and Micro Focus
+AWS Partner Network Customer Solutions
+ AWS Orchestrating database refreshes for Amazon RDS and Amazon Aurora
+Amazon Aurora Amazon RDS
+ AWS Querying a Vertica data source in Amazon Athena using the Athena Federated Query SDK</description>
     </item>
     
     <item>
