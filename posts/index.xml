@@ -19,13 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/02/12/</guid>
       <description>AWS Implementing multi-tenant patterns in Amazon Redshift using data sharing
 Amazon Redshift Analytics
- AWS Amazon Simple Email Service launches a redesigned service console experience
- AWS Now Launch Amazon SageMaker Studio using AWS CloudFormation
- AWS Amazon RDS for MySQL and MariaDB support replication filtering
- AWS AWS CloudFormation StackSets is now available in Japan (Osaka) Region
- AWS Architecture Monthly Magazine: Manufacturing
-Architecture Manufacturing
- AWS Scheduled Actions of Application Auto Scaling now support Local Time Zone</description>
+ AWS Introducing OIDC identity provider authentication for Amazon EKS
+Amazon Elastic Kubernetes Service Containers
+ AWS Cloud-based disaster recovery: Simple protection for every budget
+AWS Control Tower AWS Partner Network
+ AWS AWS WAF adds support for JSON parsing and inspection
+ AWS Scheduled Actions of Application Auto Scaling now support Local Time Zone
+ AWS Amazon Aurora Global Database supports managed planned failover</description>
     </item>
     
     <item>
