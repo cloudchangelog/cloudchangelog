@@ -19,12 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/02/15/</guid>
       <description>AWS Amazon DynamoDB session videos from AWS re:Invent 2020
 Amazon Dynamodb AWS Re:Invent
- AWS Operating Lambda: Application design – Part 3
-AWS Lambda Best Practices
- AWS Process AWS Storage Gateway file upload notifications with AWS CDK
-Amazon Simple Storage Services (S3) AWS Cloud Development Kit
- AWS How the Yahoo! JAPAN Smart Devices Team is improving voice user interfaces with Amazon QuickSight business intelligence
-Amazon Quicksight Analytics</description>
+ AWS Amazon Keyspaces (for Apache Cassandra) now supports PCI DSS compliance to help you run payment processing workloads more easily
+ AWS Amazon S3 on Outposts adds a smaller storage tier
+ AWS Announcing General Availability of Amplify Flutter, with new data and authentication support
+ AWS Scaling up a Serverless Web Crawler and Search Engine</description>
     </item>
     
     <item>
