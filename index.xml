@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>17 February, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/02/17/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/02/17/</guid>
+      <description> AWS Improving the CPU and latency performance of Amazon applications using AWS CodeGuru Profiler
+Amazon Codeguru Artificial Intelligence
+ Azure Azure IoT Edge 1.1.0 release is now generally available
+ Azure .NET Core support for Analysis Services client libraries is generally available
+ Oracle Announcing multiple encryption domain support for Oracle Cloud Infrastructure IPSec VPNs
+Product News
+  </description>
+    </item>
     
     <item>
       <title>16 February, 2021</title>
