@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/02/16/</guid>
       <description>AWS Data processing options for AI/ML
 Amazon Machine Learning Artificial Intelligence
- AWS Simplified Cloud Database Management Using Couchbase Cloud and AWS
-AWS Marketplace AWS Partner Network
- AWS Watch now: Innovate, enhance, and secure OTT and B2B video delivery featuring PBS
-Media &amp;amp; Entertainment Media Services
- AWS Update content of inbound and outbound emails using AWS Lambda in Amazon WorkMail
- AWS Translating JSON documents using Amazon Translate</description>
+ AWS AWS Elemental MediaLive now supports region transfer for AWS Elemental Link
+ AWS Amazon EKS now supports Kubernetes version 1.19
+ AWS AWS Fargate increases default resource count service quotas to 1000
+ AWS AWS Config now supports the ability to save advanced queries in AWS GovCloud (US) Regions
+ AWS AWS Elemental Link now available in Europe (Paris) region</description>
     </item>
     
     <item>
