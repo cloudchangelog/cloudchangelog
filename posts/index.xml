@@ -19,12 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/02/17/</guid>
       <description>AWS Improving the CPU and latency performance of Amazon applications using AWS CodeGuru Profiler
 Amazon Codeguru Artificial Intelligence
- AWS The 20 most-visited Amazon DynamoDB documentation pages
-Amazon Dynamodb
- AWS Computer Vision at Scale with Dask and PyTorch on Amazon EC2 Spot Instances
-Amazon EC2 AWS Partner Network
- Azure More ways to use composite indexes in Azure Cosmos DB now generally available
- Azure API Management Diagnostics now available in public preview</description>
+ AWS Amazon Pinpoint now supports 10DLC and toll-free numbers
+ AWS Simplified Amazon Elastic File System management console now available in AWS GovCloud (US) Regions
+ AWS Amazon Elasticsearch Service adds Trace Analytics, a new feature for distributed tracing
+ AWS Amazon SNS now supports sending SMS messages to US destinations using ten-digit long codes and toll-free numbers</description>
     </item>
     
     <item>
