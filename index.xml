@@ -6,10 +6,24 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>18 February, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/02/18/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/02/18/</guid>
+      <description>AWS Continuous permissions rightsizing to ensure least privileges in AWS using CloudKnox and AWS Config
+AWS Config AWS Identity And Access Management (IAM)
+ AWS AWS and EU data transfers: strengthened commitments to protect customer data
+Announcements Security, Identity, &amp;amp; Compliance
+ AWS AWS Glue Studio jobs can now update AWS Glue Data Catalog tables
+ AWS Amazon ml.Inf1 instances are now available on Amazon SageMaker in 14 additional AWS regions</description>
+    </item>
     
     <item>
       <title>17 February, 2021</title>
@@ -19,11 +33,13 @@
       <guid>https://cloudchangelog.com/posts/2021/02/17/</guid>
       <description>AWS Improving the CPU and latency performance of Amazon applications using AWS CodeGuru Profiler
 Amazon Codeguru Artificial Intelligence
- AWS Watch now: Empowering users with natural language search featuring Dow Jones
-Amazon Kendra Amazon Machine Learning
- AWS Amazon SNS now supports sending SMS messages to US destinations using ten-digit long codes and toll-free numbers
- AWS Amazon Pinpoint now supports 10DLC and toll-free numbers
- AWS Simplified Amazon Elastic File System management console now available in AWS GovCloud (US) Regions</description>
+ AWS Solving numerical optimization problems like scheduling, routing, and allocation with Amazon SageMaker Processing
+Amazon Sagemaker Artificial Intelligence
+ AWS Getting started with Trace Analytics in Amazon Elasticsearch Service
+Amazon Elasticsearch Service AWS Big Data
+ AWS The 20 most-visited Amazon DynamoDB documentation pages
+Amazon Dynamodb
+ AWS Mergers and Acquisitions readiness with the Well-Architected Framework</description>
     </item>
     
     <item>
