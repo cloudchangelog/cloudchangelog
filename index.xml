@@ -19,10 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/02/18/</guid>
       <description>AWS Continuous permissions rightsizing to ensure least privileges in AWS using CloudKnox and AWS Config
 AWS Config AWS Identity And Access Management (IAM)
+ AWS Amazon ml.Inf1 instances are now available on Amazon SageMaker in 14 additional AWS regions
  AWS AWS and EU data transfers: strengthened commitments to protect customer data
 Announcements Security, Identity, &amp;amp; Compliance
- AWS AWS Glue Studio jobs can now update AWS Glue Data Catalog tables
- AWS Amazon ml.Inf1 instances are now available on Amazon SageMaker in 14 additional AWS regions</description>
+ AWS AWS Glue Studio jobs can now update AWS Glue Data Catalog tables</description>
     </item>
     
     <item>
