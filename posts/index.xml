@@ -33,13 +33,11 @@ Announcements Security, Identity, &amp;amp; Compliance
       <guid>https://cloudchangelog.com/posts/2021/02/17/</guid>
       <description>AWS Improving the CPU and latency performance of Amazon applications using AWS CodeGuru Profiler
 Amazon Codeguru Artificial Intelligence
- AWS Solving numerical optimization problems like scheduling, routing, and allocation with Amazon SageMaker Processing
-Amazon Sagemaker Artificial Intelligence
- AWS Getting started with Trace Analytics in Amazon Elasticsearch Service
-Amazon Elasticsearch Service AWS Big Data
- AWS The 20 most-visited Amazon DynamoDB documentation pages
-Amazon Dynamodb
- AWS Mergers and Acquisitions readiness with the Well-Architected Framework</description>
+ AWS Amazon EC2 Inf1 instances are now available on Amazon SageMaker in 14 additional AWS regions
+ AWS Watch now: Empowering users with natural language search featuring Dow Jones
+Amazon Kendra Amazon Machine Learning
+ AWS Amazon Pinpoint now supports 10DLC and toll-free numbers
+ AWS Simplified Amazon Elastic File System management console now available in AWS GovCloud (US) Regions</description>
     </item>
     
     <item>
