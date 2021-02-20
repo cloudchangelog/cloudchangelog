@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20 February, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/02/20/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/02/20/</guid>
+      <description> AWS Create a custom data connector to Slack’s Member Analytics API in Amazon QuickSight with Amazon Athena Federated Query
+Amazon Athena Amazon Quicksight  </description>
+    </item>
     
     <item>
       <title>19 February, 2021</title>
@@ -19,13 +29,12 @@
       <guid>https://cloudchangelog.com/posts/2021/02/19/</guid>
       <description>AWS Building an administrative console in Amazon QuickSight to analyze usage metrics
 Amazon Quicksight Analytics
- AWS Now create Amazon SageMaker Studio presigned URL with custom expiration time
- AWS Amazon RDS Publishes New Events for Multi-AZ Deployments
- AWS CloudFormation StackSets delegated administration
-Announcements AWS Cloudformation
- AWS Integrating Datadog data with AWS using Amazon AppFlow for intelligent monitoring
-Amazon Appflow Amazon Athena
- AWS Delivering 4K Live Streaming with Automated Provisioning Using AWS Media Services</description>
+ AWS New AWS Solutions Consulting Offer - AI-Powered Inventory Management
+ AWS Amazon MSK backup for Archival, Replay, or Analytics
+Amazon EMR Amazon Managed Streaming For Apache Kafka (Amazon MSK)
+ AWS How Zopa enhanced their fraud detection application using Amazon SageMaker Clarify
+Amazon Machine Learning Amazon Sagemaker
+ AWS Watch now: FOX: Uncompressed live sports in the cloud</description>
     </item>
     
     <item>
