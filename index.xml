@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/02/22/</guid>
       <description>AWS Operating Lambda: Building a solid security foundation – Part 1
 AWS Identity And Access Management (IAM) AWS Lambda
- AWS Using Amazon RDS for SQL Server in a hybrid cloud environment
-Amazon RDS RDS For SQL Server
- AWS Field Notes: Running a Stateful Java Service on Amazon EKS
-Amazon Elastic Kubernetes Service Architecture
- Azure A deep dive into serverless applications on Power Apps and Azure
-Serverless</description>
+ AWS Amazon RDS for Oracle now supports January 2021 Release Updates (RU)
+ AWS Amazon Connect now provides disconnect reason for Voice Calls &amp;amp; Tasks
+ AWS AWS CodeBuild supports Arm-based workloads using AWS Graviton2
+ AWS AWS Control Tower now provides region selection
+ AWS Using Amazon RDS for SQL Server in a hybrid cloud environment</description>
     </item>
     
     <item>
