@@ -19,6 +19,7 @@
       <guid>https://cloudchangelog.com/posts/2021/02/20/</guid>
       <description> AWS Create a custom data connector to Slack’s Member Analytics API in Amazon QuickSight with Amazon Athena Federated Query
 Amazon Athena Amazon Quicksight
+ Azure Azure Image Builder Service now generally available
  Oracle How to use the Oracle MySQL Database Service with applications that run in AWS
 Performance Solutions
   </description>
@@ -32,12 +33,13 @@ Performance Solutions
       <guid>https://cloudchangelog.com/posts/2021/02/19/</guid>
       <description>AWS Building an administrative console in Amazon QuickSight to analyze usage metrics
 Amazon Quicksight Analytics
- AWS New AWS Solutions Consulting Offer - AI-Powered Inventory Management
- AWS Amazon MSK backup for Archival, Replay, or Analytics
-Amazon EMR Amazon Managed Streaming For Apache Kafka (Amazon MSK)
- AWS How Zopa enhanced their fraud detection application using Amazon SageMaker Clarify
-Amazon Machine Learning Amazon Sagemaker
- AWS Watch now: FOX: Uncompressed live sports in the cloud</description>
+ AWS Delivering 4K Live Streaming with Automated Provisioning Using AWS Media Services
+AWS Partner Network Customer Solutions
+ AWS Integrating Datadog data with AWS using Amazon AppFlow for intelligent monitoring
+Amazon Appflow Amazon Athena
+ AWS CloudFormation StackSets delegated administration
+Announcements AWS Cloudformation
+ AWS Amazon RDS Publishes New Events for Multi-AZ Deployments</description>
     </item>
     
     <item>
