@@ -19,13 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/02/23/</guid>
       <description>AWS Use Amazon Athena and Amazon QuickSight to build custom reports of AWS Well-Architected Reviews
 Amazon Athena Amazon Quicksight
- AWS Orchestrating multi-step, custom patch processes using AWS Systems Manager Patch Manager
-Announcements AWS Systems Manager
- AWS Retaining data streams up to one year with Amazon Kinesis Data Streams
-Amazon Kinesis Analytics
- AWS CDK Corner – January 2021
-AWS Cloud Development Kit Developer Tools
- AWS Talkdesk and AWS: What AI and speech-to-text mean for the future of contact centers and a better customer experience</description>
+ AWS Amazon RDS for SQL Server now supports Always On Availability Groups for Standard Edition
+ AWS AWS Database Migration Service now supports MariaDB version 10.5
+ AWS New AWS Solutions Implementation: IoT Static IP Endpoints
+ AWS Updated whitepaper available: Encrypting File Data with Amazon Elastic File System</description>
     </item>
     
     <item>
@@ -81,10 +78,11 @@ Announcements AWS Cloudformation
       <guid>https://cloudchangelog.com/posts/2021/02/18/</guid>
       <description>AWS Continuous permissions rightsizing to ensure least privileges in AWS using CloudKnox and AWS Config
 AWS Config AWS Identity And Access Management (IAM)
- AWS Amazon ml.Inf1 instances are now available on Amazon SageMaker in 14 additional AWS regions
- AWS AWS and EU data transfers: strengthened commitments to protect customer data
-Announcements Security, Identity, &amp;amp; Compliance
- AWS AWS Glue Studio jobs can now update AWS Glue Data Catalog tables</description>
+ AWS How to continuously audit and limit security groups with AWS Firewall Manager
+AWS Firewall Manager Security, Identity, &amp;amp; Compliance
+ AWS Machine learning on distributed Dask using Amazon SageMaker and AWS Fargate
+Amazon Sagemaker Artificial Intelligence
+ AWS Watch now: Accelerating next-generation direct-to-consumer experiences featuring NBCUniversal</description>
     </item>
     
     <item>
