@@ -17,15 +17,15 @@
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/02/23/</guid>
-      <description> AWS Use Amazon Athena and Amazon QuickSight to build custom reports of AWS Well-Architected Reviews
+      <description>AWS Use Amazon Athena and Amazon QuickSight to build custom reports of AWS Well-Architected Reviews
 Amazon Athena Amazon Quicksight
  AWS Orchestrating multi-step, custom patch processes using AWS Systems Manager Patch Manager
 Announcements AWS Systems Manager
- GCP Partnering with Intel to accelerate cloud-native 5G
-Networking Partners
- Oracle Guidelines when moving Integration Workloads from SOA to Oracle Integration
-Cloud Integration
-  </description>
+ AWS Retaining data streams up to one year with Amazon Kinesis Data Streams
+Amazon Kinesis Analytics
+ AWS CDK Corner – January 2021
+AWS Cloud Development Kit Developer Tools
+ AWS Talkdesk and AWS: What AI and speech-to-text mean for the future of contact centers and a better customer experience</description>
     </item>
     
     <item>
