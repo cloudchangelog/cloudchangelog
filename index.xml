@@ -19,10 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/02/23/</guid>
       <description>AWS Use Amazon Athena and Amazon QuickSight to build custom reports of AWS Well-Architected Reviews
 Amazon Athena Amazon Quicksight
- AWS Amazon RDS for SQL Server now supports Always On Availability Groups for Standard Edition
- AWS AWS Database Migration Service now supports MariaDB version 10.5
- AWS New AWS Solutions Implementation: IoT Static IP Endpoints
- AWS Updated whitepaper available: Encrypting File Data with Amazon Elastic File System</description>
+ AWS Access Amazon EFS file systems from EC2 Mac instances running macOS Big Sur
+ AWS Amazon EC2 Mac Instances now support macOS Big Sur
+ AWS Amazon Elasticsearch Service add support for Reporting in Kibana
+ AWS Amazon RDS for SQL Server now supports Always On Availability Groups for Standard Edition</description>
     </item>
     
     <item>
