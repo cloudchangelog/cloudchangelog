@@ -17,12 +17,14 @@
       <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/02/24/</guid>
-      <description> AWS Amazon EC2 Auto Scaling now shows scaling history for deleted groups
+      <description>AWS Amazon EC2 Auto Scaling now shows scaling history for deleted groups
  AWS Amazon DocumentDB (with MongoDB compatibility) re:Invent 2020 recap
 Amazon Documentdb AWS Re:Invent
- GCP What’s new with Google Cloud
-Google Workspace Inside Google Cloud
-  </description>
+ AWS Building a serverless multi-player game that scales
+Amazon API Gateway Amazon Dynamodb
+ AWS How to set up a recurring Security Hub summary email
+AWS Security Hub Security, Identity, &amp;amp; Compliance
+ AWS Announcing two new on-demand digital courses for Media Services</description>
     </item>
     
     <item>
@@ -77,13 +79,11 @@ Performance Solutions
       <guid>https://cloudchangelog.com/posts/2021/02/19/</guid>
       <description>AWS Building an administrative console in Amazon QuickSight to analyze usage metrics
 Amazon Quicksight Analytics
- AWS Delivering 4K Live Streaming with Automated Provisioning Using AWS Media Services
-AWS Partner Network Customer Solutions
- AWS Integrating Datadog data with AWS using Amazon AppFlow for intelligent monitoring
-Amazon Appflow Amazon Athena
- AWS CloudFormation StackSets delegated administration
-Announcements AWS Cloudformation
- AWS Amazon RDS Publishes New Events for Multi-AZ Deployments</description>
+ AWS Assign a Delegated Administrator to manage AWS CloudFormation StackSets across your AWS Organization
+ AWS New AWS Solutions Consulting Offer - AI-Powered Inventory Management
+ AWS How Zopa enhanced their fraud detection application using Amazon SageMaker Clarify
+Amazon Machine Learning Amazon Sagemaker
+ AWS Watch now: FOX: Uncompressed live sports in the cloud</description>
     </item>
     
     <item>
