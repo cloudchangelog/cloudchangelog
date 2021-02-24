@@ -6,10 +6,21 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>24 February, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/02/24/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/02/24/</guid>
+      <description> AWS Amazon EC2 Auto Scaling now shows scaling history for deleted groups
+ GCP What’s new with Google Cloud
+Google Workspace Inside Google Cloud  </description>
+    </item>
     
     <item>
       <title>23 February, 2021</title>
@@ -19,10 +30,12 @@
       <guid>https://cloudchangelog.com/posts/2021/02/23/</guid>
       <description>AWS Use Amazon Athena and Amazon QuickSight to build custom reports of AWS Well-Architected Reviews
 Amazon Athena Amazon Quicksight
- AWS Access Amazon EFS file systems from EC2 Mac instances running macOS Big Sur
- AWS Amazon EC2 Mac Instances now support macOS Big Sur
- AWS Amazon Elasticsearch Service add support for Reporting in Kibana
- AWS Amazon RDS for SQL Server now supports Always On Availability Groups for Standard Edition</description>
+ AWS Introducing our new Solutions Training for Partners: Sales Best Practices courses
+ AWS Analyze and understand IAM role usage with Amazon Detective
+Amazon Detective AWS Identity And Access Management (IAM)
+ AWS Retaining data streams up to one year with Amazon Kinesis Data Streams
+Amazon Kinesis Analytics
+ AWS Talkdesk and AWS: What AI and speech-to-text mean for the future of contact centers and a better customer experience</description>
     </item>
     
     <item>
