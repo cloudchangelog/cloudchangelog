@@ -6,10 +6,23 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>25 February, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/02/25/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/02/25/</guid>
+      <description> AWS Using container images to run TensorFlow models in AWS Lambda
+Amazon Machine Learning Artificial Intelligence
+ Oracle Security-first email and web services built on a security-first cloud: OCI
+Security Strategies
+  </description>
+    </item>
     
     <item>
       <title>24 February, 2021</title>
@@ -18,14 +31,13 @@
       
       <guid>https://cloudchangelog.com/posts/2021/02/24/</guid>
       <description>AWS Amazon EC2 Auto Scaling now shows scaling history for deleted groups
- AWS Using container images to run TensorFlow models in AWS Lambda
-Amazon Machine Learning Artificial Intelligence
- AWS Run usage analytics on Amazon QuickSight using AWS CloudTrail
-Amazon Quicksight Analytics
- AWS Amazon DocumentDB (with MongoDB compatibility) re:Invent 2020 recap
-Amazon Documentdb AWS Re:Invent
- AWS Announcing two new on-demand digital courses for Media Services
- AWS Building a serverless multi-player game that scales</description>
+ AWS Amazon RDS now supports PostgreSQL 13
+ AWS Field Notes: Stopping an Automatically Started Database Instance with Amazon RDS
+Amazon RDS Architecture
+ AWS Designing high-performance time series data tables on Amazon RDS for PostgreSQL
+Amazon RDS RDS For Postgresql
+ AWS Amazon Elasticsearch Service now supports rollups, reducing storage costs for extended retention
+ AWS AWS Network Firewall Deployment Automations for AWS Transit Gateway is Generally Available</description>
     </item>
     
     <item>
