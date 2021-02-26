@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>26 February, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/02/26/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/02/26/</guid>
+      <description> AWS Gaining operational insights with AIOps using Amazon DevOps Guru
+Amazon Machine Learning Devops
+ AWS Deploy a Spring Boot application on a multi-architecture Amazon EKS cluster
+Amazon Elastic Kubernetes Service Containers
+ GCP What’s new with Google Cloud
+Google Workspace Inside Google Cloud
+  </description>
+    </item>
     
     <item>
       <title>25 February, 2021</title>
