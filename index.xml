@@ -6,10 +6,23 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>27 February, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/02/27/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/02/27/</guid>
+      <description> GCP Optimizing your bucket options in Cloud Storage
+Developers &amp;amp; Practitioners
+ Oracle Deploying a Public Load Balancer for an Oracle Analytics Vanity URL
+A-Team Chronicles Analytics &amp;amp;Amp; Reporting
+  </description>
+    </item>
     
     <item>
       <title>26 February, 2021</title>
