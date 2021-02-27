@@ -19,11 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/02/26/</guid>
       <description>AWS Gaining operational insights with AIOps using Amazon DevOps Guru
 Amazon Machine Learning Devops
- AWS Translate and analyze text using SQL functions with Amazon Athena, Amazon Translate, and Amazon Comprehend
-Amazon Athena Amazon Comprehend
- AWS Deploy a Spring Boot application on a multi-architecture Amazon EKS cluster
-Amazon Elastic Kubernetes Service Containers
- AWS Use AWS Lambda and Amazon QuickSight to Build a Dashboard for AWS Health Events in Organizational View</description>
+ AWS Support for AS923-1 frequency band is now generally available for AWS IoT Core for LoRaWAN
+ AWS How to protect sensitive data for its entire lifecycle in AWS
+Amazon Cloudfront AWS Key Management Service
+ AWS Autoscaling Amazon ECS services based on custom CloudWatch and Prometheus metrics
+Amazon Elastic Container Service Containers
+ AWS Reminder: Amazon S3 and Amazon CloudFront service certificates migrating to Amazon Trust Services starting March 23, 2021</description>
     </item>
     
     <item>
@@ -125,11 +126,10 @@ Amazon Machine Learning Amazon Sagemaker
       <guid>https://cloudchangelog.com/posts/2021/02/18/</guid>
       <description>AWS Continuous permissions rightsizing to ensure least privileges in AWS using CloudKnox and AWS Config
 AWS Config AWS Identity And Access Management (IAM)
- AWS How to continuously audit and limit security groups with AWS Firewall Manager
-AWS Firewall Manager Security, Identity, &amp;amp; Compliance
- AWS Machine learning on distributed Dask using Amazon SageMaker and AWS Fargate
-Amazon Sagemaker Artificial Intelligence
- AWS Watch now: Accelerating next-generation direct-to-consumer experiences featuring NBCUniversal</description>
+ AWS Amazon CloudWatch Contributor Insights for Amazon DynamoDB now supports AWS CloudFormation
+ AWS Amazon ml.Inf1 instances are now available on Amazon SageMaker in 14 additional AWS regions
+ AWS AWS and EU data transfers: strengthened commitments to protect customer data
+Announcements Security, Identity, &amp;amp; Compliance</description>
     </item>
     
     <item>
