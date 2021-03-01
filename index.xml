@@ -19,11 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/03/01/</guid>
       <description>AWS Creating Amazon Timestream interpolated views using Amazon Kinesis Data Analytics for Apache Flink
 Amazon Kinesis Amazon Quicksight
- AWS Operating Lambda: Building a solid security foundation – Part 2
-Amazon API Gateway AWS Cloudtrail
- AWS AWS High Performance Computing (HPC) Competency Partners Are Fueling Fast, Secure, and Cost-Effective Innovation
-Announcements AWS Partner Network
- AWS Amazon EKS now supports adding KMS envelope encryption to existing clusters to enhance security for secrets</description>
+ AWS Amazon Connect Customer Profiles now supports data sources from Amazon S3
+ AWS AWS CodePipeline now supports 1000 pipelines per account
+ AWS AWS Gateway Load Balancer is now available in the US East (Ohio), Asia Pacific (Tokyo), and EU (Frankfurt and Stockholm) Regions
+ AWS TLS 1.2 will be required for all AWS FIPS endpoints beginning March 31, 2021</description>
     </item>
     
     <item>
