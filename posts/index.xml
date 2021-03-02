@@ -19,13 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/03/02/</guid>
       <description>AWS AWS Asia Pacific (Osaka) Region Now Open to All, with Three AZs and More Services
 Announcements Regions
- AWS Announcing the newly expanded AWS Asia Pacific (Osaka) Region
- Azure Connecting customers and businesses with Azure Communication Services and Microsoft Teams
-Web Mobile
- Azure Innovate across hybrid and multicloud with new Azure Arc capabilities
-Hybrid
- Azure Azure Percept: Edge intelligence from silicon to service
-Artificial Intelligence</description>
+ AWS Four new digital training offerings for AWS End User Computing
+ AWS AWS Glue DataBrew extends its datasets to support files without an explicit file extension or a header row
+ AWS Essential security for everyone: Building a secure AWS foundation
+Best Practices Security, Identity, &amp;amp; Compliance
+ AWS Announcing General Availability of Ethereum on Amazon Managed Blockchain</description>
     </item>
     
     <item>
@@ -109,13 +107,14 @@ Announcements AWS Partner Network
       
       <guid>https://cloudchangelog.com/posts/2021/02/24/</guid>
       <description>AWS Amazon EC2 Auto Scaling now shows scaling history for deleted groups
- AWS Amazon RDS now supports PostgreSQL 13
- AWS Field Notes: Stopping an Automatically Started Database Instance with Amazon RDS
-Amazon RDS Architecture
- AWS Designing high-performance time series data tables on Amazon RDS for PostgreSQL
-Amazon RDS RDS For Postgresql
- AWS Amazon Elasticsearch Service now supports rollups, reducing storage costs for extended retention
- AWS AWS Network Firewall Deployment Automations for AWS Transit Gateway is Generally Available</description>
+ AWS Using container images to run TensorFlow models in AWS Lambda
+Amazon Machine Learning Artificial Intelligence
+ AWS Run usage analytics on Amazon QuickSight using AWS CloudTrail
+Amazon Quicksight Analytics
+ AWS Amazon DocumentDB (with MongoDB compatibility) re:Invent 2020 recap
+Amazon Documentdb AWS Re:Invent
+ AWS Announcing two new on-demand digital courses for Media Services
+ AWS Building a serverless multi-player game that scales</description>
     </item>
     
     <item>
