@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>02 March, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/03/02/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/03/02/</guid>
+      <description> GCP What’s new with Google Cloud
+Google Workspace Inside Google Cloud  </description>
+    </item>
     
     <item>
       <title>01 March, 2021</title>
@@ -19,10 +29,10 @@
       <guid>https://cloudchangelog.com/posts/2021/03/01/</guid>
       <description>AWS Creating Amazon Timestream interpolated views using Amazon Kinesis Data Analytics for Apache Flink
 Amazon Kinesis Amazon Quicksight
- AWS Amazon Connect Customer Profiles now supports data sources from Amazon S3
- AWS AWS CodePipeline now supports 1000 pipelines per account
- AWS AWS Gateway Load Balancer is now available in the US East (Ohio), Asia Pacific (Tokyo), and EU (Frankfurt and Stockholm) Regions
- AWS TLS 1.2 will be required for all AWS FIPS endpoints beginning March 31, 2021</description>
+ AWS Amazon Connect now supports 15 minute intervals for historical metric reporting
+ AWS AWS AppConfig is now available in AWS GovCloud (US) Regions
+ AWS Get ready to roll! 2021 AWS DeepRacer League Season is now underway
+ AWS Aventri moves its event management platform online with Amazon Interactive Video Service</description>
     </item>
     
     <item>
