@@ -19,12 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/03/02/</guid>
       <description>AWS AWS Asia Pacific (Osaka) Region Now Open to All, with Three AZs and More Services
 Announcements Regions
- AWS New AWS Solutions Consulting Offer - Intelligent SAP Migration and Management on AWS
- AWS Field Notes: Accelerate Research with Managed Jupyter on Amazon SageMaker
-Amazon Sagemaker Architecture
- AWS How AWS streamed re:Invent 2020
-AWS Elemental Link AWS Elemental Medialive
- AWS Announcing the newly expanded AWS Asia Pacific (Osaka) Region</description>
+ AWS The AWS Lambda console now features a new navigation design
+ AWS New Amazon SNS Console Now Available in AWS GovCloud (US) Regions
+ AWS FreeRTOS Long Term Support now includes AWS IoT over-the-air update, AWS IoT Device Defender, and AWS IoT Jobs libraries
+ AWS Amazon EventBridge now supports propagation of X-Ray trace context</description>
     </item>
     
     <item>
