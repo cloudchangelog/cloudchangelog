@@ -19,12 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/03/04/</guid>
       <description>AWS Automating custom cost and usage tracking for member account owners in the AWS Migration Acceleration Program
 AWS Cost And Usage Report AWS Cost Management
- AWS Best practices for AWS Config conformance packs
-AWS Config Best Practices
- AWS Monitor API Gateway endpoints with Amazon CloudWatch Synthetics
-Amazon API Gateway Amazon Cloudwatch
- AWS Decision-making framework for configuration with AWS AppConfig
-AWS Systems Manager Configuration, Compliance, And Auditing</description>
+ AWS Manage Amazon EC2 instance clock accuracy using Amazon Time Sync Service and Amazon CloudWatch – Part 1
+Amazon Cloudwatch Management Tools
+ AWS Manage Amazon EC2 instance clock accuracy using Amazon Time Sync Service and Amazon CloudWatch – Part 2
+Amazon Cloudwatch Learning Levels</description>
     </item>
     
     <item>
