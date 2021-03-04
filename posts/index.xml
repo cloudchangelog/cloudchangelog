@@ -6,10 +6,26 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>04 March, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/03/04/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/03/04/</guid>
+      <description>AWS Automating custom cost and usage tracking for member account owners in the AWS Migration Acceleration Program
+AWS Cost And Usage Report AWS Cost Management
+ AWS Best practices for AWS Config conformance packs
+AWS Config Best Practices
+ AWS Monitor API Gateway endpoints with Amazon CloudWatch Synthetics
+Amazon API Gateway Amazon Cloudwatch
+ AWS Decision-making framework for configuration with AWS AppConfig
+AWS Systems Manager Configuration, Compliance, And Auditing</description>
+    </item>
     
     <item>
       <title>03 March, 2021</title>
@@ -19,10 +35,11 @@
       <guid>https://cloudchangelog.com/posts/2021/03/03/</guid>
       <description>AWS Analyzing open-source ML pipeline models in real time using Amazon SageMaker Debugger
 Amazon Sagemaker Artificial Intelligence
- AWS Amazon Elastic File System (Amazon EFS) is now available in the AWS Asia Pacific (Osaka) region
- AWS Utilizing XGBoost training reports to improve your models
-Amazon Machine Learning Amazon Sagemaker
- AWS AWS Systems Manager OpsCenter now displays an aggregated view of all operational issues for a specified resource</description>
+ AWS Integrating AWS Device Farm with your CI/CD pipeline to run cross-browser Selenium tests
+AWS Device Farm Devops
+ AWS How to delegate management of identity in AWS Single Sign-On
+AWS Single Sign-On (SSO) Security, Identity, &amp;amp; Compliance
+ AWS C5 Type 2 attestation report now available with one new Region and 123 services in scope</description>
     </item>
     
     <item>
