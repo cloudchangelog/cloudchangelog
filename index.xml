@@ -19,10 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/03/04/</guid>
       <description>AWS Automating custom cost and usage tracking for member account owners in the AWS Migration Acceleration Program
 AWS Cost And Usage Report AWS Cost Management
- AWS AWS Step Functions adds tooling support for YAML
- AWS AWS Systems Manager Change Manager now supports multi-level approvals
- AWS Amazon EC2 P4d Instances now available in the US East (Ohio) and Asia Pacific (Tokyo) regions
- AWS AWS Network Firewall is now available in the US East (Ohio), Asia Pacific (Tokyo), Europe (Frankfurt), and Europe (Stockholm) AWS Regions</description>
+ AWS Manage Amazon EC2 instance clock accuracy using Amazon Time Sync Service and Amazon CloudWatch – Part 1
+Amazon Cloudwatch Management Tools
+ AWS ­­­­­­­How DataArt Helped Inchcape Shipping Services to Revolutionize Document Processing on AWS
+.NET Amazon Simple Storage Services (S3)
+ AWS Best practices for AWS Config conformance packs</description>
     </item>
     
     <item>
