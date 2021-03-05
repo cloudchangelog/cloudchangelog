@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>05 March, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/03/05/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/03/05/</guid>
+      <description> Oracle IaC in the Cloud: Getting Started with Resource Manager
+Cloud Cloud Native  </description>
+    </item>
     
     <item>
       <title>04 March, 2021</title>
