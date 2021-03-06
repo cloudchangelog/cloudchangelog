@@ -19,10 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/03/05/</guid>
       <description>AWS Best practices for Amazon RDS for PostgreSQL major upgrades and replicas
 Amazon RDS RDS For Postgresql
- AWS Amazon EC2 D3 instances with dense local HDD storage now available in Asia Pacific (Singapore, Sydney and Tokyo), and Europe (Frankfurt) regions
- AWS AWS Shield Advanced now supports resource tagging
- AWS AWS Proton makes new fields available for Jinja parametrization
- AWS Amazon EKS now supports creation and management of add-ons using AWS CloudFormation</description>
+ AWS Multimodal deep learning approach for event detection in sports using Amazon SageMaker
+Amazon Sagemaker Artificial Intelligence
+ AWS AWS CloudFormation now supports Amazon S3 on Outposts
+ AWS Amazon Connect now provides an out-of-the-box chat user interface for your website
+ AWS AWS IoT Device SDK for Embedded C now supports over-the-air update, AWS IoT Device Defender custom metrics, and multiple shadows for a single IoT device</description>
     </item>
     
     <item>
