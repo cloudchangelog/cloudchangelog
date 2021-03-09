@@ -19,11 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/03/08/</guid>
       <description>AWS Safely reduce the cost of your unused Amazon DynamoDB tables using on-demand mode
 Amazon Dynamodb
- AWS Announcing Kotlin-centric developer experience in Amplify Android
- AWS AWS Security Hub adds 25 new controls to its Foundational Security Best Practices standard
- AWS Amazon WorkSpaces is available in the Asia Pacific (Mumbai) Region
- AWS AWS Lambda adds four Trusted Advisor checks
- AWS Part 2 – anatomy of a live streaming AWS CloudFormation template</description>
+ AWS Deep dive on the new Amazon EC2 G4ad instances
+Amazon EC2 Technical How-To
+ AWS Operating Lambda: Debugging code – Part 1
+AWS Lambda Best Practices
+ AWS Export and import Kibana dashboards with Amazon ES
+Amazon Elasticsearch Service Analytics
+ AWS Build a DataOps platform to break silos between engineers and analysts</description>
     </item>
     
     <item>
