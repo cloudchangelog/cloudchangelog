@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>09 March, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/03/09/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/03/09/</guid>
+      <description> Oracle Elevating your on-premises Oracle apps with cloud while keeping costs down
+Performance Solutions  </description>
+    </item>
     
     <item>
       <title>08 March, 2021</title>
