@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/03/09/</guid>
       <description>AWS Cross-Region disaster recovery using Amazon Aurora Global Database for Amazon Aurora PostgreSQL
 Amazon Aurora
- AWS AWS Control Tower Detective Guardrails as an AWS Config Conformance Pack
-AWS Config AWS Control Tower
- AWS Building single binary file extensions for AWS Lambda with .NET
-.NET AWS Lambda
+ AWS Introducing a new API allowing you to stop in-progress workflows in Amazon Forecast
  AWS Ingest Salesforce data into Amazon S3 using the CData JDBC custom connector with AWS Glue
-Amazon Simple Storage Services (S3) Analytics</description>
+Amazon Simple Storage Services (S3) Analytics
+ AWS AWS Control Tower Detective Guardrails as an AWS Config Conformance Pack
+AWS Config AWS Control Tower</description>
     </item>
     
     <item>
