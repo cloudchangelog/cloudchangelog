@@ -17,13 +17,14 @@
       <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/03/09/</guid>
-      <description> AWS Cross-Region disaster recovery using Amazon Aurora Global Database for Amazon Aurora PostgreSQL
+      <description>AWS Cross-Region disaster recovery using Amazon Aurora Global Database for Amazon Aurora PostgreSQL
 Amazon Aurora
  AWS AWS Control Tower Detective Guardrails as an AWS Config Conformance Pack
 AWS Config AWS Control Tower
- Oracle Elevating your on-premises Oracle apps with cloud while keeping costs down
-Performance Solutions
-  </description>
+ AWS Building single binary file extensions for AWS Lambda with .NET
+.NET AWS Lambda
+ AWS Ingest Salesforce data into Amazon S3 using the CData JDBC custom connector with AWS Glue
+Amazon Simple Storage Services (S3) Analytics</description>
     </item>
     
     <item>
