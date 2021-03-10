@@ -19,11 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/03/09/</guid>
       <description>AWS Cross-Region disaster recovery using Amazon Aurora Global Database for Amazon Aurora PostgreSQL
 Amazon Aurora
- AWS CloudEndure Migration and CloudEndure Disaster Recovery now support EBS Local Snapshots on AWS Outposts
- AWS Active learning workflow for Amazon Comprehend custom classification models – Part 1
-Amazon Comprehend Amazon Machine Learning
- AWS Active learning workflow for Amazon Comprehend custom classification models – Part 2
-Amazon Comprehend Amazon Machine Learning</description>
+ AWS Amazon Aurora PostgreSQL-Compatible edition supports simultaneous authentication with both Microsoft Active Directory (AD) and AWS Identity and Access Management (IAM)
+ AWS How to Use AWS Transfer Family to Replace and Scale SFTP Servers
+AWS Partner Network AWS Transfer Family
+ AWS AWS Control Tower Detective Guardrails as an AWS Config Conformance Pack</description>
     </item>
     
     <item>
