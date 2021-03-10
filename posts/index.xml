@@ -6,10 +6,27 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 March, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/03/10/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/03/10/</guid>
+      <description>AWS Accelerating workloads using parallelism in AWS Step Functions
+AWS Step Functions Serverless
+ Azure Azure Defender for Storage powered by Microsoft threat intelligence
+Storage, Backup &amp;amp; Recovery Security
+ Azure Deliver Java apps quickly using Custom Connectors in Power Apps
+Business Intelligence Serverless
+ Azure Python Durable Functions support in Azure Functions is now generally available
+ Azure General availability: Azure Functions supports .NET 5 in production
+ Azure Node.</description>
+    </item>
     
     <item>
       <title>09 March, 2021</title>
