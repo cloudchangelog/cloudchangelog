@@ -19,13 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/03/10/</guid>
       <description>AWS Accelerating workloads using parallelism in AWS Step Functions
 AWS Step Functions Serverless
- Azure Azure Defender for Storage powered by Microsoft threat intelligence
-Storage, Backup &amp;amp; Recovery Security
- Azure Deliver Java apps quickly using Custom Connectors in Power Apps
-Business Intelligence Serverless
- Azure Python Durable Functions support in Azure Functions is now generally available
- Azure General availability: Azure Functions supports .NET 5 in production
- Azure Node.</description>
+ AWS Top 9 performance tuning tips for PrestoDB on Amazon EMR
+Amazon EMR AWS Big Data
+ AWS Translate video captions and subtitles using Amazon Translate
+Amazon Machine Learning Amazon Translate
+ AWS Archiving Amazon MSK Data to Amazon S3 with the Lenses.io S3 Kafka Connect Connector
+Amazon Athena Amazon Managed Streaming For Apache Kafka (Amazon MSK)</description>
     </item>
     
     <item>
@@ -36,10 +35,10 @@ Business Intelligence Serverless
       <guid>https://cloudchangelog.com/posts/2021/03/09/</guid>
       <description>AWS Cross-Region disaster recovery using Amazon Aurora Global Database for Amazon Aurora PostgreSQL
 Amazon Aurora
- AWS Amazon Aurora PostgreSQL-Compatible edition supports simultaneous authentication with both Microsoft Active Directory (AD) and AWS Identity and Access Management (IAM)
- AWS How to Use AWS Transfer Family to Replace and Scale SFTP Servers
-AWS Partner Network AWS Transfer Family
- AWS AWS Control Tower Detective Guardrails as an AWS Config Conformance Pack</description>
+ AWS CloudEndure Migration and CloudEndure Disaster Recovery now support EBS Local Snapshots on AWS Outposts
+ AWS Online Tech Talk March 17: Migrate your on-premises data lake to a modern data lake on Amazon S3
+Amazon Simple Storage Services (S3) Announcements
+ AWS Active learning workflow for Amazon Comprehend custom classification models – Part 1</description>
     </item>
     
     <item>
