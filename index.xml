@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/03/10/</guid>
       <description>AWS Accelerating workloads using parallelism in AWS Step Functions
 AWS Step Functions Serverless
- AWS Top 9 performance tuning tips for PrestoDB on Amazon EMR
-Amazon EMR AWS Big Data
- AWS Translate video captions and subtitles using Amazon Translate
-Amazon Machine Learning Amazon Translate
- AWS Archiving Amazon MSK Data to Amazon S3 with the Lenses.io S3 Kafka Connect Connector
-Amazon Athena Amazon Managed Streaming For Apache Kafka (Amazon MSK)</description>
+ AWS IAM Access Analyzer now enables you to validate public and cross-account access before deploying permissions changes
+ AWS Announcing General Availability of Amazon Redshift Cross-database queries
+ AWS Announcing General Availability of Amazon Redshift Data Sharing
+ AWS AWS Backup adds support for continuous backup and point-in-time recovery of Amazon RDS instances
+ AWS Point-in-time recovery and continuous backup for Amazon RDS with AWS Backup</description>
     </item>
     
     <item>
