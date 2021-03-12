@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>12 March, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/03/12/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/03/12/</guid>
+      <description> GCP Three ways of receiving events in Cloud Run
+Developers &amp;amp; Practitioners  </description>
+    </item>
     
     <item>
       <title>11 March, 2021</title>
@@ -19,11 +29,11 @@
       <guid>https://cloudchangelog.com/posts/2021/03/11/</guid>
       <description>AWS Journey to Adopt Cloud-native Architecture Series: #1 – Preparing your Applications for Hypergrowth
 Amazon EC2 Amazon RDS
- AWS Online Tech Talk March 18: Reduce cost and gain business value by moving to AWS Storage
-Announcements Events
- AWS 2020 in Review for AWS CloudFormation
-AWS Cloudformation Management &amp;amp; Governance
- AWS Amazon RDS for Oracle supports Oracle Management Agent (OMA) version 13.4 for Oracle Enterprise Manager Cloud Control 13cR4</description>
+ AWS Amazon Elasticsearch Service now publishes events to Amazon CloudWatch and Amazon EventBridge for service software updates
+ AWS AWS Elemental MediaTailor introduces Channel Assembly for creating virtual linear OTT channels
+ AWS PDF document pre-processing with Amazon Textract: Visuals detection and removal
+Amazon Textract Artificial Intelligence
+ AWS Get to know the first new AWS Heroes of 2021!</description>
     </item>
     
     <item>
