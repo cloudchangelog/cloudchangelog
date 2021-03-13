@@ -6,10 +6,23 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>13 March, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/03/13/</link>
+      <pubDate>Sat, 13 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/03/13/</guid>
+      <description> AWS How you can use Amazon GuardDuty to detect suspicious activity within your AWS account
+Amazon Guardduty Security, Identity, &amp;amp; Compliance
+ GCP Serving up data from Cloud Storage
+Developers &amp;amp; Practitioners
+  </description>
+    </item>
     
     <item>
       <title>12 March, 2021</title>
@@ -19,11 +32,11 @@
       <guid>https://cloudchangelog.com/posts/2021/03/12/</guid>
       <description>AWS Using Amazon CloudWatch Synthetics to find broken links on your website
 Amazon Cloudwatch Management Tools
- AWS New AWS Solutions Consulting Offer - Conversational AI Platform
- AWS New AWS Solutions Consulting Offer - Virtual Desktop Accelerator
- AWS AWS Wavelength is now ISO 9001, 27001, 27017 and 27018 compliant
- AWS Amazon EC2 Auto Scaling adds support for local time zones for scheduled scaling
- AWS Identify and Eliminate Risks on AWS IAM and Secure Data Stores Using Sonrai Dig</description>
+ AWS Automating dynamic mapping and renaming of column names in data files using AWS Glue: Part 1
+Analytics AWS Big Data
+ AWS Automating dynamic mapping and renaming of column names in data files using AWS Glue: Part 2
+Analytics AWS Big Data
+ AWS Amazon CloudWatch Events and Metrics for AWS Backup</description>
     </item>
     
     <item>
