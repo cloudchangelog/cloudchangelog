@@ -17,13 +17,13 @@
       <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/03/16/</guid>
-      <description> AWS Connecting to an interactive shell on your containers running in AWS Fargate using AWS Copilot
+      <description>AWS Connecting to an interactive shell on your containers running in AWS Fargate using AWS Copilot
 Containers AWS Copilot
  AWS NEW – Using Amazon ECS Exec to access your containers on AWS Fargate and Amazon EC2
 Amazon Elastic Container Service Containers
- Azure Do more for the National Security mission with Azure
-Government
-  </description>
+ AWS How Version 1 Migrated Martin Currie’s Windows Workloads to AWS to Enable Agility and Innovation
+AWS Partner Network Case Study
+ Azure Do more for the National Security mission with Azure</description>
     </item>
     
     <item>
@@ -79,11 +79,10 @@ Developers &amp;amp; Practitioners
       <guid>https://cloudchangelog.com/posts/2021/03/12/</guid>
       <description>AWS Using Amazon CloudWatch Synthetics to find broken links on your website
 Amazon Cloudwatch Management Tools
- AWS Automating dynamic mapping and renaming of column names in data files using AWS Glue: Part 1
-Analytics AWS Big Data
- AWS Automating dynamic mapping and renaming of column names in data files using AWS Glue: Part 2
-Analytics AWS Big Data
- AWS Amazon CloudWatch Events and Metrics for AWS Backup</description>
+ AWS From forecasting demand to ordering – An automated machine learning approach with Amazon Forecast to decrease stockouts, excess inventory, and costs
+Amazon Forecast Artificial Intelligence
+ AWS New AWS Solutions Consulting Offer - Virtual Desktop Accelerator
+ AWS New AWS Solutions Consulting Offer - Design and Implementation for Druva Data Protection Solutions</description>
     </item>
     
     <item>
