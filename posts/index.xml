@@ -6,10 +6,23 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>16 March, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/03/16/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/03/16/</guid>
+      <description> AWS Connecting to an interactive shell on your containers running in AWS Fargate using AWS Copilot
+Containers AWS Copilot
+ AWS NEW – Using Amazon ECS Exec to access your containers on AWS Fargate and Amazon EC2
+Amazon Elastic Container Service Containers
+  </description>
+    </item>
     
     <item>
       <title>15 March, 2021</title>
@@ -19,11 +32,13 @@
       <guid>https://cloudchangelog.com/posts/2021/03/15/</guid>
       <description>AWS Build proactive database monitoring for Amazon RDS with Amazon CloudWatch Logs, AWS Lambda, and Amazon SNS
 Amazon Cloudwatch Amazon RDS
- AWS AWS Config Adds 3 New Config Rules for Amazon Secrets Manager
- AWS AWS Cost Anomaly Detection now supports AWS CloudFormation
- AWS Bundle Management APIs now generally available for Amazon WorkSpaces
+ AWS Architecting for high availability on Amazon S3
+Amazon Simple Storage Services (S3) Events
  AWS Improving your Java applications using Amazon CodeGuru Profiler
-Amazon Codeguru Amazon Codeguru Profiler</description>
+Amazon Codeguru Amazon Codeguru Profiler
+ AWS AWS Fault Injection Simulator – Use Controlled Experiments to Boost Resilience
+AWS Re:Invent Launch
+ AWS AWS Cost Anomaly Detection now supports AWS CloudFormation</description>
     </item>
     
     <item>
