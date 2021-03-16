@@ -19,11 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/03/16/</guid>
       <description>AWS Connecting to an interactive shell on your containers running in AWS Fargate using AWS Copilot
 Containers AWS Copilot
- AWS NEW – Using Amazon ECS Exec to access your containers on AWS Fargate and Amazon EC2
-Amazon Elastic Container Service Containers
- AWS How Version 1 Migrated Martin Currie’s Windows Workloads to AWS to Enable Agility and Innovation
-AWS Partner Network Case Study
- Azure Do more for the National Security mission with Azure</description>
+ AWS Announcing General Availability of AWS Fault Injection Simulator, a fully managed service to run controlled experiments
+ AWS Announcing support for multiple containers on Amazon SageMaker Inference endpoints, leading to cost savings of up to 80%
+ AWS New digital course: Amazon S3 Cost Optimization
+ AWS New AWS Solutions Consulting Offer - Build Cloud Foundations</description>
     </item>
     
     <item>
