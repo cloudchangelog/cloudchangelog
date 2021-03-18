@@ -19,11 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/03/17/</guid>
       <description>AWS AWS achieves its first ISMAP certification in Japan
 Security, Identity, &amp;amp; Compliance AWS Compliance
- AWS AWS X-Ray Insights is now available in AWS GovCloud (US) Regions
- AWS AWS announces General Availability of Six New Regions for Amazon GameLift
- AWS Optimizing storage management with Amazon FSx for Lustre storage quotas
-Amazon Fsx For Lustre Storage
- AWS Blaze Streaming Media delivers remote workflows for virtual events with AWS</description>
+ AWS Export and analyze Amazon DynamoDB data in an Amazon S3 data lake in Apache Parquet format
+Amazon Athena Amazon Dynamodb
+ AWS Amazon Connect launches new metric capabilities for measuring queue service levels
+ AWS AI for AgriTech: Classifying Kiwifruits using Amazon Rekognition Custom Labels
+Amazon Machine Learning Amazon Rekognition
+ AWS Building an image searching solution with the AWS CDK</description>
     </item>
     
     <item>
