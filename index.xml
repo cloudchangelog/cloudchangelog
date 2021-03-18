@@ -19,11 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/03/18/</guid>
       <description>AWS Introducing Amazon S3 Object Lambda – Use Your Code to Process Data as It Is Being Retrieved from S3
 Amazon Simple Storage Services (S3) Announcements
- AWS Highlights from the latest AWS Identity launches
-Amazon Cognito AWS Directory Service
- AWS Field Notes: Enabling Guardrails in New AWS Regions the AWS Control Tower Supports
-Architecture AWS Control Tower
- AWS Helmet detection error analysis in football videos using Amazon SageMaker</description>
+ AWS Amazon EC2 Auto Scaling Instance Refresh now supports phased deployments
+ AWS Amazon RDS for MySQL now supports rollback protection for database major version upgrades
+ AWS AWS Launch Wizard now supports ‘No Rollback on Failure’
+ AWS Highlights from the latest AWS Identity launches</description>
     </item>
     
     <item>
