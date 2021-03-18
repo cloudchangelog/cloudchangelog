@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>18 March, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/03/18/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/03/18/</guid>
+      <description>AWS Introducing Amazon S3 Object Lambda – Use Your Code to Process Data as It Is Being Retrieved from S3
+Amazon Simple Storage Services (S3) Announcements
+ AWS Highlights from the latest AWS Identity launches
+Amazon Cognito AWS Directory Service
+ AWS Field Notes: Enabling Guardrails in New AWS Regions the AWS Control Tower Supports
+Architecture AWS Control Tower
+ Azure Directory scoped shared access signatures (SAS) generally available</description>
+    </item>
     
     <item>
       <title>17 March, 2021</title>
