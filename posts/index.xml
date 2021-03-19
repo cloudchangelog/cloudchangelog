@@ -18,10 +18,11 @@
       
       <guid>https://cloudchangelog.com/posts/2021/03/19/</guid>
       <description>AWS AWS Solutions Implementation - The Discovering Hot Topics Using Machine Learning solution adds the capability to filter and visualize Twitter topics based on geographical coordinates
- AWS Amazon RDS for Oracle now supports January 2021 Patch Set Update (PSU) for Oracle Database 12.1
- Azure Azure Sphere OS version 21.03 is now available for evaluation
- GCP You make the rules with authentication controls for Cloud Storage
-Developers &amp;amp; Practitioners</description>
+ AWS Amazon EKS reduces cluster creation time by 40%
+ AWS AWS Gateway Load Balancer is now available in additional 9 regions
+ AWS AWS Proton introduces deletion protection for in-use templates
+ AWS Graceful shutdowns with ECS
+Amazon Elastic Container Service Containers</description>
     </item>
     
     <item>
