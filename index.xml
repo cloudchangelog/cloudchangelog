@@ -29,10 +29,12 @@ A-Team Chronicles Architecture  </description>
       <guid>https://cloudchangelog.com/posts/2021/03/18/</guid>
       <description>AWS Introducing Amazon S3 Object Lambda – Use Your Code to Process Data as It Is Being Retrieved from S3
 Amazon Simple Storage Services (S3) Announcements
- AWS Amazon EC2 Auto Scaling Instance Refresh now supports phased deployments
- AWS Amazon RDS for MySQL now supports rollback protection for database major version upgrades
- AWS AWS Launch Wizard now supports ‘No Rollback on Failure’
- AWS Highlights from the latest AWS Identity launches</description>
+ AWS New digital course: AWS Cloud Technical Essentials
+ AWS Helmet detection error analysis in football videos using Amazon SageMaker
+Amazon Machine Learning Amazon Sagemaker
+ AWS Cost-effective disaster recovery for Amazon Aurora databases using AWS Backup
+Amazon Aurora AWS Backup
+ AWS S3 Object Lambda allows you to add your own code to S3 GET requests to modify and process data as it is returned to an application</description>
     </item>
     
     <item>
@@ -43,12 +45,11 @@ Amazon Simple Storage Services (S3) Announcements
       <guid>https://cloudchangelog.com/posts/2021/03/17/</guid>
       <description>AWS AWS achieves its first ISMAP certification in Japan
 Security, Identity, &amp;amp; Compliance AWS Compliance
- AWS Export and analyze Amazon DynamoDB data in an Amazon S3 data lake in Apache Parquet format
-Amazon Athena Amazon Dynamodb
- AWS Amazon Connect launches new metric capabilities for measuring queue service levels
- AWS AI for AgriTech: Classifying Kiwifruits using Amazon Rekognition Custom Labels
-Amazon Machine Learning Amazon Rekognition
- AWS Building an image searching solution with the AWS CDK</description>
+ AWS AWS announces Developer Preview release of opinionated deployment tool for .NET CLI
+ AWS AWS X-Ray Insights is now available in AWS GovCloud (US) Regions
+ AWS AWS announces General Availability of Six New Regions for Amazon GameLift
+ AWS Optimizing storage management with Amazon FSx for Lustre storage quotas
+Amazon Fsx For Lustre Storage</description>
     </item>
     
     <item>
@@ -75,13 +76,13 @@ Amazon EC2 Graviton
       <guid>https://cloudchangelog.com/posts/2021/03/15/</guid>
       <description>AWS Build proactive database monitoring for Amazon RDS with Amazon CloudWatch Logs, AWS Lambda, and Amazon SNS
 Amazon Cloudwatch Amazon RDS
- AWS Architecting for high availability on Amazon S3
-Amazon Simple Storage Services (S3) Events
- AWS Improving your Java applications using Amazon CodeGuru Profiler
-Amazon Codeguru Amazon Codeguru Profiler
- AWS AWS Fault Injection Simulator – Use Controlled Experiments to Boost Resilience
-AWS Re:Invent Launch
- AWS AWS Cost Anomaly Detection now supports AWS CloudFormation</description>
+ AWS How to auto-remediate internet accessible ports with AWS Config and AWS System Manager
+AWS Config AWS Systems Manager
+ AWS Architecture Monthly Magazine: Semiconductor Design
+Architecture Semiconductor &amp;amp; Electronics
+ AWS How 1Strategy simplified their spreadsheet ETL process using AWS Glue DataBrew
+Analytics AWS Glue
+ AWS Amazon ECS now allows you to execute commands in a container running on Amazon EC2 or AWS Fargate</description>
     </item>
     
     <item>
@@ -120,10 +121,13 @@ Developers &amp;amp; Practitioners
       <guid>https://cloudchangelog.com/posts/2021/03/12/</guid>
       <description>AWS Using Amazon CloudWatch Synthetics to find broken links on your website
 Amazon Cloudwatch Management Tools
- AWS From forecasting demand to ordering – An automated machine learning approach with Amazon Forecast to decrease stockouts, excess inventory, and costs
-Amazon Forecast Artificial Intelligence
- AWS New AWS Solutions Consulting Offer - Virtual Desktop Accelerator
- AWS New AWS Solutions Consulting Offer - Design and Implementation for Druva Data Protection Solutions</description>
+ AWS Build chatbots using Serverless Bot Framework with Salesforce integration
+Amazon Cloudfront Amazon Cognito
+ AWS Automating dynamic mapping and renaming of column names in data files using AWS Glue: Part 2
+Analytics AWS Big Data
+ AWS Amazon CloudWatch Events and Metrics for AWS Backup
+Amazon Cloudwatch Amazon Eventbridge
+ AWS Demystifying KMS keys operations, bring your own key (BYOK), custom key store, and ciphertext portability</description>
     </item>
     
     <item>
@@ -134,11 +138,11 @@ Amazon Forecast Artificial Intelligence
       <guid>https://cloudchangelog.com/posts/2021/03/11/</guid>
       <description>AWS Journey to Adopt Cloud-native Architecture Series: #1 – Preparing your Applications for Hypergrowth
 Amazon EC2 Amazon RDS
- AWS Amazon Elasticsearch Service now publishes events to Amazon CloudWatch and Amazon EventBridge for service software updates
- AWS AWS Elemental MediaTailor introduces Channel Assembly for creating virtual linear OTT channels
- AWS PDF document pre-processing with Amazon Textract: Visuals detection and removal
-Amazon Textract Artificial Intelligence
- AWS Get to know the first new AWS Heroes of 2021!</description>
+ AWS Migrate SQL Server Reporting Services content to Amazon RDS for SQL Server
+Amazon RDS RDS For SQL Server
+ AWS Say Hello to 74 New AWS Competency, Service Delivery, Service Ready, and MSP Partners Added in February
+Announcements AWS Partner Network
+ AWS Online Tech Talk March 18: Reduce cost and gain business value by moving to AWS Storage</description>
     </item>
     
     <item>
@@ -166,10 +170,10 @@ AWS Elemental Mediaconnect Customer Solutions
       <guid>https://cloudchangelog.com/posts/2021/03/09/</guid>
       <description>AWS Cross-Region disaster recovery using Amazon Aurora Global Database for Amazon Aurora PostgreSQL
 Amazon Aurora
- AWS CloudEndure Migration and CloudEndure Disaster Recovery now support EBS Local Snapshots on AWS Outposts
- AWS Online Tech Talk March 17: Migrate your on-premises data lake to a modern data lake on Amazon S3
-Amazon Simple Storage Services (S3) Announcements
- AWS Active learning workflow for Amazon Comprehend custom classification models – Part 1</description>
+ AWS Amazon Aurora Global Database Expands Availability to São Paulo and Stockholm
+ AWS Amazon Aurora PostgreSQL-Compatible edition supports simultaneous authentication with both Microsoft Active Directory (AD) and AWS Identity and Access Management (IAM)
+ AWS How to Use AWS Transfer Family to Replace and Scale SFTP Servers
+AWS Partner Network AWS Transfer Family</description>
     </item>
     
     <item>
@@ -180,13 +184,10 @@ Amazon Simple Storage Services (S3) Announcements
       <guid>https://cloudchangelog.com/posts/2021/03/08/</guid>
       <description>AWS Safely reduce the cost of your unused Amazon DynamoDB tables using on-demand mode
 Amazon Dynamodb
- AWS Deep dive on the new Amazon EC2 G4ad instances
-Amazon EC2 Technical How-To
- AWS Operating Lambda: Debugging code – Part 1
-AWS Lambda Best Practices
- AWS Export and import Kibana dashboards with Amazon ES
-Amazon Elasticsearch Service Analytics
- AWS Build a DataOps platform to break silos between engineers and analysts</description>
+ AWS Amazon RDS for PostgreSQL M6g and R6g instances now available in N. California, Canada, São Paulo, and London regions
+ AWS Part 2 – anatomy of a live streaming AWS CloudFormation template
+AWS Cloudformation AWS Elemental Medialive
+ AWS AWS Security Hub adds 25 new controls to its Foundational Security Best Practices standard</description>
     </item>
     
     <item>
@@ -196,7 +197,9 @@ Amazon Elasticsearch Service Analytics
       
       <guid>https://cloudchangelog.com/posts/2021/03/06/</guid>
       <description> GCP What’s new with Google Cloud
-Google Workspace Inside Google Cloud  </description>
+Google Workspace Inside Google Cloud
+ Oracle Per-image permissions for custom images
+  </description>
     </item>
     
     <item>
@@ -222,11 +225,10 @@ Amazon Sagemaker Artificial Intelligence
       <guid>https://cloudchangelog.com/posts/2021/03/04/</guid>
       <description>AWS Automating custom cost and usage tracking for member account owners in the AWS Migration Acceleration Program
 AWS Cost And Usage Report AWS Cost Management
- AWS Manage Amazon EC2 instance clock accuracy using Amazon Time Sync Service and Amazon CloudWatch – Part 1
-Amazon Cloudwatch Management Tools
- AWS ­­­­­­­How DataArt Helped Inchcape Shipping Services to Revolutionize Document Processing on AWS
-.NET Amazon Simple Storage Services (S3)
- AWS Best practices for AWS Config conformance packs</description>
+ AWS Three free training resources to build your Media Services skills
+AWS Media Services Media Services Training
+ AWS Amazon Redshift launches RA3.16xlarge and RA3.4xlarge in AWS GovCloud (US) Regions and RA3.xlplus in additional AWS Regions
+ AWS Supporting AWS Graviton2 and x86 instance types in the same Auto Scaling group</description>
     </item>
     
     <item>
@@ -266,10 +268,10 @@ Announcements Regions
       <guid>https://cloudchangelog.com/posts/2021/03/01/</guid>
       <description>AWS Creating Amazon Timestream interpolated views using Amazon Kinesis Data Analytics for Apache Flink
 Amazon Kinesis Amazon Quicksight
- AWS Amazon Connect now supports 15 minute intervals for historical metric reporting
- AWS AWS AppConfig is now available in AWS GovCloud (US) Regions
- AWS Get ready to roll! 2021 AWS DeepRacer League Season is now underway
- AWS Aventri moves its event management platform online with Amazon Interactive Video Service</description>
+ AWS Better performance for less: AWS continues to beat Azure on SQL Server price/performance
+*Post Types Amazon RDS
+ AWS AWS Gateway Load Balancer is now available in the US East (Ohio), Asia Pacific (Tokyo), and EU (Frankfurt and Stockholm) Regions
+ AWS AWS CodePipeline now supports 1000 pipelines per account</description>
     </item>
     
     <item>
@@ -357,12 +359,10 @@ Amazon Documentdb AWS Re:Invent
       <guid>https://cloudchangelog.com/posts/2021/02/23/</guid>
       <description>AWS Use Amazon Athena and Amazon QuickSight to build custom reports of AWS Well-Architected Reviews
 Amazon Athena Amazon Quicksight
- AWS Introducing our new Solutions Training for Partners: Sales Best Practices courses
- AWS Analyze and understand IAM role usage with Amazon Detective
-Amazon Detective AWS Identity And Access Management (IAM)
- AWS Retaining data streams up to one year with Amazon Kinesis Data Streams
-Amazon Kinesis Analytics
- AWS Talkdesk and AWS: What AI and speech-to-text mean for the future of contact centers and a better customer experience</description>
+ AWS Amazon Aurora PostgreSQL Patches 1.8.1 / 2.6.2 / 3.3.2 now available
+ AWS Access Amazon EFS file systems from EC2 Mac instances running macOS Big Sur
+ AWS Amazon EC2 Mac Instances now support macOS Big Sur
+ AWS Amazon Elasticsearch Service add support for Reporting in Kibana</description>
     </item>
     
     <item>
@@ -401,11 +401,13 @@ Performance Solutions
       <guid>https://cloudchangelog.com/posts/2021/02/19/</guid>
       <description>AWS Building an administrative console in Amazon QuickSight to analyze usage metrics
 Amazon Quicksight Analytics
- AWS Assign a Delegated Administrator to manage AWS CloudFormation StackSets across your AWS Organization
- AWS New AWS Solutions Consulting Offer - AI-Powered Inventory Management
- AWS How Zopa enhanced their fraud detection application using Amazon SageMaker Clarify
+ AWS Training, debugging and running time series forecasting models with the GluonTS toolkit on Amazon SageMaker
 Amazon Machine Learning Amazon Sagemaker
- AWS Watch now: FOX: Uncompressed live sports in the cloud</description>
+ AWS Delivering 4K Live Streaming with Automated Provisioning Using AWS Media Services
+AWS Partner Network Customer Solutions
+ AWS CloudFormation StackSets delegated administration
+Announcements AWS Cloudformation
+ AWS Amazon RDS Publishes New Events for Multi-AZ Deployments</description>
     </item>
     
     <item>
@@ -416,10 +418,11 @@ Amazon Machine Learning Amazon Sagemaker
       <guid>https://cloudchangelog.com/posts/2021/02/18/</guid>
       <description>AWS Continuous permissions rightsizing to ensure least privileges in AWS using CloudKnox and AWS Config
 AWS Config AWS Identity And Access Management (IAM)
- AWS Amazon CloudWatch Contributor Insights for Amazon DynamoDB now supports AWS CloudFormation
- AWS Amazon ml.Inf1 instances are now available on Amazon SageMaker in 14 additional AWS regions
- AWS AWS and EU data transfers: strengthened commitments to protect customer data
-Announcements Security, Identity, &amp;amp; Compliance</description>
+ AWS Create a custom data connector to Slack’s Member Analytics API in Amazon QuickSight with Amazon Athena Federated Query
+Amazon Athena Amazon Quicksight
+ AWS Watch now: Accelerating next-generation direct-to-consumer experiences featuring NBCUniversal
+Media &amp;amp; Entertainment Media Services
+ AWS Amazon Redshift Query Editor now supports clusters with enhanced VPC routing, longer query run times, and all node types</description>
     </item>
     
     <item>
@@ -492,13 +495,12 @@ AWS Control Tower AWS Partner Network
       <guid>https://cloudchangelog.com/posts/2021/02/11/</guid>
       <description>AWS Building secure machine learning environments with Amazon SageMaker
 Amazon Machine Learning Amazon Sagemaker
- AWS Insys keeps the arts alive with Play Kraków
-Customer Solutions Media &amp;amp; Entertainment
- AWS Transitioning Mainframe Workloads into Agile Services with AWS and Micro Focus
-AWS Partner Network Customer Solutions
- AWS Orchestrating database refreshes for Amazon RDS and Amazon Aurora
-Amazon Aurora Amazon RDS
- AWS Querying a Vertica data source in Amazon Athena using the Athena Federated Query SDK</description>
+ AWS Amazon ElastiCache at AWS re:Invent 2020
+Amazon Elasticache AWS Re:Invent
+ AWS Introducing Amazon VPC Endpoints for AWS CloudHSM
+ AWS AWS Identity and Access Management now supports tags on additional resources
+ AWS AWS Glue DataBrew supports transformations for seven additional datatypes
+ AWS AWS Glue DataBrew now allows you to configure the size of the dataset when auto-generating data quality statistics</description>
     </item>
     
     <item>
@@ -509,12 +511,13 @@ Amazon Aurora Amazon RDS
       <guid>https://cloudchangelog.com/posts/2021/02/10/</guid>
       <description>AWS Accelerating your application modernization with Amazon Aurora Machine Learning
 Amazon Aurora Amazon Machine Learning
- AWS Amazon Elastic Container Service Anomaly Detector using Amazon EventBridge
-Amazon Elastic Container Service Amazon Eventbridge
- AWS Amazon Lex is now available in the AWS GovCloud (US-West) Region
- AWS AWS Glue now provides column importance metrics in the FindMatches machine learning transform
- AWS Introducing Serverless Image Handler v5.2
- AWS Amazon VPC Traffic Mirroring is now supported on select non-Nitro instance types</description>
+ AWS Amazon Timestream now offers cross table queries, query execution statistics, and more
+ AWS Scaling Neuroscience Research on AWS
+Amazon Dynamodb Architecture
+ AWS Building HTTP API-based services using Amazon API Gateway, AWS PrivateLink and AWS Fargate
+Containers
+ AWS AWS Cloud9 launches visual source control integration for Git
+ AWS Running multiple HPO jobs in parallel on Amazon SageMaker</description>
     </item>
     
     <item>
@@ -525,12 +528,12 @@ Amazon Elastic Container Service Amazon Eventbridge
       <guid>https://cloudchangelog.com/posts/2021/02/09/</guid>
       <description>AWS Improving AWS Java applications with Amazon CodeGuru Reviewer
 Amazon Codeguru Artificial Intelligence
- AWS Amazon Keyspaces (for Apache Cassandra) now helps you automate table creation by supporting point-in-time recovery and tag settings in AWS CloudFormation
- AWS How to: Build an engaging feed app with React and Amazon IVS
-Amazon Interactive Video Service Media &amp;amp; Entertainment
- AWS Extending SaaS products with serverless functions
-AWS Lambda Serverless
- AWS Building a Single Source of Truth with a Data Hub from Semarchy</description>
+ AWS New digital curriculum: Managing Amazon S3
+ AWS AWS Glue is now available in the AWS Africa (Cape Town) Region
+ AWS Cazena’s Instant AWS Data Lake: Accelerating Time to Analytics from Months to Minutes
+Analytics AWS Big Data
+ AWS Amazon CloudFront launches in Croatia
+ AWS AWS DeepComposer launches Transformer Notebook on GitHub</description>
     </item>
     
     <item>
@@ -605,12 +608,12 @@ Amazon Elastic Block Storage (EBS) AWS Outposts
       <guid>https://cloudchangelog.com/posts/2021/02/03/</guid>
       <description>AWS Automating complex deep learning model training using Amazon SageMaker Debugger and AWS Step Functions
 Amazon Sagemaker Artificial Intelligence
- AWS AWS Backup Events and Metrics now available in Amazon CloudWatch
- AWS AWS Elemental MediaLive adds support for VPC outputs
- AWS Node.js 14.x runtime now available in AWS Lambda
-AWS Lambda Compute
- AWS Building secure Amazon SageMaker access URLs with AWS Service Catalog
-Management Tools Amazon Sagemaker</description>
+ AWS Dow Jones’s AWS Cloud journey and adoption of Amazon EBS io2 volumes
+Amazon Elastic Block Storage (EBS) Customer Solutions
+ AWS AWS Lambda now supports Node.js 14
+ AWS Using the AWS DeepRacer new Soft Actor Critic algorithm with continuous action spaces
+Amazon Machine Learning Artificial Intelligence
+ AWS Take actions before and after patching to improve safety during patch installation</description>
     </item>
     
     <item>
@@ -621,10 +624,12 @@ Management Tools Amazon Sagemaker</description>
       <guid>https://cloudchangelog.com/posts/2021/02/02/</guid>
       <description>AWS Best practices for creating and managing sandbox accounts in AWS
 Amazon Eventbridge AWS Cloudtrail
- AWS Insights is now generally available for AWS X-Ray
- AWS Amazon Macie announces a slew of new capabilities including support for cross-account sensitive data discovery, scanning by Amazon S3 object prefix, improved pre-scan cost estimation, and added location detail in findings
- AWS Amazon S3 now supports AWS PrivateLink
- AWS Amazon RDS for Oracle supports Oracle Application Express (APEX) Version 20.</description>
+ AWS Transferring data between AWS accounts using AWS DataSync
+Amazon EC2 Amazon Simple Storage Services (S3)
+ AWS How EMX reduced data pipeline costs by 85% with Amazon Athena
+Amazon Athena Analytics
+ AWS Setting up an IVR to collect customer feedback via phone using Amazon Connect and AWS AI Services
+Amazon Comprehend Amazon Connect</description>
     </item>
     
     <item>
@@ -635,12 +640,11 @@ Amazon Eventbridge AWS Cloudtrail
       <guid>https://cloudchangelog.com/posts/2021/02/01/</guid>
       <description>AWS Building Multi-partner integration on AWS using Event-Driven Architecture
 Amazon Elastic Container Service Amazon Simple Notification Service (SNS)
- AWS Operating Lambda: Application design and Service Quotas – Part 1
-AWS Lambda Best Practices
- AWS Migrating a commercial database to open source with AWS SCT and AWS DMS
-AWS Schema Conversion Tool
- AWS Detecting anomalous values by invoking the Amazon Athena machine learning inference function
-Amazon Athena AWS Big Data</description>
+ AWS Amazon Redshift delivers better cold query performance to three additional AWS regions
+ AWS This month in AWS Machine Learning: January edition
+Amazon Augmented AI Amazon Comprehend
+ AWS AWS Launch Wizard now configures RHEL and SLES clustering for SAP application High Availability
+ AWS Automating AWS Fargate Image Scanning to Block Container Threats</description>
     </item>
     
     <item>
