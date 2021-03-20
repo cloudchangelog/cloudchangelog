@@ -6,10 +6,23 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20 March, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/03/20/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/03/20/</guid>
+      <description> AWS Use AWS License Manager and AWS Systems Manager to discover SQL Server BYOL instances
+AWS License Manager AWS Systems Manager
+ AWS Introducing the AWS AppConfig Python Helper Library
+AWS Systems Manager Centralized Operations Management
+  </description>
+    </item>
     
     <item>
       <title>19 March, 2021</title>
@@ -18,11 +31,11 @@
       
       <guid>https://cloudchangelog.com/posts/2021/03/19/</guid>
       <description>AWS AWS Solutions Implementation - The Discovering Hot Topics Using Machine Learning solution adds the capability to filter and visualize Twitter topics based on geographical coordinates
- AWS Amazon EKS reduces cluster creation time by 40%
- AWS AWS Gateway Load Balancer is now available in additional 9 regions
- AWS AWS Proton introduces deletion protection for in-use templates
- AWS Graceful shutdowns with ECS
-Amazon Elastic Container Service Containers</description>
+ AWS Visualizing usage of Provisioned IOPS volumes on Amazon EBS for analysis
+Amazon Athena Amazon Cloudwatch
+ AWS RAPIDS and Amazon SageMaker: Scale up and scale out to tackle ML challenges
+Amazon Sagemaker Artificial Intelligence
+ AWS Approaches for authenticating external applications in a machine-to-machine scenario</description>
     </item>
     
     <item>
