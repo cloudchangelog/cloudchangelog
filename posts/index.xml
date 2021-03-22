@@ -6,10 +6,33 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>22 March, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/03/22/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/03/22/</guid>
+      <description> GCP Road to recovery: How Google Cloud is helping states get the COVID-19 vaccine to more people
+Public Sector Inside Google Cloud
+ Oracle Project GreenThumb Part 1 - Automating &amp;amp; Monitoring Seedling Growth With Microcontrollers &amp;hellip;
+Cloud Java
+  </description>
+    </item>
+    
+    <item>
+      <title>21 March, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/03/21/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/03/21/</guid>
+      <description> GCP What’s new with Google Cloud
+Google Workspace Inside Google Cloud  </description>
+    </item>
     
     <item>
       <title>20 March, 2021</title>
