@@ -19,10 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/03/23/</guid>
       <description>AWS Create forecasting systems faster with automated workflows and notifications in Amazon Forecast
 Amazon Forecast Artificial Intelligence
+ AWS Key considerations in moving to Graviton2 for Amazon RDS and Amazon Aurora databases
+Amazon Aurora Amazon RDS
  AWS Leverage state of the art Natural Language Processing with Hugging Face and Amazon SageMaker
  AWS Amazon EC2 M5n, M5dn, R5n, and R5dn instances now available in additional regions
- AWS Amazon EFS CSI driver now supports dynamic provisioning
- AWS Amazon RDS for MariaDB M6g and R6g instances now available in N.</description>
+ AWS Amazon EC2 Inf1 instances based on AWS Inferentia now available in 4 additional regions</description>
     </item>
     
     <item>
