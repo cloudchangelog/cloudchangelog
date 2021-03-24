@@ -17,8 +17,13 @@
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/03/24/</guid>
-      <description> AWS CI/CD on Amazon EKS using AWS CodeCommit, AWS CodePipeline, AWS CodeBuild, and FluxCD
-Amazon Elastic Kubernetes Service Devops  </description>
+      <description>AWS CI/CD on Amazon EKS using AWS CodeCommit, AWS CodePipeline, AWS CodeBuild, and FluxCD
+Amazon Elastic Kubernetes Service Devops
+ AWS Announcing end of support for Python 2.7 in AWS Lambda
+AWS Lambda Serverless
+ AWS Using AWS Cost and Usage Reports and Cost Allocation Tags to understand VPC Flow Logs data ingestion costs in Amazon S3
+Amazon VPC AWS Cost And Usage Report
+ Oracle Project GreenThumb Part 2 - The Data Collection</description>
     </item>
     
     <item>
