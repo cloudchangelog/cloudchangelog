@@ -29,11 +29,10 @@ Amazon Elastic Kubernetes Service Devops  </description>
       <guid>https://cloudchangelog.com/posts/2021/03/23/</guid>
       <description>AWS Create forecasting systems faster with automated workflows and notifications in Amazon Forecast
 Amazon Forecast Artificial Intelligence
- AWS Blackboard streamlines virtual instruction with new LTI tool built on Amazon IVS
-Amazon Interactive Video Service Media &amp;amp; Entertainment
- AWS AWS Cost Categories now supports inherited and default values
- AWS Amazon QuickSight launches Custom Tooltips, Updates to Anomaly Detection, and More
- AWS Announcing AWS Media Intelligence solutions</description>
+ AWS Amazon EC2 Inf1 instances based on AWS Inferentia now available in 4 additional regions
+ AWS Amazon Redshift Spectrum launches in four additional AWS Regions
+ AWS Amazon RDS for MariaDB M6g and R6g instances now available in N. California, Canada, São Paulo, and London regions
+ AWS AWS Glue Studio now supports transforms defined in SQL</description>
     </item>
     
     <item>
@@ -44,13 +43,10 @@ Amazon Interactive Video Service Media &amp;amp; Entertainment
       <guid>https://cloudchangelog.com/posts/2021/03/22/</guid>
       <description>AWS Operating Lambda: Debugging configurations – Part 3
 Amazon Cloudwatch Amazon Dynamodb
- AWS Advertising click-prediction modeling on Amazon EKS
-Amazon Elastic Kubernetes Service AWS Big Data
- AWS Extracting multidimensional data from Microsoft SQL Server Analysis Services using AWS Glue
-Analytics AWS Big Data
- AWS Expediting Healthcare Interoperability with Redox and AWS
-AWS Marketplace AWS Partner Network
- AWS AWS Audit Manager now supports CIS AWS Foundations Benchmark v1.</description>
+ AWS Amazon EC2 now supports UEFI boot when migrating virtual machines to EC2
+ AWS AWS Client VPN announces expanded presence inside six AWS Regions
+ AWS Sellers can now manage versions and update information of their AMI and Container products through the AWS Marketplace Catalog API
+ AWS AWS Database Migration Service now supports Db2 LUW version 11.</description>
     </item>
     
     <item>
