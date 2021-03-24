@@ -21,9 +21,11 @@
 Amazon Elastic Kubernetes Service Devops
  AWS Announcing end of support for Python 2.7 in AWS Lambda
 AWS Lambda Serverless
- AWS Using AWS Cost and Usage Reports and Cost Allocation Tags to understand VPC Flow Logs data ingestion costs in Amazon S3
-Amazon VPC AWS Cost And Usage Report
- AWS Integrating AWS Step Functions callbacks and external systems</description>
+ AWS Integrating Zendesk with AWS and Other SaaS Services Using Amazon AppFlow
+Amazon Appflow Application Integration
+ AWS Introducing Auto-Tune in Amazon ES
+Amazon Elasticsearch Service Analytics
+ AWS Setting up end-to-end TLS encryption on Amazon EKS with the new AWS Load Balancer Controller</description>
     </item>
     
     <item>
