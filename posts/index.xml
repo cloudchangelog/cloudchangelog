@@ -19,10 +19,9 @@
       <guid>https://cloudchangelog.com/posts/2021/03/25/</guid>
       <description>AWS Expose AWS Lambda Function Behind Static IP When a DNS Cannot be Managed
 Architecture AWS Global Accelerator
- AWS Amazon Polly NTTS voices now available in Canada (Central), and Asia Pacific (Seoul)
- AWS Amazon ElastiCache for Redis now supports highly available clusters on AWS Local Zones
- AWS AWS License Manager adds ability to set up exclusion rules for automated discovery
- AWS Amazon Kinesis Data Analytics now supports Python with Apache Flink v1.</description>
+ AWS Detect anomalies in your metrics, and diagnose issues quickly with Amazon Lookout for Metrics – now generally available
+ AWS AWS Backup is now available in the AWS Asia Pacific (Osaka) Region
+ AWS AWS Security Hub integrates with Amazon Macie to automatically ingest sensitive data findings for improved centralized security posture management</description>
     </item>
     
     <item>
