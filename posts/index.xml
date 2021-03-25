@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>25 March, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/03/25/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/03/25/</guid>
+      <description> Azure AzCopy v10.9.0 now in public preview: import from GCP to Azure Block Blobs
+  </description>
+    </item>
     
     <item>
       <title>24 March, 2021</title>
@@ -19,12 +29,11 @@
       <guid>https://cloudchangelog.com/posts/2021/03/24/</guid>
       <description>AWS CI/CD on Amazon EKS using AWS CodeCommit, AWS CodePipeline, AWS CodeBuild, and FluxCD
 Amazon Elastic Kubernetes Service Devops
- AWS Announcing end of support for Python 2.7 in AWS Lambda
-AWS Lambda Serverless
- AWS Updated classroom course: Advanced Architecting on AWS
- AWS Setting up end-to-end TLS encryption on Amazon EKS with the new AWS Load Balancer Controller
-*Post Types Amazon Elastic Kubernetes Service
- AWS Using AWS Cost and Usage Reports and Cost Allocation Tags to understand VPC Flow Logs data ingestion costs in Amazon S3</description>
+ AWS NICE DCV releases web client SDK for building customized web applications
+ AWS Integrate your Amazon DynamoDB table with machine learning for sentiment analysis
+Amazon Comprehend Amazon Dynamodb
+ AWS Amazon AppFlow now supports Zendesk as a destination
+ AWS Amazon Elasticsearch Service announces Auto-Tune feature for improved performance and application availability</description>
     </item>
     
     <item>
