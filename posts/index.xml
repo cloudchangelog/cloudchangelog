@@ -19,14 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/03/26/</guid>
       <description>AWS Use AWS Lambda functions with Amazon Neptune
 Amazon Neptune AWS Lambda
- Azure General availability: Stream Analytics runs on Azure Stack Hub
- Oracle Build and deploy a machine learning model in 9 minutes using ONNX
-Performance Solutions
- Oracle Project GreenThumb Part 3 - Consuming and Persisting the Sensor Data in the Cloud
-Cloud Java
- Oracle Oracle Blockchain commits to wine distribution integrity
-Product News
- Oracle Accelerate machine learning in Oracle Cloud Infrastructure on NVIDIA GPUs with RAPIDS</description>
+ AWS AWS ML Community showcase: March 2021 edition
+Amazon Lookout For Vision Amazon Machine Learning
+ AWS Making Blockchains Interoperable and Agile with HCL CoTrust Platform and AWS
+Amazon Managed Blockchain AWS Marketplace
+ AWS Utilizing NVIDIA Multi-Instance GPU (MIG) in Amazon EC2 P4d Instances on Amazon Elastic Kubernetes Service (EKS)
+Containers Nvidia
+ AWS Amazon Forecast enables AWS Resource Groups</description>
     </item>
     
     <item>
@@ -37,9 +36,12 @@ Product News
       <guid>https://cloudchangelog.com/posts/2021/03/25/</guid>
       <description>AWS Expose AWS Lambda Function Behind Static IP When a DNS Cannot be Managed
 Architecture AWS Global Accelerator
- AWS Detect anomalies in your metrics, and diagnose issues quickly with Amazon Lookout for Metrics – now generally available
- AWS AWS Backup is now available in the AWS Asia Pacific (Osaka) Region
- AWS AWS Security Hub integrates with Amazon Macie to automatically ingest sensitive data findings for improved centralized security posture management</description>
+ AWS What’s new with Red Hat OpenShift Service on AWS
+Containers Red Hat
+ AWS Set up an organization-wide aggregator in AWS Config using a delegated administrator account
+AWS Config Configuration, Compliance, And Auditing
+ AWS Amazon ElastiCache for Redis now supports highly available clusters on AWS Local Zones
+ AWS Configure Amazon Forecast for a multi-tenant SaaS application</description>
     </item>
     
     <item>
