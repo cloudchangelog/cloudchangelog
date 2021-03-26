@@ -19,13 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/03/26/</guid>
       <description>AWS Use AWS Lambda functions with Amazon Neptune
 Amazon Neptune AWS Lambda
- AWS AWS ML Community showcase: March 2021 edition
-Amazon Lookout For Vision Amazon Machine Learning
- AWS Making Blockchains Interoperable and Agile with HCL CoTrust Platform and AWS
-Amazon Managed Blockchain AWS Marketplace
+ AWS Amazon EKS now supports Elastic Fabric Adapter
  AWS Utilizing NVIDIA Multi-Instance GPU (MIG) in Amazon EC2 P4d Instances on Amazon Elastic Kubernetes Service (EKS)
 Containers Nvidia
- AWS Amazon Forecast enables AWS Resource Groups</description>
+ AWS New AWS Solutions Consulting Offer - WorkSpaces Manager for Amazon WorkSpaces
+ AWS Amazon SageMaker now supports private Docker registry authentication
+ AWS Amazon API Gateway now provides IAM condition keys for governing endpoint, authorization, and logging configurations</description>
     </item>
     
     <item>
