@@ -6,10 +6,33 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>29 March, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/03/29/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/03/29/</guid>
+      <description> GCP This bears repeating: Introducing the Echo subsea cable
+Infrastructure
+ Oracle Project GreenThumb Part 4 - Reporting Queries and WebSockets
+Cloud Java
+  </description>
+    </item>
+    
+    <item>
+      <title>28 March, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/03/28/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/03/28/</guid>
+      <description> Oracle Inter-Cloud private DNS peering between OCI and AWS
+A-Team Chronicles Architecture  </description>
+    </item>
     
     <item>
       <title>27 March, 2021</title>
