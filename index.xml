@@ -19,13 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/03/30/</guid>
       <description>AWS Serverless UI testing using Selenium, AWS Lambda, AWS Fargate, and AWS Developer Tools
 AWS Codebuild AWS Codepipeline
+ AWS Migrate terabytes of data quickly from Google Cloud to Amazon S3 with AWS Glue Connector for Google BigQuery
+Analytics AWS Glue
  AWS SCRAM Authentication in RDS for PostgreSQL 13
 Amazon RDS RDS For Postgresql
  AWS Reinventing automated operations (Part I)
 Customer Enablement Management Tools
- AWS Tracking the AWS CodePipeline build status from the third-party Git repository
-AWS Codepipeline Developer Tools
- AWS Preparing for Kubernetes API deprecations when going from 1.</description>
+ AWS Tracking the AWS CodePipeline build status from the third-party Git repository</description>
     </item>
     
     <item>
