@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>30 March, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/03/30/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/03/30/</guid>
+      <description> GCP How sweet it is: Using Cloud AI to whip up new treats with Mars Maltesers
+AI &amp;amp; Machine Learning  </description>
+    </item>
     
     <item>
       <title>29 March, 2021</title>
@@ -19,11 +29,11 @@
       <guid>https://cloudchangelog.com/posts/2021/03/29/</guid>
       <description>AWS Operating Lambda: Using CloudWatch Logs Insights
 Amazon Cloudwatch AWS Lambda
- AWS Doors opens virtual venue for artists to connect with audiences on Amazon IVS
-Amazon Interactive Video Service Customer Solutions
- AWS Aerobotics improves training speed by 24 times per sample with Amazon SageMaker and TensorFlow
-Amazon Sagemaker Artificial Intelligence
- AWS Build a real-time streaming application using Apache Flink Python API with Amazon Kinesis Data Analytics</description>
+ AWS AWS WAF adds support for Custom Responses
+ AWS AWS WAF adds support for Request Header Insertion
+ AWS AWS Security Hub now available in the AWS Asia Pacific (Osaka) Region
+ AWS AWS Config adds pagination support for advanced queries that contain aggregate functions
+ AWS Amazon DocumentDB (with MongoDB compatibility) now supports Event Subscriptions</description>
     </item>
     
     <item>
