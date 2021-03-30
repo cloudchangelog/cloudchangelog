@@ -19,13 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/03/30/</guid>
       <description>AWS Serverless UI testing using Selenium, AWS Lambda, AWS Fargate, and AWS Developer Tools
 AWS Codebuild AWS Codepipeline
- AWS Discover What’s New with AWS PartnerCast First Look On-Demand Webinars
-Announcements AWS Partner Network
- AWS Rust detection using machine learning on AWS
-Amazon Machine Learning Amazon Sagemaker
  AWS SCRAM Authentication in RDS for PostgreSQL 13
 Amazon RDS RDS For Postgresql
- AWS CDK Corner – March 2021</description>
+ AWS Reinventing automated operations (Part I)
+Customer Enablement Management Tools
+ AWS Tracking the AWS CodePipeline build status from the third-party Git repository
+AWS Codepipeline Developer Tools
+ AWS Preparing for Kubernetes API deprecations when going from 1.</description>
     </item>
     
     <item>
@@ -36,11 +36,12 @@ Amazon RDS RDS For Postgresql
       <guid>https://cloudchangelog.com/posts/2021/03/29/</guid>
       <description>AWS Operating Lambda: Using CloudWatch Logs Insights
 Amazon Cloudwatch AWS Lambda
- AWS AWS WAF adds support for Custom Responses
- AWS AWS WAF adds support for Request Header Insertion
- AWS AWS Security Hub now available in the AWS Asia Pacific (Osaka) Region
- AWS AWS Config adds pagination support for advanced queries that contain aggregate functions
- AWS Amazon DocumentDB (with MongoDB compatibility) now supports Event Subscriptions</description>
+ AWS New AWS Solutions Consulting Offer - Pipeline Factory
+ AWS How Atos Transformed a Customer’s SAP Landscape with Minimal Downtime and Low Risk
+AWS Partner Network Customer Solutions
+ AWS Build a real-time streaming application using Apache Flink Python API with Amazon Kinesis Data Analytics
+Amazon Kinesis Analytics
+ AWS Aerobotics improves training speed by 24 times per sample with Amazon SageMaker and TensorFlow</description>
     </item>
     
     <item>
