@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/03/31/</guid>
       <description>AWS Use AWS License Manager APIs for the bulk import of license configurations and entitlements
 AWS License Manager Learning Levels
- AWS Lower your Amazon EFS costs by 47% with One Zone storage classes
-Amazon Elastic File System (EFS) Announcements
- AWS Supercharge your knowledge graph using Amazon Neptune, Amazon Comprehend, and Amazon Lex
-Amazon Comprehend Amazon Lex
- AWS Introducing the New AWS Mainframe Migration Competency Featuring Validated AWS Partners</description>
+ AWS Using AWS Config custom resources to track any resource on AWS
+Amazon Cloudwatch AWS Cloudformation
+ AWS Customize Amazon CloudWatch alarm notifications to your local time zone – Part 1
+Amazon Cloudwatch Amazon Eventbridge
+ AWS Customize Amazon CloudWatch alarm notifications to your local time zone – Part 2</description>
     </item>
     
     <item>
@@ -34,12 +34,12 @@ Amazon Comprehend Amazon Lex
       <guid>https://cloudchangelog.com/posts/2021/03/30/</guid>
       <description>AWS Serverless UI testing using Selenium, AWS Lambda, AWS Fargate, and AWS Developer Tools
 AWS Codebuild AWS Codepipeline
- AWS Rust detection using machine learning on AWS
-Amazon Machine Learning Amazon Sagemaker
- AWS Amazon EMR now supports Amazon EC2 Instance Metadata Service v2
- AWS How Vanguard uses AWS X-Ray and Amazon CloudWatch to improve observability for Amazon ECS cloud applications
-Amazon Elastic Container Service AWS Fargate
- AWS Intertrust uses AWS to track climate change</description>
+ AWS IT Resilience Within AWS Cloud, Part I: Mindset and Culture
+AWS Well-Architected Framework AWS Well-Architected Tool
+ AWS CDK Corner – March 2021
+ AWS AWS Global Accelerator launches a new Edge location in Indonesia
+ AWS Simplify Snowflake data loading and processing with AWS Glue DataBrew
+Analytics AWS Glue</description>
     </item>
     
     <item>
