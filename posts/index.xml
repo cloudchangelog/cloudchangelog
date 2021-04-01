@@ -6,10 +6,22 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>01 April, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/04/01/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/04/01/</guid>
+      <description> AWS Multi-step API monitoring using Amazon CloudWatch Synthetics
+Amazon Cloudwatch Management &amp;amp; Governance
+ Oracle Logging is now available in the UK West (Newport) region
+  </description>
+    </item>
     
     <item>
       <title>31 March, 2021</title>
@@ -19,11 +31,13 @@
       <guid>https://cloudchangelog.com/posts/2021/03/31/</guid>
       <description>AWS Use AWS License Manager APIs for the bulk import of license configurations and entitlements
 AWS License Manager Learning Levels
- AWS Lower your Amazon EFS costs by 47% with One Zone storage classes
-Amazon Elastic File System (EFS) Announcements
- AWS CloudWatch Metric Streams – Send AWS Metrics to Partners and to Your Apps in Real Time
-Amazon Cloudwatch Launch
- AWS Introducing the New AWS Mainframe Migration Competency Featuring Validated AWS Partners</description>
+ AWS Federating CloudEndure access with Microsoft Azure Active Directory
+Cloudendure Migration Contributed
+ AWS Using multiple segments in Amazon API Gateway base path mapping
+Amazon API Gateway Serverless
+ AWS Simplifying live streaming contribution with Amazon IVS
+Amazon Interactive Video Service AWS Elemental Medialive
+ AWS Using AWS Config custom resources to track any resource on AWS</description>
     </item>
     
     <item>
