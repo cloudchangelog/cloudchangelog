@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/04/02/</guid>
       <description>AWS Field Notes: How FactSet Balances Developer Velocity with Governance using AWS IAM
 Architecture AWS Identity And Access Management (IAM)
- Azure Continued region expansion: Azure Data Factory just became generally available in two more regions
- GCP Troubleshoot BigQuery performance with these dashboards
-Identity &amp;amp; Security
- GCP New this month: Data champions, a key analyst report &amp;amp; features you’re going to want to check out!
-Data Analytics</description>
+ AWS Convert the NUMBER data type from Oracle to PostgreSQL – Part 2
+Amazon Aurora Amazon RDS
+ AWS Manage Microsoft’s 90-day license assignment rules with AWS License Manager
+AWS License Manager Configuration, Compliance, And Auditing
+ AWS Convert the NUMBER data type from Oracle to PostgreSQL – Part 1</description>
     </item>
     
     <item>
