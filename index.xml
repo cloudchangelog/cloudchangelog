@@ -19,12 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/04/05/</guid>
       <description>AWS Operating Lambda: Logging and custom metrics
 Amazon Cloudwatch AWS Lambda
- AWS Amazon MQ is now available in the Japan (Osaka) region
- AWS New options to trigger Amazon SageMaker Pipeline executions
  AWS Amazon WorkSpaces webcam support now Generally Available
- AWS Amazon WorkSpaces now supports smart cards with the WorkSpaces macOS client application
+ AWS Migrate data into Amazon ES using remote reindex
+Amazon Elasticsearch Service Analytics
  AWS Launching a WordPress Website using Amazon Lightsail Containers
-Amazon Lightsail Compute</description>
+Amazon Lightsail Compute
+ AWS New AWS Solutions Consulting Offer - Design and Build Applications at Speed with DAPx
+ AWS Amazon MQ is now available in the Japan (Osaka) region</description>
     </item>
     
     <item>
