@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>05 April, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/04/05/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/04/05/</guid>
+      <description> Oracle Adding Tracing to Your Distributed Cloud Native Microservices
+Cloud Java  </description>
+    </item>
     
     <item>
       <title>02 April, 2021</title>
@@ -19,11 +29,9 @@
       <guid>https://cloudchangelog.com/posts/2021/04/02/</guid>
       <description>AWS Field Notes: How FactSet Balances Developer Velocity with Governance using AWS IAM
 Architecture AWS Identity And Access Management (IAM)
- AWS Convert the NUMBER data type from Oracle to PostgreSQL – Part 2
-Amazon Aurora Amazon RDS
- AWS Manage Microsoft’s 90-day license assignment rules with AWS License Manager
-AWS License Manager Configuration, Compliance, And Auditing
- AWS Convert the NUMBER data type from Oracle to PostgreSQL – Part 1</description>
+ AWS Bring Your Own IP for Amazon Virtual Private Cloud is Now Available in Four Additional Regions
+ AWS Amazon VPC Flow Logs announces out-of-the-box integration with Amazon Athena
+ AWS Prepare data from Amazon Redshift and other JDBC-supported databases/data warehouses in AWS Glue DataBrew through native connectors</description>
     </item>
     
     <item>
@@ -34,12 +42,11 @@ AWS License Manager Configuration, Compliance, And Auditing
       <guid>https://cloudchangelog.com/posts/2021/04/01/</guid>
       <description>AWS Multi-step API monitoring using Amazon CloudWatch Synthetics
 Amazon Cloudwatch Management &amp;amp; Governance
- AWS Learn How AWS ISV Partner Solutions Can Help You Level Up Your Well-Architected Reviews
-Announcements AWS Partner Network
- AWS Best practices for developing cloud applications with AWS CDK
-AWS Cloud Development Kit AWS Cloudformation
- AWS Webair addresses unique backup needs with AWS Storage Gateway and Amazon S3 Glacier Deep Archive
-Amazon S3 Glacier Amazon S3 Glacier Deep Archive</description>
+ AWS HLS inputs now available with AWS Elemental MediaConvert
+ AWS AWS Backint Agent version 1.03 now available
+ AWS AWS Security Hub achieves FedRAMP High authorization to enable security posture management for high-impact workloads
+ AWS AWS Glue Schema Registry is now available in four more AWS regions
+ AWS AWS Systems Manager Parameter Store now supports easier public parameter discoverability</description>
     </item>
     
     <item>
@@ -50,13 +57,9 @@ Amazon S3 Glacier Amazon S3 Glacier Deep Archive</description>
       <guid>https://cloudchangelog.com/posts/2021/03/31/</guid>
       <description>AWS Use AWS License Manager APIs for the bulk import of license configurations and entitlements
 AWS License Manager Learning Levels
- AWS Federating CloudEndure access with Microsoft Azure Active Directory
-Cloudendure Migration Contributed
- AWS Using multiple segments in Amazon API Gateway base path mapping
-Amazon API Gateway Serverless
- AWS Simplifying live streaming contribution with Amazon IVS
-Amazon Interactive Video Service AWS Elemental Medialive
- AWS Using AWS Config custom resources to track any resource on AWS</description>
+ AWS The Amazon Redshift Query Editor is now available in the AWS GovCloud (US) Regions
+ AWS Amazon Transcribe Custom Language Models now support Australian English, British English, Hindi and US Spanish
+ AWS AWS Direct Connect Announces MACsec Encryption for Dedicated 10Gbps and 100Gbps Connections at Select Locations</description>
     </item>
     
     <item>
@@ -67,12 +70,12 @@ Amazon Interactive Video Service AWS Elemental Medialive
       <guid>https://cloudchangelog.com/posts/2021/03/30/</guid>
       <description>AWS Serverless UI testing using Selenium, AWS Lambda, AWS Fargate, and AWS Developer Tools
 AWS Codebuild AWS Codepipeline
- AWS IT Resilience Within AWS Cloud, Part I: Mindset and Culture
-AWS Well-Architected Framework AWS Well-Architected Tool
- AWS CDK Corner – March 2021
- AWS AWS Global Accelerator launches a new Edge location in Indonesia
- AWS Simplify Snowflake data loading and processing with AWS Glue DataBrew
-Analytics AWS Glue</description>
+ AWS Doing data preparation using on-premises PostgreSQL databases with AWS Glue DataBrew
+Analytics AWS Glue
+ AWS Assessing the Reliability of Your SaaS Environment with the AWS Well-Architected SaaS Lens
+AWS Partner Network AWS Well-Architected
+ AWS Manage license compliance during migration of workloads to AWS
+AWS License Manager Management Tools</description>
     </item>
     
     <item>
