@@ -19,13 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/04/06/</guid>
       <description>AWS AWS to Offer Third-Generation Intel Xeon Scalable Processor-Based Amazon EC2 Instances
 Amazon EC2 Announcements
- AWS New instructor-led course: Developing Serverless Solutions on AWS
- AWS Audit companion for the AWS PCI DSS Quick Start
-AWS Professional Services Compliance
- AWS Use computer vision to detect crop disease through image analysis with Amazon Rekognition Custom Labels
-Amazon Rekognition Artificial Intelligence
- AWS Edge caching on AWS Wavelength
-AWS Wavelength Best Practices</description>
+ AWS AWS Batch simplifies permissions by introducing Service-Linked Roles
+ AWS Python Support for Amazon CodeGuru Reviewer is now generally available
+ AWS Amazon CodeGuru announces a new, lower and predictable Pricing Model for CodeGuru Reviewer
+ AWS Amazon EC2 now allows you to copy Amazon Machine Images across AWS GovCloud, AWS China and other AWS Regions</description>
     </item>
     
     <item>
