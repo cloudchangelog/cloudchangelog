@@ -19,10 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/04/06/</guid>
       <description>AWS AWS to Offer Third-Generation Intel Xeon Scalable Processor-Based Amazon EC2 Instances
 Amazon EC2 Announcements
- AWS AWS Batch simplifies permissions by introducing Service-Linked Roles
- AWS Python Support for Amazon CodeGuru Reviewer is now generally available
- AWS Amazon CodeGuru announces a new, lower and predictable Pricing Model for CodeGuru Reviewer
- AWS Amazon EC2 now allows you to copy Amazon Machine Images across AWS GovCloud, AWS China and other AWS Regions</description>
+ AWS Amazon CodeGuru Reviewer Updates: New Predictable Pricing Model Up To 90% Lower and Python Support Moves to GA
+Amazon Codeguru Announcements
+ AWS Automated software delivery using Docker Compose and Amazon ECS
+Amazon Elastic Container Service Containers
+ AWS Build seamless data streaming pipelines with Amazon Kinesis Data Streams and Amazon Kinesis Data Firehose for Amazon DynamoDB tables</description>
     </item>
     
     <item>
