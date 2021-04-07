@@ -17,8 +17,14 @@
       <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/04/07/</guid>
-      <description> AWS Automate suspension of an AWS CodePipeline release during critical events using AWS Systems Manager Change Calendar and Amazon EventBridge
-Amazon Eventbridge AWS Codepipeline  </description>
+      <description>AWS Automate suspension of an AWS CodePipeline release during critical events using AWS Systems Manager Change Calendar and Amazon EventBridge
+Amazon Eventbridge AWS Codepipeline
+ AWS Processing satellite imagery with serverless architecture
+Amazon Rekognition Amazon Simple Queue Service (SQS)
+ AWS Save the date for the AWS Machine Learning Summit: June 2, 2021
+Announcements
+ AWS Design Pattern for Highly Parallel Compute: Recursive Scaling with Amazon SQS
+Amazon Cloudwatch Amazon Elastic Container Service</description>
     </item>
     
     <item>
