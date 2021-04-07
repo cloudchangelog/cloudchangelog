@@ -19,12 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/04/07/</guid>
       <description>AWS Automate suspension of an AWS CodePipeline release during critical events using AWS Systems Manager Change Calendar and Amazon EventBridge
 Amazon Eventbridge AWS Codepipeline
+ AWS Amazon EC2 G4ad instances, powered by AMD Radeon Pro V520 GPUs, are now available in 5 additional regions
  AWS Processing satellite imagery with serverless architecture
 Amazon Rekognition Amazon Simple Queue Service (SQS)
- AWS Save the date for the AWS Machine Learning Summit: June 2, 2021
-Announcements
- AWS Design Pattern for Highly Parallel Compute: Recursive Scaling with Amazon SQS
-Amazon Cloudwatch Amazon Elastic Container Service</description>
+ AWS Drive Action with Automated Quality Inspections Using AWS IoT Greengrass 2.</description>
     </item>
     
     <item>
