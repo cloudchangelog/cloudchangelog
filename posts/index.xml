@@ -19,10 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/04/08/</guid>
       <description>AWS Field Notes: Launch Amazon EMR with a Static Private IP in a Private Subnet
 Amazon EMR Analytics
- AWS AWS RoboMaker now supports the ability to configure tools for simulation jobs
- AWS New AWS Solutions Consulting Offer - RegCloud: ControllerView® on AWS
- AWS Customers can now use ServiceNow to track operational items related to AWS resources
- AWS Amazon EC2 instances featuring AMD EPYC processors are now available in additional regions</description>
+ AWS Schedule jobs in Amazon RDS for PostgreSQL using AWS CodeBuild and Amazon EventBridge
+Amazon Eventbridge Amazon RDS
+ AWS Amazon Athena now presents query execution plans to aid tuning
+ AWS Updated classroom course: AWS Cloud Practitioner Essentials
+ AWS Detect abnormal equipment behavior with Amazon Lookout for Equipment — now generally available</description>
     </item>
     
     <item>
