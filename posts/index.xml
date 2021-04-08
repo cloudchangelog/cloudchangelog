@@ -6,10 +6,23 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>08 April, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/04/08/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/04/08/</guid>
+      <description> AWS Field Notes: Launch Amazon EMR with a Static Private IP in a Private Subnet
+Amazon EMR Analytics
+ GCP Google Cloud and AVEVA’s OSIsoft serve the industrial sector a new flavor of PI
+Manufacturing
+  </description>
+    </item>
     
     <item>
       <title>07 April, 2021</title>
