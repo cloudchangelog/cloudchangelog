@@ -36,13 +36,11 @@ Developers &amp;amp; Practitioners
       <guid>https://cloudchangelog.com/posts/2021/04/08/</guid>
       <description>AWS Field Notes: Launch Amazon EMR with a Static Private IP in a Private Subnet
 Amazon EMR Analytics
- AWS Understanding Recovery Point Objectives using CloudEndure Disaster Recovery
-Cloudendure Disaster Recovery Storage
- AWS Is Amazon RDS for PostgreSQL or Amazon Aurora PostgreSQL a better choice for me?
-Amazon Aurora Amazon RDS
- AWS Evaluating access control methods to secure Amazon API Gateway APIs
-Amazon API Gateway Security
- AWS Online Tech Talk April 20: Amazon EFS One Zone storage classes</description>
+ AWS Customers can now use ServiceNow to track operational items related to AWS resources
+ AWS Object detection with Detectron2 on Amazon SageMaker
+Amazon Sagemaker Artificial Intelligence
+ AWS Amazon Keyspaces (for Apache Cassandra) now offers FIPS 140-2 compliant endpoints to help you run highly regulated workloads more easily
+ AWS Amazon Fraud Detector automates sampling for imbalanced model training datasets</description>
     </item>
     
     <item>
