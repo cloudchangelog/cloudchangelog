@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>09 April, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/04/09/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/04/09/</guid>
+      <description> AWS Win a digital car and personalize your racer profile on the AWS DeepRacer console
+Amazon Sagemaker Artificial Intelligence
+ GCP Creating a SQL Server instance integrated with Active Directory using Google Cloud SQL
+Databases Windows
+ GCP Recovering global wildlife populations using ML
+Developers &amp;amp; Practitioners
+  </description>
+    </item>
     
     <item>
       <title>08 April, 2021</title>
@@ -19,11 +34,13 @@
       <guid>https://cloudchangelog.com/posts/2021/04/08/</guid>
       <description>AWS Field Notes: Launch Amazon EMR with a Static Private IP in a Private Subnet
 Amazon EMR Analytics
- AWS Schedule jobs in Amazon RDS for PostgreSQL using AWS CodeBuild and Amazon EventBridge
-Amazon Eventbridge Amazon RDS
- AWS Amazon Athena now presents query execution plans to aid tuning
- AWS Updated classroom course: AWS Cloud Practitioner Essentials
- AWS Detect abnormal equipment behavior with Amazon Lookout for Equipment — now generally available</description>
+ AWS Understanding Recovery Point Objectives using CloudEndure Disaster Recovery
+Cloudendure Disaster Recovery Storage
+ AWS Is Amazon RDS for PostgreSQL or Amazon Aurora PostgreSQL a better choice for me?
+Amazon Aurora Amazon RDS
+ AWS Evaluating access control methods to secure Amazon API Gateway APIs
+Amazon API Gateway Security
+ AWS Online Tech Talk April 20: Amazon EFS One Zone storage classes</description>
     </item>
     
     <item>
