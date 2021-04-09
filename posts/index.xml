@@ -19,11 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/04/09/</guid>
       <description>AWS Win a digital car and personalize your racer profile on the AWS DeepRacer console
 Amazon Sagemaker Artificial Intelligence
- AWS Service Quotas is now available in AWS GovCloud (US) Regions
- AWS Amazon AppStream 2.0 adds support for fully managed image updates
- AWS New AWS Solutions Implementation: Amazon S3 Glacier Re:Freezer
- AWS AWS Firewall Manager Now Available in AWS GovCloud (US)
- AWS AWS CloudFormation Command Line Interface (CFN-CLI) now supports TypeScript</description>
+ AWS AWS Transit Gateway Connect is now available in additional AWS Regions
+ AWS Amazon RDS Data API now available in Asia Pacific (Seoul) and Canada (Central) AWS regions
+ AWS Amazon CloudWatch Lambda Insights Now Supports AWS Lambda Container Images (General Availability)
+ AWS Detect abnormal equipment behavior and review predictions using Amazon Lookout for Equipment and Amazon A2I</description>
     </item>
     
     <item>
