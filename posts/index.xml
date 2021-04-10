@@ -19,10 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/04/09/</guid>
       <description>AWS Win a digital car and personalize your racer profile on the AWS DeepRacer console
 Amazon Sagemaker Artificial Intelligence
- AWS AWS Transit Gateway Connect is now available in additional AWS Regions
- AWS Amazon RDS Data API now available in Asia Pacific (Seoul) and Canada (Central) AWS regions
- AWS Amazon CloudWatch Lambda Insights Now Supports AWS Lambda Container Images (General Availability)
- AWS Detect abnormal equipment behavior and review predictions using Amazon Lookout for Equipment and Amazon A2I</description>
+ AWS AWS CloudFormation Command Line Interface (CFN-CLI) now supports TypeScript
+ AWS Aruba SD-Branch Optimizes Intelligent Edge Connectivity to AWS
+AWS Partner Network Customer Solutions
+ AWS Introducing TypeScript support for building AWS CloudFormation resource types
+AWS Cloudformation Management &amp;amp; Governance
+ AWS Acoustic anomaly detection using Amazon Lookout for Equipment</description>
     </item>
     
     <item>
