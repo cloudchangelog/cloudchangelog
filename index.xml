@@ -6,10 +6,43 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>12 April, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/04/12/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/04/12/</guid>
+      <description> AWS Field Notes: Connecting Industrial Assets and Machines to the AWS Cloud
+AWS Iot Greengrass AWS Iot Sitewise
+ Azure Build secure manufacturing operations with nesting capabilities for Azure IoT Edge
+Internet Of Things Hybrid
+  </description>
+    </item>
+    
+    <item>
+      <title>11 April, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/04/11/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/04/11/</guid>
+      <description> AWS Prepare for Oracle license audits in AWS using AWS Audit Manager and AWS License Manager
+AWS Audit Manager AWS Cloudtrail  </description>
+    </item>
+    
+    <item>
+      <title>10 April, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/04/10/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/04/10/</guid>
+      <description> GCP From the kitchen to the Maison to low orbit: 3 surprising Google Cloud stories from this week
+Customers Inside Google Cloud  </description>
+    </item>
     
     <item>
       <title>09 April, 2021</title>
