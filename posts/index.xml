@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/04/12/</guid>
       <description>AWS Field Notes: Connecting Industrial Assets and Machines to the AWS Cloud
 AWS Iot Greengrass AWS Iot Sitewise
- AWS Getting started with serverless for developers: Part 1
-AWS Lambda AWS Serverless Application Model
- AWS Operating Lambda: Isolating and resolving issues
-Amazon Cloudwatch AWS Lambda
- AWS Build Slowly Changing Dimensions Type 2 (SCD2) with Apache Spark and Apache Hudi on Amazon EMR
-Amazon EMR Analytics
+ AWS AWS Console Mobile Application adds support for Asia Pacific (Osaka) region
+ AWS Use Contributor Insights to analyze AWS Network Firewall
+Amazon Cloudwatch AWS Network Firewall
+ AWS AWS and NVIDIA to bring Arm-based Graviton2 instances with GPUs to the cloud
+Amazon EC2 Announcements
  AWS Traffic Encryption in AWS App Mesh across accounts using certificates from AWS Certificate Manager Private CA and AWS Resource Manager</description>
     </item>
     
@@ -162,9 +161,12 @@ Amazon Cloudwatch Management &amp;amp; Governance
       <guid>https://cloudchangelog.com/posts/2021/03/31/</guid>
       <description>AWS Use AWS License Manager APIs for the bulk import of license configurations and entitlements
 AWS License Manager Learning Levels
- AWS The Amazon Redshift Query Editor is now available in the AWS GovCloud (US) Regions
- AWS Amazon Transcribe Custom Language Models now support Australian English, British English, Hindi and US Spanish
- AWS AWS Direct Connect Announces MACsec Encryption for Dedicated 10Gbps and 100Gbps Connections at Select Locations</description>
+ AWS 7 ways to improve security of your machine learning workflows
+Amazon Sagemaker Artificial Intelligence
+ AWS Handling binary data using Amazon API Gateway HTTP APIs
+Amazon API Gateway AWS Lambda
+ AWS Introducing the New AWS Mainframe Migration Competency Featuring Validated AWS Partners
+Announcements AWS Partner Network</description>
     </item>
     
     <item>
