@@ -19,12 +19,9 @@
       <guid>https://cloudchangelog.com/posts/2021/04/13/</guid>
       <description>AWS AWS Secrets Manager controller POC: an EKS operator for automatic rotation of secrets
 Amazon Elastic Kubernetes Service
- AWS AWS CloudFormation Modules now Provides YAML and Delimiter Support
- AWS Top 5 Architecture Blog Posts for Q1 2021
-Architecture AWS Security Best Practices
- AWS Save the date: AWS Containers events in May
-Amazon Elastic Container Service Amazon Elastic Kubernetes Service
- AWS Updated classroom course: Systems Operations on AWS</description>
+ AWS AWS Batch increases job scheduling and EC2 instance scaling performance
+ AWS Amazon RDS for PostgreSQL supports new minor versions 13.2, 12.6, 11.11, 10.16, 9.6.21, and 9.5.25
+ AWS AWS Identity and Access Management now makes it easier to relate a user&amp;rsquo;s IAM role activity to their corporate identity</description>
     </item>
     
     <item>
