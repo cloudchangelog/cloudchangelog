@@ -19,11 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/04/12/</guid>
       <description>AWS Field Notes: Connecting Industrial Assets and Machines to the AWS Cloud
 AWS Iot Greengrass AWS Iot Sitewise
- AWS AWS and NVIDIA to bring Arm-based Graviton2 instances with GPUs to the cloud
-Amazon EC2 Announcements
- AWS Optimizing cloud governance on AWS: Integrating the NIST Cybersecurity Framework, AWS Cloud Adoption Framework, and AWS Well-Architected
-AWS Well-Architected Security, Identity, &amp;amp; Compliance
- AWS Use Contributor Insights to analyze AWS Network Firewall</description>
+ AWS Integrate Amazon API Gateway with Amazon EKS
+Amazon API Gateway Amazon Elastic Kubernetes Service
+ AWS Amazon Redshift now supports data sharing when producer clusters are paused
+ AWS Amazon Aurora PostgreSQL parameters, Part 4: ANSI compatibility options
+Amazon Aurora Postgresql Compatible
+ AWS Amazon Aurora PostgreSQL parameters, Part 2: Replication, security, and logging</description>
     </item>
     
     <item>
