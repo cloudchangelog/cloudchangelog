@@ -6,10 +6,23 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>14 April, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/04/14/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/04/14/</guid>
+      <description> AWS Use Jira Service Management to track and resolve operational items related to AWS resources
+Amazon Cloudwatch Centralized Operations Management
+ GCP Reclaim time and talent with AppSheet Automation
+No-Code Development
+  </description>
+    </item>
     
     <item>
       <title>13 April, 2021</title>
@@ -19,6 +32,8 @@
       <guid>https://cloudchangelog.com/posts/2021/04/13/</guid>
       <description>AWS AWS Secrets Manager controller POC: an EKS operator for automatic rotation of secrets
 Amazon Elastic Kubernetes Service
+ AWS Bill.com uses Amazon QuickSight to enable users with secure and governed enterprise BI
+Amazon Quicksight Analytics
  AWS AWS Batch increases job scheduling and EC2 instance scaling performance
  AWS Amazon RDS for PostgreSQL supports new minor versions 13.2, 12.6, 11.11, 10.16, 9.6.21, and 9.5.25
  AWS AWS Identity and Access Management now makes it easier to relate a user&amp;rsquo;s IAM role activity to their corporate identity</description>
