@@ -19,11 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/04/14/</guid>
       <description>AWS Use Jira Service Management to track and resolve operational items related to AWS resources
 Amazon Cloudwatch Centralized Operations Management
- AWS How to stream 4K, HDR live video to YouTube using AWS Elemental Live or AWS Elemental MediaLive via HLS ingest
-AWS Elemental Live AWS Elemental Medialive
- AWS AQUA (Advanced Query Accelerator) – A Speed Boost for Your Amazon Redshift Queries
-Amazon Redshift Launch
- AWS Controlling concurrency in distributed systems using AWS Step Functions</description>
+ AWS Estimate Amazon EC2 Spot Instance cost savings with AWS Glue DataBrew, AWS Glue, and Amazon QuickSight
+Amazon EC2 Analytics
+ AWS Controlling concurrency in distributed systems using AWS Step Functions
+AWS Lambda AWS Step Functions
+ AWS Architecture Monthly Magazine: Biopharma
+Architecture Healthcare
+ AWS How to stream 4K, HDR live video to YouTube using AWS Elemental Live or AWS Elemental MediaLive via HLS ingest</description>
     </item>
     
     <item>
