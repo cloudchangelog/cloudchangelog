@@ -17,13 +17,12 @@
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/04/15/</guid>
-      <description> AWS Proactive monitoring of application configuration deployment using AWS AppConfig and Amazon CloudWatch
+      <description>AWS Proactive monitoring of application configuration deployment using AWS AppConfig and Amazon CloudWatch
 Amazon Cloudwatch AWS Systems Manager
- AWS How to automate capture and analysis of CI/CD metrics using AWS DevOps Monitoring Dashboard solution
-Amazon Athena Amazon Cloudwatch
- AWS AWS launches free digital training courses to empower business leaders with ML knowledge
-Amazon Machine Learning Announcements
-  </description>
+ AWS AWS Transit Gateway Connect is now available in additional AWS Regions
+ AWS AWS Ground Station is now available in US East (N. Virginia) and EU (Frankfurt) Regions
+ AWS Now reference latest AWS Systems Manager parameter values in AWS CloudFormation templates without specifying parameter versions
+ AWS AWS CodeArtifact is now available in Paris, London, and Milan</description>
     </item>
     
     <item>
