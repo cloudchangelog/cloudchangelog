@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/04/15/</guid>
       <description>AWS Proactive monitoring of application configuration deployment using AWS AppConfig and Amazon CloudWatch
 Amazon Cloudwatch AWS Systems Manager
- AWS New free ML training for business and technical leaders
- AWS Amazon EventBridge introduces support for cross-Region event bus targets
- AWS AWS launches free digital training courses to empower business leaders with ML knowledge
-Amazon Machine Learning Announcements
- AWS AWS Ground Station is now available in US East (N.</description>
+ AWS How to automate capture and analysis of CI/CD metrics using AWS DevOps Monitoring Dashboard solution
+Amazon Athena Amazon Cloudwatch
+ AWS Introducing cross-Region event routing with Amazon EventBridge
+Amazon Eventbridge Serverless
+ AWS Amazon Macie adds CloudWatch logging for job status and health monitoring of sensitive data discovery jobs</description>
     </item>
     
     <item>
