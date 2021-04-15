@@ -19,10 +19,9 @@
       <guid>https://cloudchangelog.com/posts/2021/04/15/</guid>
       <description>AWS Proactive monitoring of application configuration deployment using AWS AppConfig and Amazon CloudWatch
 Amazon Cloudwatch AWS Systems Manager
- AWS AWS Transit Gateway Connect is now available in additional AWS Regions
- AWS AWS Ground Station is now available in US East (N. Virginia) and EU (Frankfurt) Regions
- AWS Now reference latest AWS Systems Manager parameter values in AWS CloudFormation templates without specifying parameter versions
- AWS AWS CodeArtifact is now available in Paris, London, and Milan</description>
+ AWS AWS Security Hub Automated Response &amp;amp; Remediation Solution adds support for AWS Foundational Security Best Practices standard
+ AWS Amazon MQ for Active MQ is now available in AWS China (Beijing) region, operated by Sinnet and AWS China (Ningxia) region, operated by NWCD
+ AWS New datasets available in the Registry of Open Data on AWS from United States Geological Survey (USGS), the Swiss Institute of Bioinformatics, iNaturalist.</description>
     </item>
     
     <item>
@@ -47,11 +46,12 @@ AWS Elemental Live AWS Elemental Medialive
       <guid>https://cloudchangelog.com/posts/2021/04/13/</guid>
       <description>AWS AWS Secrets Manager controller POC: an EKS operator for automatic rotation of secrets
 Amazon Elastic Kubernetes Service
- AWS Bill.com uses Amazon QuickSight to enable users with secure and governed enterprise BI
-Amazon Quicksight Analytics
- AWS AWS Batch increases job scheduling and EC2 instance scaling performance
- AWS Amazon RDS for PostgreSQL supports new minor versions 13.2, 12.6, 11.11, 10.16, 9.6.21, and 9.5.25
- AWS AWS Identity and Access Management now makes it easier to relate a user&amp;rsquo;s IAM role activity to their corporate identity</description>
+ AWS Amazon Interactive Video Service adds new Cloudwatch Metrics
+ AWS AWS CloudFormation Modules now Provides YAML and Delimiter Support
+ AWS Protecting people from hazardous areas through virtual boundaries with Computer Vision
+Amazon Sagemaker Artificial Intelligence
+ AWS Updated classroom course: Systems Operations on AWS
+ AWS Embed Amazon QuickSight dashboards in Salesforce</description>
     </item>
     
     <item>
