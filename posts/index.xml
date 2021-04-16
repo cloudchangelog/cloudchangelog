@@ -17,12 +17,13 @@
       <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/04/16/</guid>
-      <description> Azure Open source API Portal now generally available
+      <description>AWS You can now use macros and transforms in CloudFormation templates to create AWS CloudFormation StackSets
+ Azure Open source API Portal now generally available
  GCP 5 cheat sheets to help you get started on you Google Cloud journey
 Developers &amp;amp; Practitioners Inside Google Cloud
- Oracle Archiving Stream Data To Object Storage With Service Connectors
-Cloud
-  </description>
+ GCP Tracking index backfill operation progress in Cloud Spanner
+Spanner Databases
+ Oracle Archiving Stream Data To Object Storage With Service Connectors</description>
     </item>
     
     <item>
@@ -33,10 +34,11 @@ Cloud
       <guid>https://cloudchangelog.com/posts/2021/04/15/</guid>
       <description>AWS Proactive monitoring of application configuration deployment using AWS AppConfig and Amazon CloudWatch
 Amazon Cloudwatch AWS Systems Manager
- AWS AWS Data Exchange launches post-subscription wizard to configure revision exports to Amazon S3
- AWS New free ML training for business and technical leaders
- AWS Amazon EventBridge introduces support for cross-Region event bus targets
- AWS AWS launches free digital training courses to empower business leaders with ML knowledge</description>
+ AWS How to automate capture and analysis of CI/CD metrics using AWS DevOps Monitoring Dashboard solution
+Amazon Athena Amazon Cloudwatch
+ AWS Introducing cross-Region event routing with Amazon EventBridge
+Amazon Eventbridge Serverless
+ AWS Amazon Macie adds CloudWatch logging for job status and health monitoring of sensitive data discovery jobs</description>
     </item>
     
     <item>
