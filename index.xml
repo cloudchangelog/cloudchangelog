@@ -18,12 +18,12 @@
       
       <guid>https://cloudchangelog.com/posts/2021/04/16/</guid>
       <description>AWS You can now use macros and transforms in CloudFormation templates to create AWS CloudFormation StackSets
- Azure Open source API Portal now generally available
- GCP 5 cheat sheets to help you get started on you Google Cloud journey
-Developers &amp;amp; Practitioners Inside Google Cloud
- GCP Tracking index backfill operation progress in Cloud Spanner
-Spanner Databases
- Oracle Archiving Stream Data To Object Storage With Service Connectors</description>
+ AWS Containerizing Lambda deployments using OCI container images
+AWS Lambda Compute
+ AWS Field Notes: Building Automated Pipeline Corrosion Monitoring with AWS IoT Core
+Amazon Quicksight Architecture
+ AWS User Defined Functions (UDF) are now generally available for Amazon Athena
+ AWS AWS Backup extends centralized backup management support for Amazon FSx to five additional AWS Regions</description>
     </item>
     
     <item>
