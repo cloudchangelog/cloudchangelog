@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>19 April, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/04/19/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/04/19/</guid>
+      <description>AWS Getting started with serverless for developers: Part 2 – The business logic
+AWS Lambda AWS Serverless Application Model
+ AWS New AWS Solutions Consulting Offer - IoT Resource Monitoring Framework
+ AWS AWS Control Tower now provides configurable naming during Landing Zone setup
+ Azure Announcing general availability of new M-series Msv2/Mdsv2 Medium Memory VMs for memory-optimized workloads
+SAP On Azure
+ Azure Microsoft announces plans to establish first datacenter region in Malaysia</description>
+    </item>
     
     <item>
       <title>17 April, 2021</title>
