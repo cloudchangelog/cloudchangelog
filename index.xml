@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20 April, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/04/20/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/04/20/</guid>
+      <description> AWS Online Tech Talk April 28: Best practices for data protection on Amazon S3
+Amazon Simple Storage Services (S3) Announcements  </description>
+    </item>
     
     <item>
       <title>19 April, 2021</title>
@@ -19,11 +29,10 @@
       <guid>https://cloudchangelog.com/posts/2021/04/19/</guid>
       <description>AWS Getting started with serverless for developers: Part 2 – The business logic
 AWS Lambda AWS Serverless Application Model
- AWS Optimizing serverless development with samconfig
-AWS Serverless Application Model Serverless
- AWS Review last accessed information to identify unused EC2, IAM, and Lambda permissions and tighten access for your IAM roles
- AWS Introducing Machine to Cloud Connectivity Framework v2.2
- AWS Dynamic Request Routing in Multi-tenant Systems with Amazon CloudFront</description>
+ AWS Migrate an application from using GridFS to using Amazon S3 and Amazon DocumentDB (with MongoDB compatibility)
+Amazon Documentdb Amazon Simple Storage Services (S3)
+ AWS New AWS Solutions Consulting Offer - IoT Resource Monitoring Framework
+ AWS AWS Control Tower now provides configurable naming during Landing Zone setup</description>
     </item>
     
     <item>
