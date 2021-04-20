@@ -19,11 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/04/20/</guid>
       <description>AWS Online Tech Talk April 28: Best practices for data protection on Amazon S3
 Amazon Simple Storage Services (S3) Announcements
- AWS AWS Chatbot now expands coverage of AWS Services monitored through Amazon EventBridge
- AWS Decrease Your Machine Learning Costs with Instance Price Reductions and Savings Plans for Amazon SageMaker
-Amazon Sagemaker Announcements
- AWS Amazon S3 on Outposts Events now available in Amazon CloudWatch
- AWS Machine Learning for Everyone with Amazon SageMaker Autopilot and Domo</description>
+ AWS Amazon Rekognition launches tagging support for collections, stream processors, and Custom Labels
+ AWS Amazon EMR Release 5.33 now supports 10 new instance types
+ AWS Amazon Textract achieves FedRAMP compliance
+ AWS You now can use AWS CloudTrail to log Amazon DynamoDB Streams data-plane API activity</description>
     </item>
     
     <item>
