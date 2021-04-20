@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/04/20/</guid>
       <description>AWS Online Tech Talk April 28: Best practices for data protection on Amazon S3
 Amazon Simple Storage Services (S3) Announcements
- AWS Modelling workflow input and output path processing with data flow simulator
-AWS Step Functions Serverless
- AWS AerLink is digitally transforming the aircraft leasing and financing industry using Amazon Managed Blockchain
-Amazon Managed Blockchain
- AWS Architecting SWIFT Connectivity on Amazon Web Services (AWS)
-Amazon MQ Amazon RDS</description>
+ AWS AWS Chatbot now expands coverage of AWS Services monitored through Amazon EventBridge
+ AWS Decrease Your Machine Learning Costs with Instance Price Reductions and Savings Plans for Amazon SageMaker
+Amazon Sagemaker Announcements
+ AWS Amazon S3 on Outposts Events now available in Amazon CloudWatch
+ AWS Machine Learning for Everyone with Amazon SageMaker Autopilot and Domo</description>
     </item>
     
     <item>
