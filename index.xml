@@ -19,13 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/04/23/</guid>
       <description>AWS Reduce Operational Load using AWS Managed Services for your Data Solutions
 Amazon RDS Amazon Redshift
- GCP Whitepaper: Hold your own key with Google Cloud External Key Manager
-Identity &amp;amp; Security
- GCP Introducing PHP on Cloud Functions
-Serverless Application Development
- GCP Data analytics and intelligence tools to play a key role post-COVID
-Research Inside Google Cloud
- GCP When to use NoSQL: Bigtable powers personalization at scale</description>
+ AWS Amazon DocumentDB (with MongoDB compatibility) support for MongoDB server 3.6 end of life schedule
+Amazon Documentdb
+ AWS Build a medical sentence matching application using BERT and Amazon SageMaker
+Amazon Elastic Container Service Amazon Sagemaker
+ AWS Cognitive document processing for automated mortgage processing
+Amazon Augmented AI Amazon Comprehend
+ AWS Insurity Provides Next-Generation Predictive Analytics for Insurers on AWS</description>
     </item>
     
     <item>
