@@ -17,11 +17,13 @@
       <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/04/26/</guid>
-      <description> AWS Operating Lambda: Performance optimization – Part 1
+      <description>AWS Operating Lambda: Performance optimization – Part 1
 AWS Lambda Best Practices
  AWS Getting started with serverless for developers: Part 3 – The front door
 Amazon API Gateway AWS Lambda
-  </description>
+ AWS Micro ETL pipeline: How to fetch, process, and refresh small data using AWS Lambda and AWS SAM
+AWS Lambda Developer Tools
+ AWS Best practices for upgrading Amazon RDS for Oracle DB instances from 18c to 19c</description>
     </item>
     
     <item>
