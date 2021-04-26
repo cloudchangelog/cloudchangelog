@@ -19,13 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/04/26/</guid>
       <description>AWS Operating Lambda: Performance optimization – Part 1
 AWS Lambda Best Practices
- AWS Manage fine-grained access control using AWS Lake Formation
-Analytics AWS Lake Formation
- AWS Disaster Recovery (DR) Architecture on AWS, Part II: Backup and Restore with Rapid Recovery
-Amazon EC2 Amazon Elastic Block Storage (EBS)
- AWS Using Boto3 to configure Amazon S3 bucket replication at scale
-Amazon Simple Storage Services (S3) Storage
- AWS Monitor and Manage Anomaly Detection Models on a fleet of Wind Turbines with Amazon SageMaker Edge Manager</description>
+ AWS Amazon Aurora PostgreSQL Patches 1.9.2 / 2.7.2 / 3.4.2 / 4.0.2 now available
+ AWS AWS Transit Gateway is Now Available in AWS Asia Pacific (Osaka) Region
+ AWS Amazon Rekognition Custom Labels is now available in the Europe (Frankfurt), Europe (London), and Asia Pacific (Mumbai) AWS Regions.
+ AWS Third-party software built for AWS Control Tower is now available in the AWS Control Tower Console, powered by AWS Marketplace</description>
     </item>
     
     <item>
@@ -56,13 +53,11 @@ Infrastructure Inside Google Cloud  </description>
       <guid>https://cloudchangelog.com/posts/2021/04/23/</guid>
       <description>AWS Reduce Operational Load using AWS Managed Services for your Data Solutions
 Amazon RDS Amazon Redshift
- AWS Amazon DocumentDB (with MongoDB compatibility) support for MongoDB server 3.6 end of life schedule
-Amazon Documentdb
- AWS Build a medical sentence matching application using BERT and Amazon SageMaker
-Amazon Elastic Container Service Amazon Sagemaker
- AWS Cognitive document processing for automated mortgage processing
-Amazon Augmented AI Amazon Comprehend
- AWS Insurity Provides Next-Generation Predictive Analytics for Insurers on AWS</description>
+ AWS AWS Cost Categories introduces a details page
+ AWS AWS CodeDeploy improves support for EC2 deployments with Auto Scaling Groups
+ AWS Amazon Timestream is now available in Europe (Frankfurt) region
+ AWS AWS Service Catalog launches a console experience for AppRegistry
+ AWS AWS Resource Access Manager is Now Available in the Asia Pacific (Osaka) Region</description>
     </item>
     
     <item>
@@ -73,13 +68,11 @@ Amazon Augmented AI Amazon Comprehend
       <guid>https://cloudchangelog.com/posts/2021/04/22/</guid>
       <description>AWS Using delegated admin for AWS Config operations and aggregation
 AWS Config AWS Management Console
- AWS Quality Assessment for SageMaker Ground Truth Video Object Tracking Annotations using Statistical Analysis
-Amazon Sagemaker Ground Truth Artificial Intelligence
- AWS Architecting Cross-channel Intelligent Customer Engagements
-Amazon Lex Amazon Machine Learning
- AWS GOX competes in the local playing field with live-streamed games on Amazon IVS
-Amazon Interactive Video Service Direct-To-Consumer/OTT
- AWS Introducing AWS Elemental MediaConnect inputs for AWS Elemental Live appliances</description>
+ AWS AWS Service Catalog is now available in Osaka
+ AWS Amazon ElastiCache now supports publishing Redis logs to Amazon CloudWatch Logs and Kinesis Data Firehose
+ AWS Get estimated run time for forecast creation jobs while using Amazon Forecast
+ AWS New digital course: Amazon S3 Performance Optimization
+ AWS AWS Control Tower releases a new Partner program, Built on Control Tower</description>
     </item>
     
     <item>
@@ -90,12 +83,12 @@ Amazon Interactive Video Service Direct-To-Consumer/OTT
       <guid>https://cloudchangelog.com/posts/2021/04/21/</guid>
       <description>AWS How VNR AG built a serverless customer data platform to power BI reporting with Amazon QuickSight
 Amazon Quicksight Analytics
- AWS Getting Started with Anka on EC2 Mac Instances
-Amazon EC2 Amazon EC2 Bare Metal
- AWS Whitepaper available: Classic intrusion analysis frameworks for AWS environments
-Security, Identity, &amp;amp; Compliance Enterprise
- AWS Announcing availability of AWS Outposts in the Philippines and Brunei
- AWS Now available credential profile support for AWS SSO and Assume Role with MFA in the AWS Toolkit for Visual Studio</description>
+ AWS Amazon Elasticsearch Service announces support for Elasticsearch version 7.10
+ AWS Amazon Elasticsearch Service announces support for Asynchronous Search
+ AWS Announcing general availability of Amazon Redshift native console integration with partners
+ AWS Cost optimization with nOps and CloudTrail
+AWS Cloudtrail Configuration, Compliance, And Auditing
+ AWS Setup and manage data ingestion easily with Amazon Redshift native console integration with partners</description>
     </item>
     
     <item>
