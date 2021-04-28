@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>28 April, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/04/28/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/04/28/</guid>
+      <description> Oracle New Release for Cloud Guard is now available
+  </description>
+    </item>
     
     <item>
       <title>27 April, 2021</title>
@@ -19,11 +29,12 @@
       <guid>https://cloudchangelog.com/posts/2021/04/27/</guid>
       <description>AWS Integrating with Aarogya Setu Open API on AWS to ensure a safe workspace
 Amazon API Gateway Amazon Cognito
- AWS AWS Systems Manager OpsCenter and Explorer now integrate with AWS Security Hub for diagnosis and remediation of security findings
- AWS CDK Corner – April 2021
-Announcements AWS Cloud Development Kit
- AWS Alexa for Business now available on Zoom Rooms appliances
- AWS How to Strengthen Your Own AWS Practice with Help from an Experienced AWS Partner</description>
+ AWS Use VPC endpoints with Amazon Timestream
+Amazon Timestream Amazon VPC
+ AWS AWS Proton allows adding and removing instances from an existing service
+ AWS Announcing open source robotics projects for AWS DeepRacer
+ AWS Cloud storage in minutes with AWS Storage Gateway (updated)
+Amazon Fsx For Windows Amazon Simple Storage Services (S3)</description>
     </item>
     
     <item>
