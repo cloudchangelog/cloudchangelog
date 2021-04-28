@@ -19,13 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/04/28/</guid>
       <description>AWS Getting Started with AWS Nitro Enclaves on Microsoft Windows
 Amazon EC2 Compute
- AWS Delete multiple AWS Backup recovery points using AWS Tools for PowerShell
-AWS Backup AWS Tools For Powershell
- AWS New digital course: AWS Network Connectivity Options
- AWS Build a Lake House Architecture on AWS
-Analytics
- Azure Azure Event Grid for Azure Cache for Redis now in general availability
- Azure The public preview of Azure Database for PostgreSQL – Hyperscale (Citus) is available in new regions</description>
+ AWS AWS Snowcone is now available in the AWS Canada (Central) Region
+ AWS Amazon MSK adds support for Apache Kafka version 2.8.0
+ AWS Database Activity Streams now available for Amazon Aurora in Asia Pacific (Osaka) Region
+ AWS Announcing general availability of Amazon Redshift native JSON and semi-structured data support
+ AWS AWS Glue now supports client authentication for Apache Kafka streams</description>
     </item>
     
     <item>
