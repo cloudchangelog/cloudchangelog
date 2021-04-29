@@ -6,10 +6,21 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>29 April, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/04/29/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/04/29/</guid>
+      <description> Oracle Opt out of creating DNS records when launching compute instances
+ Oracle Resize cluster networks
+  </description>
+    </item>
     
     <item>
       <title>28 April, 2021</title>
@@ -19,12 +30,12 @@
       <guid>https://cloudchangelog.com/posts/2021/04/28/</guid>
       <description>AWS Getting Started with AWS Nitro Enclaves on Microsoft Windows
 Amazon EC2 Compute
- AWS Amazon Redshift announces general availability of support for JSON and semi-structured data processing
-Amazon Redshift Announcements
- AWS New digital course: AWS Network Connectivity Options
- AWS Amazon Nimble Studio – Build a Creative Studio in the Cloud
-Amazon Nimble Studio Announcements
- AWS AWS for Media &amp;amp; Entertainment – Helping customers reinvent the industry with purpose-built services, solutions, and partners</description>
+ AWS Announcing general availability of Amazon Redshift native JSON and semi-structured data support
+ AWS Preventing Malware in Serverless Web Applications with SophosLabs Intelix
+Amazon Simple Storage Services (S3) AWS Lambda
+ AWS Integrate CloudHSM PKCS #11 Library 5.0 with serverless workloads
+AWS Cloudhsm Security, Identity, &amp;amp; Compliance
+ AWS AWS Glue now supports client authentication for Apache Kafka streams</description>
     </item>
     
     <item>
