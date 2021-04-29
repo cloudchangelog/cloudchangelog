@@ -46,12 +46,12 @@ AWS Cloudhsm Security, Identity, &amp;amp; Compliance
       <guid>https://cloudchangelog.com/posts/2021/04/27/</guid>
       <description>AWS Integrating with Aarogya Setu Open API on AWS to ensure a safe workspace
 Amazon API Gateway Amazon Cognito
- AWS Use VPC endpoints with Amazon Timestream
-Amazon Timestream Amazon VPC
- AWS AWS Proton allows adding and removing instances from an existing service
- AWS Announcing open source robotics projects for AWS DeepRacer
- AWS Cloud storage in minutes with AWS Storage Gateway (updated)
-Amazon Fsx For Windows Amazon Simple Storage Services (S3)</description>
+ AWS Using AWS CodePipeline to deploy AWS Config conformance packs created with the Rule Development Kit
+Amazon Simple Storage Services (S3) AWS Cloudformation
+ AWS Integrate GitHub monorepo with AWS CodePipeline to run project-specific CI/CD pipelines
+AWS Codebuild AWS Codepipeline
+ AWS Introducing Performance Dashboard on AWS
+ AWS Amazon FSx File Gateway delivers faster and more efficient on-premises access to fully managed file storage in the cloud</description>
     </item>
     
     <item>
