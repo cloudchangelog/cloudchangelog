@@ -19,9 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/04/29/</guid>
       <description>AWS Amazon EMR introduces EMR runtime for Presto, providing a 2.6 times speedup
 Amazon EMR AWS Big Data
- AWS AWS Glue DataBrew announces native console integration with Amazon AppFlow to connect to data from SaaS (Software as a Service) applications and AWS services (in Preview)
- AWS Amazon SNS now supports setting attributes required for India DLT requirements when sending SMS using local routes in India
- AWS Amazon MSK adds support for Apache Kafka version 2.</description>
+ AWS AWS Snow Family now enables you to order, track, and manage long-term pricing Snow jobs
+ AWS New digital course: Amazon Elastic Block Store Primer
+ AWS Amazon RDS for SQL Server Now Supports High Availability in AWS Asia Pacific (Osaka) Region
+ AWS Amazon Redshift announces support for hierarchical data queries with Recursive CTE</description>
     </item>
     
     <item>
