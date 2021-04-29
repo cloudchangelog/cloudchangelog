@@ -19,10 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/04/29/</guid>
       <description>AWS Amazon EMR introduces EMR runtime for Presto, providing a 2.6 times speedup
 Amazon EMR AWS Big Data
- AWS AWS Snow Family now enables you to order, track, and manage long-term pricing Snow jobs
- AWS New digital course: Amazon Elastic Block Store Primer
- AWS Amazon RDS for SQL Server Now Supports High Availability in AWS Asia Pacific (Osaka) Region
- AWS Amazon Redshift announces support for hierarchical data queries with Recursive CTE</description>
+ AWS Amazon CloudWatch Monitoring Framework for Apache is generally available
+ AWS AWS Network Firewall is now available in ten more regions
+ AWS AWS SAM CLI now supports AWS CDK applications - public preview
+ AWS AWS Managed Services (AMS) now offers a new feature enabling customers to purchase AMS separate from infrastructure services through their preferred Solution Provider</description>
     </item>
     
     <item>
