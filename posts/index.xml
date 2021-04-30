@@ -18,13 +18,10 @@
       
       <guid>https://cloudchangelog.com/posts/2021/04/30/</guid>
       <description>AWS AWS Lambda@Edge now supports Node 14.x
- AWS Establishing Feedback Loops Based on the AWS Well-Architected Framework Review
-Architecture AWS Well-Architected Framework
- AWS NLX is Helping Travelers Amid Disruption with AI-Powered Automation
-Amazon Athena Amazon Connect
- AWS Amazon Redshift announces preview of cross-account data sharing
- AWS AWS Cloud Development Kit (AWS CDK) v2 and Go CDK is now available for Developer Preview
- AWS Announcing support for linear interpolation in AWS IoT SiteWise</description>
+ AWS Amazon ECS on AWS Fargate now allows you to configure the size of ephemeral storage for your Tasks
+ AWS AWS Systems Manager Fleet Manager is now available in AWS GovCloud (US) Regions
+ AWS AWS Launch Wizard now supports SAP deployments with SUSE Linux Enterprise Server 15 SP2 and RHEL 8.2
+ AWS Amazon Connect reduces 26 rates in Latin America</description>
     </item>
     
     <item>
