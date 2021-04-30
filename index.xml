@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>30 April, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/04/30/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/04/30/</guid>
+      <description> AWS AWS Lambda@Edge now supports Node 14.x
+  </description>
+    </item>
     
     <item>
       <title>29 April, 2021</title>
@@ -19,7 +29,8 @@
       <guid>https://cloudchangelog.com/posts/2021/04/29/</guid>
       <description>AWS Amazon EMR introduces EMR runtime for Presto, providing a 2.6 times speedup
 Amazon EMR AWS Big Data
- AWS Amazon CloudWatch Monitoring Framework for Apache is generally available
+ AWS Translate All: Automating multiple file type batch translation with AWS CloudFormation
+Amazon Translate Artificial Intelligence
  AWS AWS Network Firewall is now available in ten more regions
  AWS AWS SAM CLI now supports AWS CDK applications - public preview
  AWS AWS Managed Services (AMS) now offers a new feature enabling customers to purchase AMS separate from infrastructure services through their preferred Solution Provider</description>
