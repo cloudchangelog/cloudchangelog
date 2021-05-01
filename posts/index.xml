@@ -6,10 +6,23 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>01 May, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/05/01/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/05/01/</guid>
+      <description> AWS Build real-time feature toggles with Amazon DynamoDB Streams and Amazon API Gateway WebSocket APIs
+Amazon API Gateway Amazon Dynamodb
+ AWS Building and deploying Fargate with EKS in an enterprise context using the AWS Cloud Development Kit and cdk8s+
+Containers CDK
+  </description>
+    </item>
     
     <item>
       <title>30 April, 2021</title>
@@ -18,11 +31,12 @@
       
       <guid>https://cloudchangelog.com/posts/2021/04/30/</guid>
       <description>AWS AWS Lambda@Edge now supports Node 14.x
- AWS AWS Launch Wizard now supports SAP deployments with SUSE Linux Enterprise Server 15 SP2 and RHEL 8.2
- AWS Amazon Connect reduces 26 rates in Latin America
- AWS Amazon Chime SDK now supports video prioritization policies
- AWS Orchestrate AWS Glue DataBrew jobs using Amazon Managed Workflows for Apache Airflow
-Amazon Managed Workflows For Apache Airflow (Amazon MWAA) Analytics</description>
+ AWS Optimizing cost for your high availability SQL Server deployments on AWS
+Amazon Elastic Block Storage (EBS) Amazon Fsx For Windows
+ AWS Amazon ECS on AWS Fargate now enables customers to configure ephemeral storage up to 200GiB
+ AWS Developing Twelve-Factor Apps using Amazon ECS and AWS Fargate
+Amazon Elastic Container Service AWS Fargate
+ AWS AWS RoboMaker announces support for Robot Operating System (ROS) 2 Foxy and Gazebo 11</description>
     </item>
     
     <item>
