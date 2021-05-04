@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>04 May, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/05/04/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/05/04/</guid>
+      <description> AWS How to create an Amazon EC2 Auto Scaling policy based on a memory utilization metric (Linux)
+Amazon Cloudwatch Amazon EC2
+ AWS How to create an Amazon EC2 Auto Scaling policy based on a memory utilization metric (Windows)
+Amazon Cloudwatch Amazon EC2
+ AWS How managed service providers can use AWS Control Tower to provide services
+Amazon Comprehend AWS Cloudformation
+  </description>
+    </item>
     
     <item>
       <title>03 May, 2021</title>
@@ -19,11 +34,10 @@
       <guid>https://cloudchangelog.com/posts/2021/05/03/</guid>
       <description>AWS Integrate across the Three Lines Model (Part 1): Build a custom automation of AWS Audit Manager with AWS Security Hub
 AWS Audit Manager AWS Cloudformation
- AWS Amazon Connect CTI Adapter for Salesforce adds programmable buttons with CTI Actions
- AWS Digitally transform your factory with Machine Downtime Monitor on AWS
-Architecture AWS Appsync
- AWS Analyzing petabytes of trade and quote data with Amazon FinSpace
-AWS Big Data</description>
+ AWS Amazon Redshift announces support for hierarchical data queries with Recursive CTE
+ AWS AWS Transit Gateway Network Manager is now available in AWS Asia Pacific (Osaka) Region
+ AWS Amazon CloudFront announces CloudFront Functions, a lightweight edge compute capability
+ AWS Amazon RDS for Oracle and Amazon RDS for PostgreSQL now support Amazon RDS Encrypted Cross-Region Automated Backups</description>
     </item>
     
     <item>
