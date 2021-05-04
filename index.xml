@@ -64,12 +64,12 @@ Networking
       
       <guid>https://cloudchangelog.com/posts/2021/04/30/</guid>
       <description>AWS AWS Lambda@Edge now supports Node 14.x
- AWS Optimizing cost for your high availability SQL Server deployments on AWS
-Amazon Elastic Block Storage (EBS) Amazon Fsx For Windows
- AWS Amazon ECS on AWS Fargate now enables customers to configure ephemeral storage up to 200GiB
- AWS Developing Twelve-Factor Apps using Amazon ECS and AWS Fargate
-Amazon Elastic Container Service AWS Fargate
- AWS AWS RoboMaker announces support for Robot Operating System (ROS) 2 Foxy and Gazebo 11</description>
+ AWS New Developer Desktop Feature in AWS RoboMaker Integrated Development Environment (IDE)
+ AWS Introducing hierarchical deletion to easily clean up unused resources in Amazon Forecast
+Amazon Forecast Artificial Intelligence
+ AWS Compliance as Code for Amazon ECS using Open Policy Agent, Amazon EventBridge, and AWS Lambda
+Amazon Elastic Container Service Containers
+ AWS Establishing Feedback Loops Based on the AWS Well-Architected Framework Review</description>
     </item>
     
     <item>
