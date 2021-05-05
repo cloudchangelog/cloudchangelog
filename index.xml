@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>05 May, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/05/05/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/05/05/</guid>
+      <description> Oracle Strategies to maximize your JD Edwards investment in the cloud
+Performance Solutions  </description>
+    </item>
     
     <item>
       <title>04 May, 2021</title>
@@ -19,10 +29,10 @@
       <guid>https://cloudchangelog.com/posts/2021/05/04/</guid>
       <description>AWS How to create an Amazon EC2 Auto Scaling policy based on a memory utilization metric (Linux)
 Amazon Cloudwatch Amazon EC2
- AWS AWS Identity and Access Management (IAM) now makes it easier for you to manage permissions for AWS services accessing your resources
- AWS Best practices for migrating Microsoft SQL Server databases to Amazon EC2 using CloudEndure Migration
-Cloudendure Migration Management &amp;amp; Governance
- AWS Simplify your data lifecycle by using object tags with Amazon S3 Lifecycle</description>
+ AWS IAM makes it easier for you to manage permissions for AWS services accessing your resources
+AWS Identity And Access Management (IAM) Security, Identity, &amp;amp; Compliance
+ AWS Achieve 12x higher throughput and lowest latency for PyTorch Natural Language Processing applications out-of-the-box on AWS Inferentia
+Amazon EC2</description>
     </item>
     
     <item>
