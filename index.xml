@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/05/05/</guid>
       <description>AWS Use HyperLogLog for trend analysis with Amazon Redshift
 Amazon Redshift
- AWS Getting started with SRT inputs in AWS Elemental Live
-AWS Elemental Medialive Media &amp;amp; Entertainment
- AWS Leveraging Amazon EC2 F1 Instances for Development and Red Teaming in DARPA’s First-Ever Bug Bounty Program
-Amazon EC2 AWS Partner Network
- AWS How to choose the best disaster recovery option for your Amazon Aurora MySQL cluster
-Amazon Aurora</description>
+ AWS Host Resource Groups for EC2 Dedicated Hosts now support AWS CloudFormation
+ AWS Amazon CodeGuru Reviewer now supports customer-managed customer master keys
+ AWS Announcing availability of AWS Outposts in Colombia, Macao, and Puerto Rico
+ AWS Amazon Pinpoint Announces Journey Pause and Resume
+ AWS New AWS Solutions Consulting Offer - DevOps Automation Springboard
+ AWS AWS Ground Station is now available in the Asia Pacific (Seoul) Region</description>
     </item>
     
     <item>
@@ -35,10 +35,10 @@ Amazon Aurora</description>
       <guid>https://cloudchangelog.com/posts/2021/05/04/</guid>
       <description>AWS How to create an Amazon EC2 Auto Scaling policy based on a memory utilization metric (Linux)
 Amazon Cloudwatch Amazon EC2
- AWS IAM makes it easier for you to manage permissions for AWS services accessing your resources
-AWS Identity And Access Management (IAM) Security, Identity, &amp;amp; Compliance
- AWS Achieve 12x higher throughput and lowest latency for PyTorch Natural Language Processing applications out-of-the-box on AWS Inferentia
-Amazon EC2</description>
+ AWS FreeRTOS 202104.00 includes new managed OTA and MQTT capabilities for IoT applications
+ AWS AWS OpsWorks for Configuration Management now supports Puppet Enterprise LTS Version 2019.8.5
+ AWS Now clone runbooks with AWS Systems Manager
+ AWS Amazon DevOps Guru now generally available with additional capabilities</description>
     </item>
     
     <item>
