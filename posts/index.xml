@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/05/05/</guid>
       <description>AWS Use HyperLogLog for trend analysis with Amazon Redshift
 Amazon Redshift
- AWS Host Resource Groups for EC2 Dedicated Hosts now support AWS CloudFormation
- AWS Amazon CodeGuru Reviewer now supports customer-managed customer master keys
- AWS Announcing availability of AWS Outposts in Colombia, Macao, and Puerto Rico
- AWS Amazon Pinpoint Announces Journey Pause and Resume
- AWS New AWS Solutions Consulting Offer - DevOps Automation Springboard
- AWS AWS Ground Station is now available in the Asia Pacific (Seoul) Region</description>
+ AWS Use ACM Private CA for Amazon API Gateway Mutual TLS
+Amazon API Gateway AWS Certificate Manager
+ AWS Segment paragraphs and detect insights with Amazon Textract and Amazon Comprehend
+Amazon Comprehend Amazon Textract
+ AWS Top Recommendations for IAM from Our AWS Heroes – Part 2: The Visual Editor and Federation
+AWS Identity And Access Management (IAM) AWS Partner Network</description>
     </item>
     
     <item>
