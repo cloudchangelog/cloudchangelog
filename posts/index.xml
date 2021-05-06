@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>06 May, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/05/06/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/05/06/</guid>
+      <description>AWS Create a serverless pipeline to translate large documents with Amazon Translate
+Amazon Translate Artificial Intelligence
+ AWS How Genworth built a serverless ML pipeline on AWS using Amazon SageMaker and AWS Glue
+Amazon Sagemaker Analytics
+ AWS Perform batch fraud predictions with Amazon Fraud Detector without writing code or integrating an API
+Amazon Fraud Detector Artificial Intelligence
+ AWS Top Recommendations for Working with IAM from Our AWS Heroes – Part 3: Permissions Boundaries and Conditions</description>
+    </item>
     
     <item>
       <title>05 May, 2021</title>
@@ -19,12 +34,11 @@
       <guid>https://cloudchangelog.com/posts/2021/05/05/</guid>
       <description>AWS Use HyperLogLog for trend analysis with Amazon Redshift
 Amazon Redshift
- AWS Use ACM Private CA for Amazon API Gateway Mutual TLS
-Amazon API Gateway AWS Certificate Manager
- AWS Segment paragraphs and detect insights with Amazon Textract and Amazon Comprehend
-Amazon Comprehend Amazon Textract
- AWS Top Recommendations for IAM from Our AWS Heroes – Part 2: The Visual Editor and Federation
-AWS Identity And Access Management (IAM) AWS Partner Network</description>
+ AWS Leveraging Amazon EC2 F1 Instances for Development and Red Teaming in DARPA’s First-Ever Bug Bounty Program
+Amazon EC2 AWS Partner Network
+ AWS Host Resource Groups for EC2 Dedicated Hosts now support AWS CloudFormation
+ AWS Amazon CodeGuru Reviewer now supports customer-managed customer master keys
+ AWS Announcing availability of AWS Outposts in Colombia, Macao, and Puerto Rico</description>
     </item>
     
     <item>
