@@ -19,11 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/05/07/</guid>
       <description>AWS Use the power of script steps in your Systems Manager Automation runbooks
 AWS Config AWS Systems Manager
- AWS Complexities and Best Practices for AWS Lambda Logging
-AWS Lambda AWS Partner Network
- AWS Amazon CloudWatch Synthetics supports cron expression for scheduling
- AWS Capture changes from Amazon DocumentDB via AWS Lambda and publish them to Amazon MSK
-Amazon Documentdb Amazon Managed Streaming For Apache Kafka (Amazon MSK)</description>
+ AWS AWS Organizations launches new console experience
+ AWS Prepare data for machine learning faster and easier on Amazon SageMaker Data Wrangler with support for more data sources and distributed jobs
+ AWS Use Kubernetes Pod Templates with EMR on EKS to simplify running Spark workloads and control costs
+ AWS Amazon EBS Container Storage Interface (CSI) driver is now generally available</description>
     </item>
     
     <item>
