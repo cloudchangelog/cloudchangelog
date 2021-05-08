@@ -19,8 +19,8 @@
       <guid>https://cloudchangelog.com/posts/2021/05/07/</guid>
       <description>AWS Use the power of script steps in your Systems Manager Automation runbooks
 AWS Config AWS Systems Manager
+ AWS Amazon SageMaker Automatic Model Tuning now supports up to 10x faster tuning and enables exploring up to 20X more models
  AWS AWS Organizations launches new console experience
- AWS Prepare data for machine learning faster and easier on Amazon SageMaker Data Wrangler with support for more data sources and distributed jobs
  AWS Use Kubernetes Pod Templates with EMR on EKS to simplify running Spark workloads and control costs
  AWS Amazon EBS Container Storage Interface (CSI) driver is now generally available</description>
     </item>
