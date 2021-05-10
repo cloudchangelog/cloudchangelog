@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 May, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/05/10/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/05/10/</guid>
+      <description> AWS Operating Lambda: Performance optimization – Part 3
+AWS Lambda Best Practices
+ Oracle Service catalog: Applications need governance too!
+Performance Solutions
+ Oracle ELEVATE is the foundation for your digital transformation
+Partner Solutions
+  </description>
+    </item>
     
     <item>
       <title>07 May, 2021</title>
