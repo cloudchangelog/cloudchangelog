@@ -19,13 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/05/10/</guid>
       <description>AWS Operating Lambda: Performance optimization – Part 3
 AWS Lambda Best Practices
+ AWS Amazon RDS for SQL Server supports Managed Disaster Recovery (DR) with Amazon RDS Cross-Region Automated Backups
  AWS Learn how to integrate AWS services with the Serverless Patterns Collection
 AWS Cloud Development Kit AWS Cloudformation
  AWS BookTix takes live performances from on-stage to online with AWS
 Amazon Aurora Amazon Cloudfront
- AWS Build an anomaly detection model from scratch with Amazon Lookout for Vision
-Amazon Lookout For Vision Artificial Intelligence
- AWS Field Notes: AWS Control Tower Governance on Selected Regions and Improved Account Provisioning</description>
+ AWS Migrate your Amazon EBS volumes from gp2 to gp3 and save up to 20% on costs</description>
     </item>
     
     <item>
