@@ -6,10 +6,23 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>11 May, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/05/11/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/05/11/</guid>
+      <description> AWS Automated just-in-time storage for SQL Server backup using AWS Systems Manager Automation
+Amazon EC2 Amazon Simple Storage Services (S3)
+ AWS Use AWS Control Tower lifecycle events to automate configuration of AWS accounts for ServiceNow IT operations management
+Amazon Cloudwatch Amazon Eventbridge
+  </description>
+    </item>
     
     <item>
       <title>10 May, 2021</title>
@@ -19,12 +32,13 @@
       <guid>https://cloudchangelog.com/posts/2021/05/10/</guid>
       <description>AWS Operating Lambda: Performance optimization – Part 3
 AWS Lambda Best Practices
- AWS Amazon RDS for SQL Server supports Managed Disaster Recovery (DR) with Amazon RDS Cross-Region Automated Backups
  AWS Learn how to integrate AWS services with the Serverless Patterns Collection
 AWS Cloud Development Kit AWS Cloudformation
  AWS BookTix takes live performances from on-stage to online with AWS
 Amazon Aurora Amazon Cloudfront
- AWS Migrate your Amazon EBS volumes from gp2 to gp3 and save up to 20% on costs</description>
+ AWS Unify your iOS mobile app CI/CD pipeline with Amazon EC2 Mac Instances
+Amazon EC2 Amazon EC2 Bare Metal
+ AWS Amazon RDS for SQL Server supports Managed Disaster Recovery (DR) with Amazon RDS Cross-Region Automated Backups</description>
     </item>
     
     <item>
