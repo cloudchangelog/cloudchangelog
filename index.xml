@@ -19,11 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/05/11/</guid>
       <description>AWS Automated just-in-time storage for SQL Server backup using AWS Systems Manager Automation
 Amazon EC2 Amazon Simple Storage Services (S3)
- AWS Use AWS Control Tower lifecycle events to automate configuration of AWS accounts for ServiceNow IT operations management
-Amazon Cloudwatch Amazon Eventbridge
- AWS AWS Local Zones Are Now Open in Boston, Miami, and Houston
-Launch News
- AWS Manage AWS ElastiCache for Redis access with Role-Based Access Control, AWS Secrets Manager, and IAM</description>
+ AWS AWS Certificate Manager Private Certificate Authority is now available in the Asia Pacific (Osaka) Region
+ AWS Announcing the General Availability of AWS Local Zones in Boston, Houston, and Miami
+ AWS Amazon Fraud Detector now supports AWS CloudFormation
+ AWS AWS Systems Manager Incident Manager integration with Amazon CloudWatch</description>
     </item>
     
     <item>
