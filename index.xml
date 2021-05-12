@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>12 May, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/05/12/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/05/12/</guid>
+      <description>AWS AWS Elemental Link features for building flexible and cost-efficient live streaming platforms
+AWS Elemental Link AWS Elemental Medialive
+ AWS How-To: Transfer an AWS Elemental Link between AWS Accounts (part 1)
+AWS Elemental Link AWS Elemental Medialive
+ AWS How-To: Transfer AWS Elemental Link between AWS Regions (part 2)
+AWS Elemental Link AWS Elemental Medialive
+ AWS How-To: Create multiple MediaLive inputs using the same AWS Elemental Link (part 3)</description>
+    </item>
     
     <item>
       <title>11 May, 2021</title>
