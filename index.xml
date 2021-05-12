@@ -19,10 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/05/11/</guid>
       <description>AWS Automated just-in-time storage for SQL Server backup using AWS Systems Manager Automation
 Amazon EC2 Amazon Simple Storage Services (S3)
- AWS AWS Certificate Manager Private Certificate Authority is now available in the Asia Pacific (Osaka) Region
- AWS Announcing the General Availability of AWS Local Zones in Boston, Houston, and Miami
- AWS Amazon Fraud Detector now supports AWS CloudFormation
- AWS AWS Systems Manager Incident Manager integration with Amazon CloudWatch</description>
+ AWS Announcing Amazon RDS for SQL Server on AWS Outposts
+ AWS Amazon Transcribe improves live subtitling with partial results stabilization
+ AWS Amazon EKS managed node groups adds support for Kubernetes node taints
+ AWS Amazon EC2 P4d instances now available in Europe (Frankfurt) and Asia Pacific (Seoul) regions</description>
     </item>
     
     <item>
