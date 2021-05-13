@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/05/13/</guid>
       <description>AWS GoDaddy’s journey to the cloud and their Standard Cloud Platform
 Announcements AWS Cloudformation
- AWS AWS Backup is now FedRAMP High approved for your compliance and data protection needs
-Announcements AWS Backup
- AWS Ensure Optimal Application Performance with Distributed Load Testing on AWS
-Amazon API Gateway Amazon Cloudfront
- AWS AWS Partners accelerate content creation in the cloud with Amazon Nimble Studio
-Amazon Nimble Studio AWS Partner Network</description>
+ AWS Amazon EMR 6.3 now supports Apache Ranger for fine-grained data access control
+ AWS Build BI dashboards for your Amazon SageMaker Ground Truth labels and worker metadata
+Amazon Quicksight Amazon Sagemaker Ground Truth
+ AWS Maximize TensorFlow performance on Amazon SageMaker endpoints for real-time inference
+Amazon Sagemaker Artificial Intelligence
+ AWS AWS WAF adds support for log filtering</description>
     </item>
     
     <item>
