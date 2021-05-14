@@ -19,13 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/05/14/</guid>
       <description>AWS GoDaddy’s journey to the cloud and their Public Cloud Portal
 Announcements AWS Cloudformation
- AWS Migrating from self-managed Kubernetes to Amazon EKS? Here are some key considerations
-Amazon Elastic Kubernetes Service Migration
- AWS How Takeda uses the GraphQL API with AWS AppSync to support data scientists
-AWS Appsync
  AWS Introducing the Amazon EventBridge service integration for AWS Step Functions
 Amazon Eventbridge AWS Step Functions
- AWS Amazon Kendra now available in Asia-Pacific (Singapore) AWS region</description>
+ AWS How Wealthfront utilizes AWS X-Ray to analyze and debug distributed applications
+Amazon Simple Queue Service (SQS) AWS X-Ray
+ AWS Introducing Cold Storage for Amazon Elasticsearch Service
+Amazon Elasticsearch Service Analytics
+ AWS Disaster Recovery (DR) Architecture on AWS, Part III: Pilot Light and Warm Standby</description>
     </item>
     
     <item>
