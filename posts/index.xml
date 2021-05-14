@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>14 May, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/05/14/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/05/14/</guid>
+      <description> AWS GoDaddy’s journey to the cloud and their Public Cloud Portal
+Announcements AWS Cloudformation
+ AWS How Wealthfront utilizes AWS X-Ray to analyze and debug distributed applications
+Amazon Simple Queue Service (SQS) AWS X-Ray
+ GCP Costa Mesa Sanitary District improves manhole maintenance with machine learning
+Developers &amp;amp; Practitioners
+  </description>
+    </item>
     
     <item>
       <title>13 May, 2021</title>
@@ -19,12 +34,12 @@
       <guid>https://cloudchangelog.com/posts/2021/05/13/</guid>
       <description>AWS GoDaddy’s journey to the cloud and their Standard Cloud Platform
 Announcements AWS Cloudformation
- AWS Amazon EMR 6.3 now supports Apache Ranger for fine-grained data access control
- AWS Build BI dashboards for your Amazon SageMaker Ground Truth labels and worker metadata
-Amazon Quicksight Amazon Sagemaker Ground Truth
- AWS Maximize TensorFlow performance on Amazon SageMaker endpoints for real-time inference
-Amazon Sagemaker Artificial Intelligence
- AWS AWS WAF adds support for log filtering</description>
+ AWS Where Does a Customer Data Platform Fit in With My AWS Data Lake?
+Analytics AWS Partner Network
+ AWS AWS Backup is now FedRAMP High approved for your compliance and data protection needs
+Announcements AWS Backup
+ AWS Ensure Optimal Application Performance with Distributed Load Testing on AWS
+Amazon API Gateway Amazon Cloudfront</description>
     </item>
     
     <item>
