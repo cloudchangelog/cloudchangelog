@@ -17,13 +17,15 @@
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/05/14/</guid>
-      <description> AWS GoDaddy’s journey to the cloud and their Public Cloud Portal
+      <description>AWS GoDaddy’s journey to the cloud and their Public Cloud Portal
 Announcements AWS Cloudformation
  AWS How Wealthfront utilizes AWS X-Ray to analyze and debug distributed applications
 Amazon Simple Queue Service (SQS) AWS X-Ray
- GCP Costa Mesa Sanitary District improves manhole maintenance with machine learning
-Developers &amp;amp; Practitioners
-  </description>
+ AWS Introducing Cold Storage for Amazon Elasticsearch Service
+Amazon Elasticsearch Service Analytics
+ AWS Disaster Recovery (DR) Architecture on AWS, Part III: Pilot Light and Warm Standby
+Amazon Cloudwatch Amazon Dynamodb
+ AWS Amazon Elasticsearch Service announces a new lower cost storage tier</description>
     </item>
     
     <item>
