@@ -19,13 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/05/14/</guid>
       <description>AWS GoDaddy’s journey to the cloud and their Public Cloud Portal
 Announcements AWS Cloudformation
- AWS Introducing the Amazon EventBridge service integration for AWS Step Functions
-Amazon Eventbridge AWS Step Functions
- AWS How Wealthfront utilizes AWS X-Ray to analyze and debug distributed applications
-Amazon Simple Queue Service (SQS) AWS X-Ray
- AWS Introducing Cold Storage for Amazon Elasticsearch Service
-Amazon Elasticsearch Service Analytics
- AWS Disaster Recovery (DR) Architecture on AWS, Part III: Pilot Light and Warm Standby</description>
+ AWS How Takeda uses the GraphQL API with AWS AppSync to support data scientists
+AWS Appsync
+ AWS Amazon Transcribe Medical now provides automatic Protected Health Information (PHI) identification for batch processing
+ AWS Amazon RDS Data API now supports FIPS 140-2 validated endpoints
+ AWS Amazon Kendra now available in Asia-Pacific (Singapore) AWS region</description>
     </item>
     
     <item>
