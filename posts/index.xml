@@ -19,12 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/05/18/</guid>
       <description>AWS Securing AWS IoT Greengrass Deployments with NXP’s EdgeLock SE050
 Customer Solutions Internet Of Things
- AWS Field Notes: Monitor Your Couchbase Performance and Logs with Amazon CloudWatch
-Amazon Cloudwatch Architecture
+ AWS AWS Database Migration Service now supports Apache Kafka TLS and Authentication
  AWS AWS Elemental MediaConnect adds CDI and JPEG XS support
- AWS Create and share encrypted backups across accounts and Regions using AWS Backup
-Amazon Elastic Block Storage (EBS) AWS Backup
- AWS Announcing general availability of AWS Application Migration Service</description>
+ AWS Amazon EKS 1.20 Released
+Amazon Elastic Kubernetes Service Containers
+ AWS Speed up YOLOv4 inference to twice as fast on Amazon SageMaker
+Amazon Sagemaker Artificial Intelligence
+ AWS AWS Amplify Hosting announces server-side rendering (SSR) support for Next.</description>
     </item>
     
     <item>
