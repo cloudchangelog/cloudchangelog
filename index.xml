@@ -22,10 +22,9 @@ Customer Solutions Internet Of Things
  AWS Field Notes: Monitor Your Couchbase Performance and Logs with Amazon CloudWatch
 Amazon Cloudwatch Architecture
  AWS AWS Elemental MediaConnect adds CDI and JPEG XS support
- Azure Enable your mission-critical workloads with SUSE on Azure—sign up for SUSECON
-Events Migration
- Oracle MySQL Database Server direct data import
- Oracle Using OCI Security Advisor workflows to provision objects with customer-managed encryption keys</description>
+ AWS Create and share encrypted backups across accounts and Regions using AWS Backup
+Amazon Elastic Block Storage (EBS) AWS Backup
+ AWS Announcing general availability of AWS Application Migration Service</description>
     </item>
     
     <item>
@@ -36,13 +35,11 @@ Events Migration
       <guid>https://cloudchangelog.com/posts/2021/05/17/</guid>
       <description>AWS Spring 2021 SOC 2 Type I Privacy report now available
 Announcements Security, Identity, &amp;amp; Compliance
- AWS Architecture Monthly Magazine: Travel and Hospitality
-Architecture Travel And Hospitality
- AWS How to Use the New AWS Application Migration Service for Lift-and-Shift Migrations
-AWS Server Migration Service Cloudendure Migration
- AWS Introducing AWS CloudFormation Guard 2.0
-AWS Cloudformation Configuration, Compliance, And Auditing
- AWS Appian Workforce Safety Helps Workplaces Reopen and Stay Open</description>
+ AWS Amazon Lex is now available in the AWS Canada (Central) Region
+ AWS Amazon Macie supports criteria-based bucket selection for sensitive data discovery jobs
+ AWS Amazon WorkDocs adds filtering to the activity feed for both iOS and Android
+ AWS AWS CloudFormation Guard 2.0 is now generally available
+ AWS Reinventing automated operations (Part II)</description>
     </item>
     
     <item>
