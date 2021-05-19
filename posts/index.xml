@@ -17,11 +17,14 @@
       <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/05/19/</guid>
-      <description> AWS Automating shared VPC deployments with AWS CloudFormation
+      <description>AWS Automating shared VPC deployments with AWS CloudFormation
 Amazon VPC AWS Cloudformation
+ AWS Fast and Secure Account Governance with Customizations for AWS Control Tower
+Architecture AWS Control Tower
+ AWS AWS Solutions Implementation - AWS Data Streaming Solution for Amazon MSK adds support for Apache Kafka versions 2.8.0 and 2.6.2
  Azure Ground processing with space data 5x faster with Azure
 Artificial Intelligence Machine Learning
-  </description>
+ GCP Take control of your firewall rules with Firewall Insights</description>
     </item>
     
     <item>
@@ -32,13 +35,12 @@ Artificial Intelligence Machine Learning
       <guid>https://cloudchangelog.com/posts/2021/05/18/</guid>
       <description>AWS Securing AWS IoT Greengrass Deployments with NXP’s EdgeLock SE050
 Customer Solutions Internet Of Things
- AWS Amazon EKS and EKS Distro now support Kubernetes version 1.20
- AWS How Reply Built a Connected Vehicle Platform with AWS IoT and Amazon Alexa
-Automotive AWS Partner Network
- AWS Announcing general availability of AWS Application Migration Service
- AWS Introducing AWS App Runner
-Containers App Runner
- AWS Announcing the general availability of AWS IoT Core Device Advisor</description>
+ AWS New – AWS App Runner: From Code to a Scalable, Secure Web Application in Minutes
+Announcements AWS Fargate
+ AWS The evolution of broadcast cloud playout
+Amazon Aurora Amazon Cloudfront
+ AWS AWS Database Migration Service now supports Apache Kafka TLS and Authentication
+ AWS AWS Elemental MediaConnect adds CDI and JPEG XS support</description>
     </item>
     
     <item>
