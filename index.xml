@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/05/19/</guid>
       <description>AWS Automating shared VPC deployments with AWS CloudFormation
 Amazon VPC AWS Cloudformation
- AWS Fast and Secure Account Governance with Customizations for AWS Control Tower
-Architecture AWS Control Tower
- AWS AWS Solutions Implementation - AWS Data Streaming Solution for Amazon MSK adds support for Apache Kafka versions 2.8.0 and 2.6.2
- AWS Inverleigh Media: content delivery on AWS
-Amazon API Gateway Amazon Cloudfront
- AWS How AWS Partners Can Get Started with AWS Outposts – By Knowing What it’s Not</description>
+ AWS Amazon EventBridge now supports sharing events between event buses in the same account and Region
+ AWS Amazon EC2 Auto Scaling Introduces Predictive Scaling as a Native Scaling Policy
+ AWS Amazon Route 53 Resolver Endpoints for Hybrid Cloud Are Now Available in the Asia Pacific (Osaka) Region
+ AWS AWS Application Cost profiler
+ AWS Integrate Amazon Managed Blockchain identities with Amazon Cognito</description>
     </item>
     
     <item>
