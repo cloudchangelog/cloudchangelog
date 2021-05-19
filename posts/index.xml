@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>19 May, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/05/19/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/05/19/</guid>
+      <description> AWS Automating shared VPC deployments with AWS CloudFormation
+Amazon VPC AWS Cloudformation  </description>
+    </item>
     
     <item>
       <title>18 May, 2021</title>
@@ -19,13 +29,13 @@
       <guid>https://cloudchangelog.com/posts/2021/05/18/</guid>
       <description>AWS Securing AWS IoT Greengrass Deployments with NXP’s EdgeLock SE050
 Customer Solutions Internet Of Things
- AWS AWS Database Migration Service now supports Apache Kafka TLS and Authentication
- AWS AWS Elemental MediaConnect adds CDI and JPEG XS support
- AWS Amazon EKS 1.20 Released
-Amazon Elastic Kubernetes Service Containers
- AWS Speed up YOLOv4 inference to twice as fast on Amazon SageMaker
-Amazon Sagemaker Artificial Intelligence
- AWS AWS Amplify Hosting announces server-side rendering (SSR) support for Next.</description>
+ AWS Amazon EKS and EKS Distro now support Kubernetes version 1.20
+ AWS How Reply Built a Connected Vehicle Platform with AWS IoT and Amazon Alexa
+Automotive AWS Partner Network
+ AWS Announcing general availability of AWS Application Migration Service
+ AWS Introducing AWS App Runner
+Containers App Runner
+ AWS Announcing the general availability of AWS IoT Core Device Advisor</description>
     </item>
     
     <item>
