@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20 May, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/05/20/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/05/20/</guid>
+      <description> AWS Monitoring your EC2 server fleet with advanced CloudWatch agent capabilities
+Amazon Cloudwatch Management Tools
+ AWS Integrate across the Three Lines Model (Part 2): Transform AWS Config conformance packs into AWS Audit Manager assessments
+AWS Audit Manager AWS Cloudformation
+ AWS Automating Amazon S3 on Outposts resources with AWS CloudFormation
+Amazon Simple Storage Services (S3) AWS Cloudformation
+  </description>
+    </item>
     
     <item>
       <title>19 May, 2021</title>
