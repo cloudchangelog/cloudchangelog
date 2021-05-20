@@ -19,11 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/05/20/</guid>
       <description>AWS Monitoring your EC2 server fleet with advanced CloudWatch agent capabilities
 Amazon Cloudwatch Management Tools
- AWS Integrate across the Three Lines Model (Part 2): Transform AWS Config conformance packs into AWS Audit Manager assessments
-AWS Audit Manager AWS Cloudformation
- AWS Automating Amazon S3 on Outposts resources with AWS CloudFormation
-Amazon Simple Storage Services (S3) AWS Cloudformation
- AWS Building private cross-account APIs using Amazon API Gateway and AWS PrivateLink</description>
+ AWS Field Notes: How to Integrate Your Non-Cloud-Native COTS Software with AWS for Batch Processing
+Architecture AWS Systems Manager
+ AWS Amazon SageMaker now offers new flexibility in configuring the model building pipelines
+ AWS AWS Direct Connect Integration with VMware Cloud on AWS
+AWS Direct Connect Compute
+ AWS Simplify Amazon Redshift RA3 migration evaluation with Simple Replay utility</description>
     </item>
     
     <item>
