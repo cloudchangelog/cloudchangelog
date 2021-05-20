@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/05/20/</guid>
       <description>AWS Monitoring your EC2 server fleet with advanced CloudWatch agent capabilities
 Amazon Cloudwatch Management Tools
- AWS Field Notes: How to Integrate Your Non-Cloud-Native COTS Software with AWS for Batch Processing
-Architecture AWS Systems Manager
- AWS Amazon SageMaker now offers new flexibility in configuring the model building pipelines
- AWS AWS Direct Connect Integration with VMware Cloud on AWS
-AWS Direct Connect Compute
- AWS Simplify Amazon Redshift RA3 migration evaluation with Simple Replay utility</description>
+ AWS Amazon Lex now supports resource-based policies for bots and aliases
+ AWS Amazon CloudWatch Application Insights now supports container monitoring
+ AWS EKS Add-Ons Now Supports CoreDNS and kube-proxy
+ AWS AWS customers can now self opt-in to AWS Wavelength Zones
+ AWS Amazon EMR on EKS is now available in the South America (São Paulo) region</description>
     </item>
     
     <item>
