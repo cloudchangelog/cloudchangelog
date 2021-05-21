@@ -19,11 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/05/21/</guid>
       <description>AWS Simplify incoming data ingestion with dynamic parameterized datasets in AWS Glue DataBrew
 Analytics AWS Glue
- AWS Announcing enhancements to Amazon Rekognition text detection - support for more words, higher accuracy, and lower latency
- AWS Building fine-grained authorization using Amazon Cognito, API Gateway, and IAM
-Amazon API Gateway Amazon Cognito
- AWS Reduce ML inference costs on Amazon SageMaker with hardware and software acceleration
-Amazon Sagemaker Amazon Sagemaker Neo</description>
+ AWS Amazon Forecast now supports generating predictions for 5X more items using 3X more historic data points
+ AWS Amazon Elastic File System now supports longer resource identifiers
+ AWS Amazon RDS for Oracle now supports April 2021 Release Updates (RU)
+ AWS “AWS Is How”: Orangetheory Fitness provides live virtual classes to keep people inspired and moving</description>
     </item>
     
     <item>
