@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/05/21/</guid>
       <description>AWS Simplify incoming data ingestion with dynamic parameterized datasets in AWS Glue DataBrew
 Analytics AWS Glue
- AWS Building a Serverless Outbreak Management Solution with AWS Data Lab
-Amazon Cognito Amazon Dynamodb
- AWS Manage Amazon Keyspaces (for Apache Cassandra) service quotas through the Service Quotas console
- AWS AWS App2Container now supports deployment of containerized applications to AWS App Runner
- Azure General availability: Azure ExpressRoute: 5 New Peering Locations Available</description>
+ AWS Announcing enhancements to Amazon Rekognition text detection - support for more words, higher accuracy, and lower latency
+ AWS Building fine-grained authorization using Amazon Cognito, API Gateway, and IAM
+Amazon API Gateway Amazon Cognito
+ AWS Reduce ML inference costs on Amazon SageMaker with hardware and software acceleration
+Amazon Sagemaker Amazon Sagemaker Neo</description>
     </item>
     
     <item>
