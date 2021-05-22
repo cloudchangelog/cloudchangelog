@@ -6,10 +6,23 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>22 May, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/05/22/</link>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/05/22/</guid>
+      <description> AWS How Amazon CodeGuru Profiler helps Coursera create high-quality online learning experiences
+Amazon Codeguru Customer Solutions
+ AWS Build and Deploy Docker Images to AWS using EC2 Image Builder
+Technical How-To Amazon ECR
+  </description>
+    </item>
     
     <item>
       <title>21 May, 2021</title>
@@ -19,10 +32,11 @@
       <guid>https://cloudchangelog.com/posts/2021/05/21/</guid>
       <description>AWS Simplify incoming data ingestion with dynamic parameterized datasets in AWS Glue DataBrew
 Analytics AWS Glue
- AWS Amazon Forecast now supports generating predictions for 5X more items using 3X more historic data points
- AWS Amazon Elastic File System now supports longer resource identifiers
- AWS Amazon RDS for Oracle now supports April 2021 Release Updates (RU)
- AWS “AWS Is How”: Orangetheory Fitness provides live virtual classes to keep people inspired and moving</description>
+ AWS Implement live customer service chat with two-way translation, using Amazon Connect and Amazon Translate
+Amazon Connect Amazon Translate
+ AWS Announcing enhancements to Amazon Rekognition text detection - support for more words, higher accuracy, and lower latency
+ AWS Building fine-grained authorization using Amazon Cognito, API Gateway, and IAM
+Amazon API Gateway Amazon Cognito</description>
     </item>
     
     <item>
@@ -63,12 +77,13 @@ Amazon VPC AWS Cloudformation
       <guid>https://cloudchangelog.com/posts/2021/05/18/</guid>
       <description>AWS Securing AWS IoT Greengrass Deployments with NXP’s EdgeLock SE050
 Customer Solutions Internet Of Things
- AWS New – AWS App Runner: From Code to a Scalable, Secure Web Application in Minutes
-Announcements AWS Fargate
- AWS The evolution of broadcast cloud playout
-Amazon Aurora Amazon Cloudfront
- AWS AWS Database Migration Service now supports Apache Kafka TLS and Authentication
- AWS AWS Elemental MediaConnect adds CDI and JPEG XS support</description>
+ AWS Introducing AWS App Runner
+Containers App Runner
+ AWS AWS License Manager now provides historical license usage reporting
+ AWS Spring 2021 SOC reports now available with 133 services in scope
+Announcements Security, Identity, &amp;amp; Compliance
+ AWS Announcing the general availability of AWS IoT Core Device Advisor
+ AWS Introducing AWS Copilot v1.</description>
     </item>
     
     <item>
