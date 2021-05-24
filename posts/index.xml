@@ -19,11 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/05/24/</guid>
       <description>AWS Getting Started with Your Favorite Operational Tools on AWS Lambda – Extensions Are Now Generally Available
 AWS Lambda Launch
- AWS Modify an Amazon RDS for SQL Server instance from Standard Edition to Enterprise Edition
-Amazon RDS RDS For SQL Server
- AWS How to import AWS IoT Device Defender audit findings into Security Hub
-AWS Iot Device Defender AWS Security Hub
- AWS Overon (Mediapro Group): World-class Audiovisual Production Center on AWS</description>
+ AWS AWS Lambda Extensions are now Generally Available
+ AWS Amazon CloudWatch Logs service limits can now be managed with AWS Service Quotas
+ AWS Amazon EC2 M5zn instances, with high frequency processors and 100 Gbps networking are now available in Asia Pacific (Seoul)
+ AWS Modify an Amazon RDS for SQL Server instance from Standard Edition to Enterprise Edition</description>
     </item>
     
     <item>
