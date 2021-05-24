@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>24 May, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/05/24/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/05/24/</guid>
+      <description>AWS Getting Started with Your Favorite Operational Tools on AWS Lambda – Extensions Are Now Generally Available
+AWS Lambda Launch
+ AWS Modify an Amazon RDS for SQL Server instance from Standard Edition to Enterprise Edition
+Amazon RDS RDS For SQL Server
+ AWS How to import AWS IoT Device Defender audit findings into Security Hub
+AWS Iot Device Defender AWS Security Hub
+ AWS Overon (Mediapro Group): World-class Audiovisual Production Center on AWS</description>
+    </item>
     
     <item>
       <title>23 May, 2021</title>
