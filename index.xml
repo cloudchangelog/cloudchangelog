@@ -19,12 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/05/25/</guid>
       <description>AWS Visualize your AWS Infrastructure with Amazon Neptune and AWS Config
 Amazon API Gateway Amazon Neptune
- AWS Updated classroom course: Migrating to AWS
- AWS Amazon Braket introduces quantum circuit noise simulator, DM1
- AWS AWS Data Exchange now supports custom payment schedules for private offers
- AWS Making Effective Decisions for Your V1 AWS Design
-Amazon RDS Architecture
- Azure Public preview: Run Event Grid on Kubernetes in Azure or anywhere with Azure Arc</description>
+ AWS Amazon MSK adds support for Apache Kafka version 2.7.1
+ AWS Amazon SageMaker Pipelines is now integrated with Amazon SageMaker Experiments
+ AWS Fleet Hub for AWS IoT Device Management, a new, easy way to monitor &amp;amp; interact with IoT device fleets, is now generally available
+ AWS AWS Transfer Family now supports Microsoft Active Directory</description>
     </item>
     
     <item>
