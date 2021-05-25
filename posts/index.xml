@@ -6,10 +6,26 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>25 May, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/05/25/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/05/25/</guid>
+      <description>AWS Visualize your AWS Infrastructure with Amazon Neptune and AWS Config
+Amazon API Gateway Amazon Neptune
+ AWS Updated classroom course: Migrating to AWS
+ AWS Amazon Braket introduces quantum circuit noise simulator, DM1
+ AWS AWS Data Exchange now supports custom payment schedules for private offers
+ AWS Making Effective Decisions for Your V1 AWS Design
+Amazon RDS Architecture
+ Azure Public preview: Run Event Grid on Kubernetes in Azure or anywhere with Azure Arc</description>
+    </item>
     
     <item>
       <title>24 May, 2021</title>
