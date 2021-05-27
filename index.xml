@@ -19,11 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/05/27/</guid>
       <description>AWS How to implement a hybrid PKI solution on AWS
 AWS Certificate Manager AWS Cloudhsm
- AWS Mistakes to Avoid When Implementing Serverless Architecture with Lambda
-Amazon API Gateway Amazon Elastic Kubernetes Service
- AWS Amazon Lightsail DNS now supports pointing root domains to Lightsail Container Services
- AWS Introducing Amazon Kinesis Data Analytics Studio – Quickly Interact with Streaming Data Using SQL, Python, or Scala
-Amazon Kinesis Amazon Managed Streaming For Apache Kafka (Amazon MSK)</description>
+ AWS Bigstream Provides Big Data Acceleration with Apache Spark and Amazon EMR
+Amazon EMR Analytics
+ AWS Enhance Security and Amazon EC2 Visibility with BMC Helix Discovery and AWS Systems Manager
+AWS Partner Network AWS Systems Manager
+ AWS Fine-tune and deploy the ProtBERT model for protein classification using Amazon SageMaker
+Amazon Sagemaker Artificial Intelligence</description>
     </item>
     
     <item>
