@@ -6,10 +6,26 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>27 May, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/05/27/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/05/27/</guid>
+      <description> AWS How to implement a hybrid PKI solution on AWS
+AWS Certificate Manager AWS Cloudhsm
+ Azure General availability: Azure Log Analytics in South India
+Azure Log Analytics; Azure Monitor; Log Analytics;
+ Azure General availability: Application Insight in South India
+Azure Monitor Application Insight
+ Azure Azure Storage Blob inventory public preview is now available in all public regions
+  </description>
+    </item>
     
     <item>
       <title>26 May, 2021</title>
@@ -19,12 +35,10 @@
       <guid>https://cloudchangelog.com/posts/2021/05/26/</guid>
       <description>AWS How Contentsquare reduced TensorFlow inference latency with TensorFlow Serving on Amazon SageMaker
 Amazon Sagemaker Artificial Intelligence
- AWS Amazon Aurora MySQL Improves Availability of Read Replicas
- AWS Host multiple TensorFlow computer vision models using Amazon SageMaker multi-model endpoints
-Amazon Sagemaker Artificial Intelligence
- AWS New self-paced courses for cloud procurement, .NET, and Amazon CodeGuru available
- AWS Amazon Aurora with MySQL Compatibility Supports T3.large Instances
- AWS Gain valuable ML skills with the AWS Machine Learning Engineer Nanodegree Scholarship from Udacity</description>
+ AWS Amazon MQ for RabbitMQ is now available in Amazon Web Services China Regions
+ AWS Amazon Keyspaces (for Apache Cassandra) is now HIPAA eligible to help you run healthcare workloads more easily
+ AWS AWS Certificate Manager Private Certificate Authority now supports storing CRLs in private S3 buckets
+ AWS Amazon EMR 6.</description>
     </item>
     
     <item>
