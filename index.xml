@@ -17,14 +17,13 @@
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/05/27/</guid>
-      <description> AWS How to implement a hybrid PKI solution on AWS
+      <description>AWS How to implement a hybrid PKI solution on AWS
 AWS Certificate Manager AWS Cloudhsm
- Azure General availability: Azure Log Analytics in South India
-Azure Log Analytics; Azure Monitor; Log Analytics;
- Azure General availability: Application Insight in South India
-Azure Monitor Application Insight
- Azure Azure Storage Blob inventory public preview is now available in all public regions
-  </description>
+ AWS Mistakes to Avoid When Implementing Serverless Architecture with Lambda
+Amazon API Gateway Amazon Elastic Kubernetes Service
+ AWS Amazon Lightsail DNS now supports pointing root domains to Lightsail Container Services
+ AWS Introducing Amazon Kinesis Data Analytics Studio – Quickly Interact with Streaming Data Using SQL, Python, or Scala
+Amazon Kinesis Amazon Managed Streaming For Apache Kafka (Amazon MSK)</description>
     </item>
     
     <item>
