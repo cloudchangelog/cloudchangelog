@@ -29,10 +29,11 @@ Devops CI/CD  </description>
       <guid>https://cloudchangelog.com/posts/2021/05/28/</guid>
       <description>AWS Field Notes: Extend Your Web Application Deployment to the China Region Using AWS Direct Connect
 Architecture AWS Direct Connect
- AWS Amazon CloudWatch Logs announces Dimension support for Metric Filters
- AWS Announcing Amazon CloudWatch Resource Health
- AWS AWS Launch Wizard adds support for SQL Server Always On Failover Cluster Instances deployed on Amazon FSx for Windows File Server
- AWS Introducing AWS App Runner Integration in the AWS Toolkit for JetBrains IDEs</description>
+ AWS Implementing Multi-Factor Authentication in React Using Auth0 and AWS Amplify
+AWS Partner Network Customer Solutions
+ AWS Automate weed detection in farm crops using Amazon Rekognition Custom Labels
+Amazon Rekognition Artificial Intelligence
+ AWS Amazon SageMaker Autopilot adds automatic cross validation to improve model quality on smaller datasets by up to 35%</description>
     </item>
     
     <item>
