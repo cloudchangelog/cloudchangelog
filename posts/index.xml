@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>30 May, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/05/30/</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/05/30/</guid>
+      <description> Oracle Privately Replicating Autonomous Databases Using Native GoldenGate
+A-Team Chronicles Architecture  </description>
+    </item>
     
     <item>
       <title>29 May, 2021</title>
