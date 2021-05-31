@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>31 May, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/05/31/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/05/31/</guid>
+      <description> Oracle Simplify firewall use case using Oracle’s dynamic routing gateway
+Partner Solutions
+ Oracle Announcing GitHub Actions Arm runners for the Arm Compute platform on Oracle Cloud Infrastructure
+Cloud
+ Oracle Announcing Jenkins support for the Arm compute platform on Oracle Cloud Infrastructure
+Cloud
+  </description>
+    </item>
     
     <item>
       <title>30 May, 2021</title>
