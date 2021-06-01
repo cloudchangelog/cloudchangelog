@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>01 June, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/06/01/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/06/01/</guid>
+      <description> Azure Progress on our commitment to sustainable backup power in datacenters by 2030
+Partner  </description>
+    </item>
     
     <item>
       <title>31 May, 2021</title>
