@@ -6,10 +6,23 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>02 June, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/06/02/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/06/02/</guid>
+      <description> AWS Setting up AWS Lambda with an Apache Kafka cluster within a VPC
+Amazon Managed Streaming For Apache Kafka (Amazon MSK) Amazon VPC
+ GCP Zero-trust managed security for services with Traffic Director
+Identity &amp;amp; Security Service Mesh
+  </description>
+    </item>
     
     <item>
       <title>01 June, 2021</title>
