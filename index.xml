@@ -19,10 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/06/01/</guid>
       <description>AWS Provisioning and using 10DLC origination numbers with Amazon SNS
 Amazon Pinpoint Amazon Simple Notification Service (SNS)
- AWS Amazon SNS now supports SMS Sandbox and displays available origination IDs in your account
- AWS AWS WAF and AWS Shield Advanced are available in Asia Pacific (Osaka)
- AWS Amazon Location Service is now generally available
- AWS Amazon Keyspaces now supports customer managed customer master keys (CMKs) for encryption of data at rest to help you meet your compliance and regulatory requirements</description>
+ AWS Build reusable, serverless inference functions for your Amazon SageMaker models using AWS Lambda layers and containers
+Amazon Sagemaker Amazon Sagemaker Neo
+ AWS NICE DCV releases version 2021.1 with accurate audio/video synchronization
+ AWS Amazon Location Service Is Now Generally Available with New Routing and Satellite Imagery Capabilities
+Amazon Location Announcements</description>
     </item>
     
     <item>
