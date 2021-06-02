@@ -19,10 +19,9 @@
       <guid>https://cloudchangelog.com/posts/2021/06/02/</guid>
       <description>AWS Setting up AWS Lambda with an Apache Kafka cluster within a VPC
 Amazon Managed Streaming For Apache Kafka (Amazon MSK) Amazon VPC
- AWS DeepLearning.AI, Coursera, and AWS launch the new Practical Data Science Specialization with Amazon SageMaker
-Amazon Machine Learning Amazon Sagemaker
- AWS New digital course: Improve Code Quality with Amazon CodeGuru Reviewer
- AWS Amazon Keyspaces is now in scope for AWS SOC Reports to help you run highly regulated Apache Cassandra workloads more easily</description>
+ AWS Announcing Global Clusters for Amazon DocumentDB (with MongoDB compatibility)
+ AWS Amazon RDS for PostgreSQL Supports New Minor Versions 13.2, 12.6, 11.11, 10.16, 9.6.21, and 9.5.25 in AWS GovCloud (US) Regions
+ AWS Using AWS Control Tower, AWS Service Catalog, and AWS Marketplace to deploy AWS Marketplace license subscriptions</description>
     </item>
     
     <item>
@@ -33,11 +32,9 @@ Amazon Machine Learning Amazon Sagemaker
       <guid>https://cloudchangelog.com/posts/2021/06/01/</guid>
       <description>AWS Provisioning and using 10DLC origination numbers with Amazon SNS
 Amazon Pinpoint Amazon Simple Notification Service (SNS)
- AWS Build reusable, serverless inference functions for your Amazon SageMaker models using AWS Lambda layers and containers
-Amazon Sagemaker Amazon Sagemaker Neo
- AWS NICE DCV releases version 2021.1 with accurate audio/video synchronization
- AWS Amazon Location Service Is Now Generally Available with New Routing and Satellite Imagery Capabilities
-Amazon Location Announcements</description>
+ AWS Amazon Keyspaces now supports customer managed customer master keys (CMKs) for encryption of data at rest to help you meet your compliance and regulatory requirements
+ AWS Amazon QLDB supports IAM-based access policy for PartiQL queries and ledger tables
+ AWS How Optus improves broadband and mobile customer experience using the Network Data Analytics platform on AWS</description>
     </item>
     
     <item>
