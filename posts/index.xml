@@ -17,8 +17,12 @@
       <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/06/03/</guid>
-      <description> AWS Using EC2 Serial Console to access the GRUB menu and recover from boot failures
-  </description>
+      <description>AWS Using EC2 Serial Console to access the GRUB menu and recover from boot failures
+ AWS Use Python SQLAlchemy ORM to interact with an Amazon Aurora database from a serverless application
+Amazon API Gateway Amazon Aurora
+ AWS Amazon Rekognition Custom Labels adds support for deploying models via the Console
+ Azure Now Available: Pricing changes to Azure Sentinel and Azure Monitor to help you reduce costs
+ Azure Public preview: Identity-based connections in Azure Functions with latest Azure SDK triggers and bindings</description>
     </item>
     
     <item>
