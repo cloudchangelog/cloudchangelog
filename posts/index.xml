@@ -18,11 +18,11 @@
       
       <guid>https://cloudchangelog.com/posts/2021/06/03/</guid>
       <description>AWS Using EC2 Serial Console to access the GRUB menu and recover from boot failures
- AWS Amazon GameLift Adds SDK Support and Updates for Unreal 4.26
- AWS AWS Lambda Extensions are now Generally Available in all commercial regions
- AWS Amazon CloudFront Cache Strategy for Successful Global Game Deployment
-Amazon Cloudfront AWS Partner Network
- AWS How to Get Logs from Amazon S3 Using Filebeat and Metricbeat in Elastic Stack</description>
+ AWS AWS Systems Manager Session Manager plugin for the AWS CLI is now open source
+ AWS AWS Transit Gateway Updates Service Level Agreement to 99.99%
+ AWS Build regression models with Amazon Redshift ML
+Amazon Machine Learning Amazon Redshift
+ AWS New LoRaWAN gateway management features generally available for AWS IoT Core for LoRaWAN</description>
     </item>
     
     <item>
