@@ -19,9 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/06/02/</guid>
       <description>AWS Setting up AWS Lambda with an Apache Kafka cluster within a VPC
 Amazon Managed Streaming For Apache Kafka (Amazon MSK) Amazon VPC
- AWS Announcing Global Clusters for Amazon DocumentDB (with MongoDB compatibility)
- AWS Amazon RDS for PostgreSQL Supports New Minor Versions 13.2, 12.6, 11.11, 10.16, 9.6.21, and 9.5.25 in AWS GovCloud (US) Regions
- AWS Using AWS Control Tower, AWS Service Catalog, and AWS Marketplace to deploy AWS Marketplace license subscriptions</description>
+ AWS DeepLearning.AI, Coursera, and AWS launch the new Practical Data Science Specialization with Amazon SageMaker
+Amazon Machine Learning Amazon Sagemaker
+ AWS New Whitepaper Provides Best Practices for Optimizing AWS Accounts
+Announcements Architecture
+ AWS Amazon WorkSpaces Cost Optimizer v2.3 adds support for existing VPCs and improves billing accuracy and reporting</description>
     </item>
     
     <item>
