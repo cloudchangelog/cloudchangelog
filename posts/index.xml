@@ -18,11 +18,11 @@
       
       <guid>https://cloudchangelog.com/posts/2021/06/03/</guid>
       <description>AWS Using EC2 Serial Console to access the GRUB menu and recover from boot failures
- AWS Use Python SQLAlchemy ORM to interact with an Amazon Aurora database from a serverless application
-Amazon API Gateway Amazon Aurora
- AWS Amazon Rekognition Custom Labels adds support for deploying models via the Console
- Azure Now Available: Pricing changes to Azure Sentinel and Azure Monitor to help you reduce costs
- Azure Public preview: Identity-based connections in Azure Functions with latest Azure SDK triggers and bindings</description>
+ AWS Amazon GameLift Adds SDK Support and Updates for Unreal 4.26
+ AWS AWS Lambda Extensions are now Generally Available in all commercial regions
+ AWS Amazon CloudFront Cache Strategy for Successful Global Game Deployment
+Amazon Cloudfront AWS Partner Network
+ AWS How to Get Logs from Amazon S3 Using Filebeat and Metricbeat in Elastic Stack</description>
     </item>
     
     <item>
