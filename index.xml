@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/06/04/</guid>
       <description>AWS Improve query performance using AWS Glue partition indexes
 Amazon EMR Amazon Redshift
+ AWS Amazon EMR Studio is now available in 13 regions
+ AWS Split data across Regions as it’s migrated from on-premises Oracle to Amazon Aurora PostgreSQL while maintaining data integrity using AWS DMS – Part 1
+AWS Database Migration Service
  AWS AWS Backint Agent version 1.04 now available
- AWS Amazon Neptune simplifies in-console experience to help customers get started faster
- AWS Amazon CloudWatch releases a C# client library for Embedded Metric Format
- AWS Announcing R5d instances and lookup cache for Amazon Neptune
- AWS Automating backups and optimizing backup costs for Amazon EFS using AWS Backup</description>
+ AWS Amazon CloudWatch releases a C# client library for Embedded Metric Format</description>
     </item>
     
     <item>
