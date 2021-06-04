@@ -6,10 +6,23 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>04 June, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/06/04/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/06/04/</guid>
+      <description> AWS Improve query performance using AWS Glue partition indexes
+Amazon EMR Amazon Redshift
+ Oracle Developing Microservices in Java, JavaScript, Python, . &amp;hellip;
+Apis Cloud
+  </description>
+    </item>
     
     <item>
       <title>03 June, 2021</title>
@@ -48,9 +61,12 @@ Announcements Architecture
       <guid>https://cloudchangelog.com/posts/2021/06/01/</guid>
       <description>AWS Provisioning and using 10DLC origination numbers with Amazon SNS
 Amazon Pinpoint Amazon Simple Notification Service (SNS)
- AWS Amazon Keyspaces now supports customer managed customer master keys (CMKs) for encryption of data at rest to help you meet your compliance and regulatory requirements
- AWS Amazon QLDB supports IAM-based access policy for PartiQL queries and ledger tables
- AWS How Optus improves broadband and mobile customer experience using the Network Data Analytics platform on AWS</description>
+ AWS Building serverless applications with streaming data: Part 1
+AWS Lambda AWS Serverless Application Model
+ AWS Build reusable, serverless inference functions for your Amazon SageMaker models using AWS Lambda layers and containers
+Amazon Sagemaker Amazon Sagemaker Neo
+ AWS NICE DCV releases version 2021.1 with accurate audio/video synchronization
+ AWS Building a Serverless Wallet Service for In-Game Currency</description>
     </item>
     
     <item>
