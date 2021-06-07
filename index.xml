@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/06/07/</guid>
       <description>AWS Using the EC2 Serial Console to access the Microsoft Server boot manager to fix and debug boot failures
 Best Practices
- AWS Getting Started with serverless for developers: Part 4 – Local developer workflow
-AWS Lambda AWS Serverless Application Model
+ AWS Amazon QLDB data streaming via AWS CDK
+Amazon Kinesis Amazon Quantum Ledger Database
  AWS Designing a Successful Pilot Phase for Your Cloud Migration
 Amazon Aurora Amazon EC2
- AWS Amazon QLDB data streaming via AWS CDK
-Amazon Kinesis Amazon Quantum Ledger Database</description>
+ AWS Getting Started with serverless for developers: Part 4 – Local developer workflow
+AWS Lambda AWS Serverless Application Model</description>
     </item>
     
     <item>
