@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>08 June, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/06/08/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/06/08/</guid>
+      <description> AWS AWS China (Beijing) Region Adds the Third Availability Zone
+  </description>
+    </item>
     
     <item>
       <title>07 June, 2021</title>
@@ -19,11 +29,11 @@
       <guid>https://cloudchangelog.com/posts/2021/06/07/</guid>
       <description>AWS Using the EC2 Serial Console to access the Microsoft Server boot manager to fix and debug boot failures
 Best Practices
+ AWS Schedule Amazon RDS stop and start using AWS Systems Manager
+Amazon RDS AWS Systems Manager
  AWS Getting Started with serverless for developers: Part 4 – Local developer workflow
 AWS Lambda AWS Serverless Application Model
- AWS Building a fault tolerant architecture with a Bulkhead Pattern on AWS App Mesh
-Best Practices Containers
- AWS NBA fans go courtside with live 4K 60fps VR experience from MediaMonks powered by AWS</description>
+ AWS Building a fault tolerant architecture with a Bulkhead Pattern on AWS App Mesh</description>
     </item>
     
     <item>
