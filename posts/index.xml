@@ -19,11 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/06/09/</guid>
       <description>AWS Monitor Amazon EventBridge events in your Slack channels with AWS Chatbot
 Amazon Eventbridge Amazon Simple Notification Service (SNS)
- AWS Monitoring hybrid environments using Amazon Managed Service for Grafana
-Amazon Managed Service For Grafana Management &amp;amp; Governance
+ AWS Amazon Cognito is now available in the Middle East (Bahrain) Region
+ AWS AWS announces the general availability of AWS Proton
+ AWS Amazon Redshift identity federation with multi-factor authentication
+Amazon Redshift Analytics
  AWS How to implement SaaS tenant isolation with ABAC and AWS IAM
-AWS Identity And Access Management (IAM) Security, Identity, &amp;amp; Compliance
- AWS Rate Limiting Strategies for Serverless Applications</description>
+AWS Identity And Access Management (IAM) Security, Identity, &amp;amp; Compliance</description>
     </item>
     
     <item>
@@ -88,12 +89,11 @@ Amazon Connect Amazon Machine Learning
       
       <guid>https://cloudchangelog.com/posts/2021/06/03/</guid>
       <description>AWS Using EC2 Serial Console to access the GRUB menu and recover from boot failures
- AWS Amazon GameLift Adds SDK Support and Updates for Unreal 4.26
- AWS AWS Systems Manager Session Manager plugin for the AWS CLI is now open source
- AWS AWS Transit Gateway Updates Service Level Agreement to 99.99%
- AWS Build regression models with Amazon Redshift ML
-Amazon Machine Learning Amazon Redshift
- AWS VMware vCenter Disaster Recovery using CloudEndure Disaster Recovery</description>
+ AWS Use Python SQLAlchemy ORM to interact with an Amazon Aurora database from a serverless application
+Amazon API Gateway Amazon Aurora
+ AWS Automate detecting GeoIP location of Client VPN users using Lambda function
+Amazon Cloudwatch Amazon VPC
+ AWS Identify and Copy existing objects to use S3 Bucket Keys, reducing the costs of Server-Side Encryption with AWS Key Management Service (SSE-KMS)</description>
     </item>
     
     <item>
