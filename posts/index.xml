@@ -6,10 +6,26 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 June, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/06/10/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/06/10/</guid>
+      <description>AWS Choosing a CI/CD approach: AWS Services with BigHat Biosciences
+Customer Solutions Amazon Cloudwatch
+ AWS Choosing a Well-Architected CI/CD approach: Open-source software and AWS Services
+AWS Well-Architected AWS Well-Architected Framework
+ AWS Build and deploy .NET web applications to ARM-powered AWS Graviton 2 Amazon ECS Clusters using AWS CDK
+AWS .NET Development Containers
+ Oracle Block Volume Ultra High Performance
+ Oracle In-Transit Encrpytion for Bare Metal Instances</description>
+    </item>
     
     <item>
       <title>09 June, 2021</title>
@@ -19,13 +35,11 @@
       <guid>https://cloudchangelog.com/posts/2021/06/09/</guid>
       <description>AWS Monitor Amazon EventBridge events in your Slack channels with AWS Chatbot
 Amazon Eventbridge Amazon Simple Notification Service (SNS)
- AWS Rate Limiting Strategies for Serverless Applications
-Amazon API Gateway Amazon Cloudwatch
- AWS Monitoring hybrid environments using Amazon Managed Service for Grafana
-Amazon Managed Service For Grafana Management &amp;amp; Governance
- AWS Amazon SageMaker Named as the Outright Leader in Enterprise MLOps Platforms
-Amazon Sagemaker Announcements
- AWS ASU engages students with Amazon IVS</description>
+ AWS How to implement SaaS tenant isolation with ABAC and AWS IAM
+AWS Identity And Access Management (IAM) Security, Identity, &amp;amp; Compliance
+ AWS Amazon Cognito is now available in the Middle East (Bahrain) Region
+ AWS AWS announces the general availability of AWS Proton
+ AWS Amazon Redshift identity federation with multi-factor authentication</description>
     </item>
     
     <item>
