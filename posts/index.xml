@@ -17,11 +17,14 @@
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/06/11/</guid>
-      <description> AWS In the Works – AWS Region in Tel Aviv, Israel
+      <description>AWS In the Works – AWS Region in Tel Aviv, Israel
 Launch News
  AWS Automate the archival and deletion of sensitive data using Amazon Macie
 Amazon Macie
-  </description>
+ AWS Building a Cloud-based OLAP Cube and ETL Architecture with AWS Managed Services
+Amazon Athena Amazon Quicksight
+ AWS Read multiple records simultaneously from Amazon SageMaker Feature Store using the new BatchGetRecord API
+ Azure Five more free services available with an Azure free account</description>
     </item>
     
     <item>
