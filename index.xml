@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/06/11/</guid>
       <description>AWS In the Works – AWS Region in Tel Aviv, Israel
 Launch News
- AWS Automate the archival and deletion of sensitive data using Amazon Macie
-Amazon Macie
- AWS Building a Cloud-based OLAP Cube and ETL Architecture with AWS Managed Services
-Amazon Athena Amazon Quicksight
- AWS Read multiple records simultaneously from Amazon SageMaker Feature Store using the new BatchGetRecord API
- AWS HPA 2021 streams ‘The Found Lederhosen’ content to multiscreen devices in 4K HDR.</description>
+ AWS Amazon Lex increases limits for Intents and Slot Types
+ AWS AWS Elemental MediaConnect adds support for input source selection and priority
+ AWS AWS Client VPN launches in AWS GovCloud (US) Regions
+ AWS HPA 2021 streams ‘The Found Lederhosen’ content to multiscreen devices in 4K HDR.
+Amazon Cloudfront Amazon EC2
+ AWS Automate the archival and deletion of sensitive data using Amazon Macie</description>
     </item>
     
     <item>
