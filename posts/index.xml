@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>12 June, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/06/12/</link>
+      <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/06/12/</guid>
+      <description> AWS Hackathons with AWS Cloud9: Collaboration simplified for your next big idea
+AWS Cloud9 AWS Codecommit  </description>
+    </item>
     
     <item>
       <title>11 June, 2021</title>
@@ -19,7 +29,7 @@
       <guid>https://cloudchangelog.com/posts/2021/06/11/</guid>
       <description>AWS In the Works – AWS Region in Tel Aviv, Israel
 Launch News
- AWS Amazon Lex increases limits for Intents and Slot Types
+ AWS Amazon EC2 adds new AMI property to flag outdated AMIs
  AWS AWS Elemental MediaConnect adds support for input source selection and priority
  AWS AWS Client VPN launches in AWS GovCloud (US) Regions
  AWS HPA 2021 streams ‘The Found Lederhosen’ content to multiscreen devices in 4K HDR.
