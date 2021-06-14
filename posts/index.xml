@@ -19,12 +19,9 @@
       <guid>https://cloudchangelog.com/posts/2021/06/14/</guid>
       <description>AWS Announcing the AWS Security and Privacy Knowledge Hub for Australia and New Zealand
 Announcements Security, Identity, &amp;amp; Compliance
- AWS Getting started with serverless for developers part 5: Sandbox developer account
-AWS Identity And Access Management (IAM) AWS Lambda
- AWS Announcing migration of the Java 8 runtime in AWS Lambda to Amazon Corretto
-Amazon Corretto Announcements
- AWS Monitoring memory usage in Amazon Lightsail instance
-Amazon Cloudwatch Amazon Lightsail</description>
+ AWS Internet Group Management Protocol (IGMP) Multicast support on Transit Gateway multicast is now available in AWS GovCloud Regions
+ AWS Amazon EC2 now allows you to create crash-consistent AMIs from instances with multiple EBS volumes without rebooting instances
+ AWS Approaches to meeting Australian Government gateway requirements on AWS</description>
     </item>
     
     <item>
@@ -265,10 +262,12 @@ Amazon Kinesis Amazon Managed Streaming For Apache Kafka (Amazon MSK)
       <guid>https://cloudchangelog.com/posts/2021/05/26/</guid>
       <description>AWS How Contentsquare reduced TensorFlow inference latency with TensorFlow Serving on Amazon SageMaker
 Amazon Sagemaker Artificial Intelligence
- AWS Amazon MQ for RabbitMQ is now available in Amazon Web Services China Regions
- AWS Amazon Keyspaces (for Apache Cassandra) is now HIPAA eligible to help you run healthcare workloads more easily
- AWS AWS Certificate Manager Private Certificate Authority now supports storing CRLs in private S3 buckets
- AWS Amazon EMR 6.</description>
+ AWS Top 5: Architecture Content for May
+Amazon Dynamodb Amazon Kinesis
+ AWS Amazon Aurora MySQL Improves Availability of Read Replicas
+ AWS Host multiple TensorFlow computer vision models using Amazon SageMaker multi-model endpoints
+Amazon Sagemaker Artificial Intelligence
+ AWS New self-paced courses for cloud procurement, .NET, and Amazon CodeGuru available</description>
     </item>
     
     <item>
@@ -279,12 +278,12 @@ Amazon Sagemaker Artificial Intelligence
       <guid>https://cloudchangelog.com/posts/2021/05/25/</guid>
       <description>AWS Visualize your AWS Infrastructure with Amazon Neptune and AWS Config
 Amazon API Gateway Amazon Neptune
- AWS Create threshold-based alerts in Amazon QuickSight
-Amazon Quicksight Analytics
- AWS Amazon SageMaker Pipelines is now integrated with Amazon SageMaker Experiments
- AWS Amazon MSK adds support for Apache Kafka version 2.7.1
- AWS Application Modernization Using Microservices Architecture with VMware Cloud on AWS
-Amazon Elastic Kubernetes Service AWS Partner Network</description>
+ AWS Making Effective Decisions for Your V1 AWS Design
+Amazon RDS Architecture
+ AWS AWS Database Migration Service now supports PostgreSQL version 13 in preview mode
+ AWS Amazon AppFlow now expands its features with Marketo
+ AWS AWS Transit Gateway Network Manager is now available in AWS GovCloud (US) Regions
+ AWS 5 Ways to reduce data storage costs using Amazon S3 Storage Lens</description>
     </item>
     
     <item>
