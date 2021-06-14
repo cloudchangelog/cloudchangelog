@@ -19,9 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/06/14/</guid>
       <description>AWS Announcing the AWS Security and Privacy Knowledge Hub for Australia and New Zealand
 Announcements Security, Identity, &amp;amp; Compliance
- AWS Internet Group Management Protocol (IGMP) Multicast support on Transit Gateway multicast is now available in AWS GovCloud Regions
- AWS Amazon EC2 now allows you to create crash-consistent AMIs from instances with multiple EBS volumes without rebooting instances
- AWS Approaches to meeting Australian Government gateway requirements on AWS</description>
+ AWS AWS Backup now supports crash-consistent backups of Amazon EBS volumes attached to an Amazon EC2 instance
+ AWS Collect on-premises metrics using Amazon Managed Service for Prometheus
+AWS Systems Manager Management &amp;amp; Governance
+ AWS Getting Out of Your Own Way: How to Avoid Common SaaS Pitfalls
+AWS Partner Network Customer Solutions</description>
     </item>
     
     <item>
