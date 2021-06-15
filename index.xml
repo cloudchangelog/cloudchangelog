@@ -17,8 +17,15 @@
       <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/06/15/</guid>
-      <description> AWS AWS App Mesh ingress and route enhancements
-AWS App Mesh Containers  </description>
+      <description>AWS AWS App Mesh ingress and route enhancements
+AWS App Mesh Containers
+ AWS Aggregate operational tasks with AWS Systems Manager Explorer and OpsCenter
+AWS Config AWS Systems Manager
+ AWS Remediate noncompliant AWS Config rules with AWS Systems Manager Automation runbooks
+AWS Config AWS Systems Manager
+ AWS Use AWS Systems Manager Automation runbooks to resolve operational tasks
+AWS Trusted Advisor Centralized Operations Management
+ AWS Automating the installation and configuration of Prometheus using Systems Manager documents</description>
     </item>
     
     <item>
