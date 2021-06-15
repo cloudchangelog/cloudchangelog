@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>15 June, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/06/15/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/06/15/</guid>
+      <description> AWS AWS App Mesh ingress and route enhancements
+AWS App Mesh Containers  </description>
+    </item>
     
     <item>
       <title>14 June, 2021</title>
@@ -19,11 +29,11 @@
       <guid>https://cloudchangelog.com/posts/2021/06/14/</guid>
       <description>AWS Announcing the AWS Security and Privacy Knowledge Hub for Australia and New Zealand
 Announcements Security, Identity, &amp;amp; Compliance
- AWS AWS Backup now supports crash-consistent backups of Amazon EBS volumes attached to an Amazon EC2 instance
- AWS Collect on-premises metrics using Amazon Managed Service for Prometheus
-AWS Systems Manager Management &amp;amp; Governance
- AWS Getting Out of Your Own Way: How to Avoid Common SaaS Pitfalls
-AWS Partner Network Customer Solutions</description>
+ AWS How Amazon IVS is helping build new online communities
+Amazon Interactive Video Service Customer Solutions
+ AWS Event-based fraud detection with direct customer calls using Amazon Connect
+Amazon Connect Amazon Dynamodb
+ AWS Internet Group Management Protocol (IGMP) Multicast support on Transit Gateway multicast is now available in AWS GovCloud Regions</description>
     </item>
     
     <item>
