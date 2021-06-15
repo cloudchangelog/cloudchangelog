@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/06/15/</guid>
       <description>AWS AWS App Mesh ingress and route enhancements
 AWS App Mesh Containers
- AWS Amazon Polly Launches a new German Neural Text-to-Speech voice
- AWS Use AWS Systems Manager Automation runbooks to resolve operational tasks
-AWS Trusted Advisor Centralized Operations Management
- AWS Remediate noncompliant AWS Config rules with AWS Systems Manager Automation runbooks
-AWS Config AWS Systems Manager
- AWS Connect to your Amazon CloudWatch data to detect anomalies and diagnose their root cause using Amazon Lookout for Metrics</description>
+ AWS Amazon Translate is Now Integrated with Amazon CloudWatch Events and Amazon EventBridge
+ AWS Field Notes: Benchmarking Performance of the New M5zn, D3, and R5b Instance Types with Datadog
+Amazon EC2 Architecture
+ AWS A multi-cluster shared services architecture with Amazon EKS using Cilium ClusterMesh
+Amazon Elastic Kubernetes Service Containers
+ AWS AWS Resource Access Manager enables granular access control with additional managed permissions</description>
     </item>
     
     <item>
@@ -35,11 +35,11 @@ AWS Config AWS Systems Manager
       <guid>https://cloudchangelog.com/posts/2021/06/14/</guid>
       <description>AWS Announcing the AWS Security and Privacy Knowledge Hub for Australia and New Zealand
 Announcements Security, Identity, &amp;amp; Compliance
- AWS How Amazon IVS is helping build new online communities
-Amazon Interactive Video Service Customer Solutions
- AWS Event-based fraud detection with direct customer calls using Amazon Connect
-Amazon Connect Amazon Dynamodb
- AWS Internet Group Management Protocol (IGMP) Multicast support on Transit Gateway multicast is now available in AWS GovCloud Regions</description>
+ AWS Collecting Apache Flink metrics in the Amazon CloudWatch agent
+Amazon Cloudwatch Amazon EMR
+ AWS AWS Backup now supports crash-consistent backups of Amazon EBS volumes attached to an Amazon EC2 instance
+ AWS Collect on-premises metrics using Amazon Managed Service for Prometheus
+AWS Systems Manager Management &amp;amp; Governance</description>
     </item>
     
     <item>
