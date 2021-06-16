@@ -6,10 +6,21 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>16 June, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/06/16/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/06/16/</guid>
+      <description> Oracle Exadata Cloud@Customer: Elastic Storage Expansion
+ Oracle ADB-D on Exadata Cloud@Customer: Customer-Managed Keys in the Vault Service
+  </description>
+    </item>
     
     <item>
       <title>15 June, 2021</title>
@@ -19,12 +30,12 @@
       <guid>https://cloudchangelog.com/posts/2021/06/15/</guid>
       <description>AWS AWS App Mesh ingress and route enhancements
 AWS App Mesh Containers
- AWS Amazon Translate is Now Integrated with Amazon CloudWatch Events and Amazon EventBridge
- AWS Field Notes: Benchmarking Performance of the New M5zn, D3, and R5b Instance Types with Datadog
-Amazon EC2 Architecture
- AWS A multi-cluster shared services architecture with Amazon EKS using Cilium ClusterMesh
-Amazon Elastic Kubernetes Service Containers
- AWS AWS Resource Access Manager enables granular access control with additional managed permissions</description>
+ AWS AWS Resource Access Manager enables granular access control with additional managed permissions
+ AWS Achieving Operational Excellence in Higher Education with the Sakai Learning Management System on AWS
+AWS Partner Network Customer Solutions
+ AWS Create a Jira issue using an AWS Config remediation action
+AWS Config AWS Systems Manager
+ AWS Fast-Tracking Agility for Mainframe Workloads</description>
     </item>
     
     <item>
