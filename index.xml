@@ -19,10 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/06/16/</guid>
       <description>AWS Top 10 Flink SQL queries to try in Amazon Kinesis Data Analytics Studio
 Kinesis Data Analytics
- AWS AWS Copilot launches v1.8 with improved support for load balanced web services and VPCs
- AWS Amazon RDS for PostgreSQL Supports Extension Allowlists
- AWS Amazon Personalize now unlocks information in unstructured text for recommendations
- AWS Listen now: Top media and entertainment use cases and purpose-built AWS Solutions on Right Now at AWS</description>
+ AWS Amazon MQ is now available in AWS GovCloud (US) Regions
+ AWS Automate Amazon SageMaker Studio setup using AWS CDK
+Amazon Machine Learning Amazon Sagemaker
+ AWS Transform data into knowledge with PoolParty Semantic Suite and Amazon Neptune
+Amazon Neptune
+ AWS Preprocess logs for anomaly detection in Amazon ES</description>
     </item>
     
     <item>
