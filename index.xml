@@ -19,13 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/06/17/</guid>
       <description>AWS Migrate Your Workloads with the Graviton Challenge!
 Announcements Graviton
- AWS Increase Apache Kafka’s resiliency with a multi-Region deployment and MirrorMaker 2
-Amazon Managed Streaming For Apache Kafka (Amazon MSK) Analytics
- AWS Build XGBoost models with Amazon Redshift ML
-Amazon Machine Learning Amazon Redshift
+ AWS Amazon EC2 D3 instances with dense local HDD storage now available in AWS GovCloud (US-West) Region
+ AWS Streaming Amazon DynamoDB data into a centralized data lake
+Amazon Dynamodb Analytics
  AWS Field Notes: Develop Data Pre-processing Scripts Using Amazon SageMaker Studio and an AWS Glue Development Endpoint
 Amazon Sagemaker Architecture
- AWS AWS Gateway Load Balancer is now available in the AWS GovCloud (US) Regions</description>
+ AWS Increase Apache Kafka’s resiliency with a multi-Region deployment and MirrorMaker 2</description>
     </item>
     
     <item>
@@ -36,12 +35,11 @@ Amazon Sagemaker Architecture
       <guid>https://cloudchangelog.com/posts/2021/06/16/</guid>
       <description>AWS Top 10 Flink SQL queries to try in Amazon Kinesis Data Analytics Studio
 Kinesis Data Analytics
- AWS Amazon MQ is now available in AWS GovCloud (US) Regions
- AWS Automate Amazon SageMaker Studio setup using AWS CDK
-Amazon Machine Learning Amazon Sagemaker
- AWS Transform data into knowledge with PoolParty Semantic Suite and Amazon Neptune
-Amazon Neptune
- AWS Preprocess logs for anomaly detection in Amazon ES</description>
+ AWS Managing the multi-account environment using AWS Organizations and AWS Control Tower
+AWS Audit Manager AWS Cloudtrail
+ AWS AWS Amplify announces support for IAM permissions boundaries on Amplify-generated IAM roles
+ AWS Amazon Personalize now unlocks information in unstructured text for recommendations
+ AWS Build a GraphQL API for Amazon DocumentDB (with MongoDB compatibility) using AWS AppSync</description>
     </item>
     
     <item>
