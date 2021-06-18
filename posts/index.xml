@@ -19,14 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/06/18/</guid>
       <description>AWS Field Notes: SQL Server Deployment Options on AWS Using Amazon EC2
 Amazon EC2 Amazon Elastic Block Storage (EBS)
+ AWS Build a graph application with Amazon Neptune and AWS Amplify
+Amazon Cognito Amazon Neptune
+ AWS Choosing serverless: Babbel’s migration story
+Containers Babbel
  Azure General availability: Azure Data Explorer adds new geospatial capabilities
 Kusto
- GCP Are we there yet? Thoughts on assessing an SRE team’s maturity
-Devops &amp;amp; SRE
- GCP Cloud SQL extends PostgreSQL 9.6 version support beyond end-of-life
-Databases
- Oracle MySQL Database Service new configuration variables
- Oracle First principles: Baking security into the cloud</description>
+ GCP Are we there yet? Thoughts on assessing an SRE team’s maturity</description>
     </item>
     
     <item>
