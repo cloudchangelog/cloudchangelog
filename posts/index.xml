@@ -17,10 +17,16 @@
       <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/06/18/</guid>
-      <description> AWS Field Notes: SQL Server Deployment Options on AWS Using Amazon EC2
+      <description>AWS Field Notes: SQL Server Deployment Options on AWS Using Amazon EC2
 Amazon EC2 Amazon Elastic Block Storage (EBS)
+ Azure General availability: Azure Data Explorer adds new geospatial capabilities
+Kusto
+ GCP Are we there yet? Thoughts on assessing an SRE team’s maturity
+Devops &amp;amp; SRE
+ GCP Cloud SQL extends PostgreSQL 9.6 version support beyond end-of-life
+Databases
  Oracle MySQL Database Service new configuration variables
-  </description>
+ Oracle First principles: Baking security into the cloud</description>
     </item>
     
     <item>
