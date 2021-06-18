@@ -19,11 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/06/17/</guid>
       <description>AWS Migrate Your Workloads with the Graviton Challenge!
 Announcements Graviton
- AWS Amazon Aurora PostgreSQL supports the pg_partman extension for managing time or serial id based table partitioning
- AWS Amazon Aurora PostgreSQL Supports the pg_proctab Extension to access PostgreSQL system stats
- AWS Amazon Aurora PostgreSQL supports the pg_bigm extension for faster full text search
- AWS Amazon Aurora PostgreSQL supports pg_cron extension for scheduling database jobs
- AWS Case Study: Handling one million concurrent players with ease on AWS</description>
+ AWS Configuring notifications to monitor AWS Backup jobs
+Amazon Simple Notification Service (SNS) AWS Backup
+ AWS Upgrading Amazon RDS for Oracle database engine with minimal downtime using AWS DMS
+Amazon RDS AWS Database Migration Service
+ AWS AWS Gateway Load Balancer is now available in the AWS GovCloud (US) Regions
+ AWS Using AppStream 2.0 to Deliver PACS and Image Analysis in Clinical Trials</description>
     </item>
     
     <item>
@@ -34,11 +35,12 @@ Announcements Graviton
       <guid>https://cloudchangelog.com/posts/2021/06/16/</guid>
       <description>AWS Top 10 Flink SQL queries to try in Amazon Kinesis Data Analytics Studio
 Kinesis Data Analytics
- AWS Managing the multi-account environment using AWS Organizations and AWS Control Tower
-AWS Audit Manager AWS Cloudtrail
- AWS AWS Amplify announces support for IAM permissions boundaries on Amplify-generated IAM roles
- AWS Amazon Personalize now unlocks information in unstructured text for recommendations
- AWS Build a GraphQL API for Amazon DocumentDB (with MongoDB compatibility) using AWS AppSync</description>
+ AWS KMS Multi-Region Keys
+ AWS Building Serverless Event-Driven Applications with MongoDB Realm and Amazon EventBridge
+Amazon Eventbridge AWS Partner Network
+ AWS How to Integrate Amazon RDS Schema Changes into CI/CD Pipelines with GitLab and Liquibase
+Amazon RDS AWS Partner Network
+ AWS Automated Cloud Governance Using the Superwerker on AWS Quick Start</description>
     </item>
     
     <item>
