@@ -6,10 +6,22 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>18 June, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/06/18/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/06/18/</guid>
+      <description> AWS Field Notes: SQL Server Deployment Options on AWS Using Amazon EC2
+Amazon EC2 Amazon Elastic Block Storage (EBS)
+ Oracle MySQL Database Service new configuration variables
+  </description>
+    </item>
     
     <item>
       <title>17 June, 2021</title>
