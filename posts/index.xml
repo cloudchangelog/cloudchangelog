@@ -6,10 +6,28 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>21 June, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/06/21/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/06/21/</guid>
+      <description>AWS Building leaderboard functionality with serverless data analytics
+Amazon Dynamodb AWS Lambda
+ AWS Prototyping at speed with AWS Step Functions new Workflow Studio
+AWS Step Functions Serverless
+ AWS Customize requests and responses with AWS WAF
+AWS WAF Security, Identity, &amp;amp; Compliance
+ AWS Architecting Persona-centric Data Platform with On-premises Data Sources
+Amazon Athena Amazon EMR
+ AWS Amazon Aurora Serverless v1 supports fast database cloning
+ GCP What’s new with Google Cloud</description>
+    </item>
     
     <item>
       <title>20 June, 2021</title>
