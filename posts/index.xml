@@ -6,10 +6,27 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>22 June, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/06/22/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/06/22/</guid>
+      <description> Oracle Governance: The Key Ingredient to Success: Part-4
+Architecture Cloud
+ Oracle Governance: The Key Ingredient to Success: Part-3
+Architecture Cloud
+ Oracle Governance: The Key Ingredient to Success: Part-2
+Architecture Cloud
+ Oracle Governance: The Key Ingredient to Success: Part-1
+Architecture Cloud
+  </description>
+    </item>
     
     <item>
       <title>21 June, 2021</title>
@@ -19,12 +36,12 @@
       <guid>https://cloudchangelog.com/posts/2021/06/21/</guid>
       <description>AWS Building leaderboard functionality with serverless data analytics
 Amazon Dynamodb AWS Lambda
+ AWS Introducing a Public Registry for AWS CloudFormation
+AWS Cloud Development Kit AWS Cloudformation
+ AWS Amazon Aurora Serverless v1 supports fast database cloning
  AWS Enable secure and compliant Amazon AppStream 2.0 with self-service by using AWS Service Catalog
 Amazon Appstream 2.0 AWS Service Catalog
- AWS Amazon RDS supports MariaDB Audit Plugin for MySQL version 8.0
- AWS Improve newspaper digitalization efficacy with a generic document segmentation tool using Amazon Textract
-Amazon Machine Learning Amazon Sagemaker
- AWS Prototyping at speed with AWS Step Functions new Workflow Studio</description>
+ AWS Improve newspaper digitalization efficacy with a generic document segmentation tool using Amazon Textract</description>
     </item>
     
     <item>
