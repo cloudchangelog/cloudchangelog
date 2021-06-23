@@ -19,10 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/06/23/</guid>
       <description>AWS Disaster Recovery (DR) Architecture on AWS, Part IV: Multi-site Active/Active
 Amazon Aurora Amazon Dynamodb
- AWS Amazon RDS for Oracle now supports additional memory configurations of the r5 instance class
- AWS Amazon Translate now supports XML Localization Interchange File Format - XLIFF documents
- AWS Updated classroom course and new digital course: AWS Technical Essentials
- AWS AWS Outposts is now supported in AWS Asia Pacific (Osaka) Region</description>
+ AWS Amazon SageMaker Now Supports ml.G4dn instances for Batch Transform and Processing Jobs
+ AWS AWS Lambda support for Amazon Elastic File System now available in Asia Pacific (Osaka) region
+ AWS AWS Managed Services (AMS) now offers self-service operational reporting across all your AMS managed accounts
+ AWS AWS Control Tower announces accessibility, console and performance improvements</description>
     </item>
     
     <item>
