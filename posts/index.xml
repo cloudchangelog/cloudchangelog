@@ -19,11 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/06/22/</guid>
       <description>AWS Field Notes: Accelerating Data Science with RStudio and Shiny Server on AWS Fargate
 Analytics Architecture
- AWS CloudHSM best practices to maximize performance and avoid common configuration pitfalls
-AWS Cloudhsm Security, Identity, &amp;amp; Compliance
- AWS Capgemini’s Trusted Logistics and Drug Counterfeit Solution for the Pharma Industry
-Amazon Managed Blockchain AWS Partner Network
- AWS Design patterns for an enterprise data lake using AWS Lake Formation cross-account access</description>
+ AWS Quickly create a live streaming channel with AWS Elemental MediaLive Workflow Wizard
+AWS Elemental Medialive AWS Elemental Mediapackage
+ AWS Expanding modernization scenarios using the AWS App2Container integration with AWS App Runner
+ AWS Building well-architected serverless applications: Managing application security boundaries – part 1
+Amazon API Gateway Amazon Cloudwatch
+ AWS Deploying machine learning models with serverless templates</description>
     </item>
     
     <item>
