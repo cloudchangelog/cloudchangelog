@@ -17,8 +17,12 @@
       <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/06/23/</guid>
-      <description> AWS Disaster Recovery (DR) Architecture on AWS, Part IV: Multi-site Active/Active
-Amazon Aurora Amazon Dynamodb  </description>
+      <description>AWS Disaster Recovery (DR) Architecture on AWS, Part IV: Multi-site Active/Active
+Amazon Aurora Amazon Dynamodb
+ AWS Security is the top priority for Amazon S3
+Amazon Simple Storage Services (S3) Announcements
+ AWS Connect to your Amazon CloudWatch data to detect anomalies and diagnose their root causes using Amazon Lookout for Metrics
+ AWS AWS AppConfig: The Amazon service that helps you scale for large events like Prime Day</description>
     </item>
     
     <item>
