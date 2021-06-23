@@ -19,10 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/06/23/</guid>
       <description>AWS Disaster Recovery (DR) Architecture on AWS, Part IV: Multi-site Active/Active
 Amazon Aurora Amazon Dynamodb
- AWS Security is the top priority for Amazon S3
-Amazon Simple Storage Services (S3) Announcements
- AWS Connect to your Amazon CloudWatch data to detect anomalies and diagnose their root causes using Amazon Lookout for Metrics
- AWS AWS AppConfig: The Amazon service that helps you scale for large events like Prime Day</description>
+ AWS Amazon RDS for Oracle now supports additional memory configurations of the r5 instance class
+ AWS Amazon Translate now supports XML Localization Interchange File Format - XLIFF documents
+ AWS Updated classroom course and new digital course: AWS Technical Essentials
+ AWS AWS Outposts is now supported in AWS Asia Pacific (Osaka) Region</description>
     </item>
     
     <item>
