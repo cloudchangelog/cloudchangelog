@@ -20,10 +20,10 @@
       <description>AWS New – AWS BugBust: It’s Game Over for Bugs
 Amazon Codeguru Announcements
  AWS Configure GitHub Actions workflows with a new GitHub Action for building serverless applications
- AWS AQUA for Amazon Redshift launches in three additional AWS regions
- AWS Amazon DocumentDB (with MongoDB compatibility) Now Supports r5.8xlarge and r5.16xlarge Instances
- AWS Amazon EMR now supports up to thirty instance type configurations in Instance Fleets
- AWS AWS Announces AWS BugBust</description>
+ AWS Amazon CodeGuru Reviewer announces CI/CD Integration with GitHub Actions and new security detectors for Java
+ AWS Amazon Redshift now supports case-insensitive collation with column level overrides
+ AWS AWS Announces AWS BugBust
+ AWS DeNA relies on Amazon IVS for end-to-end live stream management</description>
     </item>
     
     <item>
