@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/06/24/</guid>
       <description>AWS New – AWS BugBust: It’s Game Over for Bugs
 Amazon Codeguru Announcements
- AWS Increase Amazon Elasticsearch Service performance by upgrading to Graviton2
-Amazon Elasticsearch Service AWS Cloud Development Kit
- Azure Streamline your custom image building process with Azure VM Image Builder service
-Virtual Machines Partner
- Azure General availability: Azure Cognitive Services Text Analytics for Health
- GCP Accelerate Google Cloud database migration assessments with EPAM’s migVisor</description>
+ AWS Configure GitHub Actions workflows with a new GitHub Action for building serverless applications
+ AWS AQUA for Amazon Redshift launches in three additional AWS regions
+ AWS Amazon DocumentDB (with MongoDB compatibility) Now Supports r5.8xlarge and r5.16xlarge Instances
+ AWS Amazon EMR now supports up to thirty instance type configurations in Instance Fleets
+ AWS AWS Announces AWS BugBust</description>
     </item>
     
     <item>
