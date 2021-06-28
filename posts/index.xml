@@ -6,10 +6,27 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>28 June, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/06/28/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/06/28/</guid>
+      <description>AWS Monitoring and troubleshooting serverless data analytics applications
+Amazon Cloudwatch Amazon Dynamodb
+ Azure Expansion of the public preview of on-demand disk bursting for Premium SSD to more regions
+Disk Block Storage
+ Azure Introducing the Ingestion Client for Azure Speech
+ GCP Mrs. T’s Pierogies: Improved forecasting and DR with SAP on Google Cloud
+Google Cloud Customers
+ GCP Top 25 Google Search terms, now in BigQuery
+Google Cloud Data Analytics</description>
+    </item>
     
     <item>
       <title>25 June, 2021</title>
