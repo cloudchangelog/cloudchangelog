@@ -19,12 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/06/29/</guid>
       <description>AWS Hosting Hugging Face models on AWS Lambda for serverless inference
 AWS Lambda Serverless
- AWS AWS Systems Manager now supports free text search for a node in the Session Manager console
- AWS AWS Control Tower Best Practices for AWS Solution Providers
-AWS Control Tower AWS Organizations
- AWS How Banks Can Use AWS to Meet Compliance
-Amazon EC2 Container Registry Amazon Sagemaker
- AWS Support for HDR10+ for HEVC outputs is now available with AWS Elemental MediaConvert</description>
+ AWS IAM Access Analyzer adds new policy checks to help validate conditions during IAM policy authoring
+ AWS AWS Lambda now supports SASL/PLAIN authentication for functions triggered from self-managed Apache Kafka
+ AWS AWS Firewall Manager is now available in the Asia Pacific (Osaka) Region
+ AWS Amazon S3 cost optimization for predictable and dynamic access patterns</description>
     </item>
     
     <item>
