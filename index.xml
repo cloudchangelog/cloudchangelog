@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>29 June, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/06/29/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/06/29/</guid>
+      <description> Oracle Using Native GoldenGate with Encrypted Redo Transport Services and a Downstream Mining Database
+A-Team Chronicles Architecture  </description>
+    </item>
     
     <item>
       <title>28 June, 2021</title>
@@ -19,12 +29,12 @@
       <guid>https://cloudchangelog.com/posts/2021/06/28/</guid>
       <description>AWS Monitoring and troubleshooting serverless data analytics applications
 Amazon Cloudwatch Amazon Dynamodb
+ AWS Scheduling centralized multi-account and multi-Region patching with AWS Systems Manager Automation
+Amazon EC2 AWS Lambda
+ AWS Introducing new self-paced courses to improve Java and Python code quality with Amazon CodeGuru
+Amazon Codeguru Announcements
  AWS AWS WAF adds 15 new text transformations
- AWS Reimagining Developer and Document Experiences with the Adobe PDF Services API
-AWS Marketplace AWS Partner Network
- AWS Effective data lakes using AWS Lake Formation, Part 4: Implementing cell-level and row-level security
-Analytics AWS Lake Formation
- AWS Verify delivery conditions with the Accord Project and Amazon Quantum Ledger Database – Part 2</description>
+ AWS Effective data lakes using AWS Lake Formation, Part 4: Implementing cell-level and row-level security</description>
     </item>
     
     <item>
