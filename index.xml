@@ -17,15 +17,14 @@
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/06/29/</guid>
-      <description> Azure Bring cloud experiences to data workloads anywhere with Azure SQL enabled by Azure Arc
-Cloud Strategy Hybrid
- GCP At Ericsson and Google Cloud, imagining the future of edge and 5G
-Networking Anthos
- Oracle Using Native GoldenGate with Encrypted Redo Transport Services and a Downstream Mining Database
-A-Team Chronicles Architecture
- Oracle More specific IP addresses for OSN using the new DRGv2 capability
-Networking
-  </description>
+      <description>AWS Hosting Hugging Face models on AWS Lambda for serverless inference
+AWS Lambda Serverless
+ AWS Building well-architected serverless applications: Managing application security boundaries – part 2
+Amazon API Gateway Amazon Dynamodb
+ AWS How Banks Can Use AWS to Meet Compliance
+Amazon EC2 Container Registry Amazon Sagemaker
+ AWS Support for additional MXF mezzanine output formats now available with AWS Elemental MediaConvert
+ Azure Bring cloud experiences to data workloads anywhere with Azure SQL enabled by Azure Arc</description>
     </item>
     
     <item>
