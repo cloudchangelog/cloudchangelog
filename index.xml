@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>30 June, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/06/30/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/06/30/</guid>
+      <description> AWS Securely scale multi-account architecture with AWS Network Firewall and AWS Control Tower
+AWS Control Tower AWS Network Firewall  </description>
+    </item>
     
     <item>
       <title>29 June, 2021</title>
@@ -19,10 +29,11 @@
       <guid>https://cloudchangelog.com/posts/2021/06/29/</guid>
       <description>AWS Hosting Hugging Face models on AWS Lambda for serverless inference
 AWS Lambda Serverless
- AWS IAM Access Analyzer adds new policy checks to help validate conditions during IAM policy authoring
- AWS AWS Lambda now supports SASL/PLAIN authentication for functions triggered from self-managed Apache Kafka
- AWS AWS Firewall Manager is now available in the Asia Pacific (Osaka) Region
- AWS Amazon S3 cost optimization for predictable and dynamic access patterns</description>
+ AWS Support for additional MXF mezzanine output formats now available with AWS Elemental MediaConvert
+ AWS Support for HDR10+ for HEVC outputs is now available with AWS Elemental MediaConvert
+ AWS Introducing binlog I/O cache in Amazon Aurora MySQL to improve binlog performance
+Amazon Aurora Mysql Compatible
+ AWS Automate car insurance claims processing with Autonet and Amazon Rekognition Custom Labels</description>
     </item>
     
     <item>
