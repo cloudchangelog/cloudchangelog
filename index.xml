@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>01 July, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/07/01/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/07/01/</guid>
+      <description> AWS Overview of Data Transfer Costs for Common Architectures
+Amazon EC2 Amazon RDS  </description>
+    </item>
     
     <item>
       <title>30 June, 2021</title>
@@ -19,12 +29,10 @@
       <guid>https://cloudchangelog.com/posts/2021/06/30/</guid>
       <description>AWS Securely scale multi-account architecture with AWS Network Firewall and AWS Control Tower
 AWS Control Tower AWS Network Firewall
- AWS New AWS Solutions Implementation: Tag Tamer
- AWS How AWS Partners can determine AWS Support plans in an organization
-AWS Cloudformation AWS Identity And Access Management (IAM)
- AWS Disaster recovery insights with CloudEndure Disaster Recovery Factory
-Amazon Quicksight Analytics
- AWS Prime Day 2021 – Two Chart-Topping Days</description>
+ AWS Self-service features and trusted device support are now available on the Amazon WorkSpaces Android Client App
+ AWS AWS Glue DataBrew adds support for 14 new advanced data types for data preparation
+ AWS Amazon AppStream 2.0 is now available in the AWS Europe (London) region
+ AWS AWS Glue Schema Registry now supports JSON Schema</description>
     </item>
     
     <item>
