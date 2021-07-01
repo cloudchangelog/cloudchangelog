@@ -17,8 +17,15 @@
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/07/01/</guid>
-      <description> AWS Overview of Data Transfer Costs for Common Architectures
-Amazon EC2 Amazon RDS  </description>
+      <description>AWS Overview of Data Transfer Costs for Common Architectures
+Amazon EC2 Amazon RDS
+ AWS ICYMI: Serverless Q2 2021
+Amazon Eventbridge Amazon Kinesis
+ AWS Field Notes: Use AWS Cloud9 to Power Your Visual Studio Code IDE
+Architecture Developer Tools
+ AWS AWS Amplify CLI adds support for storing environment variables and secrets accessed by AWS Lambda functions
+ AWS AWS Amplify launches new full-stack CI/CD capabilities
+ AWS Amazon EBS now supports gp3, st1, and sc1 volume types in the Los Angeles AWS Local Zones</description>
     </item>
     
     <item>
@@ -74,12 +81,12 @@ Amazon Codeguru Announcements
       <guid>https://cloudchangelog.com/posts/2021/06/25/</guid>
       <description>AWS Accelerate your Teradata migration to Amazon Redshift – Part 1
 Amazon Redshift AWS Schema Conversion Tool
- AWS Continuous Compliance Workflow for Infrastructure as Code: Part 2
-AWS Cloud Development Kit AWS Codebuild
- AWS Amazon Neptune now supports copying DB cluster resources tags to DB snapshots
- AWS TicketCo doubles down on AWS to modernize live event production and delivery
-Amazon Cloudfront AWS Elemental Mediaconvert
- AWS Automate preapproved operations with AWS Service Catalog service actions</description>
+ AWS Building a CI/CD pipeline to update an AWS CloudFormation StackSets
+AWS Cloudformation AWS Codebuild
+ AWS Use AWS CodeCommit to mirror an Azure DevOps repository using an Azure DevOps pipeline
+AWS Codecommit Devops
+ AWS Amazon Rekognition Custom Labels adds support for KMS encryption of custom model training data
+ AWS Automate data recovery validation with AWS Backup</description>
     </item>
     
     <item>
