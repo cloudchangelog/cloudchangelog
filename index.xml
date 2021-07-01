@@ -19,13 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/07/01/</guid>
       <description>AWS Overview of Data Transfer Costs for Common Architectures
 Amazon EC2 Amazon RDS
+ AWS AWS ParallelCluster now supports Ubuntu 20.04
+ AWS AWS Amplify launches new full-stack CI/CD capabilities
  AWS ICYMI: Serverless Q2 2021
 Amazon Eventbridge Amazon Kinesis
  AWS Field Notes: Use AWS Cloud9 to Power Your Visual Studio Code IDE
 Architecture Developer Tools
- AWS AWS Amplify CLI adds support for storing environment variables and secrets accessed by AWS Lambda functions
- AWS AWS Amplify launches new full-stack CI/CD capabilities
- AWS Amazon EBS now supports gp3, st1, and sc1 volume types in the Los Angeles AWS Local Zones</description>
+ AWS AWS Amplify CLI adds support for storing environment variables and secrets accessed by AWS Lambda functions</description>
     </item>
     
     <item>
