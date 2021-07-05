@@ -6,10 +6,23 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>05 July, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/07/05/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/07/05/</guid>
+      <description> AWS Validate Native Network Encryption on Amazon RDS for Oracle
+RDS For Oracle
+ Oracle DRGv2 Hub and Spoke: HUB NVA inspecting the traffic
+Networking
+  </description>
+    </item>
     
     <item>
       <title>03 July, 2021</title>
