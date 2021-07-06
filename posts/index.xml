@@ -18,7 +18,10 @@
       
       <guid>https://cloudchangelog.com/posts/2021/07/06/</guid>
       <description> AWS Using Amazon CloudWatch with Amazon EventBridge for cross-account event monitoring
-Amazon Cloudwatch Amazon Eventbridge  </description>
+Amazon Cloudwatch Amazon Eventbridge
+ AWS Field Notes: Orchestrating and Monitoring Complex, Long-running Workflows Using AWS Step Functions
+Architecture AWS Step Functions
+  </description>
     </item>
     
     <item>
