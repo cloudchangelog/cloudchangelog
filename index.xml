@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>06 July, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/07/06/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/07/06/</guid>
+      <description> AWS Using Amazon CloudWatch with Amazon EventBridge for cross-account event monitoring
+Amazon Cloudwatch Amazon Eventbridge  </description>
+    </item>
     
     <item>
       <title>05 July, 2021</title>
@@ -17,17 +27,17 @@
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/07/05/</guid>
-      <description> AWS Validate Native Network Encryption on Amazon RDS for Oracle
+      <description>AWS Validate Native Network Encryption on Amazon RDS for Oracle
 RDS For Oracle
+ AWS Save costs and deploy highly available Microsoft Exchange on AWS using Dedicated Hosts and License Manager
+AWS License Manager Configuration, Compliance, And Auditing
  Oracle DRGv2 Hub and Spoke: HUB NVA inspecting the traffic
 Networking
  Oracle Remote Access VPN Achitecture
 Networking
  Oracle OCI Network Visualizer
 Networking
- Oracle Configure Remote Access VPN on ASA using OCI IDCS for login
-Networking
-  </description>
+ Oracle Configure Remote Access VPN on ASA using OCI IDCS for login</description>
     </item>
     
     <item>
