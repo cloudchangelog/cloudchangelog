@@ -19,12 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/07/06/</guid>
       <description>AWS Using Amazon CloudWatch with Amazon EventBridge for cross-account event monitoring
 Amazon Cloudwatch Amazon Eventbridge
- AWS Field Notes: Orchestrating and Monitoring Complex, Long-running Workflows Using AWS Step Functions
-Architecture AWS Step Functions
- AWS Translating content dynamically by using Amazon S3 Object Lambda
-Amazon Simple Storage Services (S3) AWS Lambda
- AWS Building well-architected serverless applications: Implementing application workload security – part 1
-Amazon API Gateway Amazon EC2 Container Registry</description>
+ AWS Getting started with Bottlerocket and Amazon ECS
+Amazon Elastic Container Service Containers
+ AWS Deliver hybrid live video experiences at ultra-low latency with Daily and Amazon IVS
+Amazon Interactive Video Service Broadcast
+ AWS Protecting Over-the-Top Streaming with Watermarking and Disruption from Synamedia and AWS
+Amazon Cloudfront AWS Partner Network
+ AWS Amazon Athena adds parameterized queries to improve reusability and security</description>
     </item>
     
     <item>
