@@ -19,11 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/07/07/</guid>
       <description>AWS ERGO Breaks New Frontiers for Insurance with AI Factory on AWS
 Amazon EMR Amazon Sagemaker
- AWS Power operational insights with Amazon QuickSight
-Amazon Quicksight Analytics
- AWS How Ryanair used S3 Object Lambda to deliver their COVID-19 wallet
-Amazon Simple Storage Services (S3) AWS Lambda
- AWS AWS Application Migration Service is now available in the US West (Northern California), Asia Pacific (Osaka), Canada (Central), and South America (São Paulo) Regions</description>
+ AWS Amazon Kendra releases Web Crawler to enable web site search
+ AWS AWS AppConfig now enables customers to compare two application configuration versions
+ AWS Amazon RDS for Oracle Supports Oracle Management Agent (OMA) version 13.5 for Oracle Enterprise Manager Cloud Control 13cR5
+ AWS Low Latency Real-Time Cache Updates with Amazon ElastiCache for Redis and Confluent Cloud Kafka</description>
     </item>
     
     <item>
@@ -34,13 +33,12 @@ Amazon Simple Storage Services (S3) AWS Lambda
       <guid>https://cloudchangelog.com/posts/2021/07/06/</guid>
       <description>AWS Using Amazon CloudWatch with Amazon EventBridge for cross-account event monitoring
 Amazon Cloudwatch Amazon Eventbridge
- AWS Getting started with Bottlerocket and Amazon ECS
-Amazon Elastic Container Service Containers
- AWS Deliver hybrid live video experiences at ultra-low latency with Daily and Amazon IVS
-Amazon Interactive Video Service Broadcast
- AWS Protecting Over-the-Top Streaming with Watermarking and Disruption from Synamedia and AWS
-Amazon Cloudfront AWS Partner Network
- AWS Amazon Athena adds parameterized queries to improve reusability and security</description>
+ AWS Amazon MQ for RabbitMQ now supports the consistent hash exchange type
+ AWS Translating content dynamically by using Amazon S3 Object Lambda
+Amazon Simple Storage Services (S3) AWS Lambda
+ AWS Bring your own model with Amazon SageMaker script mode
+Amazon Machine Learning Amazon Sagemaker
+ AWS Reduce cost and boost throughput with Global Datastore for Amazon ElastiCache for Redis</description>
     </item>
     
     <item>
