@@ -19,10 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/07/07/</guid>
       <description>AWS ERGO Breaks New Frontiers for Insurance with AI Factory on AWS
 Amazon EMR Amazon Sagemaker
- AWS Amazon Kendra releases Web Crawler to enable web site search
- AWS AWS AppConfig now enables customers to compare two application configuration versions
- AWS Amazon RDS for Oracle Supports Oracle Management Agent (OMA) version 13.5 for Oracle Enterprise Manager Cloud Control 13cR5
- AWS Low Latency Real-Time Cache Updates with Amazon ElastiCache for Redis and Confluent Cloud Kafka</description>
+ AWS How Ryanair used S3 Object Lambda to deliver their COVID-19 wallet
+Amazon Simple Storage Services (S3) AWS Lambda
+ AWS Get started with Flink SQL APIs in Amazon Kinesis Data Analytics Studio
+Amazon Kinesis Analytics
+ AWS Power operational insights with Amazon QuickSight
+Amazon Quicksight Analytics
+ AWS The Amazon Chime SDK adds media capture pipelines to enable capture of meeting video, audio, and content streams</description>
     </item>
     
     <item>
