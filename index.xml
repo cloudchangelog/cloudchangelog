@@ -18,12 +18,10 @@
       
       <guid>https://cloudchangelog.com/posts/2021/07/08/</guid>
       <description>AWS Amazon EC2 adds Resource Identifiers and Tags for VPC Security Group Rules
- AWS Developing evolutionary architecture with AWS Lambda
-Amazon Dynamodb AWS Lambda
- AWS AWS Storage Gateway adds support for AWS Privatelink for Amazon S3 and Amazon S3 Access Points
- AWS Amazon CloudFront announces new APIs to locate and move alternate domain names (CNAMEs)
- GCP What’s new with Google Cloud
-Google Cloud Google Workspace</description>
+ AWS AWS Distro for OpenTelemetry adds support for Container metrics in Amazon CloudWatch Container Insights (Preview)
+ AWS Amazon RDS for PostgreSQL Supports New Minor Versions 13.3, 12.7, 11.12, 10.17, and 9.6.22
+ AWS New digital course: Amazon S3 Business Continuity and Disaster Recovery
+ AWS Amazon AppStream 2.0 adds support for real-time audio-video using a web browser</description>
     </item>
     
     <item>
