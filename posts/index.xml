@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>08 July, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/07/08/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/07/08/</guid>
+      <description> AWS Amazon EC2 adds Resource Identifiers and Tags for VPC Security Group Rules
+  </description>
+    </item>
     
     <item>
       <title>07 July, 2021</title>
@@ -19,13 +29,12 @@
       <guid>https://cloudchangelog.com/posts/2021/07/07/</guid>
       <description>AWS ERGO Breaks New Frontiers for Insurance with AI Factory on AWS
 Amazon EMR Amazon Sagemaker
- AWS How Ryanair used S3 Object Lambda to deliver their COVID-19 wallet
-Amazon Simple Storage Services (S3) AWS Lambda
- AWS Get started with Flink SQL APIs in Amazon Kinesis Data Analytics Studio
-Amazon Kinesis Analytics
- AWS Power operational insights with Amazon QuickSight
-Amazon Quicksight Analytics
- AWS The Amazon Chime SDK adds media capture pipelines to enable capture of meeting video, audio, and content streams</description>
+ AWS A deep dive into Output Locking in AWS Elemental Live
+AWS Elemental Live AWS Elemental Mediapackage
+ AWS Easily Manage Security Group Rules with the New Security Group Rule ID
+Amazon VPC Announcements
+ AWS Announcing the General Availability of AWS Local Zones in Dallas and Philadelphia
+ AWS Why a Cloud Automated Operation Model is Key for Enterprises Moving to AWS</description>
     </item>
     
     <item>
