@@ -17,11 +17,14 @@
       <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/07/09/</guid>
-      <description> AWS Extending an AWS CodeBuild environment for CPP applications
+      <description>AWS Extending an AWS CodeBuild environment for CPP applications
 Devops Technical How-To
  AWS Enforcing AWS CloudFormation scanning in CI/CD Pipelines at scale using Trend Micro Cloud One Conformity
 AWS Cloudformation AWS Codebuild
-  </description>
+ AWS Automate post-database creation scripts or steps in an Amazon RDS for Oracle database
+Amazon EC2 Amazon RDS
+ AWS Field Notes: How to Set Up Your Cross-Account and Cross-Region Database for Amazon Aurora
+Amazon Aurora Architecture</description>
     </item>
     
     <item>
