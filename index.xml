@@ -19,12 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/07/09/</guid>
       <description>AWS Extending an AWS CodeBuild environment for CPP applications
 Devops Technical How-To
- AWS Enforcing AWS CloudFormation scanning in CI/CD Pipelines at scale using Trend Micro Cloud One Conformity
-AWS Cloudformation AWS Codebuild
- AWS Automate post-database creation scripts or steps in an Amazon RDS for Oracle database
-Amazon EC2 Amazon RDS
- AWS Field Notes: How to Set Up Your Cross-Account and Cross-Region Database for Amazon Aurora
-Amazon Aurora Architecture</description>
+ AWS Sherpa Digital Media simplifies live events with AWS Elemental Link
+AWS Elemental Link Direct-To-Consumer/OTT
+ AWS Chaos engineering on Amazon EKS using AWS Fault Injection Simulator
+Devops Technical How-To
+ AWS Persistent Storage using EFS for EKS on Bottlerocket
+Amazon Elastic File System (EFS) Amazon Elastic Kubernetes Service
+ AWS Deploy serverless Drupal applications using AWS Fargate and Amazon EFS</description>
     </item>
     
     <item>
