@@ -6,10 +6,23 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>09 July, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/07/09/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/07/09/</guid>
+      <description> AWS Extending an AWS CodeBuild environment for CPP applications
+Devops Technical How-To
+ AWS Enforcing AWS CloudFormation scanning in CI/CD Pipelines at scale using Trend Micro Cloud One Conformity
+AWS Cloudformation AWS Codebuild
+  </description>
+    </item>
     
     <item>
       <title>08 July, 2021</title>
@@ -18,12 +31,13 @@
       
       <guid>https://cloudchangelog.com/posts/2021/07/08/</guid>
       <description>AWS Amazon EC2 adds Resource Identifiers and Tags for VPC Security Group Rules
- AWS AWS lowers data processing charges for AWS PrivateLink
- AWS Case Study: Radio Television Brunei launches RTBGo in two months with IPSB
-Amazon Cloudfront Amazon EC2
- AWS Manage your AWS CloudFormation templates and stacks using AWS Systems Manager
-AWS Cloudformation AWS Systems Manager
- AWS AWS Storage Gateway adds support for AWS Privatelink for Amazon S3 and Amazon S3 Access Points</description>
+ AWS Generate a jazz rock track using AWS DeepComposer with machine learning
+Amazon Machine Learning Artificial Intelligence
+ AWS Case-insensitive collation support for string processing in Amazon Redshift
+Amazon Redshift Analytics
+ AWS “The Crown” in the cloud
+Content Production Media &amp;amp; Entertainment
+ AWS AWS Systems Manager Application Manager now supports full lifecycle management of AWS CloudFormation templates and stacks</description>
     </item>
     
     <item>
