@@ -19,14 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/07/12/</guid>
       <description>AWS Capturing logs at scale with Fluent Bit and Amazon EKS
 Amazon Elastic Kubernetes Service Containers
- AWS Coming soon: Expansion of AWS Lambda states to all functions
-AWS Lambda Serverless
- AWS Understanding data streaming concepts for serverless applications
-Amazon Kinesis AWS Lambda
- Azure Advancing application reliability with the Azure Well-Architected Framework
-Management Security
- Azure Azure Blob storage - Container Soft Delete generally available
-Storage Azureportal Dataprotection</description>
+ AWS AWS AppSync Now Available in Asia Pacific (Osaka)
+ AWS Amazon ml.Inf1 instances are now available on Amazon SageMaker in 4 additional AWS Regions
+ AWS AWS Organizations increases quotas for tag policies
+ AWS Amazon RDS for PostgreSQL Supports New Minor Versions 13.3, 12.7, 11.12, 10.17, and 9.6.22
+ AWS AWS Cloud Map supports configuring negative caching for DNS queries</description>
     </item>
     
     <item>
@@ -37,13 +34,10 @@ Storage Azureportal Dataprotection</description>
       <guid>https://cloudchangelog.com/posts/2021/07/09/</guid>
       <description>AWS Extending an AWS CodeBuild environment for CPP applications
 Devops Technical How-To
- AWS Sherpa Digital Media simplifies live events with AWS Elemental Link
-AWS Elemental Link Direct-To-Consumer/OTT
- AWS Chaos engineering on Amazon EKS using AWS Fault Injection Simulator
-Devops Technical How-To
- AWS Persistent Storage using EFS for EKS on Bottlerocket
-Amazon Elastic File System (EFS) Amazon Elastic Kubernetes Service
- AWS Deploy serverless Drupal applications using AWS Fargate and Amazon EFS</description>
+ AWS Amazon Fraud Detector now supports PCI DSS compliance to help run payment fraud workloads more easily
+ AWS Amazon RDS for PostgreSQL Supports oracle_fdw extension for accessing data contained in Oracle databases
+ AWS Amazon RDS for MySQL supports new minor versions 5.7.34, and 8.0.25
+ AWS Announcing Model Variable Importance for Amazon Fraud Detector</description>
     </item>
     
     <item>
