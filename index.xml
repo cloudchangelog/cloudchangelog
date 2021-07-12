@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/07/12/</guid>
       <description>AWS Capturing logs at scale with Fluent Bit and Amazon EKS
 Amazon Elastic Kubernetes Service Containers
+ AWS Amazon Pinpoint Announces Improved Journey Controls
+ AWS AWS IoT Core for LoRaWAN now supports VPC endpoints
+ AWS The Amazon Redshift Data API is now available in the AWS Asia Pacific (Osaka) Region
  AWS AWS AppSync Now Available in Asia Pacific (Osaka)
- AWS Amazon ml.Inf1 instances are now available on Amazon SageMaker in 4 additional AWS Regions
- AWS AWS Organizations increases quotas for tag policies
- AWS Amazon RDS for PostgreSQL Supports New Minor Versions 13.3, 12.7, 11.12, 10.17, and 9.6.22
- AWS AWS Cloud Map supports configuring negative caching for DNS queries</description>
+ AWS How to create auto-suppression rules in AWS Security Hub</description>
     </item>
     
     <item>
