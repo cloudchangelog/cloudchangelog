@@ -17,8 +17,16 @@
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/07/12/</guid>
-      <description> AWS Capturing logs at scale with Fluent Bit and Amazon EKS
-Amazon Elastic Kubernetes Service Containers  </description>
+      <description>AWS Capturing logs at scale with Fluent Bit and Amazon EKS
+Amazon Elastic Kubernetes Service Containers
+ AWS Coming soon: Expansion of AWS Lambda states to all functions
+AWS Lambda Serverless
+ AWS Understanding data streaming concepts for serverless applications
+Amazon Kinesis AWS Lambda
+ Azure Advancing application reliability with the Azure Well-Architected Framework
+Management Security
+ Azure Azure Blob storage - Container Soft Delete generally available
+Storage Azureportal Dataprotection</description>
     </item>
     
     <item>
