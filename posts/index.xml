@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/07/13/</guid>
       <description>AWS Amazon Simple Queue Service (SQS) – 15 Years and Still Queueing!
 Amazon Simple Queue Service (SQS) Launch
- AWS Defect detection and classification in manufacturing using Amazon Lookout for Vision and Amazon Rekognition Custom Labels
-Amazon Lookout For Vision Amazon Rekognition
- AWS Automate a centralized deployment of Amazon SageMaker Studio with AWS Service Catalog
+ AWS Run image classification with Amazon SageMaker JumpStart
 Amazon Machine Learning Amazon Sagemaker
- AWS Choosing the right AWS video solution for your use case</description>
+ AWS Implement tenant isolation for Amazon S3 and Aurora PostgreSQL by using ABAC
+Amazon Aurora Amazon Simple Storage Services (S3)
+ AWS Defect detection and classification in manufacturing using Amazon Lookout for Vision and Amazon Rekognition Custom Labels</description>
     </item>
     
     <item>
@@ -34,12 +34,10 @@ Amazon Machine Learning Amazon Sagemaker
       <guid>https://cloudchangelog.com/posts/2021/07/12/</guid>
       <description>AWS Capturing logs at scale with Fluent Bit and Amazon EKS
 Amazon Elastic Kubernetes Service Containers
- AWS AWS Cloud Map supports configuring negative caching for DNS queries
- AWS Understanding data streaming concepts for serverless applications
-Amazon Kinesis AWS Lambda
- AWS Coming soon: Expansion of AWS Lambda states to all functions
-AWS Lambda Serverless
- AWS Automate centralized backup at scale across AWS services using AWS Backup</description>
+ AWS NoSQL Workbench for Amazon DynamoDB now helps you run frequent operations more easily to modify and access table data
+ AWS Amazon Pinpoint Announces Improved Journey Controls
+ AWS The Amazon Redshift Data API is now available in the AWS Asia Pacific (Osaka) Region
+ AWS AWS AppSync Now Available in Asia Pacific (Osaka)</description>
     </item>
     
     <item>
