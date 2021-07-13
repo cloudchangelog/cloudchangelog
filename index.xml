@@ -17,13 +17,13 @@
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/07/13/</guid>
-      <description> AWS Amazon Simple Queue Service (SQS) – 15 Years and Still Queueing!
+      <description>AWS Amazon Simple Queue Service (SQS) – 15 Years and Still Queueing!
 Amazon Simple Queue Service (SQS) Launch
- GCP BlueZoo turns to Google Cloud and AI to redefine property insurance
-Startups Financial Services
- GCP Helping you pick the greenest region for your Google Cloud resources
-Google Cloud Sustainability
-  </description>
+ AWS Defect detection and classification in manufacturing using Amazon Lookout for Vision and Amazon Rekognition Custom Labels
+Amazon Lookout For Vision Amazon Rekognition
+ AWS Automate a centralized deployment of Amazon SageMaker Studio with AWS Service Catalog
+Amazon Machine Learning Amazon Sagemaker
+ AWS Choosing the right AWS video solution for your use case</description>
     </item>
     
     <item>
@@ -34,11 +34,12 @@ Google Cloud Sustainability
       <guid>https://cloudchangelog.com/posts/2021/07/12/</guid>
       <description>AWS Capturing logs at scale with Fluent Bit and Amazon EKS
 Amazon Elastic Kubernetes Service Containers
- AWS Amazon Pinpoint Announces Improved Journey Controls
- AWS AWS IoT Core for LoRaWAN now supports VPC endpoints
- AWS The Amazon Redshift Data API is now available in the AWS Asia Pacific (Osaka) Region
- AWS AWS AppSync Now Available in Asia Pacific (Osaka)
- AWS How to create auto-suppression rules in AWS Security Hub</description>
+ AWS AWS Cloud Map supports configuring negative caching for DNS queries
+ AWS Understanding data streaming concepts for serverless applications
+Amazon Kinesis AWS Lambda
+ AWS Coming soon: Expansion of AWS Lambda states to all functions
+AWS Lambda Serverless
+ AWS Automate centralized backup at scale across AWS services using AWS Backup</description>
     </item>
     
     <item>
@@ -62,13 +63,11 @@ Devops Technical How-To
       
       <guid>https://cloudchangelog.com/posts/2021/07/08/</guid>
       <description>AWS Amazon EC2 adds Resource Identifiers and Tags for VPC Security Group Rules
- AWS Generate a jazz rock track using AWS DeepComposer with machine learning
-Amazon Machine Learning Artificial Intelligence
- AWS Case-insensitive collation support for string processing in Amazon Redshift
-Amazon Redshift Analytics
- AWS “The Crown” in the cloud
-Content Production Media &amp;amp; Entertainment
- AWS AWS Systems Manager Application Manager now supports full lifecycle management of AWS CloudFormation templates and stacks</description>
+ AWS AWS Firewall Manager now supports central monitoring of VPC routes for AWS Network Firewall
+ AWS Amazon AppStream 2.0 adds support for real-time audio-video using a web browser
+ AWS Design Considerations Using VPC Endpoints for Amazon S3 with VMware Cloud on AWS
+Amazon Simple Storage Services (S3) Amazon VPC
+ AWS Amazon RDS for PostgreSQL Supports New Minor Versions 13.</description>
     </item>
     
     <item>
