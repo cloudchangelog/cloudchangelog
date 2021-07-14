@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/07/14/</guid>
       <description>AWS Announcing the AWS Partner Network’s Regional 2021 Partners of the Year
 Announcements AWS Partner Network
- AWS Protect public clients for Amazon Cognito by using an Amazon CloudFront proxy
-Amazon Cloudfront Amazon Cognito
- AWS Deploy variational autoencoders for anomaly detection with TensorFlow Serving on Amazon SageMaker
-Amazon Sagemaker Artificial Intelligence
- AWS Auto scaling Amazon Kinesis Data Streams using Amazon CloudWatch and AWS Lambda
-Amazon Cloudwatch Amazon Kinesis</description>
+ AWS EC2 Image Builder now supports parameters in components for creating custom images
+ AWS Amazon CloudFront now supports ECDSA certificates for HTTPS connections to viewers
+ AWS Amazon Lightsail now offers object storage for storing static content
+ AWS Amazon Kendra releases Principal Store for secure search
+ AWS AWS Certificate Manager provides expanded usage of imported ECDSA and RSA Certificates</description>
     </item>
     
     <item>
