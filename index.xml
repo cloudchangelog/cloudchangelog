@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/07/14/</guid>
       <description>AWS Announcing the AWS Partner Network’s Regional 2021 Partners of the Year
 Announcements AWS Partner Network
- AWS Intelligently Search Media Assets with Amazon Rekognition and Amazon ES
-Amazon Elasticsearch Service Amazon Rekognition
- AWS Data preparation using an Amazon RDS for MySQL database with AWS Glue DataBrew
-Amazon RDS Analytics
- AWS AWS DeepRacer announces DeepRacer LIVE races
- AWS Centrally track Microsoft SQL Server licenses in AWS Organizations using AWS License Manager and AWS Systems Manager</description>
+ AWS Protect public clients for Amazon Cognito by using an Amazon CloudFront proxy
+Amazon Cloudfront Amazon Cognito
+ AWS Deploy variational autoencoders for anomaly detection with TensorFlow Serving on Amazon SageMaker
+Amazon Sagemaker Artificial Intelligence
+ AWS Auto scaling Amazon Kinesis Data Streams using Amazon CloudWatch and AWS Lambda
+Amazon Cloudwatch Amazon Kinesis</description>
     </item>
     
     <item>
