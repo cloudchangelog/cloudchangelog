@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/07/14/</guid>
       <description>AWS Announcing the AWS Partner Network’s Regional 2021 Partners of the Year
 Announcements AWS Partner Network
- AWS Centrally track Microsoft SQL Server licenses in AWS Organizations using AWS License Manager and AWS Systems Manager
-AWS License Manager AWS Systems Manager
- AWS Managed disaster recovery with Amazon RDS for SQL Server using cross-Region automated backups
-Amazon RDS RDS For SQL Server
- Oracle IDCS Hub and Spoke
-Cloud Identity, Access Management &amp;amp;Amp; Security</description>
+ AWS Intelligently Search Media Assets with Amazon Rekognition and Amazon ES
+Amazon Elasticsearch Service Amazon Rekognition
+ AWS Data preparation using an Amazon RDS for MySQL database with AWS Glue DataBrew
+Amazon RDS Analytics
+ AWS AWS DeepRacer announces DeepRacer LIVE races
+ AWS Centrally track Microsoft SQL Server licenses in AWS Organizations using AWS License Manager and AWS Systems Manager</description>
     </item>
     
     <item>
@@ -35,11 +35,12 @@ Cloud Identity, Access Management &amp;amp;Amp; Security</description>
       <guid>https://cloudchangelog.com/posts/2021/07/13/</guid>
       <description>AWS Amazon Simple Queue Service (SQS) – 15 Years and Still Queueing!
 Amazon Simple Queue Service (SQS) Launch
- AWS Run image classification with Amazon SageMaker JumpStart
-Amazon Machine Learning Amazon Sagemaker
- AWS Implement tenant isolation for Amazon S3 and Aurora PostgreSQL by using ABAC
-Amazon Aurora Amazon Simple Storage Services (S3)
- AWS Defect detection and classification in manufacturing using Amazon Lookout for Vision and Amazon Rekognition Custom Labels</description>
+ AWS Validate your disaster recovery solution and simplify compliance reporting on AWS
+Amazon EC2 AWS Config
+ AWS Now view inventory and patch compliance of stopped instances using AWS Systems Manager
+ AWS Architecture Monthly Magazine: Genomics
+Architecture Healthcare
+ AWS Using AWS Migration Hub network visualization to overcome application and server dependency challenges</description>
     </item>
     
     <item>
