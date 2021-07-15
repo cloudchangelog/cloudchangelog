@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/07/15/</guid>
       <description>AWS TLS-enabled Kubernetes clusters with ACM Private CA and Amazon EKS
 Amazon Elastic Kubernetes Service AWS Certificate Manager
- AWS AWS CloudFormation now supports more stacks per AWS account
- AWS Amazon HealthLake is now Generally Available
- AWS How AWS is helping EU customers navigate the new normal for data protection
-Announcements Europe
- AWS AWS IoT Core now supports VPC Endpoints
- AWS Announcing the InterSystems HealthShare Message Transformation Service for Amazon HealthLake</description>
+ AWS Announcing availability of event-driven workflows with AWS Glue and Amazon EventBridge
+ AWS AWS Private Certificate Authority introduces integration with Kubernetes
+ AWS AWS IoT SiteWise is expanding its transforms and formula expressions capabilities
+ AWS FreeRTOS AWS reference integrations now include FreeRTOS 202012.01 LTS libraries
+ AWS AWS App Mesh Constructs for AWS CDK are now generally available</description>
     </item>
     
     <item>
