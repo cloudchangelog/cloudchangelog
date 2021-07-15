@@ -6,10 +6,22 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>15 July, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/07/15/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/07/15/</guid>
+      <description> AWS TLS-enabled Kubernetes clusters with ACM Private CA and Amazon EKS
+Amazon Elastic Kubernetes Service AWS Certificate Manager
+ Azure Session and cache provider using Azure Cosmos DB in general availability
+  </description>
+    </item>
     
     <item>
       <title>14 July, 2021</title>
@@ -19,11 +31,11 @@
       <guid>https://cloudchangelog.com/posts/2021/07/14/</guid>
       <description>AWS Announcing the AWS Partner Network’s Regional 2021 Partners of the Year
 Announcements AWS Partner Network
- AWS EC2 Image Builder now supports parameters in components for creating custom images
- AWS Amazon CloudFront now supports ECDSA certificates for HTTPS connections to viewers
- AWS Amazon Lightsail now offers object storage for storing static content
- AWS Amazon Kendra releases Principal Store for secure search
- AWS AWS Certificate Manager provides expanded usage of imported ECDSA and RSA Certificates</description>
+ AWS Case Study: Qube Cinema distributes movies faster using digital file delivery on AWS
+Customer Solutions Media &amp;amp; Entertainment
+ AWS Deploy variational autoencoders for anomaly detection with TensorFlow Serving on Amazon SageMaker
+Amazon Sagemaker Artificial Intelligence
+ AWS Amazon Lex announces tooling to migrate bots from Lex V1 console to Lex V2 console</description>
     </item>
     
     <item>
