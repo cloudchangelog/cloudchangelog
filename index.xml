@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>16 July, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/07/16/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/07/16/</guid>
+      <description> AWS How Jobcase is using Amazon Redshift ML to recommend job search content at scale
+Amazon Redshift Analytics  </description>
+    </item>
     
     <item>
       <title>15 July, 2021</title>
@@ -19,11 +29,11 @@
       <guid>https://cloudchangelog.com/posts/2021/07/15/</guid>
       <description>AWS TLS-enabled Kubernetes clusters with ACM Private CA and Amazon EKS
 Amazon Elastic Kubernetes Service AWS Certificate Manager
- AWS New datasets available on the Registry of Open Data from the National Library of Medicine, Digital Earth Africa, Amazon, and others
- AWS Amazon Lex launches support for Indian English
- AWS Migrate Amazon ElastiCache to Graviton2 processors
-Amazon Elasticache Graviton
- AWS Amazon HealthLake is now Generally Available</description>
+ AWS New AWS Solutions Implementation: Simple File Manager for Amazon EFS
+ AWS Say Hello to 65 New AWS Competency, Service Delivery, Service Ready, and MSP Partners Added in June
+Announcements AWS Partner Network
+ AWS FreeRTOS AWS reference integrations now include FreeRTOS 202012.01 LTS libraries
+ AWS AWS Private Certificate Authority introduces integration with Kubernetes</description>
     </item>
     
     <item>
