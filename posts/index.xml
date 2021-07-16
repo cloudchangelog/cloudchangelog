@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/07/16/</guid>
       <description>AWS How Jobcase is using Amazon Redshift ML to recommend job search content at scale
 Amazon Redshift Analytics
+ AWS Amazon SageMaker Edge Manager now integrates with AWS IoT Greengrass to simplify deployment to fleets of edge devices
+ AWS AWS Systems Manager Automation now supports upgrade of SQL Server 2012
  AWS Unlock patient data insights using Amazon HealthLake
 Amazon Healthlake Amazon Machine Learning
- AWS How MEDHOST is migrating electronic health record data to AWS for compliance and gaining valuable insights
-Amazon Healthlake Amazon Machine Learning
- AWS How to Decide Between Building or Buying a CIS Hardened Image
-AWS Marketplace AWS Partner Network</description>
+ AWS How MEDHOST is migrating electronic health record data to AWS for compliance and gaining valuable insights</description>
     </item>
     
     <item>
