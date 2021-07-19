@@ -6,10 +6,23 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>19 July, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/07/19/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/07/19/</guid>
+      <description> Azure Next-generation firewall capabilities with Azure Firewall Premium
+Networking Management
+ GCP Blue-sky thinking: how Sky is reimagining their FinOps journey
+Cost Management Google Cloud
+  </description>
+    </item>
     
     <item>
       <title>16 July, 2021</title>
