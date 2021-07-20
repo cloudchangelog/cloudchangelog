@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20 July, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/07/20/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/07/20/</guid>
+      <description> AWS Perform Chaos Testing on your Amazon Aurora Cluster
+Amazon Aurora Architecture  </description>
+    </item>
     
     <item>
       <title>19 July, 2021</title>
@@ -19,12 +29,11 @@
       <guid>https://cloudchangelog.com/posts/2021/07/19/</guid>
       <description>AWS Building a centralized Amazon CodeGuru Profiler dashboard for multi-account scenarios
 Amazon Codeguru Amazon Elastic Kubernetes Service
- AWS Create a pipeline with canary deployments for Amazon ECS using AWS App Mesh
-Amazon Cloudwatch Amazon EC2 Container Registry
- AWS New AWS Solutions Implementation: Tamper Proof Quality Data Using Amazon QLDB
- AWS VidDay taps AWS to deliver out-of-this world video greeting
-AWS Elemental Mediaconvert Media &amp;amp; Entertainment
- AWS Digital Visual Inspection and Asset Integrity Management with Wipro’s InspectAI on AWS</description>
+ AWS Moving external site data to AWS for file transfers with AWS Transfer Family
+Amazon EC2 Container Registry Amazon Simple Storage Services (S3)
+ AWS Schedule jobs with pg_cron on your Amazon RDS for PostgreSQL or Amazon Aurora for PostgreSQL databases
+Amazon Aurora Amazon RDS
+ AWS Automate continuous model improvement with Amazon Rekognition Custom Labels and Amazon A2I: Part 1</description>
     </item>
     
     <item>
