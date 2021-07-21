@@ -20,10 +20,11 @@
       <description>AWS Perform Chaos Testing on your Amazon Aurora Cluster
 Amazon Aurora Architecture
  AWS Amazon RDS Cross-Region Automated Backups Regional Expansion
- AWS Amazon Redshift Data Sharing is now available in AWS GovCloud (US) Regions
- AWS AWS RoboMaker WorldForge now supports adding doors to indoor residential simulation worlds
- AWS Speeding up Windows container launch times with EC2 Image builder and image cache strategy
-Amazon Elastic Container Service Amazon Elastic Kubernetes Service</description>
+ AWS Use Amazon SageMaker Feature Store in a Java environment
+Amazon Machine Learning Amazon Sagemaker
+ AWS Digitally Optimize your Factory Issue Resolution with Amazon Virtual Andon
+Architecture Amazon Virtual Andon
+ AWS Monitor errors in Amazon Aurora MySQL and Amazon RDS for MySQL using Amazon CloudWatch and send notifications using Amazon SNS</description>
     </item>
     
     <item>
