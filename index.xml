@@ -6,10 +6,23 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>21 July, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/07/21/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/07/21/</guid>
+      <description> Oracle Exadata Cloud@Customer: Upgrade Oracle Databases
+ Oracle Exadata Cloud@Customer: Update Guest VM Operating System
+ Oracle Exadata Cloud@Customer: Download Network Validation Report
+ Oracle Exadata Cloud@Customer: Upgrade Oracle Grid Infrastructure on an Exadata Cloud@Customer VM Cluster
+  </description>
+    </item>
     
     <item>
       <title>20 July, 2021</title>
