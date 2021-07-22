@@ -19,11 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/07/22/</guid>
       <description>AWS Implement Oracle Database Resident Connection Pool with Amazon RDS for Oracle
 Amazon RDS RDS For Oracle
- AWS TC Energy builds an intelligent document processing workflow to process over 20 million images with Amazon AI
-Amazon Machine Learning Amazon Rekognition
- AWS How The Washington Post’s Arc XP uses CloudWatch Metrics Explorer to reduce costs
-Amazon Cloudwatch AWS Lambda
- AWS Logging image scan findings from Amazon ECR in CloudWatch using an AWS Lambda function</description>
+ AWS Simplify CI/CD configuration for serverless applications and your favorite CI/CD system — Public Preview
+ AWS Amazon Aurora PostgreSQL supports the pg_bigm extension for faster full text search in AWS GovCloud (US) Regions
+ AWS Amazon Aurora Supports PostgreSQL 12.6, 11.11, 10.16, and 9.6.21 in AWS GovCloud (US) Regions
+ AWS Amazon Aurora PostgreSQL supports pg_cron extension for scheduling database jobs in AWS GovCloud (US) Regions</description>
     </item>
     
     <item>
