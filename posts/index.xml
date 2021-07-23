@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>23 July, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/07/23/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/07/23/</guid>
+      <description> AWS Automate annotation of image training data with Amazon Rekognition
+Amazon Machine Learning Amazon Rekognition
+ AWS The three most important AWS WAF rate-based rules
+Amazon Athena AWS WAF
+ AWS Using Cloud Fitness Functions to Drive Evolutionary Architecture
+Amazon Athena Architecture
+  </description>
+    </item>
     
     <item>
       <title>22 July, 2021</title>
@@ -19,10 +34,12 @@
       <guid>https://cloudchangelog.com/posts/2021/07/22/</guid>
       <description>AWS Implement Oracle Database Resident Connection Pool with Amazon RDS for Oracle
 Amazon RDS RDS For Oracle
- AWS Simplify CI/CD configuration for serverless applications and your favorite CI/CD system — Public Preview
- AWS Amazon Aurora PostgreSQL supports the pg_bigm extension for faster full text search in AWS GovCloud (US) Regions
- AWS Amazon Aurora Supports PostgreSQL 12.6, 11.11, 10.16, and 9.6.21 in AWS GovCloud (US) Regions
- AWS Amazon Aurora PostgreSQL supports pg_cron extension for scheduling database jobs in AWS GovCloud (US) Regions</description>
+ AWS How The Washington Post’s Arc XP uses CloudWatch Metrics Explorer to reduce costs
+Amazon Cloudwatch AWS Lambda
+ AWS Automatically compare two videos to find common content
+Amazon Simple Storage Services (S3) AWS Elemental Medialive
+ AWS Synchronize and control your Amazon Redshift clusters maintenance windows
+Amazon Redshift Customer Solutions</description>
     </item>
     
     <item>
