@@ -19,13 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/07/26/</guid>
       <description>AWS Creating a single-table design with Amazon DynamoDB
 Amazon Dynamodb Serverless
- AWS Cisco ASAv Remote Access VPN for AWS with External Multi-Factor Authentication
-AWS Partner Network Customer Solutions
- AWS Operational insights in Systems Manager OpsCenter help you identify duplicate issues and noisy event sources
-Amazon Eventbridge AWS Systems Manager
- AWS Integrating Redaction of FinServ Data into a Machine Learning Pipeline
-Amazon Athena Amazon Comprehend
- AWS Analyze Fraud Transactions using Amazon Fraud Detector and Amazon Athena</description>
+ AWS AWS App2Container now supports containerization of complex multi-tier Windows applications
+ AWS Amazon Connect CTI Adapter for Salesforce now provides guided setup
+ AWS How Pinterest worked with AWS to create a new way to manage data access: Part 1
+Amazon Simple Storage Services (S3) Customer Solutions
+ AWS Amazon SageMaker JumpStart introduces new vision models for image feature vector extraction and object detection</description>
     </item>
     
     <item>
