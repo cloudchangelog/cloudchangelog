@@ -6,10 +6,27 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>26 July, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/07/26/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/07/26/</guid>
+      <description>AWS Creating a single-table design with Amazon DynamoDB
+Amazon Dynamodb Serverless
+ AWS Cisco ASAv Remote Access VPN for AWS with External Multi-Factor Authentication
+AWS Partner Network Customer Solutions
+ AWS Operational insights in Systems Manager OpsCenter help you identify duplicate issues and noisy event sources
+Amazon Eventbridge AWS Systems Manager
+ AWS Integrating Redaction of FinServ Data into a Machine Learning Pipeline
+Amazon Athena Amazon Comprehend
+ AWS Analyze Fraud Transactions using Amazon Fraud Detector and Amazon Athena</description>
+    </item>
     
     <item>
       <title>24 July, 2021</title>
