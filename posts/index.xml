@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>27 July, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/07/27/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/07/27/</guid>
+      <description>AWS Choosing a Well-Architected CI/CD approach: Open Source on AWS
+Amazon EC2 Container Registry Amazon Elastic Kubernetes Service
+ AWS Use the Snyk CLI to scan Python packages using AWS CodeCommit, AWS CodePipeline, and AWS CodeBuild
+AWS Cloud Development Kit AWS Codebuild
+ AWS New 2021 H1 IRAP report is now available on AWS Artifact for Australian customers
+Announcements AWS Artifact
+ AWS Improving Retail Forecast Accuracy with Machine Learning</description>
+    </item>
     
     <item>
       <title>26 July, 2021</title>
@@ -19,11 +34,13 @@
       <guid>https://cloudchangelog.com/posts/2021/07/26/</guid>
       <description>AWS Creating a single-table design with Amazon DynamoDB
 Amazon Dynamodb Serverless
- AWS AWS App2Container now supports containerization of complex multi-tier Windows applications
- AWS Amazon Connect CTI Adapter for Salesforce now provides guided setup
- AWS How Pinterest worked with AWS to create a new way to manage data access: Part 1
-Amazon Simple Storage Services (S3) Customer Solutions
- AWS Amazon SageMaker JumpStart introduces new vision models for image feature vector extraction and object detection</description>
+ AWS Idea to product: PricewaterhouseCoopers launches Check-In within three months on Amazon Keyspaces
+Amazon Keyspaces (For Apache Cassandra)
+ AWS Access Amazon Location Service from Amazon Redshift
+Amazon Location Amazon Redshift
+ AWS Quick and easy Media Services Dashboards
+Amazon Cloudwatch Content Production
+ AWS Amazon SageMaker Autopilot and Automatic Model Tuning now support more refined access control using Condition Key Policies</description>
     </item>
     
     <item>
