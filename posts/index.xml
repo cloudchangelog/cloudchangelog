@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/07/27/</guid>
       <description>AWS Choosing a Well-Architected CI/CD approach: Open Source on AWS
 Amazon EC2 Container Registry Amazon Elastic Kubernetes Service
+ AWS Automating Amazon CloudWatch dashboards and alarms for Amazon Managed Workflows for Apache Airflow
+Amazon Managed Workflows For Apache Airflow (Amazon MWAA) Serverless
  AWS Use the Snyk CLI to scan Python packages using AWS CodeCommit, AWS CodePipeline, and AWS CodeBuild
 AWS Cloud Development Kit AWS Codebuild
- AWS New 2021 H1 IRAP report is now available on AWS Artifact for Australian customers
-Announcements AWS Artifact
- AWS Improving Retail Forecast Accuracy with Machine Learning</description>
+ AWS New 2021 H1 IRAP report is now available on AWS Artifact for Australian customers</description>
     </item>
     
     <item>
