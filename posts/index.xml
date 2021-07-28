@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/07/28/</guid>
       <description>AWS Field Notes: Build Dynamic IVR Menus with Amazon Connect and AWS Lambda
 Amazon Connect Architecture
- AWS Announcing availability of AWS Outposts in Argentina, Chile, and Peru
- AWS Announcing CDK Pipelines GA, CI/CD for CDK Apps
- AWS Amazon CodeGuru Profiler announces new automated onboarding process for AWS Lambda functions
- AWS Building an Interactive Sales Portal for Automotive Using AWS Microservice Architecture
-Automotive Customer Solutions
- AWS AWS Artist Series: Creating characters with dynamic wrinkles</description>
+ AWS Amazon EC2 Placement Groups are now available on AWS Outposts
+ AWS Amazon Data Lifecycle Manager now supports CloudWatch metrics
+ AWS You can now import your AWS CloudFormation stacks into a CloudFormation stack set
+ AWS AWS Amplify now supports Sign in with Apple
+ AWS Amazon Redshift Data API now adds support for multi-statement query execution and parameters</description>
     </item>
     
     <item>
