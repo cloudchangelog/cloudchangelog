@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/07/28/</guid>
       <description>AWS Field Notes: Build Dynamic IVR Menus with Amazon Connect and AWS Lambda
 Amazon Connect Architecture
- AWS Developing, versioning, testing, and deploying landing zone changes using CfCT across multiple landing zones
-AWS Control Tower Enterprise Governance And Control
- AWS Governance, Risk and Compliance track at AWS re:Inforce 2021
-AWS Re:Inforce Events
- AWS Field Notes: Building a Scalable Real-Time Newsfeed Watchlist Using Amazon Comprehend
-Amazon Comprehend Architecture</description>
+ AWS Announcing availability of AWS Outposts in Argentina, Chile, and Peru
+ AWS Announcing CDK Pipelines GA, CI/CD for CDK Apps
+ AWS Amazon CodeGuru Profiler announces new automated onboarding process for AWS Lambda functions
+ AWS Building an Interactive Sales Portal for Automotive Using AWS Microservice Architecture
+Automotive Customer Solutions
+ AWS AWS Artist Series: Creating characters with dynamic wrinkles</description>
     </item>
     
     <item>
@@ -1131,12 +1131,12 @@ Networking
       
       <guid>https://cloudchangelog.com/posts/2021/04/30/</guid>
       <description>AWS AWS Lambda@Edge now supports Node 14.x
- AWS New Developer Desktop Feature in AWS RoboMaker Integrated Development Environment (IDE)
- AWS Introducing hierarchical deletion to easily clean up unused resources in Amazon Forecast
-Amazon Forecast Artificial Intelligence
- AWS Compliance as Code for Amazon ECS using Open Policy Agent, Amazon EventBridge, and AWS Lambda
-Amazon Elastic Container Service Containers
- AWS Establishing Feedback Loops Based on the AWS Well-Architected Framework Review</description>
+ AWS New AWS Solutions Implementation: AWS Blueprints
+ AWS Amazon Monitron Service is Now Available in the Europe (Ireland) region
+ AWS Amazon Kinesis Data Analytics for Apache Flink introduces custom maintenance windows in preview
+ AWS Explore four new features in AWS Chatbot
+Amazon Cloudwatch AWS Chatbot
+ AWS AWS Cloud Development Kit (AWS CDK) v2 and Go CDK is now available for Developer Preview</description>
     </item>
     
     <item>
