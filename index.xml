@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>28 July, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/07/28/</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/07/28/</guid>
+      <description> AWS Field Notes: Build Dynamic IVR Menus with Amazon Connect and AWS Lambda
+Amazon Connect Architecture  </description>
+    </item>
     
     <item>
       <title>27 July, 2021</title>
@@ -19,12 +29,11 @@
       <guid>https://cloudchangelog.com/posts/2021/07/27/</guid>
       <description>AWS Choosing a Well-Architected CI/CD approach: Open Source on AWS
 Amazon EC2 Container Registry Amazon Elastic Kubernetes Service
- AWS Introducing Amazon Route 53 Application Recovery Controller
-Amazon Dynamodb Amazon Route 53
- AWS Calculated fields, level-aware aggregations, and evaluation order in Amazon QuickSight
-Amazon Quicksight Analytics
- AWS New Amazon SageMaker Pipelines integrations with popular third-party tools
- AWS Use the Snyk CLI to scan Python packages using AWS CodeCommit, AWS CodePipeline, and AWS CodeBuild</description>
+ AWS New exam for AWS Certified SysOps Administrator - Associate
+ AWS New course available: MLOps Engineering on AWS
+ AWS Announcing the General Availability of AWS Local Zones in Denver
+ AWS AWS Network Firewall achieves PCI DSS Compliance
+ AWS AWS Snowcone now supports multicast streams and routing by providing instances with direct access to external networks</description>
     </item>
     
     <item>
