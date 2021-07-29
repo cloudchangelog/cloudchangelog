@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/07/29/</guid>
       <description>AWS Five reasons why I’m excited to attend AWS re:Inforce 2021 in Houston, TX
 Announcements Security, Identity, &amp;amp; Compliance
- AWS Building a serverless multiplayer game that scales: Part 2
-Amazon Eventbridge Amazon Rekognition
- AWS Build a Virtual Waiting Room with Amazon DynamoDB and AWS Lambda at SeatGeek
-Amazon Dynamodb Amazon Timestream
- AWS Amazon CloudWatch adds support for trimmed mean statistics
- AWS Amazon Neptune ML is now generally available with support for edge predictions, automation, and more</description>
+ AWS Architect a disaster recovery for SQL Server on AWS: Part 2
+Amazon EC2 Windows On AWS
+ AWS Amazon Neptune ML is now generally available with support for edge predictions, automation, and more
+ AWS Architect a disaster recovery for SQL Server on AWS: Part 1
+Amazon EC2 Windows On AWS</description>
     </item>
     
     <item>
