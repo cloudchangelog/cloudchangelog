@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>29 July, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/07/29/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/07/29/</guid>
+      <description> AWS Five reasons why I’m excited to attend AWS re:Inforce 2021 in Houston, TX
+Announcements Security, Identity, &amp;amp; Compliance  </description>
+    </item>
     
     <item>
       <title>28 July, 2021</title>
@@ -19,11 +29,12 @@
       <guid>https://cloudchangelog.com/posts/2021/07/28/</guid>
       <description>AWS Field Notes: Build Dynamic IVR Menus with Amazon Connect and AWS Lambda
 Amazon Connect Architecture
- AWS Amazon EC2 Placement Groups are now available on AWS Outposts
- AWS Amazon Data Lifecycle Manager now supports CloudWatch metrics
- AWS You can now import your AWS CloudFormation stacks into a CloudFormation stack set
- AWS AWS Amplify now supports Sign in with Apple
- AWS Amazon Redshift Data API now adds support for multi-statement query execution and parameters</description>
+ AWS Building an Interactive Sales Portal for Automotive Using AWS Microservice Architecture
+Automotive Customer Solutions
+ AWS AWS Artist Series: Creating characters with dynamic wrinkles
+Amazon Nimble Studio Content Production
+ AWS Orchestrate XGBoost ML Pipelines with Amazon Managed Workflows for Apache Airflow
+Amazon Machine Learning Amazon Managed Workflows For Apache Airflow (Amazon MWAA)</description>
     </item>
     
     <item>
