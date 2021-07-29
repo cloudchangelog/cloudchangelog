@@ -19,11 +19,9 @@
       <guid>https://cloudchangelog.com/posts/2021/07/29/</guid>
       <description>AWS Five reasons why I’m excited to attend AWS re:Inforce 2021 in Houston, TX
 Announcements Security, Identity, &amp;amp; Compliance
- AWS Architect a disaster recovery for SQL Server on AWS: Part 2
-Amazon EC2 Windows On AWS
- AWS Amazon Neptune ML is now generally available with support for edge predictions, automation, and more
- AWS Architect a disaster recovery for SQL Server on AWS: Part 1
-Amazon EC2 Windows On AWS</description>
+ AWS Amazon EC2 Auto Scaling now lets you control which instances to terminate on scale-in
+ AWS Amazon Keyspaces (for Apache Cassandra) now automatically optimizes client connections made through AWS PrivateLink to improve availability and read/write throughput
+ AWS The Amazon DynamoDB Accelerator (DAX) SDK for Java 2.x is now available</description>
     </item>
     
     <item>
