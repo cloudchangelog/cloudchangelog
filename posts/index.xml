@@ -19,11 +19,9 @@
       <guid>https://cloudchangelog.com/posts/2021/07/30/</guid>
       <description>AWS Secure and analyse your Terraform code using AWS CodeCommit, AWS CodePipeline, AWS CodeBuild and tfsec
 Devops Infrastructure &amp;amp; Automation
- AWS AWS Control Tower announces improvements to guardrail naming and descriptions
- AWS Amazon RDS for SQL Server Now Supports Two New Parameter Changes For Full-Text Search
- AWS A step-by-step guide to synchronize data between Amazon S3 buckets
-Amazon Simple Storage Services (S3) Storage
- AWS Understanding Amazon Machine Images for Red Hat Enterprise Linux with Microsoft SQL Server</description>
+ AWS Agents can now set their next status while still on an active contact in Amazon Connect
+ AWS AWS IoT Core Credential Provider now supports security tokens that are valid up to 12 hours
+ AWS Analyze customer churn probability using call transcription and customer profiles with Amazon SageMaker</description>
     </item>
     
     <item>
