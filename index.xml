@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/07/30/</guid>
       <description>AWS Secure and analyse your Terraform code using AWS CodeCommit, AWS CodePipeline, AWS CodeBuild and tfsec
 Devops Infrastructure &amp;amp; Automation
- AWS Deploy data lake ETL jobs using CDK Pipelines
-AWS Big Data AWS Cloud Development Kit
- AWS EC2 Image Builder and Hands-free Hardening of Windows Images for AWS Elastic Beanstalk
-.NET Amazon EC2
- AWS Easier and faster graph machine learning with Amazon Neptune ML
-Amazon Neptune</description>
+ AWS AWS Control Tower announces improvements to guardrail naming and descriptions
+ AWS Amazon RDS for SQL Server Now Supports Two New Parameter Changes For Full-Text Search
+ AWS A step-by-step guide to synchronize data between Amazon S3 buckets
+Amazon Simple Storage Services (S3) Storage
+ AWS Understanding Amazon Machine Images for Red Hat Enterprise Linux with Microsoft SQL Server</description>
     </item>
     
     <item>
