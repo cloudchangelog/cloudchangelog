@@ -19,11 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/08/02/</guid>
       <description>AWS Migrating from Docker Swarm to Amazon ECS with Docker Compose
 Amazon Elastic Container Service Containers
- AWS AWS Named as a Leader for the 11th Consecutive Year in 2021 Gartner Magic Quadrant for Cloud Infrastructure &amp;amp; Platform Services (CIPS)
-Announcements News
- AWS New instructor-led course: Video Streaming Essentials for AWS Media Services
-AWS Elemental Mediaconnect AWS Elemental Mediaconvert
- AWS Insights for CTOs: Part 1 – Building and Operating Cloud Applications</description>
+ AWS AWS Config support for AWS Backup Services
+ AWS Amazon EKS now supports Multus CNI
+Amazon Elastic Kubernetes Service Containers
+ AWS Benchmark the performance of the new Auto WLM with adaptive concurrency in Amazon Redshift
+Amazon Redshift
+ AWS AWS Named as a Leader for the 11th Consecutive Year in 2021 Gartner Magic Quadrant for Cloud Infrastructure &amp;amp; Platform Services (CIPS)</description>
     </item>
     
     <item>
