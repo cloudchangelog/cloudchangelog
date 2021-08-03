@@ -6,10 +6,26 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>03 August, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/08/03/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/08/03/</guid>
+      <description>AWS Effective data lakes using AWS Lake Formation, Part 5: Securing data lakes with row-level access control
+Analytics AWS Lake Formation
+ AWS Choosing container logging options to avoid backpressure
+Containers Firelens
+ AWS Expiring Amazon S3 Objects Based on Last Accessed Date to Decrease Costs
+Amazon Simple Storage Services (S3) Architecture
+ AWS Amazon SageMaker now supports M5d, R5, P3dn, and G4dn instances for SageMaker Notebook Instances
+ AWS AWS Control Tower now available in Sao Paulo &amp;amp; Paris and provides region deselection</description>
+    </item>
     
     <item>
       <title>02 August, 2021</title>
