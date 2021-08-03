@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/08/03/</guid>
       <description>AWS Effective data lakes using AWS Lake Formation, Part 5: Securing data lakes with row-level access control
 Analytics AWS Lake Formation
- AWS Amazon EKS now supports Multus
- AWS Amazon SageMaker now supports M5d, R5, P3dn, and G4dn instances for SageMaker Notebook Instances
- AWS Augment Your Contact Center Productivity with Cogito Dialog’s Integration with Amazon Connect
-Amazon Connect AWS Marketplace
- AWS Secure connectivity patterns to access Amazon MSK across AWS Regions</description>
+ AWS AWS SiteWise now supports custom time intervals for metric aggregations
+ AWS How Shaadi.com optimized compute costs using Amazon EBS gp3 volumes
+Amazon EC2 Amazon Elastic Block Storage (EBS)
+ AWS Upgrade your Amazon Polly voices to neural with one line of code
+Amazon Machine Learning Amazon Polly</description>
     </item>
     
     <item>
