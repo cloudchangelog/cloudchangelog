@@ -17,10 +17,13 @@
       <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/08/04/</guid>
-      <description> AWS Using VPC Endpoints in Multi-Region Architectures with Route 53 Resolver
+      <description>AWS Using VPC Endpoints in Multi-Region Architectures with Route 53 Resolver
 Amazon Route 53 Amazon VPC
- Oracle Hive Metastore is now Availble in Data Flow
-  </description>
+ AWS Automating Your Home with Grafana and Siemens Controllers
+Amazon Cloudwatch Amazon Managed Service For Grafana
+ AWS AWS Data Streaming Solution for Amazon MSK adds support for AWS IAM to streamline access control management
+ AWS Use ML predictions over Amazon DynamoDB data with Amazon Athena ML
+Amazon Athena Amazon Dynamodb</description>
     </item>
     
     <item>
@@ -31,11 +34,13 @@ Amazon Route 53 Amazon VPC
       <guid>https://cloudchangelog.com/posts/2021/08/03/</guid>
       <description>AWS Effective data lakes using AWS Lake Formation, Part 5: Securing data lakes with row-level access control
 Analytics AWS Lake Formation
- AWS Getting started with the AWS Media Asset Preparation System (MAPS)
-Content Production Media &amp;amp; Entertainment
- AWS Extend Amazon SageMaker Pipelines to include custom steps using callback steps
-Amazon Machine Learning Amazon Sagemaker
- AWS Augment Your Contact Center Productivity with Cogito Dialog’s Integration with Amazon Connect</description>
+ AWS Managing and monitoring API throttling in your workloads
+Amazon Cloudwatch AWS Cloudtrail
+ AWS Automate configuration compliance at scale in AWS
+AWS Cloudformation AWS Config
+ AWS Automate the Amazon Aurora MySQL blue/green deployment process
+Amazon Aurora Mysql Compatible
+ AWS Choosing container logging options to avoid backpressure</description>
     </item>
     
     <item>
