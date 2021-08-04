@@ -19,11 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/08/04/</guid>
       <description>AWS Using VPC Endpoints in Multi-Region Architectures with Route 53 Resolver
 Amazon Route 53 Amazon VPC
- AWS Automating Your Home with Grafana and Siemens Controllers
-Amazon Cloudwatch Amazon Managed Service For Grafana
- AWS AWS Data Streaming Solution for Amazon MSK adds support for AWS IAM to streamline access control management
- AWS Use ML predictions over Amazon DynamoDB data with Amazon Athena ML
-Amazon Athena Amazon Dynamodb</description>
+ AWS Managed entitlements now available for AWS Data Exchange products in AWS License Manager
+ AWS AWS Cloud9 introduces new features to browse CloudWatch Logs, S3, and use EC2 instance profiles
+ AWS New AWS Solutions Implementation: SQL-based ETL with Apache Spark on Amazon EKS
+ AWS ITV moves delivery of simulcast channels into the cloud to accelerate innovation</description>
     </item>
     
     <item>
