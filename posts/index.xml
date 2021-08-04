@@ -6,10 +6,22 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>04 August, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/08/04/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/08/04/</guid>
+      <description> AWS Using VPC Endpoints in Multi-Region Architectures with Route 53 Resolver
+Amazon Route 53 Amazon VPC
+ Oracle Hive Metastore is now Availble in Data Flow
+  </description>
+    </item>
     
     <item>
       <title>03 August, 2021</title>
@@ -19,11 +31,11 @@
       <guid>https://cloudchangelog.com/posts/2021/08/03/</guid>
       <description>AWS Effective data lakes using AWS Lake Formation, Part 5: Securing data lakes with row-level access control
 Analytics AWS Lake Formation
- AWS AWS SiteWise now supports custom time intervals for metric aggregations
- AWS How Shaadi.com optimized compute costs using Amazon EBS gp3 volumes
-Amazon EC2 Amazon Elastic Block Storage (EBS)
- AWS Upgrade your Amazon Polly voices to neural with one line of code
-Amazon Machine Learning Amazon Polly</description>
+ AWS Getting started with the AWS Media Asset Preparation System (MAPS)
+Content Production Media &amp;amp; Entertainment
+ AWS Extend Amazon SageMaker Pipelines to include custom steps using callback steps
+Amazon Machine Learning Amazon Sagemaker
+ AWS Augment Your Contact Center Productivity with Cogito Dialog’s Integration with Amazon Connect</description>
     </item>
     
     <item>
