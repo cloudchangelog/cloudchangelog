@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>06 August, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/08/06/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/08/06/</guid>
+      <description> AWS Improve monitoring of AWS Systems Manager Agent
+AWS Config AWS Systems Manager  </description>
+    </item>
     
     <item>
       <title>05 August, 2021</title>
@@ -19,11 +29,13 @@
       <guid>https://cloudchangelog.com/posts/2021/08/05/</guid>
       <description>AWS How to easily configure DevOps Guru across your organization with Systems Manager Quick Setup
 AWS Systems Manager Centralized Operations Management
- AWS Introducing 79 new resource types in the CloudFormation Registry
- AWS Announcing Amazon CloudWatch cross account alarms
- AWS Amazon S3 on Outposts now supports sharing across multiple accounts
- AWS Optimize personalized recommendations for the business metric of your choice with Amazon Personalize
- AWS How Aviatrix Provides Deep Visibility, Troubleshooting, and Monitoring for Your AWS Network</description>
+ AWS How Aviatrix Provides Deep Visibility, Troubleshooting, and Monitoring for Your AWS Network
+AWS Marketplace AWS Partner Network
+ AWS Scale your Amazon Kendra index
+Amazon Kendra Amazon Machine Learning
+ AWS Explore remote production with AWS Partners at SIGGRAPH
+Amazon Nimble Studio AWS Thinkbox
+ AWS Announcing new AWS Wavelength Zones in Chicago, Houston, and Phoenix</description>
     </item>
     
     <item>
