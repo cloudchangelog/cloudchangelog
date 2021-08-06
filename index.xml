@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/08/06/</guid>
       <description>AWS Improve monitoring of AWS Systems Manager Agent
 AWS Config AWS Systems Manager
+ AWS CICD on Serverless Applications using AWS CodeArtifact
+AWS Codeartifact AWS Codebuild
+ AWS Amazon RDS Proxy can now be created in a shared Virtual Private Cloud (VPC)
  AWS Amazon Athena is now available in the AWS Asia Pacific (Osaka) region
- AWS Make your audio and video files searchable using Amazon Transcribe and Amazon Kendra
-Amazon Kendra Amazon Machine Learning
- AWS Accenture promotes machine learning growth with world’s largest private AWS DeepComposer Battle of the Bands League
-Amazon Machine Learning Artificial Intelligence</description>
+ AWS Make your audio and video files searchable using Amazon Transcribe and Amazon Kendra</description>
     </item>
     
     <item>
@@ -34,13 +34,10 @@ Amazon Machine Learning Artificial Intelligence</description>
       <guid>https://cloudchangelog.com/posts/2021/08/05/</guid>
       <description>AWS How to easily configure DevOps Guru across your organization with Systems Manager Quick Setup
 AWS Systems Manager Centralized Operations Management
- AWS How Aviatrix Provides Deep Visibility, Troubleshooting, and Monitoring for Your AWS Network
-AWS Marketplace AWS Partner Network
- AWS Scale your Amazon Kendra index
-Amazon Kendra Amazon Machine Learning
- AWS Explore remote production with AWS Partners at SIGGRAPH
-Amazon Nimble Studio AWS Thinkbox
- AWS Announcing new AWS Wavelength Zones in Chicago, Houston, and Phoenix</description>
+ AWS Mapping and Migration of Enterprise-Class Workloads to AWS Using ATADATA from Deloitte
+AWS Partner Network Customer Solutions
+ AWS Athena can now write query results in Parquet, Avro, ORC and JSON formats
+ AWS Amazon FSx is now available in the AWS Asia Pacific (Osaka) Region</description>
     </item>
     
     <item>
