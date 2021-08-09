@@ -19,11 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/08/09/</guid>
       <description>AWS Improve native backup and restore performance in Amazon RDS for SQL Server
 RDS For SQL Server
- AWS Choosing between AWS services for streaming data workloads
-Amazon Simple Queue Service (SQS) Kinesis Data Firehose
- AWS Using AWS Application Load Balancer path-based routing to combine Amazon ECS launch types
+ AWS Now enable auto-approval of change requests and expedite changes with AWS Systems Manager Change Manager
+ AWS A deep dive into Bottlerocket ECS Updater
 Amazon Elastic Container Service Containers
- AWS Classifying Millions of Amazon items with Machine Learning, Part I: Event Driven Architecture</description>
+ AWS Creating a Complete Collaboration Solution with Amazon Chime SDK and Bluescape
+Amazon Chime AWS Marketplace
+ AWS How to Accelerate the Bank 4.</description>
     </item>
     
     <item>
