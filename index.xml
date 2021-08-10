@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/08/10/</guid>
       <description>AWS Building well-architected serverless applications: Building in resiliency – part 2
 Amazon API Gateway Amazon Cloudwatch
- AWS How Magellan Rx Management used Amazon Redshift ML to predict drug therapeutic conditions
-Amazon Redshift Customer Solutions
- AWS Power your Kafka Streams application with Amazon MSK and AWS Fargate
-Amazon Managed Streaming For Apache Kafka (Amazon MSK) AWS Fargate
- AWS Optimizing your AWS Infrastructure for Sustainability, Part I: Compute</description>
+ AWS Amazon CloudWatch Logs now supports Usage Metrics
+ AWS AWS interactive EC2 Serial Console is now available in more commercial regions and AWS GovCloud (US) regions
+ AWS Run your TensorFlow job on Amazon SageMaker with a PyCharm IDE
+Amazon Machine Learning Amazon Sagemaker
+ AWS Implement Oracle GoldenGate high availability in the AWS Cloud</description>
     </item>
     
     <item>
