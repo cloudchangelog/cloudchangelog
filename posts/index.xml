@@ -19,10 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/08/09/</guid>
       <description>AWS Improve native backup and restore performance in Amazon RDS for SQL Server
 RDS For SQL Server
- AWS Amazon WorkSpaces announces the availability of quota information through Service Quotas
- AWS Announcing model improvements and lower annotation limits for Amazon Comprehend custom entity recognition
-Amazon Comprehend Amazon Machine Learning
- AWS AWS Systems Manager OpsCenter launches operational insights to identify duplicate items and event sources with unusual activity</description>
+ AWS Train custom entity recognition models with fewer training documents with Amazon Comprehend
+ AWS How to Accelerate the Bank 4.0 Journey with the HCL Total Experience Suite on AWS
+Customer Solutions Financial Services
+ AWS Attendee matchmaking at virtual events with Amazon Personalize
+Amazon Machine Learning Amazon Personalize
+ AWS How to: Automatic failover of file and live inputs in AWS Elemental MediaLive</description>
     </item>
     
     <item>
