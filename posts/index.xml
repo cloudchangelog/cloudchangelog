@@ -19,10 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/08/11/</guid>
       <description>AWS Implement AWS Config rule remediation with Systems Manager Change Manager
 AWS Config AWS Systems Manager
- AWS AWS Elemental Live SRT outputs configuration and workflows
-AWS Elemental Live AWS Elemental Mediaconnect
- AWS Announcing support for new Timestamp function, PreTrigger function and ability to write nested expressions within aggregation functions
- AWS Amazon EMR now allows you to easily identify latest releases that have the applications you need</description>
+ AWS Introducing AWS App Runner integration in the AWS Toolkit for VS Code
+ AWS PostgreSQL 14 Beta 2 Now Available in Amazon RDS Database Preview Environment
+ AWS Monitoring and reporting Amazon FSx user access events using Splunk
+Amazon Cloudwatch Amazon Fsx For Windows File Server
+ AWS AWS Snowball Edge Storage Optimized devices now supports high performance NFS data transfer</description>
     </item>
     
     <item>
