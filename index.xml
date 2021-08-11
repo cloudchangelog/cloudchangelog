@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/08/10/</guid>
       <description>AWS Building well-architected serverless applications: Building in resiliency – part 2
 Amazon API Gateway Amazon Cloudwatch
- AWS Amazon CloudWatch Logs now supports Usage Metrics
- AWS AWS interactive EC2 Serial Console is now available in more commercial regions and AWS GovCloud (US) regions
- AWS Run your TensorFlow job on Amazon SageMaker with a PyCharm IDE
-Amazon Machine Learning Amazon Sagemaker
- AWS Implement Oracle GoldenGate high availability in the AWS Cloud</description>
+ AWS Stream tennis matches through AWS Elemental MediaLive and generate real-time replays with Amazon Rekognition
+Amazon Rekognition AWS Elemental Medialive
+ AWS How to use AWS DataSync to migrate data between Amazon S3 buckets
+Amazon EC2 Amazon Simple Storage Services (S3)
+ AWS AWS interactive EC2 Serial Console is now available in more commercial regions and AWS GovCloud (US) regions</description>
     </item>
     
     <item>
