@@ -19,12 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/08/11/</guid>
       <description>AWS Implement AWS Config rule remediation with Systems Manager Change Manager
 AWS Config AWS Systems Manager
- AWS Maximize cloud investment value through operational excellence using AWS Managed Services
-Amazon Cloudwatch AWS Backup
- AWS Use AWS Systems Manager Session Manager for port forwarding to Amazon ElastiCache for Redis inside a private subnet
-Amazon Elasticache AWS Systems Manager
- AWS Scaling Well-Architected reviews with the AWS Well-Architected Tool
-AWS Well-Architected AWS Well-Architected Tool</description>
+ AWS AWS Elemental Live SRT outputs configuration and workflows
+AWS Elemental Live AWS Elemental Mediaconnect
+ AWS Announcing support for new Timestamp function, PreTrigger function and ability to write nested expressions within aggregation functions
+ AWS Amazon EMR now allows you to easily identify latest releases that have the applications you need</description>
     </item>
     
     <item>
@@ -153,13 +151,16 @@ Amazon Redshift
       <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/07/31/</guid>
-      <description> AWS Share reusable infrastructure as code by using AWS CloudFormation modules and StackSets
+      <description>AWS Share reusable infrastructure as code by using AWS CloudFormation modules and StackSets
 AWS Cloudformation AWS Organizations
  AWS Top 5: Featured Architecture Content for July
 Architecture Top 5
+ Azure Azure Security Center: Public preview updates for July 2021
+Security Azureportal
+ Azure Azure Security Center: General availability updates for July 2021
+Security Azureportal
  Oracle Connecting to Dedicated Autonomous Databases using Connection Manager and Oracle Analytics
-A-Team Chronicles Analytics &amp;amp;Amp; Reporting
-  </description>
+A-Team Chronicles Analytics &amp;amp;Amp; Reporting</description>
     </item>
     
     <item>
