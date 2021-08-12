@@ -6,10 +6,23 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>12 August, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/08/12/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/08/12/</guid>
+      <description> AWS Implement operations observability in landing zone environments
+Amazon Cloudwatch Management &amp;amp; Governance
+ AWS Use Amazon EventBridge rules to run AWS Systems Manager automation in response to CloudWatch alarms
+Amazon Cloudwatch Amazon Eventbridge
+  </description>
+    </item>
     
     <item>
       <title>11 August, 2021</title>
@@ -19,11 +32,11 @@
       <guid>https://cloudchangelog.com/posts/2021/08/11/</guid>
       <description>AWS Implement AWS Config rule remediation with Systems Manager Change Manager
 AWS Config AWS Systems Manager
- AWS Introducing AWS App Runner integration in the AWS Toolkit for VS Code
- AWS PostgreSQL 14 Beta 2 Now Available in Amazon RDS Database Preview Environment
- AWS Monitoring and reporting Amazon FSx user access events using Splunk
-Amazon Cloudwatch Amazon Fsx For Windows File Server
- AWS AWS Snowball Edge Storage Optimized devices now supports high performance NFS data transfer</description>
+ AWS Gain 3x Higher Oracle RAC Database Performance on Amazon EC2 with R5b Instances and gp3 Storage
+Amazon EC2 AWS Partner Network
+ AWS Maximize cloud investment value through operational excellence using AWS Managed Services
+Amazon Cloudwatch AWS Backup
+ AWS Amazon EMR now supports Amazon S3 Access Points to simplify access control</description>
     </item>
     
     <item>
