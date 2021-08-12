@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/08/12/</guid>
       <description>AWS Implement operations observability in landing zone environments
 Amazon Cloudwatch Management &amp;amp; Governance
- AWS New AWS Solutions Implementation: AWS Innovation Sandbox
- AWS Use CloudFormation to automate management of the Fargate profile in Amazon EKS
-Amazon Elastic Kubernetes Service AWS Cloudformation
- AWS How Deloitte’s Image Recognition Framework Leverages AWS Artificial Intelligence and Machine Learning
-Amazon Machine Learning Artificial Intelligence
- AWS Introducing public builds for AWS CodeBuild</description>
+ AWS CodeBuild Supports Publicly Viewable Build Results
+ AWS Amazon CodeGuru Profiler adds recommendation support for Python applications
+ AWS Amazon API Gateway now supports mutual TLS with certificates from third-party CAs and ACM Private CA
+ AWS AWS Glue DataBrew now supports writing prepared data into Tableau Hyper format
+ AWS AWS Glue DataBrew now supports logical conditions as transformations</description>
     </item>
     
     <item>
