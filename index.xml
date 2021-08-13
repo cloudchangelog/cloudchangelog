@@ -17,8 +17,13 @@
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/08/13/</guid>
-      <description> AWS Best practices: Redis clients and Amazon ElastiCache for Redis
-Amazon Elasticache  </description>
+      <description>AWS Best practices: Redis clients and Amazon ElastiCache for Redis
+Amazon Elasticache
+ AWS Cross-Account Data Sharing for Amazon Redshift
+Amazon Redshift Analytics
+ AWS Amazon API Gateway now supports mutual TLS with certificates from third-party CAs and ACM Private CA
+ AWS AWS Glue DataBrew now supports writing prepared data into AWS Lake Formation based AWS Glue Data Catalog tables
+ AWS Announcing S3 Transfer Manager Preview release in the AWS SDK for Java 2.</description>
     </item>
     
     <item>
