@@ -19,13 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/08/16/</guid>
       <description>AWS Field Notes: Creating Custom Analytics Dashboards with FireEye Helix and Amazon QuickSight
 Amazon Eventbridge Amazon Quicksight
- AWS Building a data discovery solution with Amundsen and Amazon Neptune
-Amazon Elasticsearch Service Amazon Neptune
- Azure Azure Government Top Secret now generally available for US national security missions
-Security Government
- Azure Innovate securely with Azure
-Cloud Strategy Security
- GCP Foundational best practices for securing your cloud deployment</description>
+ AWS AWS Elastic Beanstalk supports Capacity Rebalancing for Amazon EC2 Spot Instances
+ AWS Amazon RDS for SQL Server now supports Automatic Minor Version Upgrades
+ AWS Hosting IBM i and AIX Systems with Low-Latency Connectivity to AWS with Connectria
+AWS Partner Network Customer Solutions
+ AWS How Tech Mahindra Implemented an Intelligent Enterprise Solution Based on S/4 HANA on AWS</description>
     </item>
     
     <item>
