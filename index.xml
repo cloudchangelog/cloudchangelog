@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>16 August, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/08/16/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/08/16/</guid>
+      <description> AWS Field Notes: Creating Custom Analytics Dashboards with FireEye Helix and Amazon QuickSight
+Amazon Eventbridge Amazon Quicksight
+ Azure Azure Government Top Secret now generally available for US national security missions
+Security Government
+ Oracle OCI Accounts: Prepare for Emergencies
+A-Team Chronicles Cloud
+  </description>
+    </item>
     
     <item>
       <title>13 August, 2021</title>
