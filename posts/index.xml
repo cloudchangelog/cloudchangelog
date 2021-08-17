@@ -19,11 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/08/16/</guid>
       <description>AWS Field Notes: Creating Custom Analytics Dashboards with FireEye Helix and Amazon QuickSight
 Amazon Eventbridge Amazon Quicksight
- AWS AWS Directory Service now supports smart card authentication with AD Connector for Amazon WorkSpaces in 5 additional AWS Regions
- AWS Introducing Amazon EC2 M6i instances
- AWS Machine Learning at the Edge with AWS Outposts and Amazon SageMaker
-Amazon Machine Learning Amazon Sagemaker
- AWS Building a data discovery solution with Amundsen and Amazon Neptune</description>
+ AWS Python 3.9 runtime now available in AWS Lambda
+Announcements AWS Lambda
+ AWS AWS Elastic Beanstalk supports Capacity Rebalancing for Amazon EC2 Spot Instances
+ AWS Hosting IBM i and AIX Systems with Low-Latency Connectivity to AWS with Connectria
+AWS Partner Network Customer Solutions
+ AWS How Tech Mahindra Implemented an Intelligent Enterprise Solution Based on S/4 HANA on AWS</description>
     </item>
     
     <item>
