@@ -6,10 +6,27 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>17 August, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/08/17/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/08/17/</guid>
+      <description>AWS Configuring CORS on Amazon API Gateway APIs
+Amazon API Gateway AWS Serverless Application Model
+ AWS Create Amazon SageMaker projects using third-party source control and Jenkins
+Amazon Machine Learning Amazon Sagemaker
+ AWS Use Block Kit when integrating Amazon Lex bots with Slack
+Amazon API Gateway Amazon Lex
+ AWS Patterns for multi-account, hub-and-spoke Amazon SageMaker model registry
+Amazon Machine Learning Amazon Sagemaker
+ AWS Building a Data Pipeline for Tracking Sporting Events Using AWS Services</description>
+    </item>
     
     <item>
       <title>16 August, 2021</title>
