@@ -19,8 +19,8 @@
       <guid>https://cloudchangelog.com/posts/2021/08/17/</guid>
       <description>AWS Configuring CORS on Amazon API Gateway APIs
 Amazon API Gateway AWS Serverless Application Model
+ AWS Amazon EC2 customers can now use ED25519 keys for authentication during instance connectivity operations
  AWS AWS Transfer Family expands compatibility for FTPS/FTP clients and increases limit for number of servers
- AWS AWS CDK releases v1.111.0 - v1.116.0 with updates for unit testing and CDK Pipelines support
  AWS Amazon CodeGuru Profiler extends visualizations capability with a new compare option for application profile
  AWS Amazon WorkSpaces Renews Windows Desktop Experience with Windows Server 2019 bundles and 64-bit Microsoft Office 2019</description>
     </item>
