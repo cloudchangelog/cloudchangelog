@@ -18,12 +18,11 @@
       
       <guid>https://cloudchangelog.com/posts/2021/08/19/</guid>
       <description>AWS Amazon Connect Customer Profiles is now HIPAA eligible
- AWS Field Notes: How to Back Up a Database with KMS Encryption Using AWS Backup
-Amazon RDS Architecture
- AWS ­­­­­­Introducing AWS Glue 3.0 with optimized Apache Spark 3.1 runtime for faster data integration
-AWS Glue
- AWS Redshift spatial performance enhancements and new spatial functions
- Azure We&amp;rsquo;re retiring the Log Analytics agent in Azure Monitor on 31 August 2024</description>
+ AWS AWS Managed Services (AMS) Accelerate Operations Plan is now available in the AWS Europe (Stockholm) Region
+ AWS AWS Cost Categories introduces Split Charge rules for allocation of shared costs
+ AWS Amazon SageMaker notebook instance now supports Amazon Linux 2
+ AWS Access token security for microservice APIs on Amazon EKS
+Amazon Cognito Amazon Elastic Kubernetes Service</description>
     </item>
     
     <item>
