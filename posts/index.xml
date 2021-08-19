@@ -18,11 +18,13 @@
       
       <guid>https://cloudchangelog.com/posts/2021/08/19/</guid>
       <description>AWS Amazon Connect Customer Profiles is now HIPAA eligible
- AWS AWS Managed Services (AMS) Accelerate Operations Plan is now available in the AWS Europe (Stockholm) Region
- AWS AWS Cost Categories introduces Split Charge rules for allocation of shared costs
- AWS Amazon SageMaker notebook instance now supports Amazon Linux 2
  AWS Access token security for microservice APIs on Amazon EKS
-Amazon Cognito Amazon Elastic Kubernetes Service</description>
+Amazon Cognito Amazon Elastic Kubernetes Service
+ AWS Automate Amazon QuickSight user and group management using LDAP data for row-level security
+Amazon Quicksight
+ AWS Redshift spatial performance enhancements and new spatial functions
+ AWS Introducing Amazon MemoryDB for Redis – A Redis-Compatible, Durable, In-Memory Database Service
+Amazon Memorydb For Redis Announcements</description>
     </item>
     
     <item>
