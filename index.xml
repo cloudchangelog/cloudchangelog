@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>19 August, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/08/19/</link>
+      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/08/19/</guid>
+      <description> GCP BigQuery workload management best practices
+Google Cloud Data Analytics  </description>
+    </item>
     
     <item>
       <title>18 August, 2021</title>
@@ -19,11 +29,13 @@
       <guid>https://cloudchangelog.com/posts/2021/08/18/</guid>
       <description>AWS Secure multi-account model deployment with Amazon SageMaker: Part 2
 Amazon Machine Learning Amazon Sagemaker
- AWS Announcing regional launch of IoT Analytics in Asia Pacific (Mumbai) region
- AWS AWS Glue Studio is now available in the AWS GovCloud (US) Regions
- AWS Managing content delivery across multiple AWS Elemental MediaPackage origins
-AWS Elemental Mediapackage Media &amp;amp; Entertainment
- AWS Amazon SageMaker notebook instances now support Amazon Linux 2</description>
+ AWS Secure multi-account model deployment with Amazon SageMaker: Part 1
+Amazon Machine Learning Amazon Sagemaker
+ AWS Speed up time series data ingestion by partitioning tables on Amazon RDS for PostgreSQL
+Amazon Aurora Amazon RDS
+ AWS Scaling Laravel Jobs with AWS Batch and Amazon EventBridge
+Amazon Eventbridge AWS Batch
+ AWS A Decade of Evolution at Lemongrass: SAP on AWS Business Continuity</description>
     </item>
     
     <item>
