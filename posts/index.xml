@@ -18,13 +18,12 @@
       
       <guid>https://cloudchangelog.com/posts/2021/08/20/</guid>
       <description>AWS Amazon ElastiCache for Redis now supports auto scaling
- AWS Announcing Amazon Forecast Weather Index for Asia-Pacific
- GCP Using a private repo on Artifact Registry in Google Cloud Functions
-Google Cloud Developers &amp;amp; Practitioners
- GCP Zero effort performance insights for popular serverless offerings
-GKE Compute Engine
- GCP Zero trust is a must: Supporting our customers with new BeyondCorp Enterprise features
-Google Cloud Identity &amp;amp; Security</description>
+ AWS IAM Access Analyzer helps you generate IAM policies based on access activity found in your organization trail
+ AWS Middleware-assisted Zero-downtime Live Database Migration to AWS
+Amazon Dynamodb Amazon RDS
+ AWS Build with Redis data structures for microservices using Amazon MemoryDB for Redis and Amazon ECS
+Amazon Elastic Container Service Amazon Memorydb For Redis
+ AWS Introducing Amazon SageMaker Asynchronous Inference, a new inference option for workloads with large payload sizes and long inference processing times</description>
     </item>
     
     <item>
