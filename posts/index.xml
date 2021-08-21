@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>21 August, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/08/21/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/08/21/</guid>
+      <description> AWS AWS Config RDK: Deploying the Custom Rules using the Terraform
+AWS Config Python  </description>
+    </item>
     
     <item>
       <title>20 August, 2021</title>
@@ -18,13 +28,11 @@
       
       <guid>https://cloudchangelog.com/posts/2021/08/20/</guid>
       <description>AWS Amazon ElastiCache for Redis now supports auto scaling
- AWS Amazon Aurora Supports PostgreSQL 9.6.22, 10.17, 11.12, and 12.7
- AWS Artist Series: Compositing Spanner­­
-Amazon Nimble Studio Content Production
- AWS How to authenticate private container registries using AWS Batch
-Amazon EC2 Container Registry Amazon Elastic Container Service
- AWS Announcing Amazon Forecast Weather Index for Asia-Pacific
- AWS Using AWS CodePipeline for deploying container images to AWS Lambda Functions</description>
+ AWS Create CIS hardened Windows images using EC2 Image Builder
+Amazon EC2 How-To
+ AWS Introducing Amazon SageMaker Asynchronous Inference, a new inference option for workloads with large payload sizes and long inference processing times
+ AWS IAM Access Analyzer helps you generate IAM policies based on access activity found in your organization trail
+ AWS Middleware-assisted Zero-downtime Live Database Migration to AWS</description>
     </item>
     
     <item>
