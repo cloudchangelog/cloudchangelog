@@ -19,13 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/08/23/</guid>
       <description>AWS Upgrade your Amazon RDS for PostgreSQL database, Part 2: Using the pglogical extension
 Amazon Aurora Amazon RDS
- AWS Upgrade your Amazon RDS for PostgreSQL database, Part 1: Comparing upgrade approaches
-Amazon Aurora Amazon RDS
- AWS Happy 15th Birthday Amazon EC2
-Amazon Cloudwatch Amazon EC2
- AWS Adding resiliency to AWS CloudFormation custom resource deployments
-Amazon Simple Queue Service (SQS) AWS Cloudformation
- AWS Simplify data discovery for business users by adding data descriptions in the AWS Glue Data Catalog</description>
+ AWS AWS IoT Greengrass v2.4 release includes new features for provisioning large device fleets and managing device software resources
+ AWS AWS Database Migration Service now supports parallel threads when using Redshift as a target during full load
+ AWS Queue Integration with Third-party Services on AWS
+Amazon Elastic Container Service Amazon Simple Queue Service (SQS)</description>
     </item>
     
     <item>
