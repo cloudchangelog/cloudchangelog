@@ -19,10 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/08/23/</guid>
       <description>AWS Upgrade your Amazon RDS for PostgreSQL database, Part 2: Using the pglogical extension
 Amazon Aurora Amazon RDS
- AWS AWS IoT Greengrass v2.4 release includes new features for provisioning large device fleets and managing device software resources
- AWS AWS Database Migration Service now supports parallel threads when using Redshift as a target during full load
+ AWS Amazon EC2 M6i instances are now available in 2 additional regions
  AWS Queue Integration with Third-party Services on AWS
-Amazon Elastic Container Service Amazon Simple Queue Service (SQS)</description>
+Amazon Elastic Container Service Amazon Simple Queue Service (SQS)
+ AWS The Five Ws episode 1: Accreditation models for secure cloud adoption whitepaper
+Announcements Security, Identity, &amp;amp; Compliance
+ AWS AWS Database Migration Service now supports Redis as a target</description>
     </item>
     
     <item>
