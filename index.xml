@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/08/24/</guid>
       <description>AWS Monitor, Evaluate, and Demonstrate Backup Compliance with AWS Backup Audit Manager
 AWS Backup Launch
+ AWS Introducing the AWSSQLServer-DBCC Automation document for SQL Server maintenance
+AWS Systems Manager Centralized Operations Management
  AWS Introducing CloudWatch Container Insights Prometheus Support with AWS Distro for OpenTelemetry on Amazon ECS and Amazon EKS
 Amazon Cloudwatch Amazon Elastic Container Service
  AWS Introducing the AWSSQLServer-Restore Automation document for SQL Server maintenance
-AWS Systems Manager Centralized Operations Management
- AWS Introducing the AWSSQLServer-Index Automation document for SQL Server maintenance
 AWS Systems Manager Centralized Operations Management</description>
     </item>
     
