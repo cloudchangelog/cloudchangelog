@@ -19,11 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/08/25/</guid>
       <description>AWS 15 years of silicon innovation with Amazon EC2
 Amazon EC2 AWS Graviton
- AWS Field Notes: How to Scale OpenTravel Messaging Architecture with Amazon Kinesis Data Streams
-Architecture Kinesis Data Streams
- Azure Hard coded IP address for Azure Site Recovery will be retired on 31 August 2024
- Azure Retiring version Async 2.x of the Azure Cosmos DB Java SDK on 31 August 2024
- Azure Multi-step web tests will be retired on 31 August 2024</description>
+ AWS Amazon RDS for PostgreSQL Supports Boolean DB Parameter Expressions
+ AWS IAM Access Analyzer helps you generate fine-grained policies that specify the required actions for more than 50 services
+ AWS Amazon MSK adds metrics for increased visibility of capacity
+ AWS The new Amazon DynamoDB console is now your default experience to help you manage data and resources more easily</description>
     </item>
     
     <item>
