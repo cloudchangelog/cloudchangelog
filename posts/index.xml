@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/08/26/</guid>
       <description>AWS Field Notes: Deploy and Visualize ROS Bag Data on AWS using Rviz and Webviz for Autonomous Driving
 Architecture Automotive
- AWS Amazon Textract Updates: Up to 32% Price Reduction in 8 AWS Regions and Up to 50% Reduction in Asynchronous Job Processing Times
-Amazon Textract Price Reduction
- AWS Sending mobile push notifications and managing device tokens with serverless applications
-Amazon Simple Notification Service (SNS) AWS Lambda
- AWS Case Study: Using AWS Snowcone, Deluxe enables same day global theater delivery</description>
+ AWS Use Amazon ECS Fargate Spot with CircleCI to deploy and manage applications in a cost-effective way
+Amazon Elastic Container Service AWS Fargate
+ AWS Case Study: Using AWS Snowcone, Deluxe enables same day global theater delivery
+Customer Solutions Media &amp;amp; Entertainment
+ AWS Amazon Textract Updates: Up to 32% Price Reduction in 8 AWS Regions and Up to 50% Reduction in Asynchronous Job Processing Times</description>
     </item>
     
     <item>
