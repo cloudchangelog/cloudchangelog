@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>26 August, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/08/26/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/08/26/</guid>
+      <description> AWS Field Notes: Deploy and Visualize ROS Bag Data on AWS using Rviz and Webviz for Autonomous Driving
+Architecture Automotive  </description>
+    </item>
     
     <item>
       <title>25 August, 2021</title>
@@ -19,10 +29,12 @@
       <guid>https://cloudchangelog.com/posts/2021/08/25/</guid>
       <description>AWS 15 years of silicon innovation with Amazon EC2
 Amazon EC2 AWS Graviton
- AWS IPv6 endpoints are now available for the Amazon EC2 Instance Metadata Service, Amazon Time Sync Service, and Amazon VPC DNS Server
- AWS The new Amazon DynamoDB console is now your default experience to help you manage data and resources more easily
- AWS Comprehend launches support for tagging with analysis jobs
- AWS Improve the performance of Lambda applications with Amazon CodeGuru Profiler</description>
+ AWS How AWS Partners Can Speed Up Customer Cloud Migrations with VMware Cloud on AWS
+Announcements AWS Partner Network
+ AWS Rapid SAP S/4HANA Conversion and Migration from On-Premises to AWS in a Single Step
+AWS Partner Network Customer Solutions
+ AWS How IPONWEB Adopted Spot Instances to Run their Real-time Bidding Workloads
+Amazon EC2 Architecture</description>
     </item>
     
     <item>
