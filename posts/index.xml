@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/08/26/</guid>
       <description>AWS Field Notes: Deploy and Visualize ROS Bag Data on AWS using Rviz and Webviz for Autonomous Driving
 Architecture Automotive
- AWS Use Amazon ECS Fargate Spot with CircleCI to deploy and manage applications in a cost-effective way
-Amazon Elastic Container Service AWS Fargate
- AWS Case Study: Using AWS Snowcone, Deluxe enables same day global theater delivery
-Customer Solutions Media &amp;amp; Entertainment
- AWS Amazon Textract Updates: Up to 32% Price Reduction in 8 AWS Regions and Up to 50% Reduction in Asynchronous Job Processing Times</description>
+ AWS Real-world cryptographic verification with Amazon QLDB
+Amazon Quantum Ledger Database
+ AWS Amazon SageMaker Model Registry now supports Inference Pipelines
+ AWS AWS Snowcone is now available in the AWS Asia Pacific (Singapore) and AWS Asia Pacific (Tokyo) regions
+ AWS Storage for I/O-intensive SQL Server using Amazon EBS io2 Block Express</description>
     </item>
     
     <item>
