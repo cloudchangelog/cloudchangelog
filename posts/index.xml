@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>27 August, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/08/27/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/08/27/</guid>
+      <description>AWS Enable scalable, highly accurate, and cost-effective video analytics with Axis Communications and Amazon Rekognition
+Amazon Rekognition
+ AWS Announcing the open-source release of Web Client for AWS Transfer Family
+Announcements AWS Transfer Family
+ AWS Amazon Virtual Private Cloud (VPC) customers can now resize their prefix list
+ AWS Announcing custom widgets for CloudWatch dashboards
+ AWS AWS Glue DataBrew is now available in the AWS GovCloud (US-West) Region</description>
+    </item>
     
     <item>
       <title>26 August, 2021</title>
