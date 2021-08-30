@@ -6,10 +6,23 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>30 August, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/08/30/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/08/30/</guid>
+      <description> AWS CDK Corner – August 2021
+Announcements Developer Tools
+ AWS Filter Amazon Aurora database activity stream data for segregation and monitoring
+Amazon Aurora Amazon Kinesis
+  </description>
+    </item>
     
     <item>
       <title>27 August, 2021</title>
