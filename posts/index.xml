@@ -19,13 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/08/30/</guid>
       <description>AWS CDK Corner – August 2021
 Announcements Developer Tools
+ AWS Amazon Aurora supports PostgreSQL 13 in GovCloud Regions
+ AWS EC2 Image Builder supports Amazon EventBridge notifications
+ AWS Create a custom Amazon S3 Storage Lens metrics dashboard using Amazon QuickSight
+Amazon Athena Amazon Quicksight
  AWS Filter Amazon Aurora database activity stream data for segregation and monitoring
 Amazon Aurora Amazon Kinesis
- AWS Building a serverless GIF generator with AWS Lambda: Part 1
-AWS Lambda AWS Serverless Application Model
- AWS Best practices for upgrading Amazon RDS for Oracle database snapshots
-Amazon RDS Best Practices
- Azure 5 reasons to attend the Azure data governance digital event</description>
+ AWS Building a serverless GIF generator with AWS Lambda: Part 1</description>
     </item>
     
     <item>
