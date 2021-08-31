@@ -19,13 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/08/30/</guid>
       <description>AWS CDK Corner – August 2021
 Announcements Developer Tools
- AWS Managing access to backups using service control policies with AWS Backup
-AWS Backup AWS Identity And Access Management (IAM)
- AWS Amazon Aurora supports PostgreSQL 13 in GovCloud Regions
- AWS New for AWS CloudFormation – Quickly Retry Stack Operations from the Point of Failure
-Announcements AWS Cloudformation
  AWS EC2 Image Builder supports Amazon EventBridge notifications
- AWS Create a custom Amazon S3 Storage Lens metrics dashboard using Amazon QuickSight</description>
+ AWS Filter Amazon Aurora database activity stream data for segregation and monitoring
+Amazon Aurora Amazon Kinesis
+ AWS Create a custom Amazon S3 Storage Lens metrics dashboard using Amazon QuickSight
+Amazon Athena Amazon Quicksight
+ AWS Inspect Subnet to Subnet traffic with Amazon VPC More Specific Routing
+Amazon VPC Announcements</description>
     </item>
     
     <item>
