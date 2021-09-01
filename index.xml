@@ -20,9 +20,10 @@
       <description>AWS Amazon Managed Grafana Is Now Generally Available with Many New Features
 Amazon Managed Grafana Announcements
  AWS AWS Security Hub Automated Response and Remediation adds support for PCI-DSS v3.2.1 Security Standard
- AWS Amazon CloudWatch Application Insights adds support for Microsoft SQL Server FCI and FSx storage
- AWS AWS Lambda now supports AWS PrivateLink in previously unsupported Availability Zones
- AWS Amazon Polly offers full support in the AWS Africa (Cape Town) Region</description>
+ AWS How to improve visibility into AWS WAF with anomaly detection
+AWS WAF Security, Identity, &amp;amp; Compliance
+ AWS AWS Firewall Manager now supports AWS WAF log filtering
+ AWS Amazon SageMaker now supports M5d, R5, and P3dn instances for SageMaker Studio Notebooks</description>
     </item>
     
     <item>
