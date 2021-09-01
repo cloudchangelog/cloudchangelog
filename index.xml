@@ -6,10 +6,26 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>01 September, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/09/01/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/09/01/</guid>
+      <description> AWS Amazon Managed Grafana Is Now Generally Available with Many New Features
+Amazon Managed Grafana Announcements
+ AWS Top 5: Featured Architecture Content for August
+Top Posts Top 5
+ AWS AWS announces General Availability of Amazon Managed Grafana with SAML 2.0 and Grafana v8.0 features
+ GCP How to load Salesforce data into BigQuery using a code-free approach powered by Cloud Data Fusion
+Google Cloud Bigquery
+  </description>
+    </item>
     
     <item>
       <title>31 August, 2021</title>
@@ -19,12 +35,10 @@
       <guid>https://cloudchangelog.com/posts/2021/08/31/</guid>
       <description>AWS Increasing performance of Java AWS Lambda functions using tiered compilation
 AWS Lambda Serverless
- AWS AWS Copilot now supports Pub/Sub architectures
  AWS AWS Launch Wizard now supports additional deployment capabilities to meet DevOps and organizational requirements
- AWS Introducing Dynamic Partitioning in Amazon Kinesis Data Firehose
- AWS Infosys implements AWS Control Tower to enforce multi-account governance
-Amazon Cloudwatch AWS Config
- AWS Electronic Arts optimizes storage costs and operations using Amazon S3 and S3 Glacier</description>
+ AWS AWS Copilot now supports Pub/Sub architectures
+ AWS Amazon VPC Announces New Routing Enhancements to Make It Easy to Deploy Virtual Appliances Between Subnets In a VPC
+ AWS Introducing Dynamic Partitioning in Amazon Kinesis Data Firehose</description>
     </item>
     
     <item>
