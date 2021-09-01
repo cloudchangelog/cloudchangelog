@@ -19,12 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/09/01/</guid>
       <description>AWS Amazon Managed Grafana Is Now Generally Available with Many New Features
 Amazon Managed Grafana Announcements
- AWS Field Notes: How to Deploy End-to-End CI/CD in the China Regions Using AWS CodePipeline
-Architecture AWS Codepipeline
- AWS Amazon Managed Grafana is now Generally Available
-Announcements Management &amp;amp; Governance
- AWS AWS Firewall Manager now supports AWS WAF log filtering
- AWS AWS announces General Availability of Amazon Managed Grafana with SAML 2.</description>
+ AWS AWS Security Hub Automated Response and Remediation adds support for PCI-DSS v3.2.1 Security Standard
+ AWS Amazon CloudWatch Application Insights adds support for Microsoft SQL Server FCI and FSx storage
+ AWS AWS Lambda now supports AWS PrivateLink in previously unsupported Availability Zones
+ AWS Amazon Polly offers full support in the AWS Africa (Cape Town) Region</description>
     </item>
     
     <item>
