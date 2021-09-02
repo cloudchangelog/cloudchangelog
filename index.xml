@@ -19,10 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/09/02/</guid>
       <description>AWS Building a serverless distributed application using a saga orchestration pattern
 Serverless Technical How-To
+ AWS Practical Entity Resolution on AWS to Reconcile Data in the Real World
+Amazon API Gateway Amazon Simple Storage Services (S3)
  AWS AWS Transfer Family simplifies managed file transfer workflows with low code automation
- AWS Amazon Elastic File System introduces Intelligent-Tiering to automatically optimize storage costs
- AWS Updated AWS Solutions Implementation: AWS CloudEndure Migration Factory Solution
- AWS Amazon S3 Intelligent-Tiering further automates storage cost savings by removing the minimum storage duration and monitoring and automation charge for small objects</description>
+ AWS How to get to market fast with Automated ABR encoding
+AWS Elemental Mediaconvert Media &amp;amp; Entertainment
+ AWS Amazon S3 Multi-Region Access Points accelerate access to replicated data sets by up to 60%</description>
     </item>
     
     <item>
