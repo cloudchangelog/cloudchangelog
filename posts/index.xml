@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>03 September, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/09/03/</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/09/03/</guid>
+      <description> AWS Kinesis Data Firehose now supports dynamic partitioning to Amazon S3
+Analytics Kinesis Data Firehose  </description>
+    </item>
     
     <item>
       <title>02 September, 2021</title>
