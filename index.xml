@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/09/02/</guid>
       <description>AWS Building a serverless distributed application using a saga orchestration pattern
 Serverless Technical How-To
+ AWS How US federal agencies can authenticate to AWS with multi-factor authentication
+Federal Government
  AWS Amazon RDS for MariaDB supports new minor versions 10.5.12, 10.4.21, 10.3.31, 10.2.40
  AWS Amazon SageMaker is now available in the AWS Asia Pacific (Osaka) Region
- AWS How to Accelerate Performance and Availability of Multi-region Applications with Amazon S3 Multi-Region Access Points
-Amazon Simple Storage Services (S3) Announcements
- AWS Amazon EBS direct APIs now supports creating 64 TB EBS Snapshots</description>
+ AWS How to Accelerate Performance and Availability of Multi-region Applications with Amazon S3 Multi-Region Access Points</description>
     </item>
     
     <item>
