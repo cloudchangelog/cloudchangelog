@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/09/03/</guid>
       <description>AWS Kinesis Data Firehose now supports dynamic partitioning to Amazon S3
 Analytics Kinesis Data Firehose
- AWS Decoding the Social Effects Of Media with Machine Learning
-Analytics Artificial Intelligence
- AWS Define and run Machine Learning pipelines on Step Functions using Python, Workflow Studio, or States Language
-Amazon Machine Learning Amazon Sagemaker
- AWS Integrating Third-Party Firewall Appliances with VMware Cloud on AWS Using VMware Transit Connect
-AWS Partner Network AWS Transit Gateway</description>
+ AWS ACM Private CA now supports the Online Certificate Status Protocol (OCSP)
+ AWS Amazon EMR Studio is now HIPAA eligible and HITRUST certified
+ AWS Emerging Solutions for Operations Research on AWS
+Amazon Braket Amazon Dynamodb
+ AWS Field Notes: Automate Disaster Recovery for AWS Workloads with Druva
+Amazon EC2 Amazon RDS</description>
     </item>
     
     <item>
