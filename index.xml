@@ -6,10 +6,26 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>04 September, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/09/04/</link>
+      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/09/04/</guid>
+      <description> AWS Migrating from HashiCorp Packer to EC2 Image Builder
+Amazon EC2 Management &amp;amp; Governance
+ AWS Monitor your Lambda function and get notified with AWS Chatbot
+Amazon Cloudwatch Amazon Simple Notification Service (SNS)
+ AWS Run multiple instances of SQL Server on one Amazon EC2 instance
+Amazon EC2 Management &amp;amp; Governance
+ Azure Azure App Service support for Availability Zones reaches general availability
+  </description>
+    </item>
     
     <item>
       <title>03 September, 2021</title>
