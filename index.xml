@@ -19,12 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/09/07/</guid>
       <description>AWS Building well-architected serverless applications: Optimizing application costs
 Amazon API Gateway Amazon Cloudwatch
- AWS How to attribute Amazon Redshift costs to your end-users
-Amazon Redshift Analytics
- AWS Ensure Workload Resiliency and Comply with Data Residency Requirements with AWS Outposts
-Architecture AWS Outposts
- AWS Amazon RDS for SQL Server now supports MSDTC JDBC XA for SQL Server 2017 CU16+ and SQL Server 2019
- AWS AWS Network Firewall is Now HIPAA Eligible</description>
+ AWS AWS Systems Manager Change Calendar now supports third-party calendar imports, giving you a more holistic view of events
+ AWS Amazon Pinpoint now supports encrypted SNS topics for inbound SMS
+ AWS How AWS Partners Can Help You Sleep Well with a Strong Zero Trust Strategy for Remote Work
+AWS Partner Network Customer Solutions</description>
     </item>
     
     <item>
