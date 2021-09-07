@@ -19,10 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/09/07/</guid>
       <description>AWS Building well-architected serverless applications: Optimizing application costs
 Amazon API Gateway Amazon Cloudwatch
+ AWS Support for multi-key encryption now available with AWS Elemental MediaPackage and SPEKE v2.0
  AWS AWS Systems Manager Change Calendar now supports third-party calendar imports, giving you a more holistic view of events
- AWS Amazon Pinpoint now supports encrypted SNS topics for inbound SMS
- AWS How AWS Partners Can Help You Sleep Well with a Strong Zero Trust Strategy for Remote Work
-AWS Partner Network Customer Solutions</description>
+ AWS Finding code inconsistencies using Amazon CodeGuru Reviewer
+Amazon Codeguru Artificial Intelligence
+ AWS Cloud9 is now available in 2 more regions</description>
     </item>
     
     <item>
