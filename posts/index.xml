@@ -19,10 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/09/08/</guid>
       <description>AWS Migrating to Amazon RDS for SQL Server using transactional replication with native backup and restore: Part 3
 Amazon RDS RDS For SQL Server
- AWS Securely Ingest Industrial Data to AWS via Machine to Cloud Solution
-Amazon Cloudfront Amazon Dynamodb
- AWS AWS CDK releases v1.117.0 - v1.120.0 with improved support for Amazon Kinesis Firehose, Amazon CloudFront, Amazon Cognito, and more
- AWS Amazon EKS Anywhere – Now Generally Available to Create and Manage Kubernetes Clusters on Premises</description>
+ AWS Amazon Elasticsearch Service Is Now Amazon OpenSearch Service and Supports OpenSearch 1.0
+Amazon Opensearch Service (Successor To Amazon Elasticsearch Service) Launch
+ AWS AWS Managed Services (AMS) now offers a catalog of operational offerings with Operations on Demand
+ AWS AWS Firewall Manager Automations for AWS Organizations v1.</description>
     </item>
     
     <item>
@@ -93,11 +93,12 @@ Amazon Nimble Studio Content Production
       <guid>https://cloudchangelog.com/posts/2021/09/02/</guid>
       <description>AWS Building a serverless distributed application using a saga orchestration pattern
 Serverless Technical How-To
- AWS How US federal agencies can authenticate to AWS with multi-factor authentication
-Federal Government
- AWS Amazon RDS for MariaDB supports new minor versions 10.5.12, 10.4.21, 10.3.31, 10.2.40
- AWS Amazon SageMaker is now available in the AWS Asia Pacific (Osaka) Region
- AWS How to Accelerate Performance and Availability of Multi-region Applications with Amazon S3 Multi-Region Access Points</description>
+ AWS Accelerate application development with AWS CloudFormation by preventing stack rollback
+AWS Cloudformation Developer Tools
+ AWS Introducing Amazon FSx for NetApp ONTAP
+ AWS Welcome to AWS Storage Day 2021
+Amazon Elastic File System (EFS) Amazon Fsx
+ AWS Amazon S3 Multi-Region Access Points accelerate access to replicated data sets by up to 60%</description>
     </item>
     
     <item>
