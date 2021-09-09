@@ -19,9 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/09/09/</guid>
       <description>AWS Stream time series data into Amazon Timestream using Apache NiFi
 Amazon Timestream Technical How-To
- AWS Amazon EC2 Hibernation adds support for Red Hat Enterprise Linux 8, CentOS 8, and Fedora 34
- AWS Amazon CloudWatch Application Insights and AWS Systems Manager Application Manager combine to offer an integrated application management experience
- AWS Ability to customize reverse DNS for Elastic IP addresses now available in additional regions for Virtual Private Cloud customers</description>
+ AWS AWS Amplify announces command hooks to execute custom scripts when running Amplify CLI commands
+ AWS Amazon EC2 announces increases for instance network bandwidth
+ AWS AWS Gateway Load Balancer achieves PCI DSS Compliance
+ AWS Discovery+ uses Amazon Personalize to combat decision fatigue
+Amazon Personalize Customer Solutions
+ AWS Amazon EC2 I3en Instances are Now Available in AWS Regions in the Middle East (Bahrain), South Africa (Cape Town), and Europe (Milan)</description>
     </item>
     
     <item>
