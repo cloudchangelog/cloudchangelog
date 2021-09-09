@@ -19,10 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/09/08/</guid>
       <description>AWS Migrating to Amazon RDS for SQL Server using transactional replication with native backup and restore: Part 3
 Amazon RDS RDS For SQL Server
- AWS Amazon Elasticsearch Service Is Now Amazon OpenSearch Service and Supports OpenSearch 1.0
-Amazon Opensearch Service (Successor To Amazon Elasticsearch Service) Launch
- AWS AWS Managed Services (AMS) now offers a catalog of operational offerings with Operations on Demand
- AWS AWS Firewall Manager Automations for AWS Organizations v1.</description>
+ AWS Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now supports Data Streams with OpenSearch 1.0 to simplify management of time-series data
+ AWS Federated authentication to Amazon Redshift using AWS Single Sign-On
+Amazon Redshift AWS Single Sign-On (SSO)
+ AWS Amazon EKS Connector is now in public preview</description>
     </item>
     
     <item>
