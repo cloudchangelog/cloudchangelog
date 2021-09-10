@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/09/10/</guid>
       <description>AWS Orchestrate Jenkins Workloads using Dynamic Pod Autoscaling with Amazon EKS
 Amazon EC2 Container Registry Amazon Elastic Kubernetes Service
+ AWS Amazon Aurora now supports AWS Graviton2-based T4g instances
+ AWS How US federal agencies can use AWS to encrypt data at rest and in transit
+AWS Key Management Service Federal
  AWS Post-migration steps and best practices for Amazon RDS for SQL Server
-Amazon RDS RDS For SQL Server
- AWS Recovering AWS GovCloud (US) workloads using CloudEndure Disaster Recovery
-AWS Identity And Access Management (IAM) Cloudendure Disaster Recovery
- AWS Hybrid Cloud Architectures Using Self-hosted Apache Kafka and AWS Glue</description>
+Amazon RDS RDS For SQL Server</description>
     </item>
     
     <item>
