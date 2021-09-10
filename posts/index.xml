@@ -17,11 +17,13 @@
       <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/09/10/</guid>
-      <description> AWS Orchestrate Jenkins Workloads using Dynamic Pod Autoscaling with Amazon EKS
+      <description>AWS Orchestrate Jenkins Workloads using Dynamic Pod Autoscaling with Amazon EKS
 Amazon EC2 Container Registry Amazon Elastic Kubernetes Service
  AWS Post-migration steps and best practices for Amazon RDS for SQL Server
 Amazon RDS RDS For SQL Server
-  </description>
+ AWS Recovering AWS GovCloud (US) workloads using CloudEndure Disaster Recovery
+AWS Identity And Access Management (IAM) Cloudendure Disaster Recovery
+ AWS Hybrid Cloud Architectures Using Self-hosted Apache Kafka and AWS Glue</description>
     </item>
     
     <item>
