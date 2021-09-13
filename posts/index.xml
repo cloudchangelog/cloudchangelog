@@ -19,12 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/09/13/</guid>
       <description>AWS Building a serverless GIF generator with AWS Lambda: Part 2
 Amazon Eventbridge Amazon Simple Storage Services (S3)
- AWS Send webhooks to SaaS applications from Amazon Aurora via Amazon EventBridge
-Amazon Aurora Amazon Eventbridge
- AWS Auto-sync files from Amazon WorkDocs to Amazon S3
-Amazon Simple Queue Service (SQS) Amazon Simple Storage Services (S3)
- AWS How The Mill Adventure Implemented Event Sourcing at Scale Using DynamoDB
-Amazon Dynamodb Architecture</description>
+ AWS Amazon Connect adds near real-time insights into voice call, chat, and task activity in the Canada (Central) region
+ AWS Amazon SES now supports emails with a message size of up to 40MB
+ AWS Migrating Netezza Workloads to AWS Using Amazon EMR and Amazon Redshift
+Amazon EMR Amazon Redshift</description>
     </item>
     
     <item>
