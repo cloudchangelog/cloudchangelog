@@ -6,10 +6,26 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>13 September, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/09/13/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/09/13/</guid>
+      <description>AWS Building a serverless GIF generator with AWS Lambda: Part 2
+Amazon Eventbridge Amazon Simple Storage Services (S3)
+ AWS Send webhooks to SaaS applications from Amazon Aurora via Amazon EventBridge
+Amazon Aurora Amazon Eventbridge
+ AWS Auto-sync files from Amazon WorkDocs to Amazon S3
+Amazon Simple Queue Service (SQS) Amazon Simple Storage Services (S3)
+ AWS How The Mill Adventure Implemented Event Sourcing at Scale Using DynamoDB
+Amazon Dynamodb Architecture</description>
+    </item>
     
     <item>
       <title>10 September, 2021</title>
