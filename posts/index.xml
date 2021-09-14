@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>14 September, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/09/14/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/09/14/</guid>
+      <description> AWS AWS Firewall Manager now supports AWS WAF rate-based rules
+  </description>
+    </item>
     
     <item>
       <title>13 September, 2021</title>
@@ -19,10 +29,11 @@
       <guid>https://cloudchangelog.com/posts/2021/09/13/</guid>
       <description>AWS Building a serverless GIF generator with AWS Lambda: Part 2
 Amazon Eventbridge Amazon Simple Storage Services (S3)
- AWS Amazon Connect adds near real-time insights into voice call, chat, and task activity in the Canada (Central) region
- AWS Amazon SES now supports emails with a message size of up to 40MB
- AWS Migrating Netezza Workloads to AWS Using Amazon EMR and Amazon Redshift
-Amazon EMR Amazon Redshift</description>
+ AWS AWS CodeBuild now supports a small ARM machine type
+ AWS How The Mill Adventure Implemented Event Sourcing at Scale Using DynamoDB
+Amazon Dynamodb Architecture
+ AWS Announcing general availability of Amazon EC2 VT1 instances - the first EC2 instance optimized for video transcoding
+ AWS Amazon Aurora Serverless v1 supports configurable autoscaling timeout</description>
     </item>
     
     <item>
