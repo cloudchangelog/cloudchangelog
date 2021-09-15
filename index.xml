@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/09/15/</guid>
       <description>AWS How Amazon CodeGuru Reviewer helps Gridium maintain a high quality codebase
 Amazon Codeguru Customer Solutions
- AWS Amazon Timestream is now in scope for AWS SOC Reports
- AWS How Palantir Foundry Helps Customers Build and Deploy AI-Powered Decision-Making Applications
-Amazon Machine Learning Amazon Sagemaker
- AWS How Ryanair governs their image distribution using EC2 Image Builder
-Amazon EC2 Amazon Elastic Block Store (Amazon EBS)
- AWS Automate benchmark tests for Amazon Aurora PostgreSQL</description>
+ AWS Connect any Kubernetes cluster to Amazon EKS
+Amazon Elastic Kubernetes Service Containers
+ AWS How Rapid7 built multi-tenant analytics with Amazon Redshift using near-real-time datasets
+Amazon Redshift Case Study
+ AWS Announcing Amazon Redshift RSQL, a command line client for interacting with Amazon Redshift clusters and databases
+ AWS Amazon Timestream is now in scope for AWS SOC Reports</description>
     </item>
     
     <item>
