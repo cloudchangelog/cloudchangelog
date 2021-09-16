@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/09/15/</guid>
       <description>AWS How Amazon CodeGuru Reviewer helps Gridium maintain a high quality codebase
 Amazon Codeguru Customer Solutions
- AWS Connect any Kubernetes cluster to Amazon EKS
-Amazon Elastic Kubernetes Service Containers
- AWS How Rapid7 built multi-tenant analytics with Amazon Redshift using near-real-time datasets
-Amazon Redshift Case Study
- AWS Announcing Amazon Redshift RSQL, a command line client for interacting with Amazon Redshift clusters and databases
- AWS Amazon Timestream is now in scope for AWS SOC Reports</description>
+ AWS Extract custom entities from documents in their native format with Amazon Comprehend
+ AWS AWS Lake Formation is now available in Asia Pacific (Osaka)
+ AWS Launch Amazon SageMaker Studio from external applications using presigned URLs
+Amazon Machine Learning Amazon Sagemaker
+ AWS Speed Up Translation Jobs with a Fully Automated Translation System Assistant</description>
     </item>
     
     <item>
