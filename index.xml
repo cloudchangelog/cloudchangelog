@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>17 September, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/09/17/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/09/17/</guid>
+      <description> AWS How to automate Amazon EKS preventative controls in CI/CD using CDK and OPA/Conftest
+Amazon Elastic Kubernetes Service Containers  </description>
+    </item>
     
     <item>
       <title>16 September, 2021</title>
@@ -19,11 +29,12 @@
       <guid>https://cloudchangelog.com/posts/2021/09/16/</guid>
       <description>AWS AWS IQ expansion: Connect with Experts and Consulting Firms based in the UK and France
 Announcements AWS IQ
- AWS AWS CodeCommit is Now Available in the Africa (Cape Town) Region
- AWS New Standard Contractual Clauses now part of the AWS GDPR Data Processing Addendum for customers
-Announcements Europe
- AWS AWS Service Management Connector for ServiceNow supports AWS Service Catalog AppRegistry
- AWS Introducing Amazon MSK Connect – Stream Data to and from Your Apache Kafka Clusters Using Managed Connectors</description>
+ AWS Amazon Corretto 17 is now generally available
+ AWS Announcing Build on AWS for Startups
+ AWS Optimize Your Partner Account Management with New AWS Partner Central Permissions
+Announcements AWS Partner Network
+ AWS Disaster Recovery (DR) for a Third-party Interactive Voice Response on AWS
+Amazon Connect Amazon EC2</description>
     </item>
     
     <item>
