@@ -19,13 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/09/20/</guid>
       <description>AWS Evaluate Amazon DocumentDB (with MongoDB compatibility) configurations using AWS Config
 Amazon Documentdb AWS Config
- AWS Building federated GraphQL on AWS Lambda
-AWS Lambda Serverless
- AWS Scale ML feature ingestion using Amazon SageMaker Feature Store
-Amazon Machine Learning Amazon Sagemaker
- AWS What to Consider when Selecting a Region for your Workloads
-Amazon Cloudfront Amazon EC2
- AWS Now authenticate Amazon EMR Studio users using IAM-based authentication or IAM Federation, in addition to AWS Single Sign-On</description>
+ AWS Amazon Detective supports S3 and DNS finding types, adds finding details
+ AWS Amazon Connect Chat now supports passing a customer display name and contact attributes through the chat user interface
+ AWS Accelerate your data warehouse migration to Amazon Redshift – Part 4
+Amazon Redshift Analytics
+ AWS Building federated GraphQL on AWS Lambda</description>
     </item>
     
     <item>
