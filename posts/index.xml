@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20 September, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/09/20/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/09/20/</guid>
+      <description> AWS Evaluate Amazon DocumentDB (with MongoDB compatibility) configurations using AWS Config
+Amazon Documentdb AWS Config  </description>
+    </item>
     
     <item>
       <title>17 September, 2021</title>
