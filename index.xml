@@ -19,13 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/09/22/</guid>
       <description>AWS Automate Amazon Aurora Global Database endpoint management
 Amazon Aurora Infrastructure &amp;amp; Automation
- AWS Managing federated schema with AWS Lambda and Amazon S3
-AWS Lambda Serverless
- AWS How to retain resource tags in AWS Backup restore jobs
-Amazon Elastic Block Store (Amazon EBS) Amazon Eventbridge
- AWS Using Amazon ECR replication rules to optimize your application delivery process
-Amazon EC2 Container Registry Containers
- AWS Optimizing your AWS Infrastructure for Sustainability, Part II: Storage</description>
+ AWS AWS Ground Station announces Licensing Accelerator
+ AWS Amazon ECR adds the ability to replicate individual repositories to other regions and accounts
+ AWS Scaling Ad Verification with Machine Learning and AWS Inferentia
+Amazon Rekognition Amazon Sagemaker
+ AWS Optimizing your AWS Infrastructure for Sustainability, Part II: Storage
+Amazon Cloudwatch Amazon Simple Storage Services (S3)</description>
     </item>
     
     <item>
@@ -52,11 +51,12 @@ Amazon Machine Learning Amazon Rekognition
       <guid>https://cloudchangelog.com/posts/2021/09/20/</guid>
       <description>AWS Evaluate Amazon DocumentDB (with MongoDB compatibility) configurations using AWS Config
 Amazon Documentdb AWS Config
- AWS Amazon Detective supports S3 and DNS finding types, adds finding details
- AWS Amazon Connect Chat now supports passing a customer display name and contact attributes through the chat user interface
- AWS Accelerate your data warehouse migration to Amazon Redshift – Part 4
-Amazon Redshift Analytics
- AWS Building federated GraphQL on AWS Lambda</description>
+ AWS AWS Elastic Beanstalk supports Dynamic Instance Type Selection
+ AWS Getting started with testing serverless applications
+AWS Lambda Events
+ AWS Simplify your canary by batching multiple URLs in Amazon CloudWatch Synthetics
+Amazon Cloudwatch Announcements
+ AWS AWS announces General Availability of the Amazon GameLift Plug-in and AWS CloudFormation Templates for Unity</description>
     </item>
     
     <item>
