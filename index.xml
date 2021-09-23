@@ -19,11 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/09/22/</guid>
       <description>AWS Automate Amazon Aurora Global Database endpoint management
 Amazon Aurora Infrastructure &amp;amp; Automation
- AWS Amazon EC2 Fleet instant mode now supports targeted Amazon EC2 On-Demand Capacity Reservations
- AWS AWS Single Sign-On is now available in the AWS GovCloud (US-West) Region
- AWS Amazon Lex is now available in the Asia Pacific (Seoul) and Africa (Cape Town) regions
- AWS AWS IoT Device Defender announces Audit One-Click
- AWS Amazon DynamoDB now provides you more granular control of audit logging by enabling you to filter Streams data-plane API activity in AWS CloudTrail</description>
+ AWS Using Amazon ECR replication rules to optimize your application delivery process
+Amazon EC2 Container Registry Containers
+ AWS Amazon ECR adds the ability to replicate individual repositories to other regions and accounts
+ AWS AWS Ground Station announces Licensing Accelerator
+ AWS Amazon EMR Studio now supports multi-language Jupyter-based notebooks for Spark workloads
+ AWS How-to: Build a video-chat application for live streams using AWS Amplify and AWS Media Services</description>
     </item>
     
     <item>
