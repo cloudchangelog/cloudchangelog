@@ -19,13 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/09/24/</guid>
       <description>AWS Field Notes: Set Up a Highly Available Database on AWS with IBM Db2 Pacemaker
 Amazon EC2 Architecture
- AWS Amazon QuickSight Q is now generally available
- GCP Updated data processing terms to reflect new EU Standard Contractual Clauses
-Identity &amp;amp; Security Google Cloud
- GCP Introducing Quota Monitoring Solution: Single Dashboard with Alerting capabilities
-Bigquery Developers &amp;amp; Practitioners
- GCP What’s new with Google Cloud
-Google Cloud Google Workspace</description>
+ AWS AWS announces availability of Microsoft Windows Server 2022 images on Amazon EC2
+ AWS Now Use Lifecycle Configurations to Customize Amazon SageMaker Studio
+ AWS Amazon ElastiCache for Redis now supports auto scaling in 17 additional public regions
+ AWS Improve your application availability with AWS observability solutions
+Amazon Cloudwatch AWS Lambda</description>
     </item>
     
     <item>
