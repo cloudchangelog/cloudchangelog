@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/09/24/</guid>
       <description>AWS Field Notes: Set Up a Highly Available Database on AWS with IBM Db2 Pacemaker
 Amazon EC2 Architecture
- AWS AWS IoT Device Defender now supports Detect alarm verification states
- AWS How to approach conversation design: The basics (Part 1)
-Amazon Lex Artificial Intelligence
- AWS Reduce Risk, Time to Market, and Cost During IoT Hardware Development
-AWS Partner Network Customer Solutions
- AWS Amazon QuickSight Q is now generally available</description>
+ AWS Now Use Lifecycle Configurations to Customize Amazon SageMaker Studio
+ AWS Configure Amazon EMR Studio and Amazon EKS to run notebooks with Amazon EMR on EKS
+Amazon Elastic Kubernetes Service Amazon EMR
+ AWS Managing the account lifecycle in account-per-tenant SaaS environments on AWS
+AWS Lambda AWS Organizations
+ AWS AWS announces availability of Microsoft Windows Server 2022 images on Amazon EC2</description>
     </item>
     
     <item>
