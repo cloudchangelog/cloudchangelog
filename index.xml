@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/09/27/</guid>
       <description>AWS New for Amazon Connect: Voice ID, Wisdom, and Outbound Communications
 Amazon Connect Announcements
- AWS Amazon Connect Voice ID is now generally available
- AWS Detect anomalies using Amazon Lookout for Metrics and review inference through Amazon A2I
-Amazon Augmented AI Amazon Lookout For Metrics
- AWS How Better Tagging Can Help Organizations Optimize Expenses and Improve ROI
-AWS Marketplace AWS Partner Network
- AWS Implement active/active replication between Amazon Aurora clusters using Oracle GoldenGate</description>
+ AWS Amazon Connect Wisdom is now generally available
+ AWS Amazon Connect now offers high-volume outbound communications for calls, texts, and emails
+ AWS Field Notes: How to Prepare Large Text Files for Processing with Amazon Translate and Amazon Comprehend
+Amazon Comprehend Amazon Translate
+ AWS How Better Tagging Can Help Organizations Optimize Expenses and Improve ROI</description>
     </item>
     
     <item>
@@ -35,12 +34,12 @@ AWS Marketplace AWS Partner Network
       <guid>https://cloudchangelog.com/posts/2021/09/24/</guid>
       <description>AWS Field Notes: Set Up a Highly Available Database on AWS with IBM Db2 Pacemaker
 Amazon EC2 Architecture
- AWS Now Use Lifecycle Configurations to Customize Amazon SageMaker Studio
- AWS Configure Amazon EMR Studio and Amazon EKS to run notebooks with Amazon EMR on EKS
-Amazon Elastic Kubernetes Service Amazon EMR
- AWS Managing the account lifecycle in account-per-tenant SaaS environments on AWS
-AWS Lambda AWS Organizations
- AWS AWS announces availability of Microsoft Windows Server 2022 images on Amazon EC2</description>
+ AWS GEVME Live enables memorable interactive events on AWS
+Amazon Chime Amazon Interactive Video Service
+ AWS AWS IoT Device Defender now supports Detect alarm verification states
+ AWS How to approach conversation design: The basics (Part 1)
+Amazon Lex Artificial Intelligence
+ AWS Amazon QuickSight Q is now generally available</description>
     </item>
     
     <item>
