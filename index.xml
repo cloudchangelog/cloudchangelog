@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>28 September, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/09/28/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/09/28/</guid>
+      <description> AWS Build a simple CRUD operation and data stream on Amazon QLDB using AWS Lambda
+Amazon API Gateway Amazon Quantum Ledger Database
+ AWS How Liberty Mutual built a highly scalable and cost-effective document management solution
+Amazon API Gateway Amazon Aurora
+ GCP Announcing Apigee Integration: An API-first approach for connecting data and applications
+Google Cloud Business Application Platform
+  </description>
+    </item>
     
     <item>
       <title>27 September, 2021</title>
