@@ -17,13 +17,13 @@
       <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/09/28/</guid>
-      <description> AWS Build a simple CRUD operation and data stream on Amazon QLDB using AWS Lambda
+      <description>AWS Build a simple CRUD operation and data stream on Amazon QLDB using AWS Lambda
 Amazon API Gateway Amazon Quantum Ledger Database
  AWS How Liberty Mutual built a highly scalable and cost-effective document management solution
 Amazon API Gateway Amazon Aurora
- GCP Announcing Apigee Integration: An API-first approach for connecting data and applications
-Google Cloud Business Application Platform
-  </description>
+ AWS Manage your AWS Directory Service credentials using AWS Secrets Manager
+AWS Directory Service AWS Secrets Manager
+ Azure Microsoft partners with the EDM Council to achieve more in the cloud</description>
     </item>
     
     <item>
@@ -34,11 +34,11 @@ Google Cloud Business Application Platform
       <guid>https://cloudchangelog.com/posts/2021/09/27/</guid>
       <description>AWS New for Amazon Connect: Voice ID, Wisdom, and Outbound Communications
 Amazon Connect Announcements
- AWS Amazon Connect Wisdom is now generally available
- AWS Amazon Connect now offers high-volume outbound communications for calls, texts, and emails
- AWS Field Notes: How to Prepare Large Text Files for Processing with Amazon Translate and Amazon Comprehend
-Amazon Comprehend Amazon Translate
- AWS How Better Tagging Can Help Organizations Optimize Expenses and Improve ROI</description>
+ AWS New longer resource IDs for Amazon Elastic File System
+Amazon Elastic File System (EFS) Announcements
+ AWS Amazon RDS for Oracle now supports sqlnet.ora client parameters for the Oracle Native Network Encryption (NNE)option
+ AWS Amazon Genomics CLI is now Generally Available
+ AWS Replicate and transform data in Amazon Aurora PostgreSQL across multiple Regions using AWS DMS</description>
     </item>
     
     <item>
