@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/09/28/</guid>
       <description>AWS Build a simple CRUD operation and data stream on Amazon QLDB using AWS Lambda
 Amazon API Gateway Amazon Quantum Ledger Database
- AWS Amazon EC2 now offers Global View on the console to view all resources across regions together
- AWS Introducing the Ransomware Risk Management on AWS Whitepaper
-Announcements Security, Identity, &amp;amp; Compliance
- AWS Manage your AWS Directory Service credentials using AWS Secrets Manager
-AWS Directory Service AWS Secrets Manager</description>
+ AWS Using CloudTrail data events with Athena and CloudWatch to create an audit trail for DynamoDB tables events
+Amazon Dynamodb AWS Cloudtrail
+ AWS Seerslab creates a global 4K streaming platform using AWS Media Services
+Amazon Cloudfront AWS Elemental Medialive
+ AWS Migrate Resources Between AWS Accounts</description>
     </item>
     
     <item>
