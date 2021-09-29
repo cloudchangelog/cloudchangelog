@@ -17,14 +17,15 @@
       <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/09/29/</guid>
-      <description> AWS Remove bloat from Amazon Aurora and RDS for PostgreSQL with pg_repack
+      <description>AWS Remove bloat from Amazon Aurora and RDS for PostgreSQL with pg_repack
 Amazon Aurora Amazon RDS
- Azure Azure Automation Hybrid Worker Extension for Azure and Arc-enabled servers now in public preview
- Azure Az module support in Azure Automation is now available
- Oracle Workload Governance in OCI
-Architecture
- Oracle Exadata Cloud@Customer: X9M-2 System Support
-  </description>
+ AWS Introducing Amazon Redshift Query Editor V2, a Free Web-based Query Authoring Tool for Data Analysts
+Amazon Redshift Analytics
+ AWS Building an API poller with AWS Step Functions and AWS Lambda
+AWS Lambda AWS Step Functions
+ AWS Achieving Operational Success of SaaS Solutions
+AWS Partner Network AWS Well-Architected
+ AWS Using AWS Snowball to migrate data to Amazon S3 Glacier for long-term storage</description>
     </item>
     
     <item>
