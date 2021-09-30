@@ -19,10 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/09/30/</guid>
       <description>AWS Migrating custom Landing Zone with RAM to AWS Control Tower
 AWS Control Tower Management &amp;amp; Governance
- AWS Amazon SageMaker JumpStart introduces new multimodal (long-form text, tabular) financial analysis tools
- AWS AQUA for Amazon Redshift launches in three additional AWS regions
- AWS AWS Step Functions adds support for over 200 AWS Services with AWS SDK Integration
- AWS AWS Data Exchange now supports automatic exports of third-party data updates</description>
+ AWS Use Amazon Athena and Amazon QuickSight in a cross-account environment
+Amazon Athena Amazon Quicksight
+ AWS Enable Security Hub PCI DSS standard across your organization and disable specific controls
+AWS Security Hub Security, Identity, &amp;amp; Compliance
+ AWS Create Amazon SageMaker projects with image building CI/CD pipelines
+Amazon Sagemaker Artificial Intelligence</description>
     </item>
     
     <item>
