@@ -19,12 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/09/30/</guid>
       <description>AWS Migrating custom Landing Zone with RAM to AWS Control Tower
 AWS Control Tower Management &amp;amp; Governance
- AWS Simplify your data analysis with Amazon Redshift Query Editor v2
-Amazon Redshift Analytics
- AWS Use pre-trained financial language models for transfer learning in Amazon SageMaker JumpStart
-Amazon Sagemaker Artificial Intelligence
- AWS Use SEC text for ratings classification using multimodal ML in Amazon SageMaker JumpStart
-Amazon Sagemaker Artificial Intelligence</description>
+ AWS Amazon SageMaker JumpStart introduces new multimodal (long-form text, tabular) financial analysis tools
+ AWS AQUA for Amazon Redshift launches in three additional AWS regions
+ AWS AWS Step Functions adds support for over 200 AWS Services with AWS SDK Integration
+ AWS AWS Data Exchange now supports automatic exports of third-party data updates</description>
     </item>
     
     <item>
