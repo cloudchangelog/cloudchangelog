@@ -19,13 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/10/01/</guid>
       <description>AWS Programmatically managing alternate contacts on member accounts with AWS Organizations
 AWS Organizations Enterprise Governance And Control
- AWS ICYMI: Serverless Q3 2021
-Amazon API Gateway Amazon Dynamodb
- AWS Achieve higher database performance using Amazon EBS io2 Block Express volumes
-Amazon EC2 Amazon Elastic Block Store (Amazon EBS)
- AWS Running Adobe ColdFusion applications on Amazon ECS with blue/green deployments
-Containers
- AWS Translate and analyze text using SQL functions with Amazon Redshift, Amazon Translate, and Amazon Comprehend</description>
+ AWS Now use Apache Spark, Hive, and Presto on Amazon EMR clusters directly from Amazon Sagemaker Studio for large-scale data processing and machine learning
+ AWS Journey to Adopt Cloud-Native Architecture Series: #4 – Governing Security at Scale and IAM Baselining
+Architecture AWS Control Tower
+ AWS Amazon RDS for PostgreSQL Supports New Minor Versions 13.</description>
     </item>
     
     <item>
