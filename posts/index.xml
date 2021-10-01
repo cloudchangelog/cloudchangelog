@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>01 October, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/10/01/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/10/01/</guid>
+      <description> AWS Programmatically managing alternate contacts on member accounts with AWS Organizations
+AWS Organizations Enterprise Governance And Control  </description>
+    </item>
     
     <item>
       <title>30 September, 2021</title>
