@@ -19,12 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/10/05/</guid>
       <description>AWS VMware Cloud on AWS Outposts Brings VMware SDDC as a Fully Managed Service on Premises
 AWS Outposts Launch
- AWS Automating account provisioning with CloudCheckr integration for Cloud Financial Management
-AWS Cloudformation AWS Lambda
- AWS Enabling Data Classification for Amazon RDS database with Amazon Macie
-Amazon Macie Amazon RDS
+ AWS Case Study: Discovery cuts playout cost by 61% and accelerates growth and innovation on AWS
+Amazon EC2 Amazon Simple Storage Service (S3)
  AWS AWS Firewall Manager now supports centralized logging of AWS Network Firewall logs
- AWS AWS Glue DataBrew is now available in the AWS Africa (Cape Town) Region</description>
+ AWS Automating account provisioning with CloudCheckr integration for Cloud Financial Management</description>
     </item>
     
     <item>
@@ -62,10 +60,12 @@ Amazon Nimble Studio Content Production  </description>
       <guid>https://cloudchangelog.com/posts/2021/10/01/</guid>
       <description>AWS Programmatically managing alternate contacts on member accounts with AWS Organizations
 AWS Organizations Enterprise Governance And Control
- AWS Now use Apache Spark, Hive, and Presto on Amazon EMR clusters directly from Amazon Sagemaker Studio for large-scale data processing and machine learning
- AWS Journey to Adopt Cloud-Native Architecture Series: #4 – Governing Security at Scale and IAM Baselining
-Architecture AWS Control Tower
- AWS Amazon RDS for PostgreSQL Supports New Minor Versions 13.</description>
+ AWS AWS Lambda now supports triggering Lambda functions from an Amazon SQS queue in a different account
+ AWS Serverless Architecture for a Structured Data Mining Solution
+Amazon Dynamodb Amazon Sagemaker Ground Truth
+ AWS ICYMI: Serverless Q3 2021
+Amazon API Gateway Amazon Dynamodb
+ AWS Running Adobe ColdFusion applications on Amazon ECS with blue/green deployments</description>
     </item>
     
     <item>
