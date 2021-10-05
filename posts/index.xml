@@ -19,10 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/10/05/</guid>
       <description>AWS VMware Cloud on AWS Outposts Brings VMware SDDC as a Fully Managed Service on Premises
 AWS Outposts Launch
- AWS Case Study: Discovery cuts playout cost by 61% and accelerates growth and innovation on AWS
-Amazon EC2 Amazon Simple Storage Service (S3)
- AWS AWS Firewall Manager now supports centralized logging of AWS Network Firewall logs
- AWS Automating account provisioning with CloudCheckr integration for Cloud Financial Management</description>
+ AWS Announcing Amazon EC2 Capacity Reservation Fleet a way to easily migrate Amazon EC2 Capacity Reservations across instance types
+ AWS Amazon Location Service adds change detection to tracking
+ AWS Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) announces support for Cross-Cluster Replication
+ AWS AWS Backup Audit Manager adds compliance reports</description>
     </item>
     
     <item>
