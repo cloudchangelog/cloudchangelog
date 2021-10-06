@@ -19,10 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/10/06/</guid>
       <description>AWS Field Notes: Build a Cross-Validation Machine Learning Model Pipeline at Scale with Amazon SageMaker
 Amazon Machine Learning Amazon Sagemaker
- AWS AWS Elastic Beanstalk supports Database Decoupling in an Elastic Beanstalk Environment
- AWS Save the date: Container Day x KubeCon
-Amazon Elastic Kubernetes Service Containers
- AWS AWS Application Migration Service is now available in the Asia Pacific (Hong Kong), Asia Pacific (Mumbai), Asia Pacific (Seoul), and Europe (London) Regions</description>
+ AWS AWS Application Migration Service is now available in the Asia Pacific (Hong Kong), Asia Pacific (Mumbai), Asia Pacific (Seoul), and Europe (London) Regions
+ AWS Creating container images with Cloud Native Buildpacks using AWS CodeBuild and AWS CodePipeline
+Amazon EC2 Container Registry Amazon Elastic Container Service
+ AWS Run computer vision inference on large videos with Amazon SageMaker asynchronous endpoints</description>
     </item>
     
     <item>
