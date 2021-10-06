@@ -17,10 +17,13 @@
       <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/10/06/</guid>
-      <description> AWS Field Notes: Build a Cross-Validation Machine Learning Model Pipeline at Scale with Amazon SageMaker
+      <description>AWS Field Notes: Build a Cross-Validation Machine Learning Model Pipeline at Scale with Amazon SageMaker
 Amazon Machine Learning Amazon Sagemaker
- Azure Windows Virtual Desktop is now generally available on Azure Virtual Desktop
-  </description>
+ AWS Operating serverless at scale: Implementing governance – Part 1
+AWS X-Ray Serverless
+ AWS Creating container images with Cloud Native Buildpacks using AWS CodeBuild and AWS CodePipeline
+Amazon EC2 Container Registry Amazon Elastic Container Service
+ AWS Amazon EMR now supports Apache Spark SQL to insert data into and update Apache Hive metadata tables when Apache Ranger integration is enabled</description>
     </item>
     
     <item>
