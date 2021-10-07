@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/10/07/</guid>
       <description>AWS Building an InnerSource ecosystem using AWS DevOps tools
 Amazon Codeguru AWS Codeartifact
- AWS Simulated location data with Amazon Location Service
-Amazon Location Containers
- AWS Capture key source table headers data using AWS DMS and use it for Amazon S3 data lake operations
-Amazon Simple Storage Service (S3) AWS Database Migration Service
- AWS How to encrypt Amazon Aurora using AWS KMS and your own CMK
-Amazon Aurora AWS Key Management Service</description>
+ AWS Amazon Kendra launches support for 34 additional languages
+ AWS Amazon QuickSight adds support for Pixel-Perfect dashboards
+ AWS Amazon Personalize launches new recipe that increases the relevance of similar items recommendations
+ AWS AWS IoT SiteWise is now available in Asia Pacific (Bombay), Asia Pacific (Seoul), and Asia Pacific (Tokyo) AWS regions
+ AWS Update the alternate security contact across your AWS accounts for timely security notifications</description>
     </item>
     
     <item>
