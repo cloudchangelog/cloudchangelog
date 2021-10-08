@@ -19,12 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/10/08/</guid>
       <description>AWS Running GPU-based container applications with Amazon ECS Anywhere
 Amazon Elastic Container Service Announcements
- AWS Amazon ECS Anywhere now supports GPU-based workloads
- AWS Amazon Neptune now supports Auto Scaling for Read Replicas
- AWS Top 5 Architecture Blog Posts for Q3 2021
-Architecture Top Posts
+ AWS AWS Backup adds an additional layer for backup protection with the availability of AWS Backup Vault Lock
  AWS Introducing New AWS Solution: AWS QnABot, a self-service conversational chatbot built on Amazon Lex
- Azure Public preview: Dynamic concurrency in Azure Functions</description>
+ AWS New AWS Solution: Maintaining Personalized Experiences using Machine Learning
+ AWS Amazon Neptune now supports Auto Scaling for Read Replicas</description>
     </item>
     
     <item>
