@@ -17,8 +17,14 @@
       <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/10/08/</guid>
-      <description> Oracle Java Management is Now Available in all Commercial Regions
-  </description>
+      <description>AWS Running GPU-based container applications with Amazon ECS Anywhere
+Amazon Elastic Container Service Announcements
+ AWS Amazon ECS Anywhere now supports GPU-based workloads
+ AWS Amazon Neptune now supports Auto Scaling for Read Replicas
+ Azure Public preview: Dynamic concurrency in Azure Functions
+ Azure General availability: Azure Monitor container insights portal experience update
+ GCP Get started, build and grow your Startup on Google Cloud
+Google Cloud Startups</description>
     </item>
     
     <item>
