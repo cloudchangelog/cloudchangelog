@@ -19,10 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/10/07/</guid>
       <description>AWS Building an InnerSource ecosystem using AWS DevOps tools
 Amazon Codeguru AWS Codeartifact
- AWS Amazon Lex launches progress updates for fulfillment
- AWS Amazon Chime SDK media capture pipelines adds the ability to configure APIs for customizable media capture
- AWS Amazon Personalize launches new recipe that increases the relevance of similar items recommendations
- AWS Update the alternate security contact across your AWS accounts for timely security notifications</description>
+ AWS Amazon EC2 Mac instances are now available in seven additional AWS Regions
+ AWS AWS Lambda now supports IAM authentication for Amazon MSK as an event source
+ AWS How to encrypt Amazon Aurora using AWS KMS and your own CMK
+Amazon Aurora AWS Key Management Service
+ AWS Field Notes: How to Build an AWS Glue Workflow using the AWS Cloud Development Kit</description>
     </item>
     
     <item>
