@@ -19,13 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/10/11/</guid>
       <description>AWS Avoiding recursive invocation with Amazon S3 and AWS Lambda
 Amazon Simple Storage Service (S3) AWS Lambda
- AWS Automated security and compliance remediation at HDI
-AWS Config AWS Security Hub
- AWS How AWS Distributors Like Ingram Micro Cloud Are Enabling Partner Success
-AWS Partner Network Customer Solutions
- AWS Field Notes: Building Multi-Region and Multi-Account Tools with AWS Organizations
-Architecture AWS Cloudformation
- AWS Amazon WorkMail adds Mobile Device Access Override API and MDM integration capabilities</description>
+ AWS AWS Marketplace now supports viewing agreements and canceling and extending offers for Professional Services
+ AWS Amazon Fraud Detector launches new ML model for online transaction fraud detection
+ AWS Amazon RDS supports T3 instance type for MySQL and MariaDB databases in AWS GovCloud (US) Regions
+ AWS NoSQL Workbench for Amazon DynamoDB now enables you to import and automatically populate sample data to help build and visualize your data models</description>
     </item>
     
     <item>
