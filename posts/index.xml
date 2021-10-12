@@ -19,12 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/10/12/</guid>
       <description>AWS Build conversational experiences for credit card services using Amazon Lex
 Amazon Lex Artificial Intelligence
- AWS CDK for Kubernetes (CDK8s) now Generally Available
- AWS Continuous monitoring with Sumo Logic using Amazon Kinesis Data Firehose HTTP endpoints
-Kinesis Data Firehose
- AWS Enhance the security posture of your backups with AWS Backup Vault Lock
-Announcements AWS Backup
- AWS Operating serverless at scale: Improving consistency – Part 2</description>
+ AWS AWS FPGA developer kit now supports Jumbo frames in virtual ethernet frameworks for Amazon EC2 F1 instances
+ AWS Field Notes: Building a Multi-Region Architecture for SQL Server using FCI and Distributed Availability Groups
+Amazon Fsx For Windows File Server Architecture
+ AWS AWS CDK releases v1.121.0 - v1.125.0 with features for faster development cycles using hotswap deployments and rollback control</description>
     </item>
     
     <item>
