@@ -19,14 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/10/12/</guid>
       <description>AWS Build conversational experiences for credit card services using Amazon Lex
 Amazon Lex Artificial Intelligence
- GCP What’s new at Next
-Google Cloud Next
- GCP Announcing new tools to measure—and reduce—your environmental impact
-Infrastructure Inside Google Cloud
- GCP Build a more secure future with Google Cloud
-Google Cloud Google Workspace
- GCP Introducing Intelligent Products Essentials: helping manufacturers build AI-powered smart products, faster
-Google Cloud Data Analytics</description>
+ AWS AWS CDK releases v1.121.0 - v1.125.0 with features for faster development cycles using hotswap deployments and rollback control
+ AWS Field Notes: Building a Multi-Region Architecture for SQL Server using FCI and Distributed Availability Groups
+Amazon Fsx For Windows File Server Architecture
+ AWS Announcing the general availability of cdk8s and support for Go</description>
     </item>
     
     <item>
@@ -37,12 +33,12 @@ Google Cloud Data Analytics</description>
       <guid>https://cloudchangelog.com/posts/2021/10/11/</guid>
       <description>AWS Avoiding recursive invocation with Amazon S3 and AWS Lambda
 Amazon Simple Storage Service (S3) AWS Lambda
- AWS Amazon Fraud Detector now supports event datasets
- AWS Planning to replace a data center NAS with Amazon FSx File Gateway
-Amazon Fsx For Windows File Server AWS Storage Gateway
- AWS Automated security and compliance remediation at HDI
-AWS Config AWS Security Hub
- AWS How AWS Distributors Like Ingram Micro Cloud Are Enabling Partner Success</description>
+ AWS Implement a slowly changing dimension in Amazon Redshift
+Amazon Redshift
+ AWS Amazon Connect Tasks is now HIPAA eligible
+ AWS AWS Marketplace now supports viewing agreements and canceling and extending offers for Professional Services
+ AWS Amazon Fraud Detector launches new ML model for online transaction fraud detection
+ AWS Amazon RDS supports T3 instance type for MySQL and MariaDB databases in AWS GovCloud (US) Regions</description>
     </item>
     
     <item>
