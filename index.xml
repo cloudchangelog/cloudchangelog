@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/10/13/</guid>
       <description>AWS Build and load test a multi-tenant SaaS database proxy solution with Amazon RDS Proxy
 Amazon Aurora Amazon RDS
- AWS Offloading SQL for Amazon RDS using the Heimdall Proxy
-Amazon Aurora Amazon Cloudwatch
- AWS Enhance the security posture of your backups with AWS Backup Vault Lock
-Announcements AWS Backup
- AWS Fully Managed Data Governance with Amazon EMR Integration with Apache Ranger and Privacera
-Amazon EMR Analytics</description>
+ AWS Control developer account costs with AWS CloudFormation and AWS Budgets
+Amazon Simple Notification Service (SNS) AWS Budgets
+ AWS Organize product data to your taxonomy with Amazon SageMaker
+Amazon Machine Learning Amazon Sagemaker
+ AWS Amazon QuickSight doubles SPICE capacity limit to 500m row
+ AWS Offloading SQL for Amazon RDS using the Heimdall Proxy</description>
     </item>
     
     <item>
