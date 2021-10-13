@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/10/13/</guid>
       <description>AWS Build and load test a multi-tenant SaaS database proxy solution with Amazon RDS Proxy
 Amazon Aurora Amazon RDS
- AWS Control developer account costs with AWS CloudFormation and AWS Budgets
-Amazon Simple Notification Service (SNS) AWS Budgets
- AWS Organize product data to your taxonomy with Amazon SageMaker
-Amazon Machine Learning Amazon Sagemaker
- AWS Amazon QuickSight doubles SPICE capacity limit to 500m row
- AWS Offloading SQL for Amazon RDS using the Heimdall Proxy</description>
+ AWS Enhance the security posture of your backups with AWS Backup Vault Lock
+Announcements AWS Backup
+ AWS How Capital One uses Amazon S3 Glacier to optimize data storage costs and maximize resources
+Amazon S3 Glacier Amazon S3 Glacier Deep Archive
+ AWS How to build your containers for ARM and save with Graviton and Spot instances on Amazon ECS</description>
     </item>
     
     <item>
