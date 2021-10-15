@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/10/14/</guid>
       <description>AWS Accepting API keys as a query string in Amazon API Gateway
 Amazon API Gateway AWS Lambda
- AWS How Amazon Transportation Service enabled near-real-time event analytics at petabyte scale using AWS Glue with Apache Hudi
-Analytics AWS Glue
- AWS Driving Business Innovation and Delivering Cloud Security with Digital Cloud Services from Atos
-AWS Partner Network Customer Solutions
- AWS Amazon Kendra now available in AWS GovCloud (US-West) Region</description>
+ AWS AWS RoboMaker now supports Graphics Processing Unit (GPU) based simulation jobs
+ AWS Using JSONPath effectively in AWS Step Functions
+AWS Step Functions Serverless
+ AWS Amazon SageMaker Data Wrangler now supports Amazon Athena Workgroups, feature correlation, and customer managed keys
+ AWS AWS RoboMaker now supports expanded configuration for any robot and simulation software</description>
     </item>
     
     <item>
