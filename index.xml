@@ -20,9 +20,9 @@
       <description>AWS Extract, prepare, and analyze Salesforce.com data using Amazon AppFlow, AWS Glue DataBrew, and Amazon Athena
 Amazon Appflow Amazon Athena
  AWS New datasets available on the Registry of Open Data from University of Sydney, International Brain Laboratory, Taiwanese Central Weather Bureau, and others
- Azure Azure HDInsight support for Restricted Public Connectivity is generally available
-Hdinsight Security
- Azure Azure HDInsight support for Azure Private Link is generally available</description>
+ AWS Introducing Distributed Load Testing on AWS v2.0.0
+ AWS Amazon EC2 now offers Microsoft SQL Server on Microsoft Windows Server 2022 AMIs
+ AWS Announcing Amazon Forecast Weather Index for Central America, Middle East and Africa</description>
     </item>
     
     <item>
