@@ -6,10 +6,24 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>15 October, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/10/15/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/10/15/</guid>
+      <description>AWS Extract, prepare, and analyze Salesforce.com data using Amazon AppFlow, AWS Glue DataBrew, and Amazon Athena
+Amazon Appflow Amazon Athena
+ AWS New datasets available on the Registry of Open Data from University of Sydney, International Brain Laboratory, Taiwanese Central Weather Bureau, and others
+ Azure Azure HDInsight support for Restricted Public Connectivity is generally available
+Hdinsight Security
+ Azure Azure HDInsight support for Azure Private Link is generally available</description>
+    </item>
     
     <item>
       <title>14 October, 2021</title>
