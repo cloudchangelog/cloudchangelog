@@ -6,10 +6,26 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>18 October, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/10/18/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/10/18/</guid>
+      <description>AWS Building dynamic Amazon SNS subscriptions for auto scaling container workloads
+Amazon Elastic Container Service Amazon Eventbridge
+ AWS Introducing the AWS Networking Competency for Consulting Partners
+Announcements AWS Partner Network
+ AWS Copying objects greater than 5 GB with Amazon S3 Batch Operations
+Amazon Simple Storage Service (S3) AWS Cloudformation
+ AWS FreeRTOS adds support for symmetric multiprocessing (SMP)
+ AWS Porting Assistant for .NET adds support for WCF, OWIN, and System.</description>
+    </item>
     
     <item>
       <title>15 October, 2021</title>
