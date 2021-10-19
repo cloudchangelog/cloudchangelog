@@ -19,11 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/10/19/</guid>
       <description>AWS Operating serverless at scale: Keeping control of resources – Part 3
 AWS Config AWS Lambda
- AWS Announcing Amazon WorkSpaces API to create new updated images with latest AWS drivers
- AWS AWS Elemental MediaConvert now supports rich text rendering of IMSC 1.1 and TTML subtitle text
- AWS Designing a High-volume Streaming Data Ingestion Platform Natively on AWS
-Amazon Kinesis Amazon Quicksight
- AWS Choose the best AI accelerator and model compilation for computer vision inference with Amazon SageMaker</description>
+ AWS Amazon Corretto October Quarterly Updates
+ AWS Bulk Editing of OpsItems in AWS Systems Manager OpsCenter
+ AWS AWS Systems Manager Fleet Manager now offers advanced filtering for Managed Instances
+ AWS AWS Pricing Calculator now supports Amazon CloudFront
+ AWS New – AWS Data Exchange for Amazon Redshift
+Amazon Redshift AWS Data Exchange</description>
     </item>
     
     <item>
