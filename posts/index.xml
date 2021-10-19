@@ -19,13 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/10/19/</guid>
       <description>AWS Operating serverless at scale: Keeping control of resources – Part 3
 AWS Config AWS Lambda
- AWS Automate Amazon Redshift Cluster management operations using AWS CloudFormation
-Amazon Redshift AWS Cloudformation
- AWS Compare different node types for your workload using Amazon Redshift
-Amazon Redshift
- AWS AWS Control Tower Account vending through Amazon Lex ChatBot
-AWS Control Tower Devops
- AWS Case Study: Peach increases security while still reducing blocked traffic</description>
+ AWS Announcing Amazon WorkSpaces API to create new updated images with latest AWS drivers
+ AWS AWS Elemental MediaConvert now supports rich text rendering of IMSC 1.1 and TTML subtitle text
+ AWS Designing a High-volume Streaming Data Ingestion Platform Natively on AWS
+Amazon Kinesis Amazon Quicksight
+ AWS Choose the best AI accelerator and model compilation for computer vision inference with Amazon SageMaker</description>
     </item>
     
     <item>
