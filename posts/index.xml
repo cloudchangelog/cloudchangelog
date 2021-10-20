@@ -17,10 +17,13 @@
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/10/20/</guid>
-      <description> AWS Skidmore, Owings &amp;amp; Merrill (SOM) goes all-in on the cloud in pioneering move for dynamic scalability
+      <description>AWS Skidmore, Owings &amp;amp; Merrill (SOM) goes all-in on the cloud in pioneering move for dynamic scalability
 Amazon Nimble Studio Content Production
- Oracle Exadata Cloud@Customer: VM Cluster Node Subsetting
-  </description>
+ AWS Amazon EC2 Auto Scaling will no longer add support for new EC2 features to Launch Configurations
+Amazon EC2 Auto Scaling
+ AWS Enhanced disaster recovery monitoring with CloudEndure and Amazon CloudWatch
+Amazon Cloudwatch AWS Lambda
+ AWS GitOps model for provisioning and bootstrapping Amazon EKS clusters using Crossplane and Argo CD</description>
     </item>
     
     <item>
