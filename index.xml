@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20 October, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/10/20/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/10/20/</guid>
+      <description> Oracle Exadata Cloud@Customer: VM Cluster Node Subsetting
+  </description>
+    </item>
     
     <item>
       <title>19 October, 2021</title>
@@ -19,12 +29,12 @@
       <guid>https://cloudchangelog.com/posts/2021/10/19/</guid>
       <description>AWS Operating serverless at scale: Keeping control of resources – Part 3
 AWS Config AWS Lambda
- AWS Amazon Corretto October Quarterly Updates
- AWS Bulk Editing of OpsItems in AWS Systems Manager OpsCenter
- AWS AWS Systems Manager Fleet Manager now offers advanced filtering for Managed Instances
- AWS AWS Pricing Calculator now supports Amazon CloudFront
- AWS New – AWS Data Exchange for Amazon Redshift
-Amazon Redshift AWS Data Exchange</description>
+ AWS Automate Amazon Redshift Cluster management operations using AWS CloudFormation
+Amazon Redshift AWS Cloudformation
+ AWS Amazon SageMaker rated as top AI Service Cloud in analyst firm KuppingerCole’s evaluation of AI Service Clouds
+Amazon Machine Learning Amazon Sagemaker
+ AWS Case Study: Peach increases security while still reducing blocked traffic
+Direct-To-Consumer/OTT Media &amp;amp; Entertainment</description>
     </item>
     
     <item>
