@@ -19,12 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/10/25/</guid>
       <description>AWS Correlate security findings with AWS Security Hub and Amazon EventBridge
 Amazon Eventbridge AWS Security Hub
- AWS Optimizing your AWS Infrastructure for Sustainability, Part III: Networking
-Amazon Cloudfront Amazon EC2
- AWS Building a difference checker with Amazon S3 and AWS Lambda
-Amazon Simple Storage Service (S3) AWS Lambda
- AWS AWS Managed Services Provider (MSP) Partner Program Validation Checklist Update – Version 4.2.1
-Announcements AWS Partner Network</description>
+ AWS Amazon DocumentDB (with MongoDB compatibility) adds support for $literal, $map, and $$ROOT
+ AWS Introducing AWS Migration Hub Strategy Recommendations
+ AWS Amazon DocumentDB (with MongoDB compatibility) now provides a JDBC driver to connect from BI tools and execute SQL Queries
+ AWS Amazon DocumentDB (with MongoDB compatibility) adds support for storing, querying and indexing Geospatial data</description>
     </item>
     
     <item>
