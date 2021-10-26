@@ -6,10 +6,27 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>26 October, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/10/26/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/10/26/</guid>
+      <description>AWS Monitoring and tuning federated GraphQL performance on AWS Lambda
+Amazon Cloudwatch AWS Lambda
+ AWS Amazon QuickSight launches SPICE Incremental Refresh
+ Azure Azure Cost Management and Billing updates – October 2021
+Virtual Machines Storage, Backup &amp;amp; Recovery
+ Azure Accelerating healthcare AI innovation with Zero Trust technology
+Big Data Artificial Intelligence
+ Azure Windows 10 IoT Enterprise LTSC 2021 RTM for OEMs
+ Azure Azure Red Hat OpenShift now available in public preview in Azure Government</description>
+    </item>
     
     <item>
       <title>25 October, 2021</title>
