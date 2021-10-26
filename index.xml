@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/10/26/</guid>
       <description>AWS Monitoring and tuning federated GraphQL performance on AWS Lambda
 Amazon Cloudwatch AWS Lambda
- AWS NHL goes all in on UHD with help from AWS
-AWS Elemental Link AWS Elemental Live
- AWS Amazon RDS Custom for Oracle – New Control Capabilities in Database Environment
-Amazon RDS Database
- AWS Amazon QuickSight launches SPICE Incremental Refresh
- AWS Cost efficiently migrate billions of small files with AWS Snowball</description>
+ AWS Extend model lineage to include ML features using Amazon SageMaker Feature Store
+Amazon Machine Learning Amazon Sagemaker
+ AWS New – EC2 Instances Powered by Gaudi Accelerators for Training Deep Learning Models
+Amazon EC2 Launch
+ AWS Announcing Amazon RDS Custom for Oracle
+ AWS NHL goes all in on UHD with help from AWS</description>
     </item>
     
     <item>
