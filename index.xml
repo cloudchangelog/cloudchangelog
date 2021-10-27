@@ -36,11 +36,13 @@ Technical How-To
       <guid>https://cloudchangelog.com/posts/2021/10/26/</guid>
       <description>AWS Monitoring and tuning federated GraphQL performance on AWS Lambda
 Amazon Cloudwatch AWS Lambda
- AWS Amazon SageMaker Autopilot adds support for time series data
- AWS Announcing the General Availability of AWS Local Zones in Las Vegas, New York City, and Portland
- AWS Performance Efficiency in AWS Multi-Tenant SaaS Environments
-AWS Partner Network Best Practices
- AWS Configure a standalone SQL Server node as database availability replica of a SQL Server failover cluster instance</description>
+ AWS Amazon RDS Custom for Oracle – New Control Capabilities in Database Environment
+Amazon RDS Database
+ AWS Extend model lineage to include ML features using Amazon SageMaker Feature Store
+Amazon Machine Learning Amazon Sagemaker
+ AWS New – EC2 Instances Powered by Gaudi Accelerators for Training Deep Learning Models
+Amazon EC2 Launch
+ AWS NHL goes all in on UHD with help from AWS</description>
     </item>
     
     <item>
