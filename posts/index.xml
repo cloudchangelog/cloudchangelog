@@ -6,10 +6,24 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>27 October, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/10/27/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/10/27/</guid>
+      <description> AWS Setting up an Amazon CloudWatch Billing Alarm to Proactively Monitor Estimated Charges
+Amazon Cloudwatch Billing &amp;amp; Account Management
+ AWS Monitor for public AWS Systems Manager custom documents with AWS Config rules
+AWS Config AWS Systems Manager
+ Oracle Exadata Cloud@Customer: Specifying db_unique_name and SID for Primary and Standby Databases in Data Guard Association
+  </description>
+    </item>
     
     <item>
       <title>26 October, 2021</title>
