@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/10/28/</guid>
       <description>AWS Creating AWS Lambda environment variables from AWS Secrets Manager
 AWS Lambda AWS Secrets Manager
- AWS Implement AWS resource tagging strategy using AWS Tag Policies and Service Control Policies (SCPs)
-AWS Organizations Management &amp;amp; Governance
- AWS Centralized software package distribution across multiple regions and accounts in an AWS Organization using AWS Systems Manager Distributor
-AWS Organizations AWS Systems Manager
- AWS How TourRadar automates the translation process using Amazon EventBridge and Amazon Translate</description>
+ AWS Announcing availability of the Babelfish for PostgreSQL open source project
+ AWS AWS Elemental MediaLive now supports Nielsen Watermarking for audience measurement
+ AWS Amazon EC2 R5b instances are now available in 2 additional regions
+ AWS Amazon Connect is now available in the Asia Pacific (Seoul) AWS Region
+ AWS Babelfish for Aurora PostgreSQL is now generally available</description>
     </item>
     
     <item>
@@ -79,11 +79,11 @@ Amazon Eventbridge AWS Security Hub
       <guid>https://cloudchangelog.com/posts/2021/10/22/</guid>
       <description>AWS Red Hat OpenShift Service on AWS: private clusters with AWS PrivateLink
 AWS Privatelink AWS Transit Gateway
- AWS Create a dashboard with SEC text for financial NLP in Amazon SageMaker JumpStart
+ AWS Riverside County California Digitizes Public Records Validation with AWS Blockchain Technology
+AWS Partner Network Blockchain
+ AWS Detect industrial defects at low latency with computer vision at the edge with Amazon SageMaker Edge
 Amazon Machine Learning Amazon Sagemaker
- AWS How Cimpress Built a Self-service, API-driven Data Platform Ingestion Service
-Amazon Simple Storage Service (S3) Architecture
- AWS AWS Load Balancer Controller version 2.3 now available with support for ALB IPv6 targets</description>
+ AWS AWS Audit Manager custom framework sharing is now generally available</description>
     </item>
     
     <item>
