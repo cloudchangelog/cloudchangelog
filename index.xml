@@ -19,11 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/10/27/</guid>
       <description>AWS Setting up an Amazon CloudWatch Billing Alarm to Proactively Monitor Estimated Charges
 Amazon Cloudwatch Billing &amp;amp; Account Management
+ AWS Monitor for public AWS Systems Manager custom documents with AWS Config rules
+AWS Config AWS Systems Manager
  AWS Amazon Textract launches TIFF support and adds asynchronous support for receipts and invoices processing
- AWS Identifying optimal locations for flexible workloads with Spot placement score
-Amazon EC2 Compute
- AWS Amazon EC2 announces attribute-based instance type selection for Auto Scaling groups, EC2 Fleet, and Spot Fleet
- AWS Optimize your budget and time by submitting Amazon Polly voice synthesis tasks in bulk</description>
+ AWS Amazon EC2 announces attribute-based instance type selection for Auto Scaling groups, EC2 Fleet, and Spot Fleet</description>
     </item>
     
     <item>
