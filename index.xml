@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/10/29/</guid>
       <description>AWS Now Available: Updated guidance on the Data Analytics Lens for AWS Well-Architected Framework
 Amazon Athena Amazon EMR
- AWS Cybersecurity Awareness Month: Learn about the job zero of securing your data using Amazon Redshift
-Amazon Redshift Best Practices
- Azure Logic Apps Standard Plan updates in public preview
- Azure Querying Delta Lake files using T-SQL in Azure Synapse Analytics is generally available
-Azure Synapse Analytics T-SQL
- Azure Public preview: Multiple backups per day for Azure Files</description>
+ AWS Amazon QLDB launches new version of QLDB Shell
+ AWS AWS App2Container now supports ECS Fargate Windows
+ AWS Automate the customer service experience for flight reservations using Amazon Lex
+Amazon Lex Artificial Intelligence
+ AWS Cybersecurity Awareness Month: Learn about the job zero of securing your data using Amazon Redshift</description>
     </item>
     
     <item>
