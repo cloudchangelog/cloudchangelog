@@ -17,8 +17,14 @@
       <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/10/29/</guid>
-      <description> Oracle OCI WAF protection on Flexible Load Balancers
-  </description>
+      <description>AWS Now Available: Updated guidance on the Data Analytics Lens for AWS Well-Architected Framework
+Amazon Athena Amazon EMR
+ AWS Cybersecurity Awareness Month: Learn about the job zero of securing your data using Amazon Redshift
+Amazon Redshift Best Practices
+ Azure Logic Apps Standard Plan updates in public preview
+ Azure Querying Delta Lake files using T-SQL in Azure Synapse Analytics is generally available
+Azure Synapse Analytics T-SQL
+ Azure Public preview: Multiple backups per day for Azure Files</description>
     </item>
     
     <item>
@@ -59,13 +65,11 @@ AWS Config AWS Systems Manager
       <guid>https://cloudchangelog.com/posts/2021/10/26/</guid>
       <description>AWS Monitoring and tuning federated GraphQL performance on AWS Lambda
 Amazon Cloudwatch AWS Lambda
- AWS Amazon RDS Custom for Oracle – New Control Capabilities in Database Environment
-Amazon RDS Database
- AWS Extend model lineage to include ML features using Amazon SageMaker Feature Store
-Amazon Machine Learning Amazon Sagemaker
- AWS New – EC2 Instances Powered by Gaudi Accelerators for Training Deep Learning Models
-Amazon EC2 Launch
- AWS NHL goes all in on UHD with help from AWS</description>
+ AWS Disable default reverse DNS rules with Route 53 Resolver
+ AWS Amazon SageMaker Autopilot adds support for time series data
+ AWS Performance Efficiency in AWS Multi-Tenant SaaS Environments
+AWS Partner Network Best Practices
+ AWS Configure a standalone SQL Server node as database availability replica of a SQL Server failover cluster instance</description>
     </item>
     
     <item>
