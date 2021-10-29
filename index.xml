@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>29 October, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/10/29/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/10/29/</guid>
+      <description> Oracle OCI WAF protection on Flexible Load Balancers
+  </description>
+    </item>
     
     <item>
       <title>28 October, 2021</title>
@@ -19,11 +29,12 @@
       <guid>https://cloudchangelog.com/posts/2021/10/28/</guid>
       <description>AWS Creating AWS Lambda environment variables from AWS Secrets Manager
 AWS Lambda AWS Secrets Manager
- AWS Implement AWS resource tagging strategy using AWS Tag Policies and Service Control Policies (SCPs)
-AWS Organizations Management &amp;amp; Governance
- AWS New – Amazon EC2 C6i Instances Powered by the Latest Generation Intel Xeon Scalable Processors
-Amazon EC2 Compute
- AWS How TourRadar automates the translation process using Amazon EventBridge and Amazon Translate</description>
+ AWS Amazon EKS adds native support for Bottlerocket in Managed Node Groups
+Amazon Elastic Kubernetes Service Announcements
+ AWS AWS Elemental MediaLive now supports Nielsen Watermarking for audience measurement
+ AWS Announcing availability of the Babelfish for PostgreSQL open source project
+ AWS Amazon Aurora PostgreSQL Supports PostGIS 3.1
+ AWS Goodbye Microsoft SQL Server, Hello Babelfish</description>
     </item>
     
     <item>
