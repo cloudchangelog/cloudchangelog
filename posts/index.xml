@@ -6,10 +6,26 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>01 November, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/11/01/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/11/01/</guid>
+      <description>AWS Build workflows for Amazon Forecast with AWS Step Functions
+Amazon Forecast AWS Lambda
+ AWS Field Notes: Analyze Cross-Account AWS KMS Call Usage with AWS CloudTrail and Amazon Athena
+Amazon Athena Architecture
+ AWS AWS DeepRacer introduces multi-user account management
+ GCP At Northwell Health, data interoperability and AI saves time and lives
+Customers Google Cloud
+ GCP How Veolia protects its cloud environment across 31 countries with Security Command Center</description>
+    </item>
     
     <item>
       <title>31 October, 2021</title>
