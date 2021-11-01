@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/11/01/</guid>
       <description>AWS Build workflows for Amazon Forecast with AWS Step Functions
 Amazon Forecast AWS Lambda
- AWS Field Notes: Analyze Cross-Account AWS KMS Call Usage with AWS CloudTrail and Amazon Athena
-Amazon Athena Architecture
- AWS AWS DeepRacer introduces multi-user account management
- AWS Parallel and dynamic SaaS deployments with AWS CDK Pipelines
-AWS Cloud Development Kit AWS Codebuild
- AWS PGA TOUR tees up with AWS to reimagine the fan experience</description>
+ AWS The Five Ws episode 2: Data Classification whitepaper
+Announcements Security, Identity, &amp;amp; Compliance
+ AWS Amazon Simple Email Service now offers a new console experience
+ AWS Build a fault-tolerant, serverless data aggregation pipeline with exactly-once processing
+Amazon Dynamodb Amazon Kinesis
+ AWS Building ARM64 applications on AWS Graviton2 using the AWS CDK and Self-Hosted Runners for GitHub Actions</description>
     </item>
     
     <item>
