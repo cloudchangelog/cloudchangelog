@@ -19,13 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/11/02/</guid>
       <description>AWS Deep Dive on Amazon EC2 VT1 Instances
 Best Practices Compute
- AWS Exploring Data Transfer Costs for AWS Managed Databases
-Amazon Aurora Amazon Documentdb
- AWS Generating DevOps Guru Proactive Insights for Amazon ECS
-Amazon Cloudwatch Amazon Elastic Container Service
- AWS Field Notes: Extending the Baseline in AWS Control Tower to Accelerate the Transition from AWS Landing Zone
-Architecture AWS Control Tower
- AWS AWS Graviton2 based T4g instances are now available in AWS GovCloud (US-West) Region</description>
+ AWS Amazon Redshift announces native support for SQLAlchemy and Apache Airflow open-source frameworks
+ AWS Amazon Time Sync Service now makes it easier to generate and compare timestamps
+ AWS Amazon Corretto 17 Support Roadmap Announced
+ AWS Amazon DevOps Guru increases coverage of Amazon EKS metrics and adds metric view by cluster
+ AWS Build a shelf monitoring application using AWS Panorama</description>
     </item>
     
     <item>
@@ -36,12 +34,11 @@ Architecture AWS Control Tower
       <guid>https://cloudchangelog.com/posts/2021/11/01/</guid>
       <description>AWS Build workflows for Amazon Forecast with AWS Step Functions
 Amazon Forecast AWS Lambda
- AWS Build a near real-time data aggregation pipeline using a serverless, event-driven architecture
-Amazon Dynamodb Amazon Kinesis
- AWS The Five Ws episode 2: Data Classification whitepaper
-Announcements Security, Identity, &amp;amp; Compliance
- AWS Amazon Simple Email Service now offers a new console experience
- AWS Build a fault-tolerant, serverless data aggregation pipeline with exactly-once processing</description>
+ AWS Public Preview: Nimble Studio introduces faster startup times with volume persistence
+Amazon Nimble Studio Content Production
+ AWS AWS DeepRacer introduces multi-user account management
+ AWS AWS Transit Gateway Network Manager launches new APIs to simplify network and route analysis in your global network
+ AWS Parallel and dynamic SaaS deployments with AWS CDK Pipelines</description>
     </item>
     
     <item>
