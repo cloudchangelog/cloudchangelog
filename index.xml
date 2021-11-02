@@ -6,10 +6,23 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>02 November, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/11/02/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/11/02/</guid>
+      <description> AWS Deep Dive on Amazon EC2 VT1 Instances
+Best Practices Compute
+ AWS Automating AWS Security Hub Alerts with AWS Control Tower lifecycle events
+Amazon Cloudwatch AWS Cloudformation
+  </description>
+    </item>
     
     <item>
       <title>01 November, 2021</title>
@@ -19,12 +32,12 @@
       <guid>https://cloudchangelog.com/posts/2021/11/01/</guid>
       <description>AWS Build workflows for Amazon Forecast with AWS Step Functions
 Amazon Forecast AWS Lambda
+ AWS Build a near real-time data aggregation pipeline using a serverless, event-driven architecture
+Amazon Dynamodb Amazon Kinesis
  AWS The Five Ws episode 2: Data Classification whitepaper
 Announcements Security, Identity, &amp;amp; Compliance
  AWS Amazon Simple Email Service now offers a new console experience
- AWS Build a fault-tolerant, serverless data aggregation pipeline with exactly-once processing
-Amazon Dynamodb Amazon Kinesis
- AWS Building ARM64 applications on AWS Graviton2 using the AWS CDK and Self-Hosted Runners for GitHub Actions</description>
+ AWS Build a fault-tolerant, serverless data aggregation pipeline with exactly-once processing</description>
     </item>
     
     <item>
