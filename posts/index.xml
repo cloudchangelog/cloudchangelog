@@ -19,12 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/11/02/</guid>
       <description>AWS Deep Dive on Amazon EC2 VT1 Instances
 Best Practices Compute
- AWS Automating AWS Security Hub Alerts with AWS Control Tower lifecycle events
-Amazon Cloudwatch AWS Cloudformation
- AWS Choosing between storage mechanisms for ML inferencing with AWS Lambda
-Amazon Elastic File System (EFS) Amazon Simple Storage Service (S3)
- AWS Migrating accounts between AWS Organizations with consolidated billing to all features
-AWS Organizations Enterprise Governance And Control</description>
+ AWS Exploring Data Transfer Costs for AWS Managed Databases
+Amazon Aurora Amazon Documentdb
+ AWS Generating DevOps Guru Proactive Insights for Amazon ECS
+Amazon Cloudwatch Amazon Elastic Container Service
+ AWS Field Notes: Extending the Baseline in AWS Control Tower to Accelerate the Transition from AWS Landing Zone
+Architecture AWS Control Tower
+ AWS AWS Graviton2 based T4g instances are now available in AWS GovCloud (US-West) Region</description>
     </item>
     
     <item>
