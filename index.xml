@@ -35,11 +35,13 @@ Amazon Elastic Kubernetes Service Containers
       <guid>https://cloudchangelog.com/posts/2021/11/01/</guid>
       <description>AWS Build workflows for Amazon Forecast with AWS Step Functions
 Amazon Forecast AWS Lambda
- AWS Public Preview: Nimble Studio introduces faster startup times with volume persistence
-Amazon Nimble Studio Content Production
- AWS AWS DeepRacer introduces multi-user account management
- AWS AWS Transit Gateway Network Manager launches new APIs to simplify network and route analysis in your global network
- AWS Parallel and dynamic SaaS deployments with AWS CDK Pipelines</description>
+ AWS Building ARM64 applications on AWS Graviton2 using the AWS CDK and Self-Hosted Runners for GitHub Actions
+Compute Technical How-To
+ AWS Build a near real-time data aggregation pipeline using a serverless, event-driven architecture
+Amazon Dynamodb Amazon Kinesis
+ AWS The Five Ws episode 2: Data Classification whitepaper
+Announcements Security, Identity, &amp;amp; Compliance
+ AWS Amazon Simple Email Service now offers a new console experience</description>
     </item>
     
     <item>
