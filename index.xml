@@ -19,13 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/11/02/</guid>
       <description>AWS Deep Dive on Amazon EC2 VT1 Instances
 Best Practices Compute
- AWS Amazon CloudFront now supports configurable CORS, security, and custom HTTP response headers
- AWS Amazon Pinpoint launches in-app messaging as a new communications channel
- AWS Host RStudio Connect and Package Manager for ML development in RStudio on Amazon SageMaker
-Amazon Sagemaker
- AWS Query hierarchical data models within Amazon Redshift
-Amazon Redshift
- AWS Build a shelf monitoring application using AWS Panorama</description>
+ AWS AWS Graviton2 based T4g instances are now available in AWS GovCloud (US-West) Region
+ AWS Automated claims processing at Xactware with machine learning on AWS
+Amazon Machine Learning Amazon ML Solutions Lab
+ AWS Leveraging Amazon EKS managed node group with placement group for low latency critical applications
+Amazon Elastic Kubernetes Service Containers
+ AWS Choosing between storage mechanisms for ML inferencing with AWS Lambda</description>
     </item>
     
     <item>
