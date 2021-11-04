@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>04 November, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/11/04/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/11/04/</guid>
+      <description> Oracle New Services available in US Government Cloud with FedRAMP Authorization
+  </description>
+    </item>
     
     <item>
       <title>03 November, 2021</title>
@@ -19,13 +29,11 @@
       <guid>https://cloudchangelog.com/posts/2021/11/03/</guid>
       <description>AWS Integrate AWS Glue DataBrew and Amazon PinPoint to launch marketing campaigns
 Amazon Pinpoint AWS Glue Databrew
- AWS Monitoring AWS Elastic Beanstalk .NET applications with Amazon CloudWatch and Amazon Managed Grafana
-Management &amp;amp; Governance Management Tools
- AWS Bottlerocket, A Year in the Life
-Containers Open Source
- AWS How Wipro Improves Airport Passenger Boarding Queue Times Using AWS Services
-AWS Partner Network Customer Solutions
- AWS Amazon Aurora Global Database Expands Availability to AWS GovCloud (US) Regions</description>
+ AWS Database Activity Streams now supports Graviton2-based instances
+ AWS Amazon RDS now supports cross account KMS keys for exporting RDS Snapshots
+ AWS AWS Security Hub adds support for AWS PrivateLink for private access to Security Hub APIs
+ AWS Top 5: Featured Architecture Content for October
+Architecture Top Posts</description>
     </item>
     
     <item>
