@@ -17,8 +17,14 @@
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/11/05/</guid>
-      <description> AWS Migrate from SQL Server to Amazon Aurora using Babelfish
-Amazon Aurora Postgresql Compatible  </description>
+      <description>AWS Migrate from SQL Server to Amazon Aurora using Babelfish
+Amazon Aurora Postgresql Compatible
+ AWS Migrate your Applications to Containers at Scale
+Amazon EC2 Amazon Elastic Container Registry
+ AWS Amazon DevOps Guru now Supports Multi-Account Insight Aggregation with AWS Organizations
+ AWS AWS IoT Core for LoRaWAN supports managed Firmware Over-the-Air Update
+ Oracle TensorFlow 2.6 versions 1 and 2 conda environment is introduced.
+ Oracle New Release for Data Integration</description>
     </item>
     
     <item>
@@ -28,9 +34,11 @@ Amazon Aurora Postgresql Compatible  </description>
       
       <guid>https://cloudchangelog.com/posts/2021/11/04/</guid>
       <description>AWS Simplify CI/CD Configuration for AWS Serverless Applications and your favorite CI/CD system – General Availability
- AWS AWS Snowcone SSD is now available in the US East (Ohio), US West (San Francisco), Asia Pacific (Singapore), Asia Pacific (Sydney) and AWS Asia Pacific (Tokyo) and regions
- AWS AWS DataSync can now copy data between Hadoop Distributed File Systems (HDFS) and AWS Storage services
- AWS AWS Amplify launches further data management capabilities in the Admin UI</description>
+ AWS Amazon SageMaker now supports inference testing with custom domains and headers from SageMaker Studio
+ AWS AWS Lambda now supports cross-account container image pulling from Amazon Elastic Container Registry
+ AWS Streaming sessions API for Amazon Nimble Studio
+Amazon Nimble Studio Content Production
+ AWS Deepen Your Knowledge of Architecting for Sustainability at re:Invent</description>
     </item>
     
     <item>
