@@ -19,13 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/11/05/</guid>
       <description>AWS Migrate from SQL Server to Amazon Aurora using Babelfish
 Amazon Aurora Postgresql Compatible
+ AWS Amazon Athena adds cost details to query execution plans
  AWS Migrate your Applications to Containers at Scale
 Amazon EC2 Amazon Elastic Container Registry
- AWS Amazon DevOps Guru now Supports Multi-Account Insight Aggregation with AWS Organizations
  AWS AWS IoT Core for LoRaWAN supports managed Firmware Over-the-Air Update
  AWS Run AlphaFold v2.0 on Amazon EC2
 Amazon EC2 AWS Deep Learning Amis
- AWS Amazon Athena adds cost details to query execution plans</description>
+ AWS Amazon Translate now supports AWS KMS Encryption</description>
     </item>
     
     <item>
