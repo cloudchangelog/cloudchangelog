@@ -19,13 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/11/08/</guid>
       <description>AWS Monitor Amazon QLDB query access patterns
 Amazon Quantum Ledger Database
- AWS Batch Inference at Scale with Amazon SageMaker
-Amazon Dynamodb Amazon Managed Workflows For Apache Airflow (Amazon MWAA)
- AWS Centralizing data protection and compliance in Amazon Neptune with AWS Backup
-Amazon Neptune Announcements
- AWS Best practices for upgrading Amazon RDS for Oracle DB instances from 12c to 19c
-Amazon RDS RDS For Oracle
- AWS AWS Backup adds support for Amazon Neptune</description>
+ AWS AWS Backup adds support for Amazon DocumentDB (with MongoDB compatibility)
+ AWS Amazon Chime SDK meetings now offer API endpoints in Oregon, Frankfurt and Singapore
+ AWS Augment search with metadata by chaining Amazon Textract, Amazon Comprehend, and Amazon Kendra
+Amazon Comprehend Amazon Kendra
+ AWS Use AutoGluon-Tabular in AWS Marketplace
+Amazon Machine Learning Amazon ML Solutions Lab</description>
     </item>
     
     <item>
