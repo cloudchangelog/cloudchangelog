@@ -19,12 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2021/11/08/</guid>
       <description>AWS Monitor Amazon QLDB query access patterns
 Amazon Quantum Ledger Database
- AWS AWS Backup adds support for Amazon DocumentDB (with MongoDB compatibility)
- AWS Amazon Chime SDK meetings now offer API endpoints in Oregon, Frankfurt and Singapore
- AWS Augment search with metadata by chaining Amazon Textract, Amazon Comprehend, and Amazon Kendra
-Amazon Comprehend Amazon Kendra
- AWS Use AutoGluon-Tabular in AWS Marketplace
-Amazon Machine Learning Amazon ML Solutions Lab</description>
+ AWS Introducing Amazon ECS Exec to access your Windows containers on Amazon EC2
+Amazon Cloudwatch Amazon EC2
+ AWS Accelerate self-service analytics with Amazon Redshift Query Editor V2
+Amazon Redshift Analytics
+ AWS Centralizing data protection and compliance in Amazon Neptune with AWS Backup
+Amazon Neptune Announcements
+ AWS Amazon SageMaker Pipelines now supports retry policies and resume</description>
     </item>
     
     <item>
