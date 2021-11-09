@@ -17,8 +17,14 @@
       <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/11/09/</guid>
-      <description> AWS Automate detection of broken utility poles using the Amazon Rekognition Custom Labels SDK
-Amazon Rekognition Artificial Intelligence  </description>
+      <description>AWS Automate detection of broken utility poles using the Amazon Rekognition Custom Labels SDK
+Amazon Rekognition Artificial Intelligence
+ AWS Creating static custom domain endpoints with Amazon MQ for RabbitMQ
+Amazon MQ Serverless
+ AWS How Roche democratized access to data with Google Sheets and Amazon Redshift Data API
+Amazon Redshift Case Study
+ AWS Avoid PostgreSQL LWLock:buffer_content locks in Amazon Aurora: Tips and best practices
+Amazon Aurora Amazon RDS</description>
     </item>
     
     <item>
