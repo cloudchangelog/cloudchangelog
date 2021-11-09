@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>09 November, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/11/09/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/11/09/</guid>
+      <description> AWS Automate detection of broken utility poles using the Amazon Rekognition Custom Labels SDK
+Amazon Rekognition Artificial Intelligence  </description>
+    </item>
     
     <item>
       <title>08 November, 2021</title>
