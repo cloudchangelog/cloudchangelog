@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/11/09/</guid>
       <description>AWS Automate detection of broken utility poles using the Amazon Rekognition Custom Labels SDK
 Amazon Rekognition Artificial Intelligence
- AWS Creating static custom domain endpoints with Amazon MQ for RabbitMQ
-Amazon MQ Serverless
- AWS How Roche democratized access to data with Google Sheets and Amazon Redshift Data API
-Amazon Redshift Case Study
- AWS Avoid PostgreSQL LWLock:buffer_content locks in Amazon Aurora: Tips and best practices
-Amazon Aurora Amazon RDS</description>
+ AWS Simplify auditing your data protection policies with AWS Backup Audit Manager
+AWS Backup Security, Identity, &amp;amp; Compliance
+ AWS Bring your own data to classify news with Amazon SageMaker and Hugging Face
+Amazon Machine Learning Amazon Sagemaker
+ AWS Creating static custom domain endpoints with Amazon MQ for RabbitMQ</description>
     </item>
     
     <item>
@@ -35,13 +34,12 @@ Amazon Aurora Amazon RDS</description>
       <guid>https://cloudchangelog.com/posts/2021/11/08/</guid>
       <description>AWS Monitor Amazon QLDB query access patterns
 Amazon Quantum Ledger Database
- AWS Introducing Amazon ECS Exec to access your Windows containers on Amazon EC2
-Amazon Cloudwatch Amazon EC2
- AWS Accelerate self-service analytics with Amazon Redshift Query Editor V2
-Amazon Redshift Analytics
- AWS Centralizing data protection and compliance in Amazon Neptune with AWS Backup
-Amazon Neptune Announcements
- AWS Amazon SageMaker Pipelines now supports retry policies and resume</description>
+ AWS Implementing Auto Scaling for EC2 Mac Instances
+Amazon EC2 Auto Scaling
+ AWS AWS Polly now offers Neural Text-to-Speech voices in Spanish and Italian
+ AWS AWS Backup adds support for Amazon DocumentDB (with MongoDB compatibility)
+ AWS Amazon Chime SDK meetings now offer API endpoints in Oregon, Frankfurt and Singapore
+ AWS Managing permissions with grants in AWS Key Management Service</description>
     </item>
     
     <item>
