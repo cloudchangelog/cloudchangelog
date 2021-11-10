@@ -19,11 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/11/09/</guid>
       <description>AWS Automate detection of broken utility poles using the Amazon Rekognition Custom Labels SDK
 Amazon Rekognition Artificial Intelligence
- AWS Simplify auditing your data protection policies with AWS Backup Audit Manager
-AWS Backup Security, Identity, &amp;amp; Compliance
- AWS Bring your own data to classify news with Amazon SageMaker and Hugging Face
-Amazon Machine Learning Amazon Sagemaker
- AWS Creating static custom domain endpoints with Amazon MQ for RabbitMQ</description>
+ AWS AWS announces a new capability to switch license types for Windows Server and SQL Server applications on Amazon EC2
+ AWS AWS Batch introduces fair-share scheduling
+ AWS Amazon SNS now supports token-based authentication for APNs mobile push notifications
+ AWS Incident Manager from AWS Systems Manager is now available in 7 additional AWS Regions</description>
     </item>
     
     <item>
