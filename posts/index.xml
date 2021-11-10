@@ -6,10 +6,24 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 November, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/11/10/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/11/10/</guid>
+      <description> AWS Deploy fast and scalable AI with NVIDIA Triton Inference Server in Amazon SageMaker
+Amazon Sagemaker Artificial Intelligence
+ AWS How to Enhance the 5G Network Planning Using Analytics for Faster Time to Market
+Analytics AWS Partner Network
+ Azure Immutable storage with versioning for Blob Storage is now generally available
+  </description>
+    </item>
     
     <item>
       <title>09 November, 2021</title>
@@ -19,10 +33,12 @@
       <guid>https://cloudchangelog.com/posts/2021/11/09/</guid>
       <description>AWS Automate detection of broken utility poles using the Amazon Rekognition Custom Labels SDK
 Amazon Rekognition Artificial Intelligence
- AWS AWS announces a new capability to switch license types for Windows Server and SQL Server applications on Amazon EC2
- AWS AWS Batch introduces fair-share scheduling
- AWS Amazon SNS now supports token-based authentication for APNs mobile push notifications
- AWS Incident Manager from AWS Systems Manager is now available in 7 additional AWS Regions</description>
+ AWS Avoid PostgreSQL LWLock:buffer_content locks in Amazon Aurora: Tips and best practices
+Amazon Aurora Amazon RDS
+ AWS Bushfire mitigation through Machine Learning with AusNet and AWS
+Amazon Machine Learning Amazon ML Solutions Lab
+ AWS Implementing interruption tolerance in Amazon EC2 Spot with AWS Fault Injection Simulator
+Amazon EC2 Compute</description>
     </item>
     
     <item>
