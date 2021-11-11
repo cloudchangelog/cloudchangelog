@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>11 November, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/11/11/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/11/11/</guid>
+      <description> AWS Manage Access Centrally for JumpCloud Users with AWS Single Sign-On
+  </description>
+    </item>
     
     <item>
       <title>10 November, 2021</title>
@@ -19,11 +29,10 @@
       <guid>https://cloudchangelog.com/posts/2021/11/10/</guid>
       <description>AWS Deploy fast and scalable AI with NVIDIA Triton Inference Server in Amazon SageMaker
 Amazon Sagemaker Artificial Intelligence
- AWS AWS Control Tower now supports concurrent operations for detective guardrails
- AWS Announcing new deployment guardrails for Amazon SageMaker Inference endpoints
- AWS Amazon ECS now adds container instance health information
- AWS Amazon EKS on AWS Fargate now Supports the Fluent Bit Kubernetes Filter
- AWS AWS Backup provides new resource assignment rules for your data protection policies</description>
+ AWS AWS Backup provides new resource assignment rules for your data protection policies
+ AWS Amazon QuickSight launches 4 new administration features including IP-based access restrictions and Bring-you-own-role for account setup
+ AWS Manage Access Centrally for CyberArk Users with AWS Single Sign-On
+ AWS Tonal introduces live, data-driven strength training classes with Amazon IVS</description>
     </item>
     
     <item>
@@ -50,12 +59,12 @@ Amazon EC2 Compute</description>
       <guid>https://cloudchangelog.com/posts/2021/11/08/</guid>
       <description>AWS Monitor Amazon QLDB query access patterns
 Amazon Quantum Ledger Database
- AWS Implementing Auto Scaling for EC2 Mac Instances
-Amazon EC2 Auto Scaling
- AWS AWS Polly now offers Neural Text-to-Speech voices in Spanish and Italian
- AWS AWS Backup adds support for Amazon DocumentDB (with MongoDB compatibility)
- AWS Amazon Chime SDK meetings now offer API endpoints in Oregon, Frankfurt and Singapore
- AWS Managing permissions with grants in AWS Key Management Service</description>
+ AWS Real-Time Streaming Protocol now supported in AWS Elemental Live
+Media &amp;amp; Entertainment Media Services
+ AWS Amazon SageMaker Pipelines now supports retry policies and resume
+ AWS How Financial Institutions Can Innovate Faster with Virtusa’s Open Innovation Platform on AWS
+AWS Partner Network Customer Solutions
+ AWS Centralizing data protection and compliance for Amazon Neptune with AWS Backup</description>
     </item>
     
     <item>
@@ -122,12 +131,12 @@ Architecture Top Posts</description>
       <guid>https://cloudchangelog.com/posts/2021/11/02/</guid>
       <description>AWS Deep Dive on Amazon EC2 VT1 Instances
 Best Practices Compute
- AWS Host RStudio Connect and Package Manager for ML development in RStudio on Amazon SageMaker
-Amazon Sagemaker
- AWS AWS Secrets Manager increases secrets limit to 500K per account
- AWS Amazon CloudFront now supports configurable CORS, security, and custom HTTP response headers
- AWS Amazon Pinpoint launches in-app messaging as a new communications channel
- AWS Query hierarchical data models within Amazon Redshift</description>
+ AWS AWS Graviton2 based T4g instances are now available in AWS GovCloud (US-West) Region
+ AWS Automated claims processing at Xactware with machine learning on AWS
+Amazon Machine Learning Amazon ML Solutions Lab
+ AWS Leveraging Amazon EKS managed node group with placement group for low latency critical applications
+Amazon Elastic Kubernetes Service Containers
+ AWS Automating AWS Security Hub Alerts with AWS Control Tower lifecycle events</description>
     </item>
     
     <item>
@@ -183,12 +192,12 @@ Amazon Lex Artificial Intelligence
       <guid>https://cloudchangelog.com/posts/2021/10/28/</guid>
       <description>AWS Creating AWS Lambda environment variables from AWS Secrets Manager
 AWS Lambda AWS Secrets Manager
- AWS Amazon EKS adds native support for Bottlerocket in Managed Node Groups
-Amazon Elastic Kubernetes Service Announcements
- AWS AWS Elemental MediaLive now supports Nielsen Watermarking for audience measurement
- AWS Announcing availability of the Babelfish for PostgreSQL open source project
- AWS Amazon Aurora PostgreSQL Supports PostGIS 3.1
- AWS Goodbye Microsoft SQL Server, Hello Babelfish</description>
+ AWS Streaming sessions view in Amazon Nimble Studio
+Amazon Nimble Studio Content Production
+ AWS Amazon Connect is now available in the Asia Pacific (Seoul) AWS Region
+ AWS Automating ForgeRock Deployment Using Containerization with Amazon EKS
+Amazon Elastic Kubernetes Service AWS Partner Network
+ AWS Centralized software package distribution across multiple regions and accounts in an AWS Organization using AWS Systems Manager Distributor</description>
     </item>
     
     <item>
@@ -199,10 +208,13 @@ Amazon Elastic Kubernetes Service Announcements
       <guid>https://cloudchangelog.com/posts/2021/10/27/</guid>
       <description>AWS Setting up an Amazon CloudWatch Billing Alarm to Proactively Monitor Estimated Charges
 Amazon Cloudwatch Billing &amp;amp; Account Management
- AWS Monitor for public AWS Systems Manager custom documents with AWS Config rules
-AWS Config AWS Systems Manager
- AWS Amazon Textract launches TIFF support and adds asynchronous support for receipts and invoices processing
- AWS Amazon EC2 announces attribute-based instance type selection for Auto Scaling groups, EC2 Fleet, and Spot Fleet</description>
+ AWS Automate AWS App2Container workflow using Ansible
+Amazon Elastic Container Service Amazon Elastic Kubernetes Service
+ AWS Onboard OneLogin SSO users to Amazon SageMaker Studio
+Amazon Machine Learning Amazon Sagemaker
+ AWS Get started with the Amazon DocumentDB JDBC driver
+Amazon Documentdb Technical How-To
+ AWS Introducing Amazon EC2 Spot placement score</description>
     </item>
     
     <item>
@@ -213,11 +225,12 @@ AWS Config AWS Systems Manager
       <guid>https://cloudchangelog.com/posts/2021/10/26/</guid>
       <description>AWS Monitoring and tuning federated GraphQL performance on AWS Lambda
 Amazon Cloudwatch AWS Lambda
- AWS Disable default reverse DNS rules with Route 53 Resolver
- AWS Amazon SageMaker Autopilot adds support for time series data
- AWS Performance Efficiency in AWS Multi-Tenant SaaS Environments
-AWS Partner Network Best Practices
- AWS Configure a standalone SQL Server node as database availability replica of a SQL Server failover cluster instance</description>
+ AWS New – EC2 Instances Powered by Gaudi Accelerators for Training Deep Learning Models
+Amazon EC2 Launch
+ AWS Announcing Amazon RDS Custom for Oracle
+ AWS AWS Local Zones Are Now Open in Las Vegas, New York City, and Portland
+Launch News
+ AWS Extend model lineage to include ML features using Amazon SageMaker Feature Store</description>
     </item>
     
     <item>
@@ -228,10 +241,13 @@ AWS Partner Network Best Practices
       <guid>https://cloudchangelog.com/posts/2021/10/25/</guid>
       <description>AWS Correlate security findings with AWS Security Hub and Amazon EventBridge
 Amazon Eventbridge AWS Security Hub
- AWS Amazon Pinpoint now supports 10 Digit Long Code (10DLC) vetting
- AWS Amazon DocumentDB (with MongoDB compatibility) adds support for $literal, $map, and $$ROOT
- AWS Amazon DocumentDB (with MongoDB compatibility) now provides a JDBC driver to connect from BI tools and execute SQL Queries
- AWS Amazon DocumentDB (with MongoDB compatibility) adds support for storing, querying and indexing Geospatial data</description>
+ AWS Seamless Transition from an AWS Landing Zone to AWS Control Tower
+AWS Control Tower AWS Partner Network
+ AWS Help Make BugBusting History at AWS re:Invent 2021
+Amazon Codeguru Announcements
+ AWS Building a difference checker with Amazon S3 and AWS Lambda
+Amazon Simple Storage Service (S3) AWS Lambda
+ AWS Optimizing your AWS Infrastructure for Sustainability, Part III: Networking</description>
     </item>
     
     <item>
@@ -273,11 +289,10 @@ Direct-To-Consumer/OTT Media &amp;amp; Entertainment
       <guid>https://cloudchangelog.com/posts/2021/10/20/</guid>
       <description>AWS Skidmore, Owings &amp;amp; Merrill (SOM) goes all-in on the cloud in pioneering move for dynamic scalability
 Amazon Nimble Studio Content Production
- AWS How automated reasoning helps Amazon S3 innovate at scale
-Amazon S3 Glacier Amazon S3 Glacier Deep Archive
- AWS Amazon RDS for MySQL on Outposts supports new minor versions
- AWS Amazon Transcribe now supports custom language models for streaming transcription
- AWS Accelerate computer vision training using GPU preprocessing with NVIDIA DALI on Amazon SageMaker</description>
+ AWS GitOps model for provisioning and bootstrapping Amazon EKS clusters using Crossplane and Argo CD
+Amazon Elastic Kubernetes Service Containers
+ AWS AWS Security Hub adds support for cross-Region aggregation of findings to simplify how you evaluate and improve your AWS security posture
+ AWS Build operational metrics for your enterprise AWS Glue Data Catalog at scale</description>
     </item>
     
     <item>
@@ -288,12 +303,12 @@ Amazon S3 Glacier Amazon S3 Glacier Deep Archive
       <guid>https://cloudchangelog.com/posts/2021/10/19/</guid>
       <description>AWS Operating serverless at scale: Keeping control of resources – Part 3
 AWS Config AWS Lambda
- AWS Automate Amazon Redshift Cluster management operations using AWS CloudFormation
-Amazon Redshift AWS Cloudformation
- AWS Amazon SageMaker rated as top AI Service Cloud in analyst firm KuppingerCole’s evaluation of AI Service Clouds
-Amazon Machine Learning Amazon Sagemaker
- AWS Case Study: Peach increases security while still reducing blocked traffic
-Direct-To-Consumer/OTT Media &amp;amp; Entertainment</description>
+ AWS Protecting your Amazon EKS web apps with AWS WAF
+Amazon Elastic Kubernetes Service AWS WAF
+ AWS Amazon Corretto October Quarterly Updates
+ AWS Bulk Editing of OpsItems in AWS Systems Manager OpsCenter
+ AWS AWS Systems Manager Fleet Manager now offers advanced filtering for Managed Instances
+ AWS New – AWS Data Exchange for Amazon Redshift</description>
     </item>
     
     <item>
@@ -446,10 +461,11 @@ Amazon EC2 Container Registry Amazon Elastic Container Service
       <guid>https://cloudchangelog.com/posts/2021/10/05/</guid>
       <description>AWS VMware Cloud on AWS Outposts Brings VMware SDDC as a Fully Managed Service on Premises
 AWS Outposts Launch
- AWS Announcing Amazon EC2 Capacity Reservation Fleet a way to easily migrate Amazon EC2 Capacity Reservations across instance types
- AWS Amazon Location Service adds change detection to tracking
- AWS Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) announces support for Cross-Cluster Replication
- AWS AWS Backup Audit Manager adds compliance reports</description>
+ AWS Connect Amazon S3 File Gateway using AWS PrivateLink for Amazon S3
+Amazon Simple Storage Service (S3) Amazon VPC
+ AWS AWS Firewall Manager now supports centralized logging of AWS Network Firewall logs
+ AWS Automating account provisioning with CloudCheckr integration for Cloud Financial Management
+AWS Cloudformation AWS Lambda</description>
     </item>
     
     <item>
@@ -503,12 +519,11 @@ Amazon API Gateway Amazon Dynamodb
       <guid>https://cloudchangelog.com/posts/2021/09/30/</guid>
       <description>AWS Migrating custom Landing Zone with RAM to AWS Control Tower
 AWS Control Tower Management &amp;amp; Governance
- AWS Use Amazon Athena and Amazon QuickSight in a cross-account environment
-Amazon Athena Amazon Quicksight
- AWS Enable Security Hub PCI DSS standard across your organization and disable specific controls
-AWS Security Hub Security, Identity, &amp;amp; Compliance
- AWS Create Amazon SageMaker projects with image building CI/CD pipelines
-Amazon Sagemaker Artificial Intelligence</description>
+ AWS Using Amazon Managed Service for Prometheus Alert Manager to receive alerts with PagerDuty
+Amazon Managed Service For Prometheus Amazon Simple Notification Service (SNS)
+ AWS Announcing General Availability of Amplify Geo for AWS Amplify
+ AWS AWS announces the general availability of AWS Cloud Control API
+ AWS Amazon SES now supports 2048-bit DKIM keys</description>
     </item>
     
     <item>
@@ -521,8 +536,9 @@ Amazon Sagemaker Artificial Intelligence</description>
 Amazon Aurora Amazon RDS
  AWS AWS Lambda Functions Powered by AWS Graviton2 Processor – Run Your Functions on Arm and Get Up to 34% Better Price Performance
 AWS Lambda Compute
- AWS Announcing general availability of Amazon RDS for MySQL and Amazon Aurora MySQL databases as new data sources for federated querying
- AWS Building an API poller with AWS Step Functions and AWS Lambda</description>
+ AWS Amazon QuickSight deployment models for cross-account and cross-Region access to Amazon Redshift and Amazon RDS
+Amazon Quicksight Amazon RDS
+ AWS Achieving Operational Success of SaaS Solutions</description>
     </item>
     
     <item>
@@ -548,11 +564,12 @@ Amazon Cloudfront AWS Elemental Medialive
       <guid>https://cloudchangelog.com/posts/2021/09/27/</guid>
       <description>AWS New for Amazon Connect: Voice ID, Wisdom, and Outbound Communications
 Amazon Connect Announcements
- AWS New longer resource IDs for Amazon Elastic File System
-Amazon Elastic File System (EFS) Announcements
- AWS Amazon RDS for Oracle now supports sqlnet.ora client parameters for the Oracle Native Network Encryption (NNE)option
- AWS Amazon Genomics CLI is now Generally Available
- AWS Replicate and transform data in Amazon Aurora PostgreSQL across multiple Regions using AWS DMS</description>
+ AWS Implement active/active replication between Amazon Aurora clusters using Oracle GoldenGate
+Amazon Aurora Amazon RDS
+ AWS Introducing AWS WAF Security Automations v3.2
+ AWS Amazon Connect Voice ID is now generally available
+ AWS Application Load Balancer now enables AWS PrivateLink and static IP addresses by direct integration with Network Load Balancer
+ AWS New – Amazon Genomics CLI Is Now Open Source and Generally Available</description>
     </item>
     
     <item>
