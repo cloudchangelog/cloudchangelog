@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/11/10/</guid>
       <description>AWS Deploy fast and scalable AI with NVIDIA Triton Inference Server in Amazon SageMaker
 Amazon Sagemaker Artificial Intelligence
- AWS AWS Marketplace announces enhancements to change requests submission experience
- AWS Amazon QuickSight launches 4 new administration features including IP-based access restrictions and Bring-you-own-role for account setup
- AWS Manage your AWS DMS endpoint credentials with AWS Secrets Manager
-AWS Database Migration Service AWS Secrets Manager
- AWS Optimize the Cost of Running DataRobot Models by Deploying and Monitoring on AWS Serverless</description>
+ AWS AWS Control Tower now supports concurrent operations for detective guardrails
+ AWS Announcing new deployment guardrails for Amazon SageMaker Inference endpoints
+ AWS Amazon ECS now adds container instance health information
+ AWS Amazon EKS on AWS Fargate now Supports the Fluent Bit Kubernetes Filter
+ AWS AWS Backup provides new resource assignment rules for your data protection policies</description>
     </item>
     
     <item>
