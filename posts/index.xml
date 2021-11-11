@@ -17,9 +17,13 @@
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/11/11/</guid>
-      <description> AWS Manage Access Centrally for JumpCloud Users with AWS Single Sign-On
+      <description>AWS Manage Access Centrally for JumpCloud Users with AWS Single Sign-On
  AWS Field Notes: Clear Unused AWS SSO Mappings Automatically During AWS Control Tower Upgrades
-Architecture AWS Control Tower  </description>
+Architecture AWS Control Tower
+ AWS Understanding how AWS Lambda scales with Amazon SQS standard queues
+Amazon Simple Queue Service (SQS) AWS Lambda
+ AWS Deriving real-time insights with Amazon Timestream – now up to three times faster query response times
+Amazon Timestream Monitoring And Observability</description>
     </item>
     
     <item>
