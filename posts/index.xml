@@ -6,10 +6,23 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>12 November, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/11/12/</link>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/11/12/</guid>
+      <description> AWS New – EC2 Instances (G5) with NVIDIA A10G Tensor Core GPUs
+Amazon EC2 Launch
+ GCP Avoiding GCF anti-patterns part 4: How to handle Promises correctly in your Node.js Cloud Function
+Google Cloud Developers &amp;amp; Practitioners
+  </description>
+    </item>
     
     <item>
       <title>11 November, 2021</title>
