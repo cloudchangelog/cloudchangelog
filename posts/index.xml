@@ -17,11 +17,13 @@
       <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/11/12/</guid>
-      <description> AWS New – EC2 Instances (G5) with NVIDIA A10G Tensor Core GPUs
+      <description>AWS New – EC2 Instances (G5) with NVIDIA A10G Tensor Core GPUs
 Amazon EC2 Launch
- GCP Avoiding GCF anti-patterns part 4: How to handle Promises correctly in your Node.js Cloud Function
-Google Cloud Developers &amp;amp; Practitioners
-  </description>
+ AWS Architect a Managed Disaster Recovery on Amazon RDS for SQL Server: Part 2
+Amazon RDS RDS For SQL Server
+ AWS Architect a Managed Disaster Recovery on Amazon RDS for SQL Server: Part 1
+Amazon RDS RDS For SQL Server
+ GCP Avoiding GCF anti-patterns part 4: How to handle Promises correctly in your Node.</description>
     </item>
     
     <item>
