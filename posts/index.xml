@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>14 November, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/11/14/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/11/14/</guid>
+      <description> AWS Visualize application costs using AWS Service Catalog AppRegistry and Amazon QuickSight
+Amazon Eventbridge Amazon Quicksight  </description>
+    </item>
     
     <item>
       <title>12 November, 2021</title>
