@@ -19,13 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/11/15/</guid>
       <description>AWS Orchestrate an ETL pipeline using AWS Glue workflows, triggers, and crawlers with custom classifiers
 AWS Glue
- AWS Use Oracle Real Application Testing features with Amazon RDS for Oracle
-Amazon RDS RDS For Oracle
- AWS Use Oracle Real Application Testing features with Amazon EC2
-Amazon EC2 Database
- AWS Fall 2021 SOC 2 Type I Privacy report now available
-Announcements Security, Identity, &amp;amp; Compliance
- AWS New Amazon Virtual Andon 3.</description>
+ AWS AWS Step Functions Synchronous Express Workflows now supports AWS PrivateLink
+ AWS AWS Amplify announces the ability to override Amplify-generated resources using CDK
+ AWS Provisioning and Securing Bottlerocket OS-Based Amazon EKS Clusters Using Nirmata Kubernetes Platform
+Amazon Elastic Kubernetes Service AWS Partner Network
+ AWS AWS Launch Wizard now supports Microsoft SQL Server deployments using Amazon EBS gp3, io2, and io2 Block Express volumes</description>
     </item>
     
     <item>
