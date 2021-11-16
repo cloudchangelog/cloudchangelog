@@ -6,10 +6,23 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>16 November, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/11/16/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/11/16/</guid>
+      <description> AWS Simplify configuration and increase video quality with new automatic encoder modes from AWS
+AWS Elemental Mediaconvert Broadcast
+ AWS SaaS Cost Attribution: How to Align Technology with Business
+AWS Partner Network Best Practices
+  </description>
+    </item>
     
     <item>
       <title>15 November, 2021</title>
@@ -19,11 +32,12 @@
       <guid>https://cloudchangelog.com/posts/2021/11/15/</guid>
       <description>AWS Orchestrate an ETL pipeline using AWS Glue workflows, triggers, and crawlers with custom classifiers
 AWS Glue
- AWS AWS Step Functions Synchronous Express Workflows now supports AWS PrivateLink
- AWS AWS Amplify announces the ability to override Amplify-generated resources using CDK
- AWS Provisioning and Securing Bottlerocket OS-Based Amazon EKS Clusters Using Nirmata Kubernetes Platform
-Amazon Elastic Kubernetes Service AWS Partner Network
- AWS AWS Launch Wizard now supports Microsoft SQL Server deployments using Amazon EBS gp3, io2, and io2 Block Express volumes</description>
+ AWS Amazon Connect launches API to configure security profiles programmatically
+ AWS AWS IoT Greengrass now supports Microsoft Windows devices
+ AWS Implementing SaaS Tenant Isolation Using Amazon SageMaker Endpoints and IAM
+Amazon API Gateway Amazon Sagemaker
+ AWS Use Oracle Real Application Testing features with Amazon EC2
+Amazon EC2 Database</description>
     </item>
     
     <item>
@@ -74,10 +88,11 @@ Announcements AWS Heroes
       <guid>https://cloudchangelog.com/posts/2021/11/10/</guid>
       <description>AWS Deploy fast and scalable AI with NVIDIA Triton Inference Server in Amazon SageMaker
 Amazon Sagemaker Artificial Intelligence
- AWS AWS Backup provides new resource assignment rules for your data protection policies
- AWS Amazon QuickSight launches 4 new administration features including IP-based access restrictions and Bring-you-own-role for account setup
- AWS Manage Access Centrally for CyberArk Users with AWS Single Sign-On
- AWS Tonal introduces live, data-driven strength training classes with Amazon IVS</description>
+ AWS Measure and Improve Your Application Resilience with AWS Resilience Hub
+Launch Management &amp;amp; Governance
+ AWS How to Enhance the 5G Network Planning Using Analytics for Faster Time to Market
+Analytics AWS Partner Network
+ AWS AWS CDK releases v1.126.0 - v1.130.0 with high-level APIs for AWS AppRunner and hotswap support for Amazon ECS and AWS Step Functions</description>
     </item>
     
     <item>
