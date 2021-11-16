@@ -23,6 +23,7 @@ AWS Elemental Mediaconvert Broadcast
 AWS Partner Network Best Practices
  AWS Monitor Private VPC Endpoint Health in Hybrid DNS Environments Using CloudWatch Synthetics
 Amazon Cloudwatch Amazon Route 53
+ Oracle Performance Hub Exadata Tab
   </description>
     </item>
     
@@ -34,12 +35,10 @@ Amazon Cloudwatch Amazon Route 53
       <guid>https://cloudchangelog.com/posts/2021/11/15/</guid>
       <description>AWS Orchestrate an ETL pipeline using AWS Glue workflows, triggers, and crawlers with custom classifiers
 AWS Glue
- AWS Amazon Connect launches API to configure security profiles programmatically
- AWS AWS IoT Greengrass now supports Microsoft Windows devices
- AWS Implementing SaaS Tenant Isolation Using Amazon SageMaker Endpoints and IAM
-Amazon API Gateway Amazon Sagemaker
- AWS Use Oracle Real Application Testing features with Amazon EC2
-Amazon EC2 Database</description>
+ AWS AWS Launch Wizard now supports Microsoft SQL Server deployments using Amazon EBS gp3, io2, and io2 Block Express volumes
+ AWS AWS App Runner supports AWS CDK to build and deploy applications
+ AWS Safer interrupt management demo for FreeRTOS kernel
+ AWS Monitoring delay of AWS Batch jobs in transit before execution</description>
     </item>
     
     <item>
