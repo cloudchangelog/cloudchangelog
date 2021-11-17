@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>17 November, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/11/17/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/11/17/</guid>
+      <description> AWS Get started with AWS DevOps Guru Multi-Account Insight Aggregation with AWS Organizations
+AWS Lambda AWS Organizations
+ AWS Postprocessing with Amazon Textract: Multi-page table handling
+Amazon Textract Artificial Intelligence
+ AWS How Projects Can be Tracked on AWS to Increase Accountability and Reduce Cost
+Amazon Quicksight AWS Budgets
+  </description>
+    </item>
     
     <item>
       <title>16 November, 2021</title>
@@ -19,11 +34,11 @@
       <guid>https://cloudchangelog.com/posts/2021/11/16/</guid>
       <description>AWS Simplify configuration and increase video quality with new automatic encoder modes from AWS
 AWS Elemental Mediaconvert Broadcast
- AWS Amazon Translate Now Extends Support for Active Custom Translation to all language pair combinations
- AWS Amazon MQ now supports RabbitMQ version 3.8.23
- AWS AWS Transfer Family adds identity provider options and enhanced monitoring capabilities
- AWS Amazon AppStream 2.0 Introduces Linux Application Streaming
- AWS AWS Network Firewall is now SOC compliant</description>
+ AWS Amazon Rekognition improves accuracy of content moderation for images
+ AWS AWS Glue FindMatches now supports incrementally matching new data against an existing dataset
+ AWS Observe SAP HANA databases with Amazon CloudWatch Application Insights
+ AWS New and improved Amazon Athena console is now generally available
+ AWS How TCS is Delivering Remote Virtual Inspections for Insurers Enabled by AWS Services</description>
     </item>
     
     <item>
