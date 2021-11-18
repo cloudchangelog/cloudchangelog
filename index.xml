@@ -17,10 +17,12 @@
       <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/11/18/</guid>
-      <description> AWS Deploying AWS Lambda layers automatically across multiple Regions
+      <description>AWS Deploying AWS Lambda layers automatically across multiple Regions
 AWS Codebuild AWS Codecommit
- Azure Azure VMware Solution now generally available in the France Central Azure Region
-  </description>
+ AWS Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now offers - M6g - instances for Mumbai and San Francisco Regions
+ AWS AWS Application Migration Service is now available in the Africa (Cape Town), Europe (Milan), Europe (Paris), and Middle East (Bahrain) Regions
+ AWS Amazon Pinpoint now supports Safari push notifications
+ AWS Amazon Rekognition Custom Labels now offers an enhanced experience to train computer vision models more easily</description>
     </item>
     
     <item>
