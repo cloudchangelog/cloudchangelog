@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>19 November, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/11/19/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/11/19/</guid>
+      <description> AWS Next Gen Stats Decision Guide: Predicting fourth-down conversion
+Amazon Machine Learning Amazon ML Solutions Lab
+ AWS AWS Partner Differentiation Programs Help You Find the Right Partner for the Right Job
+AWS Partner Network AWS Re:Invent
+ AWS Proving the Performance of Oracle Exadata-Based Workloads on AWS
+AWS Partner Network Customer Solutions
+  </description>
+    </item>
     
     <item>
       <title>18 November, 2021</title>
@@ -19,11 +34,10 @@
       <guid>https://cloudchangelog.com/posts/2021/11/18/</guid>
       <description>AWS Deploying AWS Lambda layers automatically across multiple Regions
 AWS Codebuild AWS Codecommit
- AWS AWS Control Tower now supports nested organizational units
- AWS AWS Service Management Connector makes installation easier through ServiceNow Guided Setup
- AWS Setting up EC2 Mac instances as shared remote development environments
-Compute Technical How-To
- AWS Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now offers - M6g - instances for Mumbai and San Francisco Regions</description>
+ AWS Amazon Rekognition reduces pricing of all Image APIs by up to 38%
+ AWS Amazon Interactive Video Service adds high resolution metrics for monitoring stream health
+ AWS Contact Lens for Amazon Connect is now FedRAMP Moderate compliant and has also added support for Asia Pacific (Seoul) AWS Region
+ AWS The dashboard feature is now generally available in AWS Audit Manager</description>
     </item>
     
     <item>
