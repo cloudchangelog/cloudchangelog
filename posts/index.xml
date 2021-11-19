@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/11/19/</guid>
       <description>AWS Next Gen Stats Decision Guide: Predicting fourth-down conversion
 Amazon Machine Learning Amazon ML Solutions Lab
+ AWS Understand drivers that influence your forecasts with explainability impact scores in Amazon Forecast
+Amazon Forecast Artificial Intelligence
  AWS AWS Partner Differentiation Programs Help You Find the Right Partner for the Right Job
 AWS Partner Network AWS Re:Invent
  AWS Proving the Performance of Oracle Exadata-Based Workloads on AWS
-AWS Partner Network Customer Solutions
- AWS What’s in store with AWS storage at re:Invent 2021
-Amazon Elastic Block Store (Amazon EBS) Amazon Elastic File System (EFS)</description>
+AWS Partner Network Customer Solutions</description>
     </item>
     
     <item>
@@ -35,10 +35,11 @@ Amazon Elastic Block Store (Amazon EBS) Amazon Elastic File System (EFS)</descri
       <guid>https://cloudchangelog.com/posts/2021/11/18/</guid>
       <description>AWS Deploying AWS Lambda layers automatically across multiple Regions
 AWS Codebuild AWS Codecommit
- AWS Amazon Rekognition reduces pricing of all Image APIs by up to 38%
- AWS Amazon Interactive Video Service adds high resolution metrics for monitoring stream health
- AWS Contact Lens for Amazon Connect is now FedRAMP Moderate compliant and has also added support for Asia Pacific (Seoul) AWS Region
- AWS The dashboard feature is now generally available in AWS Audit Manager</description>
+ AWS AWS Service Management Connector makes installation easier through ServiceNow Guided Setup
+ AWS Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now offers - M6g - instances for Mumbai and San Francisco Regions
+ AWS Chain custom Amazon SageMaker Ground Truth jobs for image processing
+Amazon Machine Learning Amazon Sagemaker Ground Truth
+ AWS Amazon Pinpoint now supports Safari push notifications</description>
     </item>
     
     <item>
