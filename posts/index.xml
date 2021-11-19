@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/11/18/</guid>
       <description>AWS Deploying AWS Lambda layers automatically across multiple Regions
 AWS Codebuild AWS Codecommit
- AWS AWS Service Management Connector for ServiceNow supports AWS Systems Manager Change Manager
- AWS Amazon Pinpoint now supports Safari push notifications
- AWS The 2021 Streaming Media Readers’ Choice Award Winners
-Amazon Cloudfront Amazon Interactive Video Service
  AWS AWS Control Tower now supports nested organizational units
- AWS AWS Service Management Connector makes installation easier through ServiceNow Guided Setup</description>
+ AWS AWS Service Management Connector makes installation easier through ServiceNow Guided Setup
+ AWS Setting up EC2 Mac instances as shared remote development environments
+Compute Technical How-To
+ AWS Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now offers - M6g - instances for Mumbai and San Francisco Regions</description>
     </item>
     
     <item>
