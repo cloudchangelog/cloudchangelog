@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/11/19/</guid>
       <description>AWS Next Gen Stats Decision Guide: Predicting fourth-down conversion
 Amazon Machine Learning Amazon ML Solutions Lab
- AWS Understand drivers that influence your forecasts with explainability impact scores in Amazon Forecast
-Amazon Forecast Artificial Intelligence
- AWS Build faster with Amazon DynamoDB and PartiQL: SQL-compatible operations
-Amazon Dynamodb
- AWS What’s in store with AWS storage at re:Invent 2021
-Amazon Elastic Block Store (Amazon EBS) Amazon Elastic File System (EFS)</description>
+ AWS How to set up Amazon Cognito for federated authentication using Azure AD
+Amazon Cognito Security, Identity, &amp;amp; Compliance
+ AWS Introducing PII data identification and handling using AWS Glue DataBrew
+Amazon Athena Amazon Simple Storage Service (S3)
+ AWS Attendee guide for the AWS Analytics track at AWS re:Invent 2021
+Analytics AWS Re:Invent</description>
     </item>
     
     <item>
