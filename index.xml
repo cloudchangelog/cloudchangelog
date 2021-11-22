@@ -6,10 +6,26 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>22 November, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/11/22/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/11/22/</guid>
+      <description>AWS Provide data reliability in Amazon Redshift at scale using Great Expectations library
+Amazon Dynamodb Amazon EMR
+ AWS Know Before You Go: An AWS Partner’s Guide to re:Invent 2021
+Announcements AWS Partner Network
+ AWS Nine is fine: Amazon EFS sessions at re:Invent 2021
+Amazon Elastic File System (EFS) Announcements
+ AWS Amazon Athena adds console support for visualizing AWS Step Functions workflows
+ Azure Advancing service resilience in Azure Active Directory with its backup authentication service</description>
+    </item>
     
     <item>
       <title>20 November, 2021</title>
@@ -253,12 +269,12 @@ Architecture Top Posts</description>
       <guid>https://cloudchangelog.com/posts/2021/11/02/</guid>
       <description>AWS Deep Dive on Amazon EC2 VT1 Instances
 Best Practices Compute
- AWS AWS Graviton2 based T4g instances are now available in AWS GovCloud (US-West) Region
- AWS Automated claims processing at Xactware with machine learning on AWS
-Amazon Machine Learning Amazon ML Solutions Lab
- AWS Leveraging Amazon EKS managed node group with placement group for low latency critical applications
-Amazon Elastic Kubernetes Service Containers
- AWS Automating AWS Security Hub Alerts with AWS Control Tower lifecycle events</description>
+ AWS Field Notes: Extending the Baseline in AWS Control Tower to Accelerate the Transition from AWS Landing Zone
+Architecture AWS Control Tower
+ AWS Host RStudio Connect and Package Manager for ML development in RStudio on Amazon SageMaker
+Amazon Sagemaker
+ AWS AWS Secrets Manager increases secrets limit to 500K per account
+ AWS Amazon CloudFront now supports configurable CORS, security, and custom HTTP response headers</description>
     </item>
     
     <item>
