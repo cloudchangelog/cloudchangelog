@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2021/11/22/</guid>
       <description>AWS Provide data reliability in Amazon Redshift at scale using Great Expectations library
 Amazon Dynamodb Amazon EMR
- AWS Know Before You Go: An AWS Partner’s Guide to re:Invent 2021
-Announcements AWS Partner Network
- AWS Nine is fine: Amazon EFS sessions at re:Invent 2021
-Amazon Elastic File System (EFS) Announcements
- AWS Amazon Athena adds console support for visualizing AWS Step Functions workflows
- Azure Advancing service resilience in Azure Active Directory with its backup authentication service</description>
+ AWS Announcing AWS Graviton2-based instances for Amazon Neptune
+ AWS Announcing preview for write queries with Amazon Redshift Concurrency Scaling
+ AWS AWS Database Migration Service now supports Kafka multi-topic
+ AWS AWS Security Profiles: J.D. Bean, Sr. Security Solutions Architect
+Learning Levels AWS Nitro Enclaves
+ AWS You can now securely connect to your Amazon MSK clusters over the internet</description>
     </item>
     
     <item>
