@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/11/22/</guid>
       <description>AWS Provide data reliability in Amazon Redshift at scale using Great Expectations library
 Amazon Dynamodb Amazon EMR
- AWS Announcing AWS Graviton2-based instances for Amazon Neptune
- AWS Announcing preview for write queries with Amazon Redshift Concurrency Scaling
- AWS AWS Database Migration Service now supports Kafka multi-topic
- AWS AWS Security Profiles: J.D. Bean, Sr. Security Solutions Architect
-Learning Levels AWS Nitro Enclaves
- AWS You can now securely connect to your Amazon MSK clusters over the internet</description>
+ AWS Amazon ECS for Windows now supports ECS Exec
+ AWS You can now import your AWS CloudFormation stacks into a CloudFormation stack set
+ AWS Amazon ElastiCache now supports T4g Graviton2-based instances
+ AWS Amazon ECS-optimized AMI is now available as an open-source project
+ AWS Announcing preview of Amazon Linux 2022</description>
     </item>
     
     <item>
