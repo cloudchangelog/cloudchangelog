@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/11/23/</guid>
       <description>AWS Managing the Evolution of an Amazon Redshift Data Warehouse Using a Declarative Deployment Pipeline
 Amazon Redshift AWS Partner Network
- AWS From Data Chaos to Data Intelligence: How an Internal Data Marketplace Transforms Your Data Landscape
-Analytics AWS Partner Network
- AWS AWS Cloud Adoption Framework (CAF) 3.0 is Now Available
-Announcements Architecture
- AWS Visualizing AWS Step Functions workflows from the Amazon Athena console
-Amazon Athena AWS Step Functions</description>
+ AWS Announcing data tiering for Amazon ElastiCache for Redis
+ AWS Amazon ECS announces a new integration with AWS Distro for OpenTelemetry
+ AWS Amazon ElastiCache for Redis adds support for Redis 6.2
+ AWS Amazon Transcribe now supports automatic language identification for streaming transcriptions
+ AWS Announcing AWS Fargate for Amazon ECS Powered by AWS Graviton2 Processors</description>
     </item>
     
     <item>
