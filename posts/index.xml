@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>24 November, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/11/24/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/11/24/</guid>
+      <description> AWS Moving media workflows to the cloud: Your journey, your way
+Media &amp;amp; Entertainment Media Services  </description>
+    </item>
     
     <item>
       <title>23 November, 2021</title>
@@ -19,11 +29,10 @@
       <guid>https://cloudchangelog.com/posts/2021/11/23/</guid>
       <description>AWS Managing the Evolution of an Amazon Redshift Data Warehouse Using a Declarative Deployment Pipeline
 Amazon Redshift AWS Partner Network
- AWS Announcing data tiering for Amazon ElastiCache for Redis
- AWS Amazon ECS announces a new integration with AWS Distro for OpenTelemetry
- AWS Amazon ElastiCache for Redis adds support for Redis 6.2
- AWS Amazon Transcribe now supports automatic language identification for streaming transcriptions
- AWS Announcing AWS Fargate for Amazon ECS Powered by AWS Graviton2 Processors</description>
+ AWS AWS Security Profiles: Merritt Baer, Principal in OCISO
+AWS Re:Invent Security, Identity, &amp;amp; Compliance
+ AWS Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now supports checking for blue/green deployment when making configuration changes.
+ AWS Amazon Chime SDK meetings live transcription now supports content identification and custom language models</description>
     </item>
     
     <item>
