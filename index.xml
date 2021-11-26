@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>26 November, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/11/26/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/11/26/</guid>
+      <description>AWS Filtering event sources for AWS Lambda functions
+AWS Lambda Compute
+ AWS Automate file retrieval from S3 Glacier when using FSx for Lustre
+Amazon Fsx Amazon Fsx For Lustre
+ AWS AWS price reduction for data transfers out to the internet
+ AWS AWS Lambda now supports event filtering for Amazon SQS, Amazon DynamoDB, and Amazon Kinesis as event sources
+ AWS AWS Single Sign-On is now in scope for AWS SOC reporting</description>
+    </item>
     
     <item>
       <title>24 November, 2021</title>
@@ -19,13 +34,10 @@
       <guid>https://cloudchangelog.com/posts/2021/11/24/</guid>
       <description>AWS Moving media workflows to the cloud: Your journey, your way
 Media &amp;amp; Entertainment Media Services
- AWS Enforce customized data quality rules in AWS Glue DataBrew
-Amazon Simple Storage Service (S3) Analytics
- AWS Solving the Challenge of Customer Verification and Security with Digital Onboarding
-AWS Partner Network Customer Solutions
- AWS New – AWS Proton Supports Terraform and Git Repositories to Manage Templates
-Announcements AWS Proton
- AWS Building a Serverless Stream Analytics Platform with Amazon Kinesis Data Firehose and MongoDB Realm</description>
+ AWS Announcing new performance enhancements for Amazon Redshift data sharing
+ AWS Elastic Fabric Adapter now supports new instance sizes within supported Amazon EC2 instance types
+ AWS EC2 Image Builder enables sharing Amazon Machine Images (AMIs) with AWS Organizations and Organization Units
+ AWS AWS Database Migration Service now supports Google Cloud SQL for MySQL as a source</description>
     </item>
     
     <item>
