@@ -6,10 +6,23 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>29 November, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/11/29/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/11/29/</guid>
+      <description> AWS Federated Access to AWS Single Sign-On with CyberArk Workforce Identity
+AWS Partner Network AWS Single Sign-On (SSO)
+ AWS Scaling and Managing TIBCO DataSynapse GridServer on AWS
+Amazon EC2 AWS Marketplace
+  </description>
+    </item>
     
     <item>
       <title>27 November, 2021</title>
