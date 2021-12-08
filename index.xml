@@ -6,10 +6,121 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>08 December, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/12/08/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/12/08/</guid>
+      <description>AWS Use unsupervised training with K-means clustering in Amazon Redshift ML
+Amazon Redshift Analytics
+ AWS Anatomy of a Supply Chain Ransomware Attack and How to Prevent it with Barracuda’s CloudGen WAF on AWS
+AWS Marketplace AWS Partner Network
+ AWS Exasol Launches New SaaS Analytics Database with Support of AWS SaaS Factory
+Analytics AWS Partner Network
+ AWS Implementing Centralized Fine-Grained Access Control with Immuta and AWS
+AWS Partner Network Customer Solutions</description>
+    </item>
+    
+    <item>
+      <title>07 December, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/12/07/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/12/07/</guid>
+      <description>AWS BBC delivers live, UHD coverage of UEFA Euros and Wimbledon with AWS
+AWS Elemental Live Customer Solutions
+ AWS How to use Application Load Balancer and Amazon Cognito to authenticate users for your Kubernetes web apps
+Amazon Cognito Containers
+ AWS AWS Glue streaming ETL jobs now integrates with the AWS Glue Schema Registry
+ AWS AWS Systems Manager announces new features for Session Manager to support maximum session timeout and annotate reason for starting the session</description>
+    </item>
+    
+    <item>
+      <title>06 December, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/12/06/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/12/06/</guid>
+      <description>AWS Data preparation for machine learning using Amazon Timestream
+Amazon Timestream
+ AWS Re:Invent 2021 releases and launches for M&amp;amp;E workloads
+Amazon Cloudwatch Amazon Personalize
+ AWS AWS computer vision and Amazon Rekognition: AWS recognized as an IDC MarketScape Leader in Asia Pacific (excluding Japan), up to 38% price cut, and major new features
+Amazon Rekognition Artificial Intelligence
+ AWS Taking the Trouble Out of Ticketing with ServiceNow and AWS Support APIs</description>
+    </item>
+    
+    <item>
+      <title>03 December, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/12/03/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/12/03/</guid>
+      <description>AWS Introducing AWS AppConfig Feature Flags In Preview
+Announcements Developer Tools
+ AWS Red Hat OpenShift Service on AWS (ROSA) annual contracts
+Containers Rosa
+ AWS AWS attained MTCS Level 3 certification under the new SS584:2020 standard
+Announcements Security, Identity, &amp;amp; Compliance
+ AWS Integrate Okta to Extend Active Directory Infrastructure into AWS
+Amazon VPC Architecture
+ AWS Amazon Redshift announces preview of Automated Materialized View
+ AWS AWS Lambda now logs Hyperplane Elastic Network Interface (ENI) ID in AWS CloudTrail data events</description>
+    </item>
+    
+    <item>
+      <title>02 December, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/12/02/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/12/02/</guid>
+      <description>AWS New – FreeRTOS Extended Maintenance Plan for Up to 10 Years
+AWS Re:Invent Freertos
+ AWS Run queries 3x faster with up to 70% cost savings on the latest Amazon Athena engine
+Amazon Athena
+ AWS Thursday, December 2: Media &amp;amp; Entertainment sessions at re:Invent
+Announcements AWS Re:Invent
+ AWS San Francisco Opera makes beautiful music with Elk LIVE, AWS edge computing, and 5G
+AWS Wavelength Customer Solutions</description>
+    </item>
+    
+    <item>
+      <title>01 December, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/12/01/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/12/01/</guid>
+      <description>AWS New – Site-to-Site Connectivity with AWS Direct Connect SiteLink
+AWS Direct Connect AWS Re:Invent
+ AWS SLOs Made Easier with Nobl9 and Amazon CloudWatch Metrics Insights (Preview)
+Amazon Cloudwatch Management &amp;amp; Governance
+ AWS Announcing Amazon SageMaker Inference Recommender
+Amazon Sagemaker Announcements
+ AWS Quickly build custom search applications without writing code using Amazon Kendra Experience Builder
+Amazon Kendra Artificial Intelligence
+ AWS Expedite conversation design with the automated chatbot designer in Amazon Lex</description>
+    </item>
+    
+    <item>
+      <title>30 November, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/11/30/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/11/30/</guid>
+      <description>AWS Integrate Etleap with Amazon Redshift Streaming Ingestion (preview) to make data available in seconds
+Amazon Redshift Kinesis Data Streams
+ AWS Enabling Digital Automation in Intelligent Document Processing (IDP) for Public Sector Partners and Customers Using AWS AI
+Amazon Machine Learning Amazon Textract
+ AWS Introducing AWS Migration and Modernization Competency Partners
+Announcements AWS Partner Network
+ AWS Leveraging the Power of Esri’s ArcGIS Enterprise Through Amazon Redshift</description>
+    </item>
     
     <item>
       <title>29 November, 2021</title>
@@ -17,13 +128,14 @@
       <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/11/29/</guid>
-      <description> AWS Federated Access to AWS Single Sign-On with CyberArk Workforce Identity
+      <description>AWS Federated Access to AWS Single Sign-On with CyberArk Workforce Identity
 AWS Partner Network AWS Single Sign-On (SSO)
- AWS Scaling and Managing TIBCO DataSynapse GridServer on AWS
-Amazon EC2 AWS Marketplace
- AWS Behind the Scenes: What Makes a SaaS Organization Successful on AWS?
-AWS Marketplace AWS Partner Network
-  </description>
+ AWS AWS Ground Station launches expanded support for Software Defined Radios in Preview
+ AWS Amazon Personalize announces recommenders optimized for Retail and Media &amp;amp; Entertainment
+Amazon Personalize Artificial Intelligence
+ AWS Volotea MRO Modernization in AWS
+Amazon Appstream 2.0 Amazon EC2
+ AWS AWS Security Profiles: Jenny Brinkley, Director, AWS Security</description>
     </item>
     
     <item>
@@ -4589,14 +4701,14 @@ Amazon Eventbridge Amazon Simple Notification Service (SNS)
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2020/11/30/</guid>
-      <description>Using SSH Remote Forwarding for Private Access
-10:50 PM &amp;#8226; Oracle A-Team Chronicles Analytics &amp;amp;amp; Reporting
- Azure Sphere SDK version 20.11 is now available
-10:35 PM &amp;#8226; Azure
- Keeping your data lake clean and compliant with Amazon Athena
-10:08 PM &amp;#8226; AWS Amazon Athena Amazon S3 Glacier
- Customization, automation and scalability in customer service: Integrating Genesys Cloud and AWS Contact Center Intelligence
-09:34 PM &amp;#8226; AWS Amazon Lex Artificial Intelligence</description>
+      <description>AWS AWS On Air – re:Invent Weekly Streaming Schedule
+Announcements AWS Re:Invent
+ AWS How to Connect Your LoRaWAN Devices to AWS IoT Core Using Actility ThingPark
+AWS Marketplace AWS Partner Network
+ AWS How to Drive Digital Transformation with Comprehensive Cloud Skills Training
+AWS Partner Network AWS Training And Certification
+ AWS Build a scheduler as a service with Amazon CloudWatch Events, Amazon EventBridge, and AWS Lambda
+Management Tools Technical How-To</description>
     </item>
     
     <item>
