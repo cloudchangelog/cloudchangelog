@@ -6,10 +6,22 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>09 December, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/12/09/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/12/09/</guid>
+      <description> AWS Hardening the security of your AWS Elastic Beanstalk Application the Well-Architected way
+AWS Elastic Beanstalk Best Practices
+ AWS Amazon Comprehend Medical adds support for SNOMED CT and reduces pricing across all APIs by up to 90%
+  </description>
+    </item>
     
     <item>
       <title>08 December, 2021</title>
@@ -19,11 +31,10 @@
       <guid>https://cloudchangelog.com/posts/2021/12/08/</guid>
       <description>AWS Use unsupervised training with K-means clustering in Amazon Redshift ML
 Amazon Redshift Analytics
- AWS AWS End-of-support Migration Program (EMP) Now Supports Assisted Packaging for applications without installation media
- AWS Amazon RDS for MariaDB supports new minor versions 10.5.13, 10.4.22, 10.3.32, 10.2.41
- AWS Using AWS PrivateLink for Amazon S3 for Private Connectivity Between Snowflake and Amazon S3
-Amazon Simple Storage Service (S3) AWS Partner Network
- AWS AWS Systems Manager now supports application-level cost reporting</description>
+ AWS Amazon DevOps Guru introduces enhanced analysis for Amazon Aurora databases and support for AWS tags as an application boundary
+ AWS Amazon EC2 C5n instances now available in Africa (Cape Town) Region
+ AWS AWS IoT Core now supports caching of responses returned by customer’s Custom Authorizer Lambdas when using HTTP connections
+ AWS AWS Launch Wizard now provides guided deployment of Remote Desktop Gateway</description>
     </item>
     
     <item>
