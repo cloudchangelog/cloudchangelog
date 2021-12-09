@@ -17,14 +17,13 @@
       <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/12/09/</guid>
-      <description> AWS Hardening the security of your AWS Elastic Beanstalk Application the Well-Architected way
+      <description>AWS Hardening the security of your AWS Elastic Beanstalk Application the Well-Architected way
 AWS Elastic Beanstalk Best Practices
- AWS Amazon Comprehend Medical adds support for SNOMED CT and reduces pricing across all APIs by up to 90%
- Azure Geospatial imagery unlocks new cloud computing scenarios on Azure
-Cloud Strategy Cognitive Services
- Azure New satellite connectivity and geospatial capabilities with Azure Space
-Cloud Strategy Azure Maps
-  </description>
+ AWS EKS add-ons now supports EBS CSI driver
+ AWS AWS App2Container(A2C) now supports containerization of .NET Core / .NET 5 applications
+ AWS Visualize live analytics from Amazon QuickSight connected to Amazon OpenSearch Service
+Amazon Opensearch Service (Successor To Amazon Elasticsearch Service) Amazon Quicksight
+ AWS Amazon Comprehend Medical adds support for SNOMED CT and reduces pricing across all APIs by up to 90%</description>
     </item>
     
     <item>
@@ -35,10 +34,12 @@ Cloud Strategy Azure Maps
       <guid>https://cloudchangelog.com/posts/2021/12/08/</guid>
       <description>AWS Use unsupervised training with K-means clustering in Amazon Redshift ML
 Amazon Redshift Analytics
- AWS Amazon DevOps Guru introduces enhanced analysis for Amazon Aurora databases and support for AWS tags as an application boundary
- AWS Amazon EC2 C5n instances now available in Africa (Cape Town) Region
- AWS AWS IoT Core now supports caching of responses returned by customer’s Custom Authorizer Lambdas when using HTTP connections
- AWS AWS Launch Wizard now provides guided deployment of Remote Desktop Gateway</description>
+ AWS Exasol Launches New SaaS Analytics Database with Support of AWS SaaS Factory
+Analytics AWS Partner Network
+ AWS Implementing Centralized Fine-Grained Access Control with Immuta and AWS
+AWS Partner Network Customer Solutions
+ AWS Clinical text mining using the Amazon Comprehend Medical new SNOMED CT API
+Amazon Comprehend Medical Amazon ML Solutions Lab</description>
     </item>
     
     <item>
