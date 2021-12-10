@@ -6,10 +6,26 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 December, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/12/10/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/12/10/</guid>
+      <description> AWS Configure alerts of high CPU usage in applications using Amazon OpenSearch Service anomaly detection: Part 1
+Amazon Opensearch Service (Successor To Amazon Elasticsearch Service)
+ AWS A new standard for remote QC and playback
+Content Production Customer Solutions
+ AWS Collecting data from edge devices using Kubernetes and AWS IoT Greengrass V2
+Amazon EC2 AWS Iot Greengrass
+ Oracle New release for Big Data
+  </description>
+    </item>
     
     <item>
       <title>09 December, 2021</title>
@@ -19,12 +35,11 @@
       <guid>https://cloudchangelog.com/posts/2021/12/09/</guid>
       <description>AWS Hardening the security of your AWS Elastic Beanstalk Application the Well-Architected way
 AWS Elastic Beanstalk Best Practices
- AWS Experience Digital’s Purpose-Built Assessment Tool Created Using AWS Lambda
-AWS Lambda AWS Partner Network
- AWS Visualize live analytics from Amazon QuickSight connected to Amazon OpenSearch Service
-Amazon Opensearch Service (Successor To Amazon Elasticsearch Service) Amazon Quicksight
- AWS Amazon Redshift launches single-node RA3.xlplus cluster
- AWS Implementing Auto Scaling for EC2 Mac Instances</description>
+ AWS Identify operational issues quickly by using Grafana and Amazon CloudWatch Metrics Insights (Preview)
+Amazon Cloudwatch Announcements
+ AWS Amazon Route 53 updates API actions
+ AWS Amazon FSx for NetApp ONTAP reduces minimum file system throughput capacity to 128 MB/s
+ AWS You can now enable data compression for capacity pool storage in Amazon FSx for NetApp ONTAP file systems</description>
     </item>
     
     <item>
