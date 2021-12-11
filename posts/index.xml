@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>11 December, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/12/11/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/12/11/</guid>
+      <description> GCP Google Cloud Armor WAF rule to help mitigate CVE-2021-44228 Apache Log4j vulnerability
+Google Cloud Identity &amp;amp; Security  </description>
+    </item>
     
     <item>
       <title>10 December, 2021</title>
