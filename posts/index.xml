@@ -17,15 +17,13 @@
       <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/12/13/</guid>
-      <description> AWS Using an Amazon MQ network of broker topologies for distributed microservices
+      <description>AWS Using an Amazon MQ network of broker topologies for distributed microservices
 Amazon MQ Serverless
  AWS View summarized data with Amazon OpenSearch Service Index Transforms
 Amazon Opensearch Service (Successor To Amazon Elasticsearch Service)
- GCP Betting on Cloud SQL pays off for oddschecker
-Google Cloud Developers &amp;amp; Practitioners
- GCP Investigating the usage of GCP Service Accounts
-Google Cloud Identity &amp;amp; Security
-  </description>
+ AWS Replicate your data from Amazon Aurora MySQL to Amazon ElastiCache for Redis using AWS DMS
+Amazon Aurora Amazon Elasticache
+ AWS Machine learning inference at the edge using Amazon Lookout for Vision and AWS IoT Greengrass</description>
     </item>
     
     <item>
