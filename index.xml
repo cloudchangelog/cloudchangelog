@@ -17,7 +17,7 @@
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/12/14/</guid>
-      <description> AWS Building ATSC 3.0 workflows on AWS
+      <description>AWS Building ATSC 3.0 workflows on AWS
 AWS Elemental Mediaconvert AWS Elemental Medialive
  AWS Architecture Monthly Magazine: Agriculture
 Announcements Architecture
@@ -25,8 +25,9 @@ Announcements Architecture
 Launch News
  AWS Effective queries for common query patterns in Amazon Timestream
 Amazon Timestream
- Oracle Data Science now includes model deployment monitoring
-  </description>
+ AWS Train and deploy a FairMOT model with Amazon SageMaker
+Amazon Sagemaker Artificial Intelligence
+ AWS Autonomous ML-based detection and identification of root cause for incidents in microservices running on EKS</description>
     </item>
     
     <item>
