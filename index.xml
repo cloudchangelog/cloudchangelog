@@ -6,10 +6,24 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>14 December, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/12/14/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/12/14/</guid>
+      <description> AWS Building ATSC 3.0 workflows on AWS
+AWS Elemental Mediaconvert AWS Elemental Medialive
+ AWS Architecture Monthly Magazine: Agriculture
+Announcements Architecture
+ Oracle Data Science now includes model deployment monitoring
+  </description>
+    </item>
     
     <item>
       <title>13 December, 2021</title>
@@ -19,12 +33,11 @@
       <guid>https://cloudchangelog.com/posts/2021/12/13/</guid>
       <description>AWS Using an Amazon MQ network of broker topologies for distributed microservices
 Amazon MQ Serverless
- AWS Amazon EC2 C6i instances are now available in 10 additional regions
- AWS Open source hotpatch for Apache Log4j vulnerability
-Announcements Customer Solutions
- AWS Developing a Serverless, Fully-Managed Connected Vehicle Platform with Real-Time Analytics on AWS
-Automotive AWS Partner Network
- AWS Amazon EC2 M6i instances are now available in 2 additional regions</description>
+ AWS Amazon EC2 R6i instances are now available in 8 additional regions
+ AWS Machine learning inference at the edge using Amazon Lookout for Vision and AWS IoT Greengrass
+Amazon Lookout For Vision Artificial Intelligence
+ AWS Amazon Lookout for Vision now supports visual inspection of product defects at the edge
+Amazon Lookout For Vision Artificial Intelligence</description>
     </item>
     
     <item>
