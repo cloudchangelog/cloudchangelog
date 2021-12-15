@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>15 December, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/12/15/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/12/15/</guid>
+      <description> AWS Photogrammetry reconstruction with 3Dflow on AWS
+Content Production Media &amp;amp; Entertainment  </description>
+    </item>
     
     <item>
       <title>14 December, 2021</title>
@@ -19,11 +29,14 @@
       <guid>https://cloudchangelog.com/posts/2021/12/14/</guid>
       <description>AWS Building ATSC 3.0 workflows on AWS
 AWS Elemental Mediaconvert AWS Elemental Medialive
- AWS Process Amazon Redshift data and schedule a training pipeline with Amazon SageMaker Processing and Amazon SageMaker Pipelines
-Amazon Redshift Amazon Sagemaker
- AWS Modernize your Penetration Testing Architecture on AWS Fargate
-Amazon API Gateway Amazon Elastic Container Service
- AWS Amazon Nimble Studio adds new features to support Linux, Usage Based Licensing, and Los Angeles Local Zone</description>
+ AWS IBM Cloud Pak for Data Simplifies and Automates How You Turn Data into Insights
+Analytics AWS Marketplace
+ AWS Now Open – AWS Asia Pacific (Jakarta) Region
+Launch News
+ AWS Architecture Monthly Magazine: Agriculture
+Announcements Architecture
+ AWS Unify log aggregation and analytics across compute platforms
+Amazon Elastic Container Service Amazon Elastic Kubernetes Service</description>
     </item>
     
     <item>
