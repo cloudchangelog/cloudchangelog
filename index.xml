@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2021/12/14/</guid>
       <description>AWS Building ATSC 3.0 workflows on AWS
 AWS Elemental Mediaconvert AWS Elemental Medialive
- AWS Automate the configuration of Amazon S3 Object Lambda to process data as its retrieved
-Amazon Simple Storage Service (S3) AWS Cloudformation
- AWS Amazon Nimble Studio adds new features to support Linux, Usage Based Licensing, and Los Angeles Local Zone
+ AWS Process Amazon Redshift data and schedule a training pipeline with Amazon SageMaker Processing and Amazon SageMaker Pipelines
+Amazon Redshift Amazon Sagemaker
  AWS Modernize your Penetration Testing Architecture on AWS Fargate
-Amazon API Gateway Amazon Elastic Container Service</description>
+Amazon API Gateway Amazon Elastic Container Service
+ AWS Amazon Nimble Studio adds new features to support Linux, Usage Based Licensing, and Los Angeles Local Zone</description>
     </item>
     
     <item>
