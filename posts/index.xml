@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>16 December, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/12/16/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/12/16/</guid>
+      <description> Oracle New Release for Data Catalog
+  </description>
+    </item>
     
     <item>
       <title>15 December, 2021</title>
@@ -19,12 +29,11 @@
       <guid>https://cloudchangelog.com/posts/2021/12/15/</guid>
       <description>AWS Photogrammetry reconstruction with 3Dflow on AWS
 Content Production Media &amp;amp; Entertainment
- AWS Increase Operational Efficiency and Drive Faster Business Outcomes with UiPath Robots on AWS
-Artificial Intelligence AWS Marketplace
- AWS Using SailPoint with Amazon EventBridge to Extend Your Governance Platform
-Amazon Eventbridge AWS Marketplace
- AWS How Capgemini is Enabling Organizations and Employees to Return to the Office Using AWS Services
-AWS Partner Network Customer Solutions</description>
+ AWS Build a computer vision model using Amazon Rekognition Custom Labels and compare the results with a custom trained TensorFlow model
+Amazon Rekognition Amazon Sagemaker
+ AWS Automate Container Anomaly Monitoring of Amazon Elastic Kubernetes Service Clusters with Amazon DevOps Guru
+Amazon Devops Guru Amazon Elastic Kubernetes Service
+ AWS Backup and Restore Strategies for Amazon RDS for SQL Server</description>
     </item>
     
     <item>
