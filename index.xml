@@ -17,10 +17,15 @@
       <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2021/12/16/</guid>
-      <description> AWS How Near reduced latency by four times and achieved 99.9% uptime by migrating to Amazon ElastiCache
+      <description>AWS How Near reduced latency by four times and achieved 99.9% uptime by migrating to Amazon ElastiCache
 Amazon Elasticache Case Study
- Oracle New Release for Data Catalog
-  </description>
+ AWS Ibotta builds a self-service data lake with AWS Glue
+AWS Glue Case Study
+ AWS What’s new in Amazon Redshift – 2021, a year in review
+Amazon Redshift
+ AWS Serverless Scheduling with Amazon EventBridge, AWS Lambda, and Amazon DynamoDB
+Amazon Dynamodb Amazon Eventbridge
+ GCP Google Cloud enables the National Cancer Institute&amp;rsquo;s Institute for Systems Biology-Cancer Gateway in the Cloud to support breast cancer research with fast and secure data sharing</description>
     </item>
     
     <item>
