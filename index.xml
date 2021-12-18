@@ -6,10 +6,21 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>18 December, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/12/18/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/12/18/</guid>
+      <description> AWS Live call analytics for your contact center with Amazon language AI services
+ AWS Post call analytics for your contact center with Amazon language AI services
+Amazon Comprehend Amazon Connect  </description>
+    </item>
     
     <item>
       <title>17 December, 2021</title>
