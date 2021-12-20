@@ -6,10 +6,26 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20 December, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/12/20/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/12/20/</guid>
+      <description>AWS Query cross-account AWS Glue Data Catalogs using Amazon Athena
+Amazon Athena Analytics
+ AWS AWS named a Leader in 2021 Gartner Magic Quadrant for Cloud Database Management Systems
+Amazon Aurora Amazon Dynamodb
+ AWS Mint and deploy NFTs to the Ethereum blockchain using Amazon Managed Blockchain
+Amazon Managed Blockchain
+ AWS Amazon Detective simplifies account management with the support for AWS Organizations
+ Azure Public preview: Azure Percept DK November (2111) software update is available</description>
+    </item>
     
     <item>
       <title>19 December, 2021</title>
