@@ -19,11 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/12/21/</guid>
       <description>AWS Run SQL Server Reporting Services reports against Babelfish for Aurora PostgreSQL
 Amazon Aurora Postgresql Compatible
- AWS Modernize and containerize a legacy MVC .NET application with Entity Framework to .NET Core with Entity Framework Core: Part 3
-Amazon Aurora Amazon RDS
- AWS Use machine learning to filter user-generated content and protect your brand
-Amazon Rekognition Data Science
- AWS Automating Index State Management for Amazon OpenSearch Service (successor to Amazon Elasticsearch Service)</description>
+ AWS Amazon Connect Customer Profiles is now PCI compliant and in scope for SOC 1 and SOC 2
+ AWS Amazon MSK adds support for Apache Kafka version 2.7.2
+ AWS 2021 FINMA ISAE 3000 Type 2 attestation report for Switzerland now available on AWS Artifact
+Financial Services Security, Identity, &amp;amp; Compliance</description>
     </item>
     
     <item>
