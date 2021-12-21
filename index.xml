@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>21 December, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/12/21/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/12/21/</guid>
+      <description> AWS Run SQL Server Reporting Services reports against Babelfish for Aurora PostgreSQL
+Amazon Aurora Postgresql Compatible
+ AWS Modernize and containerize a legacy MVC .NET application with Entity Framework to .NET Core with Entity Framework Core: Part 3
+Amazon Aurora Amazon RDS
+ AWS Use machine learning to filter user-generated content and protect your brand
+Amazon Rekognition Data Science
+  </description>
+    </item>
     
     <item>
       <title>20 December, 2021</title>
