@@ -19,10 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2021/12/21/</guid>
       <description>AWS Run SQL Server Reporting Services reports against Babelfish for Aurora PostgreSQL
 Amazon Aurora Postgresql Compatible
- AWS Amazon Connect Customer Profiles is now PCI compliant and in scope for SOC 1 and SOC 2
- AWS Amazon MSK adds support for Apache Kafka version 2.7.2
- AWS 2021 FINMA ISAE 3000 Type 2 attestation report for Switzerland now available on AWS Artifact
-Financial Services Security, Identity, &amp;amp; Compliance</description>
+ AWS Amazon MSK adds support for Apache Kafka version 2.6.3
+ AWS Amazon RDS for Oracle now supports Oracle Connection Manager (CMAN)
+ AWS EC2 Image Builder adds console support for custom image creation from on-premise images
+ AWS Porting Assistant for .NET adds support for .NET 6 and conversion of ASP.NET Web Forms applications to ASP.</description>
     </item>
     
     <item>
