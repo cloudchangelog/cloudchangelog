@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>27 December, 2021</title>
+      <link>https://cloudchangelog.com/posts/2021/12/27/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2021/12/27/</guid>
+      <description> AWS How Twilio modernized its billing platform on Amazon Aurora MySQL
+Amazon Aurora Case Study
+ AWS Best Practices on how to configure Monitoring and Alerts for Amazon RDS for SQL Server: Part 2
+Amazon RDS Best Practices
+ AWS Best Practices on how to configure Monitoring and Alerts for Amazon RDS for SQL Server: Part1
+Amazon RDS Best Practices
+  </description>
+    </item>
     
     <item>
       <title>24 December, 2021</title>
