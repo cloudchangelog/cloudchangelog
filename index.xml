@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>03 January, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/01/03/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/01/03/</guid>
+      <description>AWS Perform delta data loads to data lakes using AWS DMS
+AWS Database Migration Service
+ AWS AWS SAN in the Cloud: Millions of IOPs and tens of GB/s to any Amazon EC2 instance
+Amazon EC2 Amazon Elastic Block Store (Amazon EBS)
+ AWS How CineSend manages their media content using S3 Intelligent-Tiering
+Amazon Simple Storage Service (S3) Customer Solutions
+ AWS Progressive Delivery using AWS App Mesh and Flagger</description>
+    </item>
     
     <item>
       <title>30 December, 2021</title>
