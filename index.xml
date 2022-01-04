@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>04 January, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/01/04/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/01/04/</guid>
+      <description> AWS Root and Nested Organizational Unit Support for Customizations for AWS Control Tower
+AWS Cloud9 AWS Codebuild
+ AWS A beginners’ guide for Finance and Operations teams in their cloud migration journey
+Customer Solutions Enterprise Strategy
+ AWS Managing configuration compliance across your organization with AWS Systems Manager Quick Setup
+AWS Config AWS Organizations
+  </description>
+    </item>
     
     <item>
       <title>03 January, 2022</title>
