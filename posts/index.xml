@@ -19,13 +19,9 @@
       <guid>https://cloudchangelog.com/posts/2022/01/04/</guid>
       <description>AWS Root and Nested Organizational Unit Support for Customizations for AWS Control Tower
 AWS Cloud9 AWS Codebuild
- AWS A beginners’ guide for Finance and Operations teams in their cloud migration journey
-Customer Solutions Enterprise Strategy
- AWS Managing configuration compliance across your organization with AWS Systems Manager Quick Setup
-AWS Config AWS Organizations
- AWS ICYMI: Serverless Q4 2021
-Amazon Dynamodb Amazon Eventbridge
- AWS Amazon ECS launches new simplified console experience for creating ECS clusters and task definitions</description>
+ AWS AWS Storage Gateway now supports Dell EMC NetWorker 19.5 and Veeam Backup &amp;amp; Replication 11A on Tape Gateway
+ AWS Amazon Managed Blockchain (AMB) announces support for Hyperledger Fabric v2.2
+ AWS Amazon EMR on EKS releases Custom Image Validation Tool to simplify testing of your customized docker container images</description>
     </item>
     
     <item>
