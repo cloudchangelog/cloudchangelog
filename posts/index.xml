@@ -19,13 +19,9 @@
       <guid>https://cloudchangelog.com/posts/2022/01/05/</guid>
       <description>AWS Monitor AWS resources created by Terraform in Amazon DevOps Guru using tfdevops
 Amazon Devops Guru AWS Cloudformation
- AWS Building a Cloud-Native File Transfer Platform Using AWS Transfer Family Workflows
-Amazon Cloudwatch Architecture
- AWS Announcing AWS Data Exchange for Amazon Redshift (Preview)
- Azure Accelerate the in-vehicle digital experience with Azure Cognitive Services
-Artificial Intelligence Partner
- Azure Public preview: Semantic Search update
- Azure Azure SQL—Public preview updates for early January 2022</description>
+ AWS Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now supports anomaly detection for historical data
+ AWS Amazon EMR on EKS adds error message details in DescribeJobRun API response to simplify debugging
+ AWS Amazon RDS for Oracle now supports October 2021 Release Update (RU) for Oracle Database 12.2 and 19c</description>
     </item>
     
     <item>
