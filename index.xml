@@ -6,10 +6,23 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>06 January, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/01/06/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/01/06/</guid>
+      <description> AWS Validating addresses with AWS Lambda and the Amazon Location Service
+Amazon Location AWS Lambda
+ AWS Developing a Platform for Software-defined Vehicles with Continental Automotive Edge (CAEdge)
+Architecture Automotive
+  </description>
+    </item>
     
     <item>
       <title>05 January, 2022</title>
