@@ -19,9 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2022/01/05/</guid>
       <description>AWS Monitor AWS resources created by Terraform in Amazon DevOps Guru using tfdevops
 Amazon Devops Guru AWS Cloudformation
- AWS Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now supports anomaly detection for historical data
- AWS Amazon EMR on EKS adds error message details in DescribeJobRun API response to simplify debugging
- AWS Amazon RDS for Oracle now supports October 2021 Release Update (RU) for Oracle Database 12.2 and 19c</description>
+ AWS AWS IoT Device Management launches Automated Retry capability for Jobs to improve success rates of large scale deployments
+ AWS Set up cross-account audit logging for your Amazon Redshift cluster
+Amazon Redshift Analytics
+ AWS How Wix empowers customer care with AI capabilities using Amazon Transcribe
+Amazon Transcribe Artificial Intelligence</description>
     </item>
     
     <item>
