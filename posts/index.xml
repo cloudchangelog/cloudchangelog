@@ -19,8 +19,9 @@
       <guid>https://cloudchangelog.com/posts/2022/01/07/</guid>
       <description>AWS Optimizing SAS Grid on AWS with Amazon FSx for Lustre
 Amazon EC2 Amazon Fsx For Lustre
+ AWS Blur faces in videos automatically with Amazon Rekognition Video
+Amazon Machine Learning Amazon Rekognition
  AWS Amazon AppStream 2.0 now provides application entitlements for SAML 2.0 federated user identities
- AWS Amazon EC2 M6a Instances are Now Available in Asia Pacific (Mumbai) AWS Region
  AWS Amazon ECR adds the ability to monitor repository pull statistics
  AWS AWS IoT Core for LoRaWAN Launches Two New Features to Manage and Monitor Communications Between Device and Cloud</description>
     </item>
@@ -210,11 +211,12 @@ Amazon Aurora Postgresql Compatible
       <guid>https://cloudchangelog.com/posts/2021/12/20/</guid>
       <description>AWS Query cross-account AWS Glue Data Catalogs using Amazon Athena
 Amazon Athena Analytics
- AWS AWS DataSync can now copy data to and from Amazon FSx for Lustre
- AWS AWS Well-Architected Tool adds four new Trusted Advisor checks
- AWS AWS Trusted Advisor adds three optimization checks for Microsoft SQL Server on Amazon EC2
- AWS Amazon Nimble Studio: The story so far
-Amazon Nimble Studio Media &amp;amp; Entertainment</description>
+ AWS Amazon Translate announces profanity masking
+ AWS Amazon Detective simplifies account management with the support for AWS Organizations
+ AWS Amazon Connect launches AWS CloudFormation support for contact flow and contact flow module resources
+ AWS Simplify setup of Amazon Detective with AWS Organizations
+Amazon Detective Best Practices
+ AWS Chaos Engineering with LitmusChaos on Amazon EKS</description>
     </item>
     
     <item>
