@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 January, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/01/10/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/01/10/</guid>
+      <description>AWS How ReliaQuest uses Amazon SageMaker to accelerate its AI innovation by 35x
+Amazon Sagemaker Case Study
+ AWS Mount Amazon EFS file systems cross-account from Amazon EKS
+Amazon Elastic File System (EFS) Amazon Elastic Kubernetes Service
+ AWS Amazon SageMaker Feature Store connector for Apache Spark for easy batch data ingestion
+ AWS Amazon RDS for MySQL Supports New Minor Versions 5.7.36, and 8.0.27
+ Azure Azure Backup - Automation updates - 2021</description>
+    </item>
     
     <item>
       <title>08 January, 2022</title>
