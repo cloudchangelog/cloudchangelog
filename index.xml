@@ -19,11 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2022/01/10/</guid>
       <description>AWS How ReliaQuest uses Amazon SageMaker to accelerate its AI innovation by 35x
 Amazon Sagemaker Case Study
- AWS Mount Amazon EFS file systems cross-account from Amazon EKS
-Amazon Elastic File System (EFS) Amazon Elastic Kubernetes Service
- AWS Amazon SageMaker Feature Store connector for Apache Spark for easy batch data ingestion
- AWS Amazon RDS for MySQL Supports New Minor Versions 5.7.36, and 8.0.27
- AWS Efficiently Scaling kOps clusters with Amazon EC2 Spot Instances</description>
+ AWS Announcing AWS PrivateLink Support for Amazon Lex
+ AWS AWS Toolkit for JetBrains IDEs adds support for ECS-Exec for troubleshooting ECS containers
+ AWS AWS Compute Optimizer supports AWS Graviton migration guidance
+AWS Compute Optimizer Compute
+ AWS Amazon EKS launches IPv6 support
+*Post Types Amazon Elastic Kubernetes Service
+ AWS Amazon SNS now supports Attribute-based access controls (ABAC)</description>
     </item>
     
     <item>
