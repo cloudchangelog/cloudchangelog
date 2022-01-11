@@ -17,11 +17,14 @@
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2022/01/11/</guid>
-      <description> AWS New – Amazon EC2 Hpc6a Instance Optimized for High Performance Computing
+      <description>AWS New – Amazon EC2 Hpc6a Instance Optimized for High Performance Computing
 Amazon EC2 High Performance Computing
  AWS Introducing Amazon EC2 Hpc6a instances
- Azure Generally available: Load Balancer SKU upgrade through PowerShell script
-  </description>
+ AWS Transform data and create dashboards using AWS Glue DataBrew and Tableau
+Analytics AWS Glue Databrew
+ AWS GitOps model for provisioning and bootstrapping Amazon EKS clusters using Crossplane and Flux
+Amazon Elastic Kubernetes Service Containers
+ AWS New IRAP full assessment report is now available on AWS Artifact for Australian customers</description>
     </item>
     
     <item>
