@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2022/01/11/</guid>
       <description>AWS New – Amazon EC2 Hpc6a Instance Optimized for High Performance Computing
 Amazon EC2 High Performance Computing
- AWS AWS AppSync now supports cache entry eviction for server-side data caching
- AWS New IRAP full assessment report is now available on AWS Artifact for Australian customers
-Announcements AWS Artifact
- AWS A new tool for creating multilingual subtitles: Content Localization on AWS
-AWS Elemental Mediaconvert Media &amp;amp; Entertainment
- AWS Announcing SageMaker Training support for ml.</description>
+ AWS Using Amazon Aurora Global Database for Low Latency without Application Changes
+Amazon Aurora Amazon Cloudwatch
+ AWS AWS Announces New Launch Speed Optimizations for Microsoft Windows Server Instances on Amazon EC2
+ AWS AWS Fargate is now available in the Asia Pacific (Jakarta) Region
+ AWS GitOps model for provisioning and bootstrapping Amazon EKS clusters using Crossplane and Flux</description>
     </item>
     
     <item>
