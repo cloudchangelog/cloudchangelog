@@ -6,10 +6,23 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>17 January, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/01/17/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/01/17/</guid>
+      <description> AWS PostgreSQL bi-directional replication using pglogical
+Amazon Aurora Amazon RDS
+ AWS How Pegasystems Manages Multi-Tenant WebSocket Rate Limiting Issues with Amazon API Gateway
+Amazon API Gateway Application Services
+  </description>
+    </item>
     
     <item>
       <title>15 January, 2022</title>
