@@ -6,10 +6,21 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>19 January, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/01/19/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/01/19/</guid>
+      <description> Oracle ADB-D on Exadata Cloud@Customer: Automatic Failover with a Standby Autonomous Container Database
+ Oracle GoldenGate is now available in the South Africa Central (Johannesburg) region
+  </description>
+    </item>
     
     <item>
       <title>18 January, 2022</title>
@@ -19,10 +30,11 @@
       <guid>https://cloudchangelog.com/posts/2022/01/18/</guid>
       <description>AWS How to validate AWS Service Catalog AppRegistry attribute groups schema and take remediation actions
 Amazon Eventbridge Amazon Simple Notification Service (SNS)
- AWS Validate database objects post-migration from Microsoft SQL Server to Amazon RDS for PostgreSQL and Amazon Aurora PostgreSQL
-Amazon Aurora Amazon RDS
- AWS Amazon RDS for SQL Server now supports new minor versions for SQL Server 2019 and 2017
- AWS Announcing new AWS Wavelength Zones in Charlotte, Detroit, Los Angeles and Minneapolis</description>
+ AWS Pop Family Entertainment previews Being Betty Flood at AWS re:Invent 2021
+Amazon Nimble Studio Media &amp;amp; Entertainment
+ AWS Amazon MQ now supports RabbitMQ version 3.8.26
+ AWS AWS Storage Gateway management console simplifies gateway creation and management
+ AWS Best practices for cross-Region aggregation of security findings</description>
     </item>
     
     <item>
