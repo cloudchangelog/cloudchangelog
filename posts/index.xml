@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20 January, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/01/20/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/01/20/</guid>
+      <description> Oracle ADB-D on Exadata Cloud@Customer: Automatic Failover with a Standby Autonomous Container Database
+  </description>
+    </item>
     
     <item>
       <title>19 January, 2022</title>
@@ -19,11 +29,9 @@
       <guid>https://cloudchangelog.com/posts/2022/01/19/</guid>
       <description>AWS Broadpeak Launches New Video Streaming API SaaS Platform with Support from AWS SaaS Factory
 AWS Partner Network Customer Solutions
- AWS Amazon Location Service enables request-based pricing for all customer use cases
- AWS Surveillance feed, long-term archival, and retrieval in AWS from different locations
-Amazon Dynamodb Amazon Kinesis
- AWS Announcing matrix routing for Amazon Location Service
- AWS Accelerate data migration using AWS DMS and AWS CDK</description>
+ AWS AWS Trusted Advisor now integrates with AWS Security Hub
+ AWS AWS Launch Wizard now supports the latest versions of SUSE Linux Enterprise Server and SAP HANA, S/4HANA, and BW/4HANA
+ AWS Centralize governance for your data lake using AWS Lake Formation while enabling a modern data architecture with Amazon Redshift Spectrum</description>
     </item>
     
     <item>
