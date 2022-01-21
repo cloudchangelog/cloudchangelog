@@ -19,9 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2022/01/20/</guid>
       <description>AWS Integrating AWS Security Hub, IBM Netcool, and ServiceNow to Secure Large Client Deployments
 AWS Partner Network Customer Solutions
- AWS Amazon EMR now supports Apache Spark SQL to insert data into and update Glue Data Catalog tables when Lake Formation integration is enabled
- AWS AWS Client VPN now supports banner text and maximum session duration
- AWS Fall 2021 PCI DSS report now available with 7 services added to compliance scope</description>
+ AWS Announcing Amazon RDS Snapshot Export to S3 in Asia Pacific (Osaka)
+ AWS Extending and exploring alarm history in Amazon CloudWatch – part 1
+Amazon Cloudwatch Management &amp;amp; Governance
+ AWS Gain insights into your Amazon Kinesis Data Firehose delivery stream using Amazon CloudWatch
+Amazon Cloudwatch Amazon Kinesis</description>
     </item>
     
     <item>
