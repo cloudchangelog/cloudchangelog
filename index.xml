@@ -17,13 +17,14 @@
       <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2022/01/21/</guid>
-      <description> AWS Build an observability solution using managed AWS services and the OpenTelemetry standard
+      <description>AWS Build an observability solution using managed AWS services and the OpenTelemetry standard
 Amazon Managed Grafana Amazon Managed Service For Prometheus
  AWS Use Docker containers to deploy Graph Notebooks on AWS
 Amazon Neptune
- GCP Sprinklr and Google Cloud join forces to help enterprises reimagine their customer experience management strategies
-Google Cloud Google Cloud In Asia Pacific
-  </description>
+ AWS Amazon GuardDuty Enhances Detection of EC2 Instance Credential Exfiltration
+Amazon Guardduty News
+ AWS Pylon One powers up delegate live virtual event platform with Amazon IVS
+Amazon Interactive Video Service Media &amp;amp; Entertainment</description>
     </item>
     
     <item>
@@ -150,11 +151,11 @@ AWS Backup Best Practices
       <guid>https://cloudchangelog.com/posts/2022/01/11/</guid>
       <description>AWS New – Amazon EC2 Hpc6a Instance Optimized for High Performance Computing
 Amazon EC2 High Performance Computing
- AWS Amazon Redshift Spectrum now offers custom data validation rules
- AWS AWS AppSync now supports cache entry eviction for server-side data caching
- AWS New IRAP full assessment report is now available on AWS Artifact for Australian customers
-Announcements AWS Artifact
- AWS Announcing SageMaker Training support for ml.g5 instances</description>
+ AWS Using Amazon Aurora Global Database for Low Latency without Application Changes
+Amazon Aurora Amazon Cloudwatch
+ AWS AWS Announces New Launch Speed Optimizations for Microsoft Windows Server Instances on Amazon EC2
+ AWS AWS Fargate is now available in the Asia Pacific (Jakarta) Region
+ AWS GitOps model for provisioning and bootstrapping Amazon EKS clusters using Crossplane and Flux</description>
     </item>
     
     <item>
