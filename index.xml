@@ -19,9 +19,9 @@
       <guid>https://cloudchangelog.com/posts/2022/01/20/</guid>
       <description>AWS Integrating AWS Security Hub, IBM Netcool, and ServiceNow to Secure Large Client Deployments
 AWS Partner Network Customer Solutions
- AWS New datasets available on the Registry of Open Data from Meta, the Brazilian Space Agency, Radboud University Medical Center, and others
- AWS Amazon Rekognition improves accuracy of Content Moderation for Video
- AWS Red Hat OpenShift Service on AWS (ROSA) is now available in the Asia Pacific (Osaka) Region</description>
+ AWS Amazon EMR now supports Apache Spark SQL to insert data into and update Glue Data Catalog tables when Lake Formation integration is enabled
+ AWS AWS Client VPN now supports banner text and maximum session duration
+ AWS Fall 2021 PCI DSS report now available with 7 services added to compliance scope</description>
     </item>
     
     <item>
@@ -32,9 +32,11 @@ AWS Partner Network Customer Solutions
       <guid>https://cloudchangelog.com/posts/2022/01/19/</guid>
       <description>AWS Broadpeak Launches New Video Streaming API SaaS Platform with Support from AWS SaaS Factory
 AWS Partner Network Customer Solutions
- AWS AWS Trusted Advisor now integrates with AWS Security Hub
- AWS AWS Launch Wizard now supports the latest versions of SUSE Linux Enterprise Server and SAP HANA, S/4HANA, and BW/4HANA
- AWS Centralize governance for your data lake using AWS Lake Formation while enabling a modern data architecture with Amazon Redshift Spectrum</description>
+ AWS Accelerate data migration using AWS DMS and AWS CDK
+AWS Cloud Development Kit AWS Database Migration Service
+ AWS Amazon Location Service enables request-based pricing for all customer use cases
+ AWS Surveillance feed, long-term archival, and retrieval in AWS from different locations
+Amazon Dynamodb Amazon Kinesis</description>
     </item>
     
     <item>
