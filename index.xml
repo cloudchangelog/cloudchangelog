@@ -18,7 +18,10 @@
       
       <guid>https://cloudchangelog.com/posts/2022/01/21/</guid>
       <description> AWS Build an observability solution using managed AWS services and the OpenTelemetry standard
-Amazon Managed Grafana Amazon Managed Service For Prometheus  </description>
+Amazon Managed Grafana Amazon Managed Service For Prometheus
+ AWS Use Docker containers to deploy Graph Notebooks on AWS
+Amazon Neptune
+  </description>
     </item>
     
     <item>
