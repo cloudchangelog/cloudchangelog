@@ -17,13 +17,13 @@
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2022/01/24/</guid>
-      <description> AWS Create an Amazon CloudWatch dashboard to monitor Amazon RDS for PostgreSQL and Amazon Aurora PostgreSQL
+      <description>AWS Create an Amazon CloudWatch dashboard to monitor Amazon RDS for PostgreSQL and Amazon Aurora PostgreSQL
 Amazon Aurora Amazon Cloudwatch
  AWS Introduction to data modeling with Amazon DocumentDB (with MongoDB compatibility) for relational database users
 Amazon Documentdb
  AWS Overview of security best practices for Amazon RDS for PostgreSQL and Amazon Aurora PostgreSQL-Compatible Edition
 Amazon Aurora Amazon RDS
-  </description>
+ AWS Migrating AWS Lambda functions to Arm-based AWS Graviton2 processors</description>
     </item>
     
     <item>
