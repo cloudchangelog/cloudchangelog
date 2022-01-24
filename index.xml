@@ -19,11 +19,9 @@
       <guid>https://cloudchangelog.com/posts/2022/01/24/</guid>
       <description>AWS Create an Amazon CloudWatch dashboard to monitor Amazon RDS for PostgreSQL and Amazon Aurora PostgreSQL
 Amazon Aurora Amazon Cloudwatch
- AWS Introduction to data modeling with Amazon DocumentDB (with MongoDB compatibility) for relational database users
-Amazon Documentdb
- AWS Overview of security best practices for Amazon RDS for PostgreSQL and Amazon Aurora PostgreSQL-Compatible Edition
-Amazon Aurora Amazon RDS
- AWS Migrating AWS Lambda functions to Arm-based AWS Graviton2 processors</description>
+ AWS Amazon DocumentDB (with MongoDB compatibility) adds additional Geospatial query capabilities
+ AWS Amazon ECS now supports Amazon ECS Exec and Amazon Linux 2 for on-premises container workloads
+ AWS Amazon RDS for PostgreSQL supports new minor versions 13.5, 12.9, 11.14, 10.19, and 9.6.24; Amazon RDS on Outposts supports new PostgreSQL minor versions 13.</description>
     </item>
     
     <item>
