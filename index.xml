@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>24 January, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/01/24/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/01/24/</guid>
+      <description> AWS Create an Amazon CloudWatch dashboard to monitor Amazon RDS for PostgreSQL and Amazon Aurora PostgreSQL
+Amazon Aurora Amazon Cloudwatch
+ AWS Introduction to data modeling with Amazon DocumentDB (with MongoDB compatibility) for relational database users
+Amazon Documentdb
+ AWS Overview of security best practices for Amazon RDS for PostgreSQL and Amazon Aurora PostgreSQL-Compatible Edition
+Amazon Aurora Amazon RDS
+  </description>
+    </item>
     
     <item>
       <title>22 January, 2022</title>
