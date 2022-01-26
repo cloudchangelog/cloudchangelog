@@ -19,10 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2022/01/25/</guid>
       <description>AWS How to use tokenization to improve data security and reduce audit scope
 AWS Security Token Service Best Practices
- AWS AWS Panorama Appliances now available for purchase on Amazon.com and Amazon Business
- AWS Amazon Fsx for NetApp ONTAP now enables you to grow your SSD storage capacity
- AWS A+E Networks UK enhanced distribution using a playout solution built by AWS Partner Amagi
-AWS Elemental Mediaconnect Broadcast</description>
+ AWS Amazon EC2 R6i instances are now available in 2 additional regions
+ AWS Amazon S3 File Gateway adds schedule-based network bandwidth throttling
+ AWS How to automate AWS account creation with SSO user assignment
+Security, Identity, &amp;amp; Compliance AWS Control Tower
+ AWS Lightsail CDN now supports Lightsail Container Services as origins</description>
     </item>
     
     <item>
