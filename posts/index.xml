@@ -19,13 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2022/01/31/</guid>
       <description>AWS Mocking service integrations with AWS Step Functions Local
 AWS Step Functions Serverless
- AWS Using the circuit breaker pattern with AWS Step Functions and Amazon DynamoDB
-Amazon Dynamodb AWS Serverless Application Model
- AWS Optimize data archival costs in Amazon DocumentDB using rolling collections
-Amazon Documentdb
- AWS Transform column content and data type using AWS DMS
-AWS Database Migration Service
- AWS Migrate SQL Server to Amazon Aurora PostgreSQL using best practices and lessons learned from the field</description>
+ AWS Security practices in AWS multi-tenant SaaS environments
+Security Security, Identity, &amp;amp; Compliance
+ AWS How to securely share application log files with third parties
+Amazon EC2 Amazon Fsx For Lustre
+ AWS Amazon FSx for NetApp ONTAP with VMware Cloud on AWS Virtual Machines
+AWS Partner Network Compute
+ AWS Amazon MSK now offers the ability to scale storage throughput up to 1000 MiB/s per broker</description>
     </item>
     
     <item>
