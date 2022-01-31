@@ -6,10 +6,27 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>31 January, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/01/31/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/01/31/</guid>
+      <description>AWS Mocking service integrations with AWS Step Functions Local
+AWS Step Functions Serverless
+ AWS Using the circuit breaker pattern with AWS Step Functions and Amazon DynamoDB
+Amazon Dynamodb AWS Serverless Application Model
+ AWS Optimize data archival costs in Amazon DocumentDB using rolling collections
+Amazon Documentdb
+ AWS Transform column content and data type using AWS DMS
+AWS Database Migration Service
+ AWS Migrate SQL Server to Amazon Aurora PostgreSQL using best practices and lessons learned from the field</description>
+    </item>
     
     <item>
       <title>29 January, 2022</title>
