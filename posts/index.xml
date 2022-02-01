@@ -19,13 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2022/01/31/</guid>
       <description>AWS Mocking service integrations with AWS Step Functions Local
 AWS Step Functions Serverless
- AWS Security practices in AWS multi-tenant SaaS environments
-Security Security, Identity, &amp;amp; Compliance
- AWS How to securely share application log files with third parties
-Amazon EC2 Amazon Fsx For Lustre
- AWS Amazon FSx for NetApp ONTAP with VMware Cloud on AWS Virtual Machines
-AWS Partner Network Compute
- AWS Amazon MSK now offers the ability to scale storage throughput up to 1000 MiB/s per broker</description>
+ AWS Amazon Lex launches multiple transcripts and confidence scores support for speech input
+ AWS Use AWS Systems Manager custom Inventory to locate Log4j files on managed nodes
+Amazon Athena Amazon Quicksight
+ AWS Migrate SQL Server to Amazon Aurora PostgreSQL using best practices and lessons learned from the field
+Amazon Aurora AWS Database Migration Service</description>
     </item>
     
     <item>
