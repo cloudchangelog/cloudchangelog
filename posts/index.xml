@@ -19,11 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2022/01/31/</guid>
       <description>AWS Mocking service integrations with AWS Step Functions Local
 AWS Step Functions Serverless
- AWS Amazon Lex launches multiple transcripts and confidence scores support for speech input
- AWS Use AWS Systems Manager custom Inventory to locate Log4j files on managed nodes
-Amazon Athena Amazon Quicksight
- AWS Migrate SQL Server to Amazon Aurora PostgreSQL using best practices and lessons learned from the field
-Amazon Aurora AWS Database Migration Service</description>
+ AWS AWS Lambda auto scaling improvements for Amazon MSK and self-managed Apache Kafka as event sources
+ AWS Scaling DLT to 1M TPS on AWS: Optimizing a Regulated Liabilities Network
+Amazon EC2 Amazon Elastic Kubernetes Service
+ AWS Automating Best Practices with nOps and the AWS Well-Architected Framework
+AWS Partner Network AWS Well-Architected
+ AWS Security practices in AWS multi-tenant SaaS environments</description>
     </item>
     
     <item>
