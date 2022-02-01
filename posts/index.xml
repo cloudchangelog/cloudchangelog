@@ -45,11 +45,11 @@ Amazon Eventbridge AWS Lambda  </description>
       <guid>https://cloudchangelog.com/posts/2022/01/28/</guid>
       <description>AWS How to enable Amazon CloudWatch Alarms to send repeated notifications
 Amazon Cloudwatch Amazon Simple Notification Service (SNS)
- AWS Amazon Kinesis Data Firehose now delivers to Honeycomb
- AWS AWS Cloud Map API now supports IPv6
- AWS Amazon SageMaker Autopilot adds support for Apache Parquet file format
- AWS AWS Systems Manager Automation now enables monitoring of service usage quota in Amazon CloudWatch
- AWS Connecting an Industrial Universal Namespace to AWS IoT SiteWise using HighByte Intelligence Hub</description>
+ AWS Monitoring underlying hardware failures for EC2 instances by logging them with Amazon OpenSearch Service
+Amazon Cloudwatch Amazon Opensearch Service (Successor To Amazon Elasticsearch Service)
+ AWS Use a web browser plugin to quickly translate text with Amazon Translate
+Amazon Translate Artificial Intelligence
+ AWS AWS Systems Manager now supports higher concurrency for Automation executions</description>
     </item>
     
     <item>
