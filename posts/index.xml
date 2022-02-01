@@ -17,8 +17,14 @@
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2022/02/01/</guid>
-      <description> AWS Continuous Delivery of Amazon EKS Clusters Using AWS CDK and CDK Pipelines
-Amazon Elastic Kubernetes Service Amazon Route 53  </description>
+      <description>AWS Continuous Delivery of Amazon EKS Clusters Using AWS CDK and CDK Pipelines
+Amazon Elastic Kubernetes Service Amazon Route 53
+ AWS Part 2: Audit Aurora PostgreSQL databases using Database Activity Streams and pgAudit
+Amazon Aurora Postgresql Compatible
+ AWS Part 1: Audit Aurora PostgreSQL databases using Database Activity Streams and pgAudit
+Amazon Aurora Postgresql Compatible
+ AWS Combine Amazon Neptune and Amazon OpenSearch Service for geospatial queries
+Amazon Neptune Amazon Opensearch Service (Successor To Amazon Elasticsearch Service)</description>
     </item>
     
     <item>
