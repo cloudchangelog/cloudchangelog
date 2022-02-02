@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>02 February, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/02/02/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/02/02/</guid>
+      <description>AWS Part 1: Use ESAM in AWS Elemental Live for SCTE 35 signal conditioning and input switching
+AWS Elemental Live Direct-To-Consumer/OTT
+ AWS Amazon SQS Enhances Dead-letter Queue Management Experience For Standard Queues in AWS GovCloud (US) Regions
+ Azure Public preview: Test action groups in Azure Monitor
+ Azure Generally available: Azure Monitor Diagnostic settings for Azure Storage
+Azurestorage. Logs Diagnostic Settings
+ Azure Public preview: Execute Azure Monitor Logs connector on an exact time range</description>
+    </item>
     
     <item>
       <title>01 February, 2022</title>
