@@ -19,11 +19,9 @@
       <guid>https://cloudchangelog.com/posts/2022/02/03/</guid>
       <description>AWS How CloudFix uses AWS Systems Manager Change Manager to deliver cost savings
 AWS Systems Manager Centralized Operations Management
- AWS Demonstrate your AWS Cloud Storage knowledge and skills with new digital badges!
-AWS Training And Certification Launch
- AWS How ENGIE scales their data ingestion pipelines using Amazon MWAA
-Amazon Dynamodb Amazon Managed Workflows For Apache Airflow (Amazon MWAA)
- AWS Part 2: SCTE 35 signal conditioning in AWS Elemental Live</description>
+ AWS Amazon Keyspaces now is in scope for FedRAMP Moderate compliance to help you run highly regulated Apache Cassandra workloads more easily
+ AWS Amazon ElastiCache now supports AWS PrivateLink
+ AWS Amazon EC2 customers can now use Recycle Bin to recover from accidental deletions of Amazon Machine Images</description>
     </item>
     
     <item>
