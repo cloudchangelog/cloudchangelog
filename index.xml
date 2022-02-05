@@ -19,12 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2022/02/04/</guid>
       <description>AWS Expanding Your EC2 Possibilities By Utilizing the CPU Launch Options
 AWS Cloudformation Best Practices
- AWS How GE Aviation automated engine wash analytics with AWS Glue using a serverless architecture
-AWS Glue Case Study
- AWS Automate Amazon Connect Data Streaming using AWS CDK
-Amazon Connect Amazon Kinesis
- AWS Amazon Redshift default IAM role is now available in AWS GovCloud (US) Regions
- AWS Amazon RDS Custom for Oracle Now Supports Oracle Database 12.</description>
+ AWS AWS Storage Gateway enables on-premises users to recover previous versions of files on Amazon FSx File Gateway
+ AWS How to build a multi-Region AWS Security Hub analytic pipeline and visualize Security Hub data
+AWS Security Hub Security, Identity, &amp;amp; Compliance
+ AWS Exasol Accelerates Customers’ Migration to Cloud with Support of AWS SaaS Factory</description>
     </item>
     
     <item>
@@ -62,12 +60,11 @@ AWS Elemental Live Direct-To-Consumer/OTT
       <guid>https://cloudchangelog.com/posts/2022/02/01/</guid>
       <description>AWS Continuous Delivery of Amazon EKS Clusters Using AWS CDK and CDK Pipelines
 Amazon Elastic Kubernetes Service Amazon Route 53
- AWS Part 2: Audit Aurora PostgreSQL databases using Database Activity Streams and pgAudit
-Amazon Aurora Postgresql Compatible
- AWS Part 1: Audit Aurora PostgreSQL databases using Database Activity Streams and pgAudit
-Amazon Aurora Postgresql Compatible
- AWS Combine Amazon Neptune and Amazon OpenSearch Service for geospatial queries
-Amazon Neptune Amazon Opensearch Service (Successor To Amazon Elasticsearch Service)</description>
+ AWS Amazon FSx for Windows File Server is now FedRAMP compliant
+ AWS Amazon FSx for Lustre is now FedRAMP compliant
+ AWS How Analytics from Infosys Life Science Insights Platform Improves Patient Outcomes
+Analytics AWS Partner Network
+ AWS IBM Telematics Hub for Insurance Companies: Crash Management, Fraud Detection, Driving Behavior, and More</description>
     </item>
     
     <item>
