@@ -6,10 +6,27 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>07 February, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/02/07/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/02/07/</guid>
+      <description>AWS Media intelligence just got smarter with Media2Cloud 3.0
+Amazon Comprehend Amazon Rekognition
+ AWS Running WordPress on Amazon EKS with Amazon EFS Intelligent-tiering
+Amazon Elastic File System (EFS) Amazon Elastic Kubernetes Service
+ Azure Learn how open source plays a key role in Microsoft’s cloud strategy with Inside Azure for IT
+Cloud Strategy
+ Azure Genomic analysis on Galaxy using Azure CycleCloud
+Cloud Strategy Data Science
+ Azure Generally Available: Recovery points extended to 15 days with Azure Site Recovery</description>
+    </item>
     
     <item>
       <title>04 February, 2022</title>
