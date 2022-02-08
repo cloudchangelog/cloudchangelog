@@ -17,13 +17,14 @@
       <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2022/02/08/</guid>
-      <description> AWS Automate time series network visualizations for AWS PrivateLink using Amazon CloudWatch Contributor Insights
+      <description>AWS Automate time series network visualizations for AWS PrivateLink using Amazon CloudWatch Contributor Insights
 Amazon Cloudwatch Amazon VPC
  AWS Use AWS Systems Manager Automation to automate Snowflake storage integrations with Amazon S3
 Amazon Redshift Amazon Simple Storage Service (S3)
  AWS How UnitedHealth Group Improved Disaster Recovery for Machine-to-Machine Authentication
 Amazon Cognito Architecture
-  </description>
+ AWS Capturing client events using Amazon API Gateway and Amazon EventBridge
+Amazon API Gateway Amazon Eventbridge</description>
     </item>
     
     <item>
@@ -92,11 +93,12 @@ AWS Elemental Live Direct-To-Consumer/OTT
       <guid>https://cloudchangelog.com/posts/2022/02/01/</guid>
       <description>AWS Continuous Delivery of Amazon EKS Clusters Using AWS CDK and CDK Pipelines
 Amazon Elastic Kubernetes Service Amazon Route 53
- AWS Amazon FSx for Windows File Server is now FedRAMP compliant
- AWS Amazon FSx for Lustre is now FedRAMP compliant
- AWS How Analytics from Infosys Life Science Insights Platform Improves Patient Outcomes
-Analytics AWS Partner Network
- AWS IBM Telematics Hub for Insurance Companies: Crash Management, Fraud Detection, Driving Behavior, and More</description>
+ AWS Financial Crime Discovery using Amazon EKS and Graph Databases
+Amazon Elastic Kubernetes Service Architecture
+ AWS Part 1: Audit Aurora PostgreSQL databases using Database Activity Streams and pgAudit
+Amazon Aurora Postgresql Compatible
+ AWS Combine Amazon Neptune and Amazon OpenSearch Service for geospatial queries
+Amazon Neptune Amazon Opensearch Service (Successor To Amazon Elasticsearch Service)</description>
     </item>
     
     <item>
