@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>08 February, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/02/08/</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/02/08/</guid>
+      <description> AWS Automate time series network visualizations for AWS PrivateLink using Amazon CloudWatch Contributor Insights
+Amazon Cloudwatch Amazon VPC
+ AWS Use AWS Systems Manager Automation to automate Snowflake storage integrations with Amazon S3
+Amazon Redshift Amazon Simple Storage Service (S3)
+ AWS How UnitedHealth Group Improved Disaster Recovery for Machine-to-Machine Authentication
+Amazon Cognito Architecture
+  </description>
+    </item>
     
     <item>
       <title>07 February, 2022</title>
