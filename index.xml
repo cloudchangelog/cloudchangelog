@@ -19,13 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2022/02/08/</guid>
       <description>AWS Automate time series network visualizations for AWS PrivateLink using Amazon CloudWatch Contributor Insights
 Amazon Cloudwatch Amazon VPC
+ AWS NEW – Replicate Existing Objects with Amazon S3 Batch Replication
+Amazon Simple Storage Service (S3) Announcements
  AWS Implement MLOps using AWS pre-trained AI Services with AWS Organizations
 Amazon Machine Learning Amazon Rekognition
- AWS Automate building data lakes using AWS Service Catalog
-AWS Service Catalog
- AWS Use AnalyticsIQ with Amazon QuickSight to gain insights for your business
-Amazon Quicksight Analytics
- AWS Automate Data Sharing with Informatica Axon Data Marketplace and AWS Lake Formation</description>
+ AWS Use AWS Systems Manager Automation to automate Snowflake storage integrations with Amazon S3
+Amazon Redshift Amazon Simple Storage Service (S3)</description>
     </item>
     
     <item>
@@ -36,13 +35,12 @@ Amazon Quicksight Analytics
       <guid>https://cloudchangelog.com/posts/2022/02/07/</guid>
       <description>AWS Media intelligence just got smarter with Media2Cloud 3.0
 Amazon Comprehend Amazon Rekognition
- AWS Automating Anomaly Detection in Ecommerce Traffic Patterns
-Amazon Kinesis Amazon Lookout For Metrics
- AWS Simplify data migrations using an AWS DataSync agent on Linux KVM Hypervisor
-AWS Datasync Migration &amp;amp; Transfer Services
- AWS Instant Cutover for High-Availability Legacy Workload Migration Using AWS Outposts, CloudEndure, and Stromasys
-AWS Marketplace AWS Outposts
- AWS Amazon DynamoDB session videos from AWS re:Invent 2021</description>
+ AWS IPv6-only subnets and EC2 instances now available in AWS Asia Pacific (Jakarta) region
+ AWS Announcing AWS PrivateLink support for Amazon Forecast
+ AWS Improve high-value research with Hugging Face and Amazon SageMaker asynchronous inference endpoints
+Amazon Sagemaker Artificial Intelligence
+ AWS Running WordPress on Amazon EKS with Amazon EFS Intelligent-tiering
+Amazon Elastic File System (EFS) Amazon Elastic Kubernetes Service</description>
     </item>
     
     <item>
@@ -53,10 +51,11 @@ AWS Marketplace AWS Outposts
       <guid>https://cloudchangelog.com/posts/2022/02/04/</guid>
       <description>AWS Expanding Your EC2 Possibilities By Utilizing the CPU Launch Options
 AWS Cloudformation Best Practices
- AWS AWS Storage Gateway enables on-premises users to recover previous versions of files on Amazon FSx File Gateway
- AWS How to build a multi-Region AWS Security Hub analytic pipeline and visualize Security Hub data
-AWS Security Hub Security, Identity, &amp;amp; Compliance
- AWS Exasol Accelerates Customers’ Migration to Cloud with Support of AWS SaaS Factory</description>
+ AWS Amazon QuickSight adds rich text formatting options for visual titles and subtitles
+ AWS How GE Aviation automated engine wash analytics with AWS Glue using a serverless architecture
+AWS Glue Case Study
+ AWS Amazon Redshift default IAM role is now available in AWS GovCloud (US) Regions
+ AWS Amazon RDS Custom for Oracle Now Supports Oracle Database 12.</description>
     </item>
     
     <item>
