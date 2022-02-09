@@ -29,12 +29,9 @@ Azure Iot Central  </description>
       <guid>https://cloudchangelog.com/posts/2022/02/08/</guid>
       <description>AWS Automate time series network visualizations for AWS PrivateLink using Amazon CloudWatch Contributor Insights
 Amazon Cloudwatch Amazon VPC
- AWS NEW – Replicate Existing Objects with Amazon S3 Batch Replication
-Amazon Simple Storage Service (S3) Announcements
- AWS Implement MLOps using AWS pre-trained AI Services with AWS Organizations
-Amazon Machine Learning Amazon Rekognition
- AWS Use AWS Systems Manager Automation to automate Snowflake storage integrations with Amazon S3
-Amazon Redshift Amazon Simple Storage Service (S3)</description>
+ AWS Now consistently deploy Alert Logic MDR Agent across EC2 and On-Premises instances using AWS Systems Manager
+ AWS AWS Launch Wizard now supports the latest versions and to bring your own subscription (BYOS) for Red Hat Enterprise Linux
+ AWS AWS announces geolocation enrichment for Amazon Fraud Detector Models</description>
     </item>
     
     <item>
