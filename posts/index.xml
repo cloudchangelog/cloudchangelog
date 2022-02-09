@@ -17,11 +17,13 @@
       <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2022/02/09/</guid>
-      <description> AWS Using a CI/CD Pipeline to Inject an Envoy Proxy Sidecar Container into an Amazon ECS Task
+      <description>AWS Using a CI/CD Pipeline to Inject an Envoy Proxy Sidecar Container into an Amazon ECS Task
 Amazon Elastic Container Service Containers
- Azure Generally available: Find developer resources easily with the IoT Central GitHub repository
-Azure Iot Central
-  </description>
+ AWS Doing more with less: Moving from transactional to stateful batch processing
+Amazon Dynamodb Amazon Elasticache
+ AWS Integrate Amazon RDS Custom for Oracle with Amazon EFS
+Amazon Elastic File System (EFS) Amazon RDS
+ AWS Extract entities from insurance documents using Amazon Comprehend named entity recognition</description>
     </item>
     
     <item>
