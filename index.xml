@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 February, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/02/10/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/02/10/</guid>
+      <description> Oracle Introducing fast launch for jobs
+  </description>
+    </item>
     
     <item>
       <title>09 February, 2022</title>
@@ -19,11 +29,10 @@
       <guid>https://cloudchangelog.com/posts/2022/02/09/</guid>
       <description>AWS Using a CI/CD Pipeline to Inject an Envoy Proxy Sidecar Container into an Amazon ECS Task
 Amazon Elastic Container Service Containers
- AWS Doing more with less: Moving from transactional to stateful batch processing
-Amazon Dynamodb Amazon Elasticache
- AWS Integrate Amazon RDS Custom for Oracle with Amazon EFS
-Amazon Elastic File System (EFS) Amazon RDS
- AWS Extract entities from insurance documents using Amazon Comprehend named entity recognition</description>
+ AWS AWS Migration Hub Refactor Spaces – Now Generally Available
+ AWS AWS Transfer Family is now available in the AWS Asia Pacific (Osaka) Region
+ AWS Amazon Rekognition Video supports 7 new languages and improves accuracy for text detection
+ AWS Deep Dive on AWS App Runner VPC Networking</description>
     </item>
     
     <item>
