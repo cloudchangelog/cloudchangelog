@@ -6,10 +6,22 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>11 February, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/02/11/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/02/11/</guid>
+      <description> AWS Rethink Oracle Standard Edition Two on Amazon RDS for Oracle
+Amazon RDS RDS For Oracle
+ Oracle Updates to Data Labeling
+  </description>
+    </item>
     
     <item>
       <title>10 February, 2022</title>
