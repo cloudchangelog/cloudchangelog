@@ -6,10 +6,27 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>14 February, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/02/14/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/02/14/</guid>
+      <description>AWS Building custom connectors using the Amazon AppFlow Custom Connector SDK
+Amazon Appflow Serverless
+ AWS Use Amazon QLDB as an immutable key-value store with a REST API and JSON
+Amazon Quantum Ledger Database
+ AWS Running IBM MQ on AWS using High-performance Amazon FSx for NetApp ONTAP
+Amazon EC2 Amazon Fsx For Netapp ONTAP
+ AWS Amazon Nimble Studio Custom Configuration Introduction
+Amazon Nimble Studio Content Production
+ AWS How Rapid Application Development Affects Modernization for SAP Customers</description>
+    </item>
     
     <item>
       <title>13 February, 2022</title>
