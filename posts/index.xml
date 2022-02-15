@@ -19,13 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2022/02/14/</guid>
       <description>AWS Building custom connectors using the Amazon AppFlow Custom Connector SDK
 Amazon Appflow Serverless
- AWS Announcing sub-millisecond read latencies for Amazon Elastic File System
- AWS How Rapid Application Development Affects Modernization for SAP Customers
-AWS Partner Network Customer Solutions
- AWS Automate a shared bikes and scooters classification model with Amazon SageMaker Autopilot
-Amazon Sagemaker Customer Solutions
- AWS Amazon MQ now supports RabbitMQ version 3.9.13
- AWS AWS WAF introduces AWS WAF Fraud Control - Account Takeover Prevention for protecting your login page against credential stuffing attacks</description>
+ AWS New – Amazon EC2 C6a Instances Powered By 3rd Gen AMD EPYC Processors for Compute-Intensive Workloads
+Amazon EC2 Launch
+ AWS Introducing Amazon EC2 C6a instances
+ AWS Restoring on-premises applications from Amazon EBS Snapshots created by EBS direct APIs
+Amazon Elastic Block Store (Amazon EBS) Storage
+ AWS Use Amazon QLDB as an immutable key-value store with a REST API and JSON</description>
     </item>
     
     <item>
