@@ -17,12 +17,14 @@
       <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2022/02/17/</guid>
-      <description> AWS Build and scale direct-to-consumer streaming video offerings
+      <description>AWS Build and scale direct-to-consumer streaming video offerings
 Announcements Media &amp;amp; Entertainment
- Oracle Exadata Cloud@Customer: Specify the Same SID for Primary and Standby Databases in a Data Guard Association
- Oracle Exadata Cloud@Customer: Pluggable Database (PDB) Lifecycle Management
- Oracle Exadata Cloud@Customer: Allow Customers to Choose Data Guard Type
-  </description>
+ AWS Introducing Amazon CloudWatch Container Insights for Amazon EKS Fargate using AWS Distro for OpenTelemetry
+Amazon Cloudwatch Amazon Elastic Kubernetes Service
+ AWS Control access to Amazon Elastic Container Service resources by using ABAC policies
+Security Security, Identity, &amp;amp; Compliance
+ AWS Amazon RDS now supports Internet Protocol Version 6 (IPv6) on RDS Management APIs
+ AWS Amazon MQ is now available in Africa (Cape Town) Region</description>
     </item>
     
     <item>
