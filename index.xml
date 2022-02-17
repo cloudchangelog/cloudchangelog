@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2022/02/17/</guid>
       <description>AWS Build and scale direct-to-consumer streaming video offerings
 Announcements Media &amp;amp; Entertainment
- AWS Introducing Amazon CloudWatch Container Insights for Amazon EKS Fargate using AWS Distro for OpenTelemetry
-Amazon Cloudwatch Amazon Elastic Kubernetes Service
- AWS Control access to Amazon Elastic Container Service resources by using ABAC policies
-Security Security, Identity, &amp;amp; Compliance
- AWS Amazon RDS now supports Internet Protocol Version 6 (IPv6) on RDS Management APIs
- AWS Amazon MQ is now available in Africa (Cape Town) Region</description>
+ AWS Amazon CloudWatch Container Insights adds support for Amazon EKS Fargate using AWS Distro for OpenTelemetry
+ AWS Maintain compliance using Service Control Policies and ensure they are always applied
+Amazon Eventbridge AWS Cloudtrail
+ AWS Cross-account configuration with AWS AppConfig
+AWS Config AWS Organizations
+ AWS Implementing table partitioning in Oracle Standard Edition: Part 2</description>
     </item>
     
     <item>
