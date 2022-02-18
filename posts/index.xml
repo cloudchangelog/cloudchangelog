@@ -6,10 +6,24 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>18 February, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/02/18/</link>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/02/18/</guid>
+      <description> AWS Virtual production reference architecture with Epic Games’ Unreal Engine
+Amazon EC2 Amazon Elastic Block Store (Amazon EBS)
+ AWS AWS Transfer Family now supports login banners
+ GCP Google data experts share top data practitioner skills needed in 2022
+Developers &amp;amp; Practitioners Bigquery
+  </description>
+    </item>
     
     <item>
       <title>17 February, 2022</title>
