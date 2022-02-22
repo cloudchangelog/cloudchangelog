@@ -21,6 +21,8 @@
 Amazon EC2 Amazon Fsx For Lustre
  AWS How Cynamics built a high-scale, near-real-time, streaming AI inference system using AWS
 Amazon EMR Amazon Kinesis
+ AWS Automate Amazon RDS backups using the Oracle RMAN utility and upload backup files to Amazon S3
+Amazon RDS Amazon Simple Storage Service (S3)
   </description>
     </item>
     
