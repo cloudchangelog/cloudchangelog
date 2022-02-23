@@ -6,10 +6,24 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>22 February, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/02/22/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/02/22/</guid>
+      <description>AWS Store and analyze time-series data with multi-measure records, magnetic storage writes, and scheduled queries in Amazon Timestream
+Amazon Timestream
+ AWS Amazon SageMaker adds new APIs for JumpStart models
+ AWS Amazon Kendra is now FedRAMP Moderate Compliant
+ AWS Database Activity Streams for Amazon RDS for Oracle and Amazon Aurora now available in Asia Pacific (Jakarta) region
+ AWS Amazon Connect Customer Profiles now supports high-volume ingestion of customer data</description>
+    </item>
     
     <item>
       <title>21 February, 2022</title>
