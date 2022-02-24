@@ -19,13 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2022/02/23/</guid>
       <description>AWS Building TypeScript projects with AWS SAM CLI
 AWS Serverless Application Model Serverless
- AWS Scaling cross-account AWS KMS–encrypted Amazon S3 bucket access using ABAC
-Security, Identity, &amp;amp; Compliance ABAC
- AWS How Cohesity uses Amazon EBS direct APIs to accelerate application backup and recovery times
-Amazon Elastic Block Store (Amazon EBS) AWS Partner Network
- AWS Model-driven graphs using OWL in Amazon Neptune
-Amazon Neptune
- AWS AWS Transfer Family announces enhancements to workflows</description>
+ AWS Amazon Translate now supports formality customization for French, German, Hindi, Italian, Japanese, and Spanish
+ AWS Amazon Redshift announces support for PIVOT and UNPIVOT SQL operators
+ AWS NICE DCV releases web client SDK 1.1.0 with new UI library
+ AWS Choose the best data source for your Amazon SageMaker training job
+Amazon Sagemaker Artificial Intelligence</description>
     </item>
     
     <item>
