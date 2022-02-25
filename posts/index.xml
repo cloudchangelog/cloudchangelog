@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>25 February, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/02/25/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/02/25/</guid>
+      <description>AWS New – Additional Checksum Algorithms for Amazon S3
+Amazon S3 Glacier Amazon S3 Glacier Deep Archive
+ AWS Using DevOps Automation to Deploy Lambda APIs across Accounts and Environments
+Amazon Cloudwatch Architecture
+ AWS Amazon S3 accelerates integrity checking of requests by up to 90%
+ AWS Announcing TypeScript native support in the AWS Serverless Application Model (AWS SAM) CLI (using esbuild) (public preview)
+ AWS AWS Glue Schema Registry now supports Protocol Buffers (Protobuf) schemas</description>
+    </item>
     
     <item>
       <title>24 February, 2022</title>
