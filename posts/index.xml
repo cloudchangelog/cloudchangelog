@@ -34,10 +34,12 @@ Amazon Cloudwatch Architecture
       <guid>https://cloudchangelog.com/posts/2022/02/24/</guid>
       <description>AWS Introducing the .NET 6 runtime for AWS Lambda
 AWS Lambda Serverless
- AWS Amazon RDS for MariaDB now supports IAM Authentication
- AWS Amazon Neptune is now available in AWS Africa (Cape Town) Region
- AWS Amazon EC2 Auto Scaling Warm Pools now supports hibernating instances and returning instances to Warm Pools on scale-in
- AWS AWS Glue DataBrew now allows customers to specify single or multiple output files to generate for recipe jobs</description>
+ AWS Creating a scalable disaster recovery plan with AWS Elastic Disaster Recovery
+AWS Elastic Disaster Recovery (DRS) AWS Step Functions
+ AWS Using AWS DataSync to move data from Hadoop to Amazon S3
+Amazon Simple Storage Service (S3) AWS Datasync
+ AWS Automate your Data Extraction for Oil Well Data with Amazon Textract
+Amazon Comprehend Amazon Simple Notification Service (SNS)</description>
     </item>
     
     <item>
