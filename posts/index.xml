@@ -6,10 +6,33 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>28 February, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/02/28/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/02/28/</guid>
+      <description> AWS Codify your best practices using service control policies: Part 2
+AWS Identity And Access Management (IAM) AWS Organizations
+ AWS Codify your best practices using service control policies: Part 1
+AWS Identity And Access Management (IAM) AWS Organizations
+  </description>
+    </item>
+    
+    <item>
+      <title>27 February, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/02/27/</link>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/02/27/</guid>
+      <description> Azure New Azure for Operators solutions and services built for the future of telecommunications
+Cloud Strategy Networking  </description>
+    </item>
     
     <item>
       <title>25 February, 2022</title>
