@@ -17,11 +17,14 @@
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2022/02/28/</guid>
-      <description> AWS Codify your best practices using service control policies: Part 2
+      <description>AWS Codify your best practices using service control policies: Part 2
 AWS Identity And Access Management (IAM) AWS Organizations
  AWS Codify your best practices using service control policies: Part 1
 AWS Identity And Access Management (IAM) AWS Organizations
-  </description>
+ AWS Migrate from SQL Server to Aurora PostgreSQL using SSIS and Babelfish
+Amazon Aurora Babelfish For Aurora Postgresql
+ AWS Diving into IAM Roles for Service Accounts
+Amazon Elastic Kubernetes Service Containers</description>
     </item>
     
     <item>
