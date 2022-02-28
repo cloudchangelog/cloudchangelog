@@ -19,12 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2022/02/28/</guid>
       <description>AWS Codify your best practices using service control policies: Part 2
 AWS Identity And Access Management (IAM) AWS Organizations
- AWS Codify your best practices using service control policies: Part 1
-AWS Identity And Access Management (IAM) AWS Organizations
- AWS Migrate from SQL Server to Aurora PostgreSQL using SSIS and Babelfish
-Amazon Aurora Babelfish For Aurora Postgresql
- AWS Diving into IAM Roles for Service Accounts
-Amazon Elastic Kubernetes Service Containers</description>
+ AWS Amazon MQ now supports RabbitMQ version 3.8.27
+ AWS Amazon Aurora Supports PostgreSQL 13.5, 12.9, 11.14, and 10.19
+ AWS AWS Application Migration Service now supports Windows Server 2003, 2008, 2022, and Windows 10
+ AWS Amazon CloudWatch Container Insights adds support for Helm chart using AWS Distro for OpenTelemetry</description>
     </item>
     
     <item>
