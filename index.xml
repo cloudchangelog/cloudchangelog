@@ -17,11 +17,14 @@
       <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2022/03/02/</guid>
-      <description> AWS Three things to consider when implementing Mutual TLS with AWS App Mesh
+      <description>AWS Three things to consider when implementing Mutual TLS with AWS App Mesh
 Amazon EC2 Container Service Amazon Elastic Kubernetes Service
- Oracle Exadata Cloud@Customer: Control Plane Server (CPS) Offline Diagnostic Report
- Oracle Exadata Cloud@Customer: Enhanced Infrastructure Maintenance Controls
-  </description>
+ AWS Migrating a monolithic .NET REST API to AWS Lambda
+Amazon API Gateway AWS Lambda
+ AWS Running critical workloads with Amazon EKS and AWS Fargate at Generali Italia
+Amazon Elastic Kubernetes Service AWS Fargate
+ AWS Disaster recovery approaches for Db2 databases on AWS
+Amazon EC2 Amazon Elastic File System (EFS)</description>
     </item>
     
     <item>
