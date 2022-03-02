@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2022/03/02/</guid>
       <description>AWS Three things to consider when implementing Mutual TLS with AWS App Mesh
 Amazon EC2 Container Service Amazon Elastic Kubernetes Service
- AWS Migrating a monolithic .NET REST API to AWS Lambda
-Amazon API Gateway AWS Lambda
- AWS Running critical workloads with Amazon EKS and AWS Fargate at Generali Italia
-Amazon Elastic Kubernetes Service AWS Fargate
- AWS Disaster recovery approaches for Db2 databases on AWS
-Amazon EC2 Amazon Elastic File System (EFS)</description>
+ AWS State of Utah Application Modernization: The Express Lane from Mainframe to Cloud
+AWS Partner Network Case Study
+ AWS How the Georgia Data Analytics Center built a cloud analytics solution from scratch with the AWS Data Lab
+Amazon Athena AWS Data Lab
+ AWS ETL orchestration using the Amazon Redshift Data API and AWS Step Functions with AWS SDK integration</description>
     </item>
     
     <item>
