@@ -17,10 +17,15 @@
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2022/03/03/</guid>
-      <description> AWS Deploy consistent DNS with AWS Service Catalog and AWS Control Tower customizations
+      <description>AWS Deploy consistent DNS with AWS Service Catalog and AWS Control Tower customizations
 Amazon Route 53 Amazon Simple Notification Service (SNS)
- Oracle Logging Analytics: Use Filters to Specify Inputs in Your Dashboards
-  </description>
+ AWS Perform ETL operations using Amazon Redshift RSQL
+Amazon Redshift Analytics
+ AWS Building Blue/Green application deployment to Micro Focus Enterprise Server
+AWS Codebuild AWS Codedeploy
+ AWS Enable the visually impaired to hear documents using Amazon Textract and Amazon Polly
+Amazon Polly Amazon Textract
+ AWS Migrate On-Premises Multi-Tenant Systems to Amazon Elastic Kubernetes Service</description>
     </item>
     
     <item>
