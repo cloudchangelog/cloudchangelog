@@ -19,11 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2022/03/02/</guid>
       <description>AWS Three things to consider when implementing Mutual TLS with AWS App Mesh
 Amazon EC2 Container Service Amazon Elastic Kubernetes Service
- AWS State of Utah Application Modernization: The Express Lane from Mainframe to Cloud
-AWS Partner Network Case Study
  AWS How the Georgia Data Analytics Center built a cloud analytics solution from scratch with the AWS Data Lab
 Amazon Athena AWS Data Lab
- AWS ETL orchestration using the Amazon Redshift Data API and AWS Step Functions with AWS SDK integration</description>
+ AWS Automate PostgreSQL log exports to Amazon S3 using extensions
+Amazon Aurora Amazon Simple Storage Service (S3)
+ AWS State of Utah Application Modernization: The Express Lane from Mainframe to Cloud</description>
     </item>
     
     <item>
