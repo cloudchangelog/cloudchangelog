@@ -19,13 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2022/03/03/</guid>
       <description>AWS Deploy consistent DNS with AWS Service Catalog and AWS Control Tower customizations
 Amazon Route 53 Amazon Simple Notification Service (SNS)
- AWS Perform ETL operations using Amazon Redshift RSQL
-Amazon Redshift Analytics
- AWS Building Blue/Green application deployment to Micro Focus Enterprise Server
-AWS Codebuild AWS Codedeploy
- AWS Enable the visually impaired to hear documents using Amazon Textract and Amazon Polly
-Amazon Polly Amazon Textract
- AWS Migrate On-Premises Multi-Tenant Systems to Amazon Elastic Kubernetes Service</description>
+ AWS Amazon EMR now supports auto termination of idle clusters in Europe (Milan), Asia Pacific (Hong Kong), Africa (Cape Town), and Middle East (Bahrain) regions
+ AWS SOC reports now available in Spanish
+Announcements Security, Identity, &amp;amp; Compliance
+ AWS Streamlining evidence collection with AWS Audit Manager</description>
     </item>
     
     <item>
