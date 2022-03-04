@@ -19,10 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2022/03/03/</guid>
       <description>AWS Deploy consistent DNS with AWS Service Catalog and AWS Control Tower customizations
 Amazon Route 53 Amazon Simple Notification Service (SNS)
- AWS Amazon EMR now supports auto termination of idle clusters in Europe (Milan), Asia Pacific (Hong Kong), Africa (Cape Town), and Middle East (Bahrain) regions
- AWS SOC reports now available in Spanish
-Announcements Security, Identity, &amp;amp; Compliance
- AWS Streamlining evidence collection with AWS Audit Manager</description>
+ AWS Amazon Kendra adds spell checker for queries
+ AWS Monitoring Amazon EMR on EKS with Amazon Managed Prometheus and Amazon Managed Grafana
+Amazon Elastic Kubernetes Service Amazon EMR
+ AWS Introducing a new Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency, automated failovers typically under 35 seconds, and readable standby instances</description>
     </item>
     
     <item>
