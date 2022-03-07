@@ -6,10 +6,29 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>07 March, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/03/07/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/03/07/</guid>
+      <description> AWS Decoding protobuf messages using AWS Lambda
+AWS Lambda Serverless
+ AWS Sufle’s Gizem Gür: Celebrating International Women’s Day and Breaking the Bias
+AWS Partner Network Thought Leadership
+ AWS Celebrate International Women’s Day all week with the Architecture Blog
+Announcements Architecture
+ GCP Get more insights from your Java applications logs
+Application Development Management Tools
+ GCP What’s new with Google Cloud
+Google Cloud Google Workspace
+  </description>
+    </item>
     
     <item>
       <title>04 March, 2022</title>
