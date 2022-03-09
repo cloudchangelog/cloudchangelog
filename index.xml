@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>09 March, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/03/09/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/03/09/</guid>
+      <description> AWS Detecting security issues in logging with Amazon CodeGuru Reviewer
+Amazon Codeguru Devops  </description>
+    </item>
     
     <item>
       <title>08 March, 2022</title>
@@ -19,11 +29,12 @@
       <guid>https://cloudchangelog.com/posts/2022/03/08/</guid>
       <description>AWS Breaking the Bias – Women at AWS Developer Relations
 Developer Thought Leadership
- AWS Amazon QuickSight enables auto-refresh controls for direct query
- AWS Amazon SES now supports AWS CloudFormation templates in multiple new regions
- AWS Mission Cloud Services’s Amber Runnels: Celebrating International Women’s Day and Breaking the Bias
-AWS Partner Network Thought Leadership
- AWS AWS for M&amp;amp;E Video Tutorials: AVC/H.264 encoding configurations for AWS Media Services</description>
+ AWS Meeting Bank-Grade Requirements for Real-Time and Resilient Core Banking with Finxact on AWS
+AWS Partner Network Customer Solutions
+ AWS Deploying service-mesh-based architectures using AWS App Mesh and Amazon ECS
+Architecture AWS App Mesh
+ AWS Amazon Connect Customer Profiles now enables you to customize data aggregation in the console
+ AWS Amazon SES now supports AWS CloudFormation templates in multiple new regions</description>
     </item>
     
     <item>
