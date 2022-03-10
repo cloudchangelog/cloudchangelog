@@ -19,11 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2022/03/10/</guid>
       <description>AWS Building serverless multi-Region WebSocket APIs
 Amazon API Gateway Serverless
- AWS Store off-chain data using Amazon Managed Blockchain and Amazon S3: Part 1
-Amazon Managed Blockchain Amazon Simple Storage Service (S3)
- AWS Make data available for analysis in seconds with Upsolver low-code data pipelines, Amazon Redshift Streaming Ingestion, and Amazon Redshift Serverless
-Amazon Redshift Amazon Simple Storage Service (S3)
- AWS Democratize documentation summarization with Hugging Face on Amazon SageMaker</description>
+ AWS How to set up federated single sign-on to AWS using Google Workspace
+Security, Identity, &amp;amp; Compliance Technical How-To
+ AWS Enhance your SaaS offering with a data science workbench powered by Amazon SageMaker Studio
+Amazon Machine Learning Amazon Sagemaker
+ AWS Enforce best practices in AWS Systems Manager documents leveraging CFN Guard
+Best Practices Centralized Operations Management</description>
     </item>
     
     <item>
