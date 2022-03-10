@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2022/03/09/</guid>
       <description>AWS Detecting security issues in logging with Amazon CodeGuru Reviewer
 Amazon Codeguru Devops
- AWS Let’s Architect! Tools for Cloud Architects
-Architecture Let&amp;#39;s Architect
- AWS Amazon ECS Update Service API now supports updating Elastic Load Balancers, Service Registries, Tag Propagation, and ECS Managed Tags
- AWS Enable Amazon SageMaker JumpStart for custom IAM execution roles
-Amazon Sagemaker Artificial Intelligence
- AWS Amazon SageMaker Autopilot now supports time series data</description>
+ AWS AWS Systems Manager Change Manager now supports taking actions on multiple change requests together
+ AWS Manage AWS resources in your Slack channels with AWS Chatbot
+AWS Chatbot AWS CLI
+ AWS Build a serverless pipeline to analyze streaming data using AWS Glue, Apache Hudi, and Amazon S3
+Amazon Simple Storage Service (S3) Analytics</description>
     </item>
     
     <item>
