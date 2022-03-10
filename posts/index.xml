@@ -17,11 +17,13 @@
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2022/03/10/</guid>
-      <description> AWS Building serverless multi-Region WebSocket APIs
+      <description>AWS Building serverless multi-Region WebSocket APIs
 Amazon API Gateway Serverless
  AWS Store off-chain data using Amazon Managed Blockchain and Amazon S3: Part 1
 Amazon Managed Blockchain Amazon Simple Storage Service (S3)
-  </description>
+ AWS Make data available for analysis in seconds with Upsolver low-code data pipelines, Amazon Redshift Streaming Ingestion, and Amazon Redshift Serverless
+Amazon Redshift Amazon Simple Storage Service (S3)
+ AWS Democratize documentation summarization with Hugging Face on Amazon SageMaker</description>
     </item>
     
     <item>
