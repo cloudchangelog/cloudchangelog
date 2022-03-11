@@ -19,12 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2022/03/10/</guid>
       <description>AWS Building serverless multi-Region WebSocket APIs
 Amazon API Gateway Serverless
+ AWS New – Amazon EC2 X2idn and X2iedn Instances for Memory-Intensive Workloads with Higher Network Bandwidth
+Amazon EC2 Announcements
+ AWS Secure Amazon S3 access for isolated Amazon SageMaker notebook instances
+Amazon Machine Learning Amazon Sagemaker
  AWS How to set up federated single sign-on to AWS using Google Workspace
 Security, Identity, &amp;amp; Compliance Technical How-To
- AWS Enhance your SaaS offering with a data science workbench powered by Amazon SageMaker Studio
-Amazon Machine Learning Amazon Sagemaker
- AWS Enforce best practices in AWS Systems Manager documents leveraging CFN Guard
-Best Practices Centralized Operations Management</description>
+ AWS Enhance your SaaS offering with a data science workbench powered by Amazon SageMaker Studio</description>
     </item>
     
     <item>
