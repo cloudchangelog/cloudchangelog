@@ -6,10 +6,25 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>12 March, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/03/12/</link>
+      <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/03/12/</guid>
+      <description> AWS Find Your Business Domains to Start Refactoring Monolithic Applications
+AWS Migration Hub Best Practices
+ AWS Chaos engineering leveraging AWS Fault Injection Simulator in a multi-account AWS environment
+AWS Control Tower AWS Service Catalog
+ AWS How McAfee used Amazon CloudWatch to monitor a multi-PB data migration to Databricks on AWS
+Amazon Cloudwatch AWS Cloudformation
+  </description>
+    </item>
     
     <item>
       <title>11 March, 2022</title>
