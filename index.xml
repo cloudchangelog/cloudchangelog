@@ -6,10 +6,25 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>14 March, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/03/14/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/03/14/</guid>
+      <description> AWS Extend SQL Server DR using log shipping for SQL Server FCI with Amazon FSx for Windows configuration
+Amazon EC2 Amazon Fsx
+ Azure Scaling cloud solutions to new heights with Microsoft’s partner ecosystem
+Cloud Strategy Partner
+ GCP Unlock more choice with updates to Google Cloud’s infrastructure capabilities and pricing
+Storage &amp;amp; Data Transfer Networking
+  </description>
+    </item>
     
     <item>
       <title>12 March, 2022</title>
