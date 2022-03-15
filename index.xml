@@ -19,12 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2022/03/15/</guid>
       <description>AWS Supporting Data Residency Requirements by Extending AWS Control Tower Governance to Non-supported Regions
 AWS Cloudformation AWS Control Tower
- AWS Fail fast but safely – how Old Mutual is using Developer Sandboxes for real digital innovation
-AWS Budgets AWS Organizations
- AWS Using organization IDs as principals in Lambda resource policies
-AWS Identity And Access Management (IAM) AWS Lambda
- AWS Using AWS AppConfig Feature Flags
-AWS Lambda AWS Systems Manager</description>
+ AWS Announcing two new HERE map styles for Amazon Location Service
+ AWS Amazon RDS for PostgreSQL supports PostgreSQL minor versions 14.2, 13.6, 12.10, 11.15, and 10.20
+ AWS Amazon RDS for PostgreSQL now supports mysql_fdw extension for Amazon Aurora, MySQL and MariaDB Databases
+ AWS Announcing AWS AppConfig Feature Flags General Availability</description>
     </item>
     
     <item>
