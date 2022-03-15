@@ -17,13 +17,14 @@
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2022/03/15/</guid>
-      <description> AWS Supporting Data Residency Requirements by Extending AWS Control Tower Governance to Non-supported Regions
+      <description>AWS Supporting Data Residency Requirements by Extending AWS Control Tower Governance to Non-supported Regions
 AWS Cloudformation AWS Control Tower
  AWS Fail fast but safely – how Old Mutual is using Developer Sandboxes for real digital innovation
 AWS Budgets AWS Organizations
- Azure Microsoft launches Azure Health Data Services to unify health data and power AI in the cloud
-Cloud Strategy Big Data
-  </description>
+ AWS Using organization IDs as principals in Lambda resource policies
+AWS Identity And Access Management (IAM) AWS Lambda
+ AWS Using AWS AppConfig Feature Flags
+AWS Lambda AWS Systems Manager</description>
     </item>
     
     <item>
