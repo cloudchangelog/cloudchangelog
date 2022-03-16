@@ -6,10 +6,23 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>16 March, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/03/16/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/03/16/</guid>
+      <description> AWS Implementing mutual TLS for Java-based AWS Lambda functions
+AWS Lambda Java
+ Oracle ADB-D on Exadata Cloud@Customer: Multiple Autonomous VM Cluster Support
+ Oracle CloudShell now offers OpenJDK 11
+  </description>
+    </item>
     
     <item>
       <title>15 March, 2022</title>
@@ -19,10 +32,10 @@
       <guid>https://cloudchangelog.com/posts/2022/03/15/</guid>
       <description>AWS Supporting Data Residency Requirements by Extending AWS Control Tower Governance to Non-supported Regions
 AWS Cloudformation AWS Control Tower
- AWS Announcing two new HERE map styles for Amazon Location Service
  AWS Amazon RDS for PostgreSQL supports PostgreSQL minor versions 14.2, 13.6, 12.10, 11.15, and 10.20
- AWS Amazon RDS for PostgreSQL now supports mysql_fdw extension for Amazon Aurora, MySQL and MariaDB Databases
- AWS Announcing AWS AppConfig Feature Flags General Availability</description>
+ AWS Fail fast but safely – how Old Mutual is using Developer Sandboxes for real digital innovation
+AWS Budgets AWS Organizations
+ AWS Restore Amazon RDS for Oracle to a self-managed infrastructure using RMAN duplication</description>
     </item>
     
     <item>
