@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2022/03/16/</guid>
       <description>AWS Implementing mutual TLS for Java-based AWS Lambda functions
 AWS Lambda Java
- AWS Mainframe offloading and modernization: Using mainframe data to build cloud native services with AWS
-Amazon Athena Amazon Dynamodb
- AWS Ingest data from Snowflake to Amazon S3 using AWS Glue Marketplace Connectors
-Migration Solutions
+ AWS Amazon Kendra releases FSx Connector to enable intelligent search on Amazon FSx for Windows File Server
+ AWS Amazon SageMaker JumpStart models and algorithms now available via API
+Amazon Sagemaker Artificial Intelligence
  AWS AWS KMS and ACM now support the latest hybrid post-quantum TLS ciphers
- AWS Implementing mutual TLS for Java-based AWS Lambda functions</description>
+ AWS Mainframe offloading and modernization: Using mainframe data to build cloud native services with AWS</description>
     </item>
     
     <item>
