@@ -19,11 +19,13 @@
       <guid>https://cloudchangelog.com/posts/2022/03/16/</guid>
       <description>AWS Implementing mutual TLS for Java-based AWS Lambda functions
 AWS Lambda Java
- AWS Amazon Kendra releases FSx Connector to enable intelligent search on Amazon FSx for Windows File Server
- AWS Amazon SageMaker JumpStart models and algorithms now available via API
-Amazon Sagemaker Artificial Intelligence
- AWS AWS KMS and ACM now support the latest hybrid post-quantum TLS ciphers
- AWS Mainframe offloading and modernization: Using mainframe data to build cloud native services with AWS</description>
+ AWS Mainframe offloading and modernization: Using mainframe data to build cloud native services with AWS
+Amazon Athena Amazon Dynamodb
+ AWS New and Updated AWS Well-Architected Lenses
+AWS Well-Architected AWS Well-Architected Framework
+ AWS Get to know the first AWS Heroes of 2022!
+Announcements AWS Heroes
+ AWS Build a cost-effective extension to your Elasticsearch cluster with Amazon OpenSearch Service</description>
     </item>
     
     <item>
