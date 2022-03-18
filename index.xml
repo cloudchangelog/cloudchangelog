@@ -17,12 +17,14 @@
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2022/03/18/</guid>
-      <description> AWS MYCOM OSI’s Amazon EKS adoption journey
+      <description>AWS MYCOM OSI’s Amazon EKS adoption journey
 Amazon Elastic Kubernetes Service Customer Solutions
  AWS AWS App Mesh Envoy Management Service (EMS) now supports AWS CloudTrail integration
- GCP Bootstrap your startup with the Google Cloud Technical Guides for Startups : A Look into the Start Series
-Google Cloud Startups
-  </description>
+ AWS Optimize Redis Client Performance for Amazon ElastiCache and MemoryDB
+Amazon Elasticache Amazon Memorydb For Redis
+ AWS Enable conversational chatbots for telephony using Amazon Lex and the Amazon Chime SDK
+Amazon Chime Amazon Lex
+ AWS Accelerate Your SaaS Journey with Help from AWS SaaS Competency Partners</description>
     </item>
     
     <item>
@@ -33,9 +35,11 @@ Google Cloud Startups
       <guid>https://cloudchangelog.com/posts/2022/03/17/</guid>
       <description>AWS Best practices for right-sizing your Apache Kafka clusters to optimize performance and cost
 Amazon Managed Streaming For Apache Kafka (Amazon MSK) Analytics
- AWS AWS Backup Audit Manager adds new controls to help prove compliance of maintaining immutable backups across AWS Regions and accounts
- AWS AWS Chatbot announces support for management of AWS resources from Slack (General Availability)
- AWS Amazon Aurora T4g instance type, powered by AWS Graviton2 processors, is now available in Europe (Milan), Europe (Paris) and Europe (Stockholm) Regions</description>
+ AWS Message to the next generation of women disruptors in technology
+International Women&amp;#39;s Day
+ AWS Archive data from Amazon DynamoDB to Amazon S3 using TTL and Amazon Kinesis integration
+Amazon Dynamodb Kinesis Data Streams
+ AWS Migrate your Amazon Redshift cluster to another AWS Region</description>
     </item>
     
     <item>
