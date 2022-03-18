@@ -19,11 +19,9 @@
       <guid>https://cloudchangelog.com/posts/2022/03/17/</guid>
       <description>AWS Best practices for right-sizing your Apache Kafka clusters to optimize performance and cost
 Amazon Managed Streaming For Apache Kafka (Amazon MSK) Analytics
- AWS Archive data from Amazon DynamoDB to Amazon S3 using TTL and Amazon Kinesis integration
-Amazon Dynamodb Kinesis Data Streams
- AWS Back up and restore Kafka topic data using Amazon MSK Connect
-Amazon Managed Streaming For Apache Kafka (Amazon MSK) Analytics
- AWS Migrate your Amazon Redshift cluster to another AWS Region</description>
+ AWS AWS Backup Audit Manager adds new controls to help prove compliance of maintaining immutable backups across AWS Regions and accounts
+ AWS AWS Chatbot announces support for management of AWS resources from Slack (General Availability)
+ AWS Amazon Aurora T4g instance type, powered by AWS Graviton2 processors, is now available in Europe (Milan), Europe (Paris) and Europe (Stockholm) Regions</description>
     </item>
     
     <item>
