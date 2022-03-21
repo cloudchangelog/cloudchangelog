@@ -19,11 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2022/03/21/</guid>
       <description>AWS Physical migration of Oracle databases to Amazon RDS Custom using Data Guard
 Amazon RDS Amazon RDS Custom
- AWS Physical migration of Oracle databases to Amazon RDS Custom using RMAN duplication
-Amazon RDS Amazon RDS Custom
- AWS How to use AWS Security Hub and Amazon OpenSearch Service for SIEM
-AWS Security Hub Security, Identity, &amp;amp; Compliance
- AWS Optimize AI/ML workloads for sustainability: Part 2, model development</description>
+ AWS ACM Private CA now supports custom subject names, extensions, and name constraints
+ AWS 5 ways to simplify backup plans using AWS Backup resource assignment rules
+AWS Backup Storage
+ AWS Using Amazon Comprehend Medical with the Snowflake Data Cloud
+Amazon Comprehend Medical Amazon Machine Learning
+ AWS Accelerate your data warehouse migration to Amazon Redshift – Part 5</description>
     </item>
     
     <item>
