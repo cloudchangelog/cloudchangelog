@@ -6,10 +6,34 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>21 March, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/03/21/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/03/21/</guid>
+      <description> Azure Azure HBv3 VMs for HPC now generally available with AMD EPYC CPUs with AMD 3D V-Cache
+Cloud Strategy
+ Azure General availability: Azure HBv3 virtual machines for HPC now upgraded
+ GCP Contact Center AI reimagines the customer experience through full end-to-end platform expansion
+Google Cloud AI &amp;amp; Machine Learning
+  </description>
+    </item>
+    
+    <item>
+      <title>19 March, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/03/19/</link>
+      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/03/19/</guid>
+      <description> Azure Five Azure classic networking services will be retired on 31 August 2024
+  </description>
+    </item>
     
     <item>
       <title>18 March, 2022</title>
