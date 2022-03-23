@@ -6,10 +6,26 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>23 March, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/03/23/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/03/23/</guid>
+      <description> AWS AWS for M&amp;amp;E Video Tutorials: HTML5 Motion Graphics with AWS Media Services
+AWS Elemental Live AWS Elemental Medialive
+ AWS Expedite IVR development with industry grammars on Amazon Lex
+Amazon Lex Artificial Intelligence
+ AWS Deploy Quarkus-based applications using AWS Lambda with AWS SAM
+Amazon API Gateway Architecture
+ Oracle MySQL Database Service DB System Deletion Policy
+  </description>
+    </item>
     
     <item>
       <title>22 March, 2022</title>
@@ -19,13 +35,11 @@
       <guid>https://cloudchangelog.com/posts/2022/03/22/</guid>
       <description>AWS Deploy Amazon RDS databases for applications in Kubernetes
 Amazon Aurora Amazon Elastic Kubernetes Service
- AWS Introducing Hyperledger Fabric 2.2 LTS Support on Amazon Managed Blockchain
-Amazon Managed Blockchain
- AWS Sending events to Amazon EventBridge from AWS Organizations accounts
-Amazon Eventbridge Serverless
- AWS How Amazon Search achieves low-latency, high-throughput T5 inference with NVIDIA Triton on AWS
-Amazon Sagemaker Artificial Intelligence
- AWS Migrating a self-managed message broker to Amazon SQS</description>
+ AWS Automate the Creation of On-Demand Capacity Reservations for running EC2 instances
+Amazon EC2 AWS Management Console
+ AWS Amazon RDS supports itemized billing for RDS Storage, IOPS and backup features
+ AWS Amazon Chime SDK now supports sessions with up to 10,000 live participants
+ AWS Introducing grammar slot type on Amazon Lex</description>
     </item>
     
     <item>
