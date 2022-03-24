@@ -19,10 +19,9 @@
       <guid>https://cloudchangelog.com/posts/2022/03/24/</guid>
       <description>AWS Reimagining Digital Transformation with Capgemini’s Digital Cloud Platform for Restaurants on AWS
 AWS Partner Network Customer Solutions
- AWS AWS Support streamlines cases via Connector for Jira Service Management
- AWS AWS Panorama applications now support receiving inbound messages over the local area network
- AWS AWS Panorama now supports Amazon CloudWatch alarms for application errors
- AWS AWS Panorama now supports the ability to bring your own machine learning libraries</description>
+ AWS Amazon EC2 Auto Scaling instance lifecycle states are now available via the Instance Metadata Service
+ AWS AWS Panorama now supports the ability to bring your own machine learning libraries
+ AWS Field Notes: Deploying Autonomous Driving and ADAS Workloads at Scale with Amazon Managed Workflows for Apache Airflow</description>
     </item>
     
     <item>
@@ -33,11 +32,12 @@ AWS Partner Network Customer Solutions
       <guid>https://cloudchangelog.com/posts/2022/03/23/</guid>
       <description>AWS AWS for M&amp;amp;E Video Tutorials: HTML5 Motion Graphics with AWS Media Services
 AWS Elemental Live AWS Elemental Medialive
- AWS Now in Preview - Amazon GameSparks
- AWS Amazon Kendra releases Slack Connector to enable Slack messaging search
- AWS AWS GameKit for Unreal Game Engine is now Generally Available
- AWS AWS Proton support for Terraform Open Source is now Generally Available
- AWS ISO/IEC 27001 certificates now available in French and Spanish</description>
+ AWS Optimize customer engagement with reinforcement learning
+Amazon ML Solutions Lab Amazon Sagemaker
+ AWS Improve reusability and security using Amazon Athena parameterized queries
+Amazon Athena Amazon Simple Storage Service (S3)
+ AWS How AWS IoT Greengrass and AWS Lambda Allow Legacy Hardware to be Cloud-Enabled
+AWS Iot Greengrass AWS Lambda</description>
     </item>
     
     <item>
