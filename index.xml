@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>25 March, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/03/25/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/03/25/</guid>
+      <description> AWS Insights for CTOs: Part 3 – Growing your business with modern data capabilities
+Amazon Athena Amazon Aurora  </description>
+    </item>
     
     <item>
       <title>24 March, 2022</title>
@@ -19,9 +29,11 @@
       <guid>https://cloudchangelog.com/posts/2022/03/24/</guid>
       <description>AWS Reimagining Digital Transformation with Capgemini’s Digital Cloud Platform for Restaurants on AWS
 AWS Partner Network Customer Solutions
- AWS Amazon EC2 Auto Scaling instance lifecycle states are now available via the Instance Metadata Service
- AWS AWS Panorama now supports the ability to bring your own machine learning libraries
- AWS Field Notes: Deploying Autonomous Driving and ADAS Workloads at Scale with Amazon Managed Workflows for Apache Airflow</description>
+ AWS AWS Support streamlines cases via Connector for Jira Service Management
+ AWS AWS Lambda now allows customers to configure up to 10 GB of ephemeral storage for Lambda functions
+ AWS AWS Lambda Now Supports Up to 10 GB Ephemeral Storage
+AWS Lambda Launch
+ AWS AWS Service Catalog announces a new console feature to directly access resources within a Provisioned Product</description>
     </item>
     
     <item>
