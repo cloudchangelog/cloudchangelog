@@ -18,7 +18,13 @@
       
       <guid>https://cloudchangelog.com/posts/2022/03/25/</guid>
       <description> AWS Insights for CTOs: Part 3 – Growing your business with modern data capabilities
-Amazon Athena Amazon Aurora  </description>
+Amazon Athena Amazon Aurora
+ AWS Selecting the right database and database migration plan for your workloads
+Amazon Aurora Amazon RDS Custom
+ AWS Dream11: Blocking application attacks using AWS WAF at scale
+Amazon Simple Storage Service (S3) Architecture
+ AWS Amazon RDS now supports Internet Protocol Version 6 (IPv6) on RDS Service APIs
+  </description>
     </item>
     
     <item>
