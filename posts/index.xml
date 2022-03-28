@@ -19,13 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2022/03/28/</guid>
       <description>AWS Selecting the right database and database migration plan for your workloads
 Amazon Aurora Amazon RDS Custom
- AWS Using larger ephemeral storage for AWS Lambda
-Announcements AWS Lambda
- AWS Creating a Multi-Region Application with AWS Services – Part 3, Application Management and Monitoring
-AWS Cloudformation AWS Config
- AWS AWS Week in Review – March 28, 2022
-Announcements Launch
- AWS Security auditing in Amazon RDS for Oracle: Part 2</description>
+ AWS Contact Lens for Amazon Connect now offers real-time streaming for higher scale and low latency scenarios
+ AWS Document modeling with Amazon DocumentDB and Hackolade
+Amazon Documentdb
+ AWS Security auditing in Amazon RDS for Oracle: Part 1
+Amazon RDS RDS For Oracle
+ AWS Amazon EventBridge Schema Registry extends support to Go language</description>
     </item>
     
     <item>
