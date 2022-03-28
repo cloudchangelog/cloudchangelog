@@ -17,8 +17,15 @@
       <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2022/03/28/</guid>
-      <description> AWS Selecting the right database and database migration plan for your workloads
-Amazon Aurora Amazon RDS Custom  </description>
+      <description>AWS Selecting the right database and database migration plan for your workloads
+Amazon Aurora Amazon RDS Custom
+ AWS Using larger ephemeral storage for AWS Lambda
+Announcements AWS Lambda
+ AWS Creating a Multi-Region Application with AWS Services – Part 3, Application Management and Monitoring
+AWS Cloudformation AWS Config
+ Azure General availability: Azure Bastion native client support
+ Azure General availability: On-demand capacity reservations
+ Azure Generally available: Azure Batch supports Spot Virtual Machines</description>
     </item>
     
     <item>
