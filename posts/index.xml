@@ -6,10 +6,41 @@
     <description>Recent content in Posts on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>30 March, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/03/30/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/03/30/</guid>
+      <description>AWS New – Cloud NGFW for AWS
+AWS Firewall Manager AWS Marketplace
+ AWS The Decade-Long Nasdaq and AWS Collaboration Scales New Heights as Women Leaders #BreakTheBias
+AWS Partner Network Customer Solutions
+ AWS AWS Organizations now provides a simple, scalable and more secure way to close your member accounts
+Announcements AWS Organizations
+ AWS Reduce encryption costs by using Amazon S3 Bucket Keys on existing objects
+Amazon Athena Amazon Simple Storage Service (S3)</description>
+    </item>
+    
+    <item>
+      <title>29 March, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/03/29/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/03/29/</guid>
+      <description>AWS Managing Pod Scheduling Constraints and Groupless Node Upgrades with Karpenter in Amazon EKS
+Amazon EC2 Amazon Elastic Kubernetes Service
+ AWS Enforce compliance using AWS Organizations tag policies with Serverless Transit Network Orchestrator (STNO)
+Management Tools
+ AWS Automatically generate model evaluation metrics using SageMaker Autopilot Model Quality Reports
+Amazon Sagemaker Artificial Intelligence
+ AWS Managed entitlements in AWS License Manager now supports license usage for AWS Marketplace licenses</description>
+    </item>
     
     <item>
       <title>28 March, 2022</title>
