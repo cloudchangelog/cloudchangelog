@@ -19,11 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2022/03/31/</guid>
       <description>AWS Optimizing AWS Lambda function performance for Java
 Serverless AWS Lambda
- AWS How Net at Work built an email threat report system on AWS
-Amazon API Gateway Amazon Athena
- AWS EKS add-ons support for EBS CSI driver is now generally available
+ AWS Amazon ECS announces increased service quota for container instances per cluster
  AWS Migrating Sun/SPARC Mission-Critical Applications from On-Premises to AWS Using SPARC Emulator
 AWS Partner Network Customer Solutions
+ AWS Amazon EC2 now reduces visibility of public Amazon Machine Images (AMIs) older than two years
  AWS AWS for M&amp;amp;E Video Tutorials: Input switching with AWS Elemental MediaLive</description>
     </item>
     
