@@ -17,16 +17,15 @@
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2022/04/01/</guid>
-      <description> AWS ICYMI: Serverless Q1 2022
+      <description>AWS ICYMI: Serverless Q1 2022
 Amazon Dynamodb Amazon Eventbridge
  AWS How to use IMDb data in search and machine learning applications
 Amazon Athena AWS Glue
  AWS Improve workload sustainability with services and features from re:Invent 2021
 AWS Re:Invent Sustainability
- GCP What’s new with Google Cloud
-Google Cloud Google Workspace
- Oracle Support for the creation of repositories in non-root compartments
-  </description>
+ AWS Build data lineage for data lakes using AWS Glue, Amazon Neptune, and Spline
+Amazon Neptune Analytics
+ AWS Whitepaper: Machine Learning Best Practices in Healthcare and Life Sciences</description>
     </item>
     
     <item>
