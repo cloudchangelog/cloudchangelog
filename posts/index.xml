@@ -19,13 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2022/04/01/</guid>
       <description>AWS ICYMI: Serverless Q1 2022
 Amazon Dynamodb Amazon Eventbridge
- AWS AWS Security Hub now supports specifying names for custom integrations
- AWS Automate and improve your security posture using AWS Backup and AWS PrivateLink
-AWS Backup AWS Privatelink
- AWS How to use IMDb data in search and machine learning applications
-Amazon Athena AWS Glue
- AWS Improve workload sustainability with services and features from re:Invent 2021
-AWS Re:Invent Sustainability</description>
+ AWS AWS Backup adds support for VMware Cloud on AWS Outposts
+ AWS Amazon WorkSpaces launches APIs to allow custom branding
+ AWS AWS Backup now allows you to restore virtual disks from protected copies of your VMware virtual machines
+ AWS Amazon ElastiCache for Redis now supports Global Datastore in two new Regions
+ AWS AWS Glue DataBrew now supports the ORC file format as an input</description>
     </item>
     
     <item>
