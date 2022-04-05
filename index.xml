@@ -18,11 +18,11 @@
       
       <guid>https://cloudchangelog.com/posts/2022/04/05/</guid>
       <description>AWS Amazon Connect Wisdom now supports Zendesk connector
- AWS Cross-cluster Replication is now supported on existing Amazon OpenSearch service domains
- AWS AWS IoT Device Management and AWS IoT Device Defender now support monitoring device metrics via ListMetricValues API
- AWS High-performance cloud storage comes of age with Amazon FSx for Lustre
-Amazon Fsx Amazon Fsx For Lustre
- AWS Detect adversarial inputs using Amazon SageMaker Model Monitor and Amazon SageMaker Debugger</description>
+ AWS AWS Resource Access Manager is now available in the AWS Asia Pacific (Jakarta) Region
+ AWS Amazon EC2 now provides a new and improved launch experience on the EC2 Console
+ AWS Announcing General Availability of Amplify Geo for iOS
+ AWS AWS Amplify Hosting now uses a GitHub App to authorize access to repositories for CI/CD workflows
+ AWS Amazon FSx now supports AWS PrivateLink</description>
     </item>
     
     <item>
