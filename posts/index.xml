@@ -18,12 +18,11 @@
       
       <guid>https://cloudchangelog.com/posts/2022/04/05/</guid>
       <description>AWS Amazon Connect Wisdom now supports Zendesk connector
- AWS Athenahealth QMaaS: Optimizing throughput and costs with Amazon ECS &amp;amp; EC2 Spot
-Amazon Elastic Container Service Amazon Simple Storage Service (S3)
- AWS Scale applications using multi-Region Amazon EKS and Amazon Aurora Global Database: Part 1
-Amazon Aurora Amazon Elastic Kubernetes Service
- Azure Public preview: Capacity reservation support in AKS
- Azure Generally available: Azure Virtual Machines increase storage throughput by up to 300%</description>
+ AWS Cross-cluster Replication is now supported on existing Amazon OpenSearch service domains
+ AWS AWS IoT Device Management and AWS IoT Device Defender now support monitoring device metrics via ListMetricValues API
+ AWS High-performance cloud storage comes of age with Amazon FSx for Lustre
+Amazon Fsx Amazon Fsx For Lustre
+ AWS Detect adversarial inputs using Amazon SageMaker Model Monitor and Amazon SageMaker Debugger</description>
     </item>
     
     <item>
