@@ -17,9 +17,13 @@
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2022/04/05/</guid>
-      <description> AWS Amazon Connect Wisdom now supports Zendesk connector
+      <description>AWS Amazon Connect Wisdom now supports Zendesk connector
  AWS Athenahealth QMaaS: Optimizing throughput and costs with Amazon ECS &amp;amp; EC2 Spot
-Amazon Elastic Container Service Amazon Simple Storage Service (S3)  </description>
+Amazon Elastic Container Service Amazon Simple Storage Service (S3)
+ AWS Scale applications using multi-Region Amazon EKS and Amazon Aurora Global Database: Part 1
+Amazon Aurora Amazon Elastic Kubernetes Service
+ Azure Public preview: Capacity reservation support in AKS
+ Azure Generally available: Azure Virtual Machines increase storage throughput by up to 300%</description>
     </item>
     
     <item>
