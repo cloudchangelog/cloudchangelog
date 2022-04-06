@@ -19,13 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2022/04/06/</guid>
       <description>AWS What is observability and Why does it matter? – Part 1
 Customer Solutions Management &amp;amp; Governance
- AWS Getting Started with Event-Driven Architecture
-Amazon Eventbridge Events
- AWS Migrate self-managed MariaDB to Amazon Aurora MySQL
-Amazon Aurora Mysql Compatible
- AWS Securely connect to an Amazon RDS or Amazon EC2 database instance remotely with your preferred GUI
-Amazon RDS AWS Systems Manager
- AWS Receive notifications for image analysis with Amazon Rekognition Custom Labels and analyze predictions</description>
+ AWS Amazon Connect launches dynamic voice prompt playback from Amazon S3
+ AWS Amazon OpenSearch Service now includes an observability interface and expands log analytics
+ AWS AWS Network Firewall achieves FedRAMP Moderate compliance
+ AWS Introducing Amazon CloudWatch Metrics Insights (General Availability)
+ AWS Securely connect to an Amazon RDS or Amazon EC2 database instance remotely with your preferred GUI</description>
     </item>
     
     <item>
