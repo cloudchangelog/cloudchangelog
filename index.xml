@@ -6,10 +6,20 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>06 April, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/04/06/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/04/06/</guid>
+      <description> AWS What is observability and Why does it matter? – Part 1
+Customer Solutions Management &amp;amp; Governance  </description>
+    </item>
     
     <item>
       <title>05 April, 2022</title>
