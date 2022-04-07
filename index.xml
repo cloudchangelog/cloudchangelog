@@ -19,10 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2022/04/07/</guid>
       <description>AWS Integrate Amazon Redshift native IdP federation with Microsoft Azure AD and Power BI
 Amazon Redshift Analytics
- AWS Amazon RDS for SQL Server now supports SQL Server Agent job replication
- AWS Amazon Redshift announces native integration with Microsoft Azure Active Directory and Microsoft Power BI
- AWS AWS Announces Data Transfer Price Reduction for AWS PrivateLink, AWS Transit Gateway, and AWS Client VPN services
- AWS Amazon ECS now allows you to run commands in a Windows container running on AWS Fargate</description>
+ AWS Announcing the AWS Controllers for Kubernetes for Amazon MemoryDB Preview
+ AWS Amplify Geo Launches React Component for Maps, powered by Amazon Location Service
+ AWS Amazon DocumentDB (with MongoDB compatibility) Performance Insights is now in preview
+ AWS Amazon EventBridge introduces Global endpoints for automatic failover and recovery
+ AWS AWS Announces Data Transfer Price Reduction for AWS PrivateLink, AWS Transit Gateway, and AWS Client VPN services</description>
     </item>
     
     <item>
