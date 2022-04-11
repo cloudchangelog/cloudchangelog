@@ -6,10 +6,27 @@
     <description>Recent content on CloudChangeLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cloudchangelog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>11 April, 2022</title>
+      <link>https://cloudchangelog.com/posts/2022/04/11/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudchangelog.com/posts/2022/04/11/</guid>
+      <description>AWS Integrate Amazon Redshift native IdP federation with Microsoft Azure AD using a SQL client
+Amazon Redshift Analytics
+ Azure Accelerate your AI applications with Azure NC A100 v4 virtual machines
+Virtual Machines
+ Azure Optimize your cloud investment with Azure Reservations
+Virtual Machines Cloud Strategy
+ Azure Generally available: Customize application text labels in Azure IoT Central
+Azure Iot Central
+ Azure Generally available: Azure Databricks Delta Live Tables</description>
+    </item>
     
     <item>
       <title>08 April, 2022</title>
