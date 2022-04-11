@@ -19,13 +19,14 @@
       <guid>https://cloudchangelog.com/posts/2022/04/11/</guid>
       <description>AWS Integrate Amazon Redshift native IdP federation with Microsoft Azure AD using a SQL client
 Amazon Redshift Analytics
- Azure Accelerate your AI applications with Azure NC A100 v4 virtual machines
-Virtual Machines
- Azure Optimize your cloud investment with Azure Reservations
-Virtual Machines Cloud Strategy
- Azure Generally available: Customize application text labels in Azure IoT Central
-Azure Iot Central
- Azure Generally available: Azure Databricks Delta Live Tables</description>
+ AWS AWS Week in Review – April 11, 2022
+Announcements News
+ AWS Building an event-driven application with Amazon EventBridge
+Amazon Eventbridge Events
+ AWS Building SAML federation for Amazon OpenSearch Dashboards with Auth0
+Amazon Opensearch Service Architecture
+ AWS Amazon Personalize now supports resource tagging
+ AWS AWS Single Sign-On is now HIPAA eligible</description>
     </item>
     
     <item>
