@@ -19,14 +19,10 @@
       <guid>https://cloudchangelog.com/posts/2022/04/11/</guid>
       <description>AWS Integrate Amazon Redshift native IdP federation with Microsoft Azure AD using a SQL client
 Amazon Redshift Analytics
- AWS AWS Week in Review – April 11, 2022
-Announcements News
- AWS Building an event-driven application with Amazon EventBridge
-Amazon Eventbridge Events
- AWS Building SAML federation for Amazon OpenSearch Dashboards with Auth0
-Amazon Opensearch Service Architecture
- AWS Amazon Personalize now supports resource tagging
- AWS AWS Single Sign-On is now HIPAA eligible</description>
+ AWS Amazon WorkSpaces launches new Graphics G4dn bundles to improve performance and optimize costs
+ AWS Amazon Virtual Private Cloud (VPC) Prefix Lists is now available in the AWS Asia Pacific (Osaka) region
+ AWS How to integrate AWS STS SourceIdentity with your identity provider
+Security, Identity, &amp;amp; Compliance AWS STS</description>
     </item>
     
     <item>
