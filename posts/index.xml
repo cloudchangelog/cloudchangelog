@@ -17,8 +17,14 @@
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cloudchangelog.com/posts/2022/04/12/</guid>
-      <description> AWS Optimize cost for container workloads with ECS capacity providers and EC2 Spot Instances
-Amazon EC2 Amazon EC2 Container Service  </description>
+      <description>AWS Optimize cost for container workloads with ECS capacity providers and EC2 Spot Instances
+Amazon EC2 Amazon EC2 Container Service
+ AWS Orchestrating high performance computing with AWS Step Functions and AWS Batch
+AWS Batch AWS Step Functions
+ AWS Accelerate Snowflake to Amazon Redshift migration using AWS Schema Conversion Tool
+Amazon Redshift Analytics
+ AWS Updating Amazon S3 object ACLs at scale with S3 Batch Operations
+Amazon Cloudfront Amazon Simple Storage Service (S3)</description>
     </item>
     
     <item>
