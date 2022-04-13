@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2022/04/13/</guid>
       <description>AWS Introducing the New AWS Partner Marketing Central Experience
 Announcements AWS Partner Network
- AWS Control access to Amazon SageMaker Feature Store offline using AWS Lake Formation
-Amazon Sagemaker AWS Lake Formation
- AWS Manage dialog to elicit Amazon Lex slots in Amazon Connect contact flows
-Amazon Connect Amazon Lex
- AWS Amazon FSx for NetApp ONTAP Update – New Single-AZ Deployment Type
-Amazon Fsx For Netapp ONTAP Launch</description>
+ AWS AWS DataSync can now copy data to and from Amazon FSx for OpenZFS
+ AWS Machine Learning Infrastructure for Commercial Real Estate Insights Platform
+Amazon Machine Learning AWS Partner Network
+ AWS Build a data pipeline to automatically discover and mask PII data with AWS Glue DataBrew
+AWS Glue Databrew Technical How-To
+ AWS Best practices to optimize data access performance from Amazon EMR and AWS Glue to Amazon S3</description>
     </item>
     
     <item>
