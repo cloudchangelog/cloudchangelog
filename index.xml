@@ -19,12 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2022/04/13/</guid>
       <description>AWS Introducing the New AWS Partner Marketing Central Experience
 Announcements AWS Partner Network
- AWS Query your data streams interactively using Kinesis Data Analytics Studio and Python
-Amazon Kinesis Kinesis Data Analytics
+ AWS Control access to Amazon SageMaker Feature Store offline using AWS Lake Formation
+Amazon Sagemaker AWS Lake Formation
  AWS Manage dialog to elicit Amazon Lex slots in Amazon Connect contact flows
 Amazon Connect Amazon Lex
- Azure Public preview: Azure Monitor activity log insights
- Azure Generally available: new result set grid in Azure Monitor log analytics</description>
+ AWS Amazon FSx for NetApp ONTAP Update – New Single-AZ Deployment Type
+Amazon Fsx For Netapp ONTAP Launch</description>
     </item>
     
     <item>
