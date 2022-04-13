@@ -19,10 +19,12 @@
       <guid>https://cloudchangelog.com/posts/2022/04/12/</guid>
       <description>AWS Optimize cost for container workloads with ECS capacity providers and EC2 Spot Instances
 Amazon EC2 Amazon EC2 Container Service
- AWS Amazon Cognito launches support for in-Region integration with Amazon SES and Amazon SNS
-Security, Identity, &amp;amp; Compliance Cognito
- AWS Amazon ECR Public announces changes to the gallery including navigation breadcrumbs and copying of image identifier from dropdown
- AWS AWS showcases the power of the cloud at NAB Show 2022</description>
+ AWS Amazon Connect Wisdom now supports PrivateLink
+ AWS Updating Amazon S3 object ACLs at scale with S3 Batch Operations
+Amazon Cloudfront Amazon Simple Storage Service (S3)
+ AWS Scalable and Rapid ERP Analytics with Palantir HyperAuto on AWS
+Analytics AWS Partner Network
+ AWS Building a serverless cloud-native EDI solution with AWS</description>
     </item>
     
     <item>
