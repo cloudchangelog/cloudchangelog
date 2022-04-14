@@ -19,12 +19,11 @@
       <guid>https://cloudchangelog.com/posts/2022/04/13/</guid>
       <description>AWS Introducing the New AWS Partner Marketing Central Experience
 Announcements AWS Partner Network
- AWS AWS DataSync can now copy data to and from Amazon FSx for OpenZFS
- AWS Machine Learning Infrastructure for Commercial Real Estate Insights Platform
-Amazon Machine Learning AWS Partner Network
- AWS Build a data pipeline to automatically discover and mask PII data with AWS Glue DataBrew
-AWS Glue Databrew Technical How-To
- AWS Best practices to optimize data access performance from Amazon EMR and AWS Glue to Amazon S3</description>
+ AWS Amazon FSx for NetApp ONTAP Update – New Single-AZ Deployment Type
+Amazon Fsx For Netapp ONTAP Launch
+ AWS AWS Fargate now delivers faster scaling of applications
+ AWS Announcing the Amazon Chime SDK for JavaScript 3.0 and React Components 3.0
+ AWS Query your data streams interactively using Kinesis Data Analytics Studio and Python</description>
     </item>
     
     <item>
